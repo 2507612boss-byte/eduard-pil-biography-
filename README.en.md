@@ -1,14 +1,17 @@
-<div align="right">
-  <sup>View this page in: </sup>
-  <a href="README.md">Русский</a> |
-  <strong>English</strong>
-</div>
-<br>
-<div id="en" class="lang">...</div>
-<div align="center">
-  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+<!-- Русский язык -->
+<div id="ru" class="lang active">
+  <div align="right">
+    <sup>View this page in: </sup>
+    <strong>Русский</strong> |
+    <a href="README.en.md">English</a>
+  </div>
   <br>
-  <em>Eduard Pil — encyclopedic scientist, Doctor of Technical Sciences, Professor</em>
+  <div align="center">
+    <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+    <br>
+    <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
+  </div>
+  <!-- Здесь идёт текст на русском -->
 </div>
 
 # Eduard Anatolyevich Pil
