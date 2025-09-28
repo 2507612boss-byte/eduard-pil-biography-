@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
-  <br>
-  <em>Eduard Pil — encyclopedic scientist, Doctor of Technical Sciences, Professor</em>
-</div>
-<div align="right">
-  <sup>View this page in: </sup>
-  <a href="README.md">Русский</a> |
-  <strong>English</strong>
-</div>
+<img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Пиля" width="400">
 <br>
-<div id="en" class="lang">...</div>
+<em>Eduard Pil — encyclopedic scientist, Doctor of Technical Sciences, Professor</em>
+</div>
 
+function switchLang(lang) {
+  document.querySelectorAll('.lang').forEach(el => el.classList.remove('active'));
+  document.getElementById(lang).classList.add('active');
+}
+<script src="script.js"></script>
+**
 # Eduard Anatolyevich Pil
 
 **Eduard Anatolyevich Pil** (born 1950) is a Soviet and Russian encyclopedic scholar, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural Sciences (RAE). Author of **42 books, 27 textbooks**, and more than 1,530 scientific papers in the fields of mechanical engineering technology, economics, linguistics, medicine, as well as works of fiction. Recipient of numerous international and Russian awards, Honored Scientist and Educator of the RAE (2011). Record holder in the Russian Book of Records (2016) for scientific productivity. His monographs have been awarded the highest distinctions at leading international book exhibitions, fairs, and salons.
