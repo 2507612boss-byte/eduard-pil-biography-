@@ -47,7 +47,7 @@ Eduard Pil's scientific monographs have received highest recognition at the glob
 
 ### Public and International Recognition
 Scientific works of Eduard Pil have found response in the highest political and scientific circles of the world.
-*   **Recognition from Political Leaders:** Scientific monographs were presented as gifts to heads of state and governments, including the Administration of the President of Russia, chancelleries of monarchs and prime ministers of a number of countries. In response, official letters of gratitude were received, as well as **two personal postcards from the leader of the Cuban Revolution, Fidel Castro** (2012, 2014).
+*   **Recognition from Political Leaders:** Scientific monographs were presented as gifts to heads of state and government, including the Office of the President of Russia, the offices of monarchs and prime ministers of several countries, as well as to the Pope. In response, official letters of gratitude were received, as well as **two personal postcards from the leader of the Cuban Revolution, Fidel Castro** (2012, 2014).
 *   **Dialogue with Scientific Elite:** Eduard Anatolyevich maintains professional correspondence with Nobel Prize laureates in economics, discussing issues of his developed "Theory of Economic Crises."
 
 ## Scientific Legacy: 1,660 Works, Including 42 Books
@@ -66,6 +66,8 @@ A fundamental work presenting a complete development of the author's mathematica
 **3. Works on Applied Linguistics**
 Developed a formalized theory of the English language using graph theory.
 *   Pil E.A. English Letters and Calling. — St. Petersburg: REMO & Co., 2000.
+*   Pil E.A., Pil M.E. Idioms, Slang, Antonymus and Synonyms In One Book. —  St. Petersburg: РЕМО & Co., 2001.
+*   Pil E.A. Words for Everyday Topics. —  St. Petersburg: РЕМО & Co., 2010.  
 *   Pil E.A. Theory of the English Language // Open science 2.0. — USA, 2018.
 
 **4. Popular Science and Literary Works**
