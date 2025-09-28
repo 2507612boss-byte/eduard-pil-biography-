@@ -5,7 +5,6 @@
 </div>
 <br>
 <div id="en" class="lang">...</div>
-
 <div align="center">
   <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
   <br>
