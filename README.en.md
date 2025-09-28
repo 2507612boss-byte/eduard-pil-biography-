@@ -86,6 +86,9 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, te
 *   In 2016, he was officially entered into the Russian Book of Records in two categories:
     *   Publication of 87 scientific articles in one calendar year without co-authors.
     *   Publication of 13 scientific articles in a single collection without co-authors.
+ 
+      index.md
+    <script src="script.js"></script>
 
 ---
 *This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
