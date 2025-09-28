@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="Pil E.A..png" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+  <br>
+  <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
+</div>
 <div align="right">
   <sup>View this page in: </sup>
   <a href="README.md">Русский</a> |
