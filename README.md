@@ -1,4 +1,3 @@
-content="ZMBEYBN2m0x2KZHFzDw5PUXnSBecdy1lKJQTiDUVXn8" />
 <div align="right">
   <sup>View this page in: </sup>
   <strong>Русский</strong> |
