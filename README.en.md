@@ -87,7 +87,6 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, te
 
 ---
 *This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
-Не забудьте добавить кнопки в русскую версию (README.md). Вставьте этот код в самое начало файла, перед вашей фотографией и заголовком:
 
 markdown
 <div align="right">
