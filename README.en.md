@@ -81,11 +81,7 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, te
     *   Publication of 87 scientific articles in one calendar year without co-authors.
     *   Publication of 13 scientific articles in a single collection without co-authors.
  
-      index.md
-function switchLang(lang) {
-  document.querySelectorAll('.lang').forEach(el => el.classList.remove('active'));
-  document.getElementById(lang).classList.add('active');
-}
+    
     <script src="script.js"></script>
 
 ---
