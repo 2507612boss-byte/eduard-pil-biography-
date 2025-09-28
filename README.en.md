@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
-  <br>
-  <em>Eduard Pil — encyclopedic scientist, Doctor of Technical Sciences, Professor</em>
-</div>
 <div align="right">
   <sup>View this page in: </sup>
   <a href="README.md">Русский</a> |
@@ -10,6 +5,12 @@
 </div>
 <br>
 <div id="en" class="lang">...</div>
+
+<div align="center">
+  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+  <br>
+  <em>Eduard Pil — encyclopedic scientist, Doctor of Technical Sciences, Professor</em>
+</div>
 
 # Eduard Anatolyevich Pil
 
