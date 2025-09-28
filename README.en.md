@@ -16,7 +16,7 @@
 
 ## Biography: The Path of an Encyclopedic Scholar
 
-Eduard Anatolyevich Pil was born in 1950. In 1967, he entered a higher technical educational institution, graduating in 1973 with a specialization related to hydraulic turbines and automation. Alongside his engineering education, he completed advanced English language training at the State Courses of Foreign Languages, which laid the foundation for his future international scientific activities.
+Eduard Anatolyevich Pil was born in 1950. In 1967, he entered a higher technical educational institution, graduating in 1973 with a specialization related to hydraulic turbines and automation. Alongside his engineering studies, he pursued intensive English training at the two-year State Foreign Language Courses, building a foundation for his future international scientific career. 
 
 He began his scientific career in 1973 at research institutes, working on the development of technological processes for CNC (Computer Numerical Control) machines. From 1981 to 1996, he worked at the Leningrad Institute of Fine Mechanics and Optics (LITMO), advancing from senior engineer to senior researcher. He completed his postgraduate and doctoral studies here. During this period, his main scientific interests in the field of mechanical engineering technology were formed. In 1999, he successfully defended his doctoral dissertation on "Improving the Productivity of Machining Housing Parts on CNC Machines Based on Complexity Theory" at the St. Petersburg State Marine Technical University (SPbSMTU).
 
