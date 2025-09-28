@@ -1,3 +1,9 @@
+<div align="right">
+  <sup>View this page in: </sup>
+  <strong>Русский</strong> |
+  <a href="README.en.md">English</a>
+</div>
+<br>
 <div align="center">
   <img src="eduard-pil-photo.jpg " alt="Портрет Эдуарда Анатольевича Пиля" width="400">
   <br>
