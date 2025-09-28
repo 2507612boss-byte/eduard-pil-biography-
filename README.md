@@ -70,7 +70,7 @@
 **3. Работы по прикладной лингвистике**
 Разработал формализованную теорию английского языка с применением теории графов.
 *   Пиль Э.А. English Letters and Calling. — СПб.: РЕМО & Co., 2000.
-*   Пиль Э.А. Пиль М.Э. Idioms, Slang, Antonymus abd Synonyms In One Book. — СПб.: РЕМО & Co., 2001.
+*   Пиль Э.А. Пиль М.Э. Idioms, Slang, Antonymus and Synonyms In One Book. — СПб.: РЕМО & Co., 2001.
 *   Пиль Э.А. Words for Everyday Topics. — СПб.: РЕМО & Co., 2010.
 *   Pil E.A. Theory of the English Language // Open science 2.0. — USA, 2018.
 
