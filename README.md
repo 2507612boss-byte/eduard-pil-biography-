@@ -1,14 +1,10 @@
-<meta name="google-site-verification" content="ZMBEYBN2m0x2KZHFzDw5PUXnSBecdy1lKJQTiDUVXn8" />
-<div align="right">
-  <sup>View this page in: </sup>
-  <strong>Русский</strong> |
-  <a href="README.en.md">English</a>
-</div>
-<br>
-<div align="center">
-  <img src="eduard-pil-photo.jpg " alt="Портрет Эдуарда Анатольевича Пиля" width="400">
-  <br>
-  <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
+<div id="ru" class="lang active">
+  <div align="center">
+    <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Пиля" width="400">
+    <br>
+    <em>Эдуард Пиль — энциклопедический учёный, доктор технических наук, профессор</em>
+  </div>
+  <!-- Текст на русском -->
 </div>
 
 ### Эдуард Анатольевич Пиль
