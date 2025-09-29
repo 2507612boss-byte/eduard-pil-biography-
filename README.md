@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
+
 <div align="right">
   <sup>View this page in: </sup>
   <strong>Русский</strong> |
