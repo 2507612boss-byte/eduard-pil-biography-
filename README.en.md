@@ -75,8 +75,8 @@ Developed a formalized theory of the English language using graph theory.
 *   Pil E.A. Theory of the English Language // Open science 2.0. — USA, 2018.
 
 **4. Popular Science and Literary Works**
-*   Pil E.A. "Longevity and Nutrition" (in 8 volumes).
 *   Pil E.A. "Your Health from A to Z (Health Encyclopedia)". — St. Petersburg, 2010.
+*   Pil E.A. "Longevity and Nutrition" (in 8 volumes). — St. Petersburg, 2022.
 *   Pil E.A. "One Day in the Life of Stepashka, a Petersburg Crucian Carp". — St. Petersburg, 2022.
 *   Pil E.A. "The Life of Holy Rus'". — St. Petersburg: NITs ART, 2025.
 
