@@ -81,7 +81,7 @@ Developed a formalized theory of the English language using graph theory.
 *   Pil E.A. "The Life of Holy Rus'". — St. Petersburg: NITs ART, 2025.
 
 ## Worldwide Fame: Presentations on 5 Continents
-E.A. Pil's monographs were presented at the world's largest book exhibitions, testifying to the international recognition of his works:
+E.A. Pil's monographs were presented at the world's largest book exhibitions, fairs, and salons testifying to the international recognition of his works:
 *   **Europe:** London (UK), Frankfurt am Main (Germany), Paris (France), Barcelona, Madrid (Spain), Vienna (Austria), Prague (Czech Republic).
 *   **Asia:** Beijing (China), Hong Kong (China), Astana (Kazakhstan), Istanbul (Turkey), New Delhi (India).
 *   **America:** New York (USA).
