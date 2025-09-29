@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
+
 <!-- Английский язык -->
 <div id="en" class="lang">
   <div align="right">
