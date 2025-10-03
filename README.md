@@ -102,18 +102,13 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Компактная галерея дипломов и книг</title>
+<title>Полная галерея дипломов</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { 
-  display: flex; 
-  flex-wrap: wrap; 
-  gap: 8px; /* расстояние между миниатюрами */
-  justify-content: flex-start; 
-}
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
 .gallery img {
-  width: 100px; /* ещё более компактные миниатюры */
+  width: 100px; /* компактные миниатюры */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -125,9 +120,10 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 </head>
 <body>
 
-<h2>Компактная галерея дипломов и книг</h2>
+<h2>Галерея дипломов</h2>
 
 <div class="gallery">
+  <!-- Пример первых 14 дипломов -->
   <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Мои книги (2025)">
     <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)" width="100">
   </a>
@@ -170,6 +166,8 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
   <a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" data-lightbox="diplomas" data-title="Союз писателей">
     <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Союз писателей" width="100">
   </a>
+
+  <!-- Далее добавляйте остальные дипломы, просто копируя блок <a> с <img> и меняя путь и alt/title -->
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
