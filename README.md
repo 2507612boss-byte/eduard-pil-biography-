@@ -121,6 +121,9 @@
 <body>
 
 <div class="gallery">
+  <a href="images/diplomas/НОВАЯ_КАРТИНКА.jpg" data-lightbox="diplomas" data-title="Название диплома/книги">
+  <img src="images/diplomas/НОВАЯ_КАРТИНКА.jpg" alt="Название диплома/книги" width="120">
+</a>
   <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Мои книги (2025)">
     <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)" width="120">
   </a>
