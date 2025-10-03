@@ -165,6 +165,7 @@ img.mini:hover { transform: scale(1.05); }
 
 
 <h2>Книги по технологии</h2>
+<h2>Книги по технологии</h2>
 <div class="gallery">
   <a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
     <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)" class="mini">
@@ -180,8 +181,6 @@ img.mini:hover { transform: scale(1.05); }
   </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
 </html>
 
 </html>
