@@ -108,7 +108,8 @@
     body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
     .gallery { display: flex; flex-wrap: wrap; gap: 10px; }
     .gallery img {
-      width: 150px;
+      width: 150px;   /* ← настоящая миниатюра */
+      height: auto;
       border: 1px solid #ccc;
       border-radius: 5px;
       transition: transform 0.2s;
@@ -131,12 +132,10 @@
   <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="Профессор РАЕ">
     <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ">
   </a>
-  <!-- остальные дипломы аналогично -->
+  <!-- и так далее для всех дипломов -->
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
-
 *Эта страница является постоянно обновляемой биографией Эдуарда Анатольевича Пиля. Последнее обновление: 2025 год.*
