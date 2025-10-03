@@ -168,29 +168,35 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 <h2>Книги по технологии</h2>
+<!-- CSS для миниатюр -->
 <style>
-/* Общий стиль для миниатюр */
 img.mini {
   width: 100px;      /* размер миниатюр */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
   cursor: zoom-in;
-  transition
+  transition: transform 0.2s;
+  margin: 5px;       /* отступы между миниатюрами */
+}
+img.mini:hover {
+  transform: scale(1.1); /* эффект при наведении */
+}
+</style>
 
-
+<!-- Галерея -->
 <div class="gallery">
   <a href="images/technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
-    <img src="images/technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)">
+    <img src="images/technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)" class="mini">
   </a>
   <a href="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="technology" data-title="Обработка деталей CNC/FMC (1998)">
-    <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей CNC/FMC (1998)">
+    <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей CNC/FMC (1998)" class="mini">
   </a>
   <a href="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
-    <img src="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)">
+    <img src="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" class="mini">
   </a>
   <a href="images/technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
-    <img src="images/technology/P2_04_book_CARS_2009.jpg" alt="CARS (2009)">
+    <img src="images/technology/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" class="mini">
   </a>
 </div>
 
