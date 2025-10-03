@@ -97,6 +97,7 @@
 ---
 ### Папка 1: Основные дипломы
 # Дипломы и Сертификаты
+Ниже представлены мои достижения, награды и дипломы. Клик по изображению откроет его в полном размере.
 <a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" target="_blank">
   <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" width="150">
 </a>
@@ -139,8 +140,6 @@
 <a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" target="_blank">
   <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" width="150">
 </a>
-Ниже представлены мои достижения, награды и дипломы. Клик по изображению откроет его в полном размере.
-
 ---
 
 
