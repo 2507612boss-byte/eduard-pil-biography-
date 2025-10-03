@@ -102,87 +102,74 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Галерея дипломов</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet">
+<title>Полнаягалереядипломов</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
-body {
-    font-family: sans-serif;
-    background: #f9f9f9;
-    margin: 20px;
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
 }
-h2 {
-    text-align: center;
-}
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: center;
-}
-.gallery a img {
-    width: 120px;
-    height: auto;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    cursor: zoom-in;
-    transition: transform 0.2s;
-}
-.gallery a img:hover {
-    transform: scale(1.05);
-}
+.gallery img:hover { transform: scale(1.05); }
 </style>
 </head>
 <body>
 
-<h2>Галерея дипломов — Основные</h2>
+<h2>Галереядипломов</h2>
 
-<div class="gallery">
-  <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Мои книги (2025)">
-    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)">
-  </a>
-  <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Диплом д.т.н. (2000)">
-    <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Диплом д.т.н. (2000)">
-  </a>
-  <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="Диплом профессора РАЕ (2012)">
-    <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Диплом профессора РАЕ (2012)">
-  </a>
-  <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="Диплом членкора МАН ВШ (2000)">
-    <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="Диплом членкора МАН ВШ (2000)">
-  </a>
-  <a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" data-lightbox="diplomas" data-title="Диплом членкора РАЕ (2011)">
-    <img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="Диплом членкора РАЕ (2011)">
-  </a>
-  <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Диплом Заслуженного деятеля науки и образования (2011)">
-    <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Диплом Заслуженного деятеля науки и образования (2011)">
-  </a>
-  <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="Диплом Академика РАЕ (2016)">
-    <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="Диплом Академика РАЕ (2016)">
-  </a>
-  <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" data-lightbox="diplomas" data-title="Диплом Золотая кафедра России (2011)">
-    <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Диплом Золотая кафедра России (2011)">
-  </a>
-  <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Diploma of Life Fellowship — Cambridge, England (2007)">
-    <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" alt="Diploma of Life Fellowship — Cambridge, England (2007)">
-  </a>
-  <a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Диплом выдающегося учёного 21 века — Cambridge, England (2007)">
-    <img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" alt="Диплом выдающегося учёного 21 века — Cambridge, England (2007)">
-  </a>
-  <a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" data-lightbox="diplomas" data-title="Диплом к Золотой медали, USA (2008)">
-    <img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Диплом к Золотой медали, USA (2008)">
-  </a>
-  <a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" data-lightbox="diplomas" data-title="Сертификат Лиги Интеллектуалов (2021)">
-    <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="Сертификат Лиги Интеллектуалов (2021)">
-  </a>
-  <a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" data-lightbox="diplomas" data-title="Диплом за развитие мировой экономической науки (2016)">
-    <img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Диплом за развитие мировой экономической науки (2016)">
-  </a>
-  <a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" data-lightbox="diplomas" data-title="Сертификат члена Союза писателей (2022)">
-    <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Сертификат члена Союза писателей (2022)">
-  </a>
+<divclass="gallery">
+<!-- Пример первых 14 дипломов -->
+<a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Моикниги (2025)">
+<img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Моикниги (2025)" width="100">
+</a>
+<a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
+<img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." width="100">
+</a>
+<a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="ПрофессорРАЕ">
+<img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="ПрофессорРАЕ" width="100">
+</a>
+<a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="МАНВШ">
+<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАНВШ" width="100">
+</a>
+<a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" data-lightbox="diplomas" data-title="РАЕ">
+<img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="РАЕ" width="100">
+</a>
+<a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Заслуженныйдеятель">
+<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженныйдеятель" width="100">
+</a>
+<a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="АкадемикРАЕ">
+<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="АкадемикРАЕ" width="100">
+</a>
+<a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" data-lightbox="diplomas" data-title="Золотаякафедра">
+<img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Золотаякафедра" width="100">
+</a>
+<a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Life Fellowship">
+<img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" alt="Life Fellowship" width="100">
+</a>
+<a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Выдающийучёный">
+<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" alt="Выдающийучёный" width="100">
+</a>
+<a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" data-lightbox="diplomas" data-title="Золотаямедаль USA">
+<img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Золотаямедаль USA" width="100">
+</a>
+<a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" data-lightbox="diplomas" data-title="ЛигаИнтеллектуалов">
+<img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="ЛигаИнтеллектуалов" width="100">
+</a>
+<a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" data-lightbox="diplomas" data-title="Мироваяэкономика">
+<img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Мироваяэкономика" width="100">
+</a>
+<a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" data-lightbox="diplomas" data-title="Союзписателей">
+<img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Союзписателей" width="100">
+</a>
+
+<!-- Далее добавляйте остальные дипломы, просто копируя блок <a> с <img> и меняя путь и alt/title -->
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-<img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" width="120">
-*Сертификат члена Союза писателей (2022)*
