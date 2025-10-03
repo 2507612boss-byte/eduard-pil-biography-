@@ -168,7 +168,16 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 <h2>Книги по технологии</h2>
-<h2>Книги по технологии</h2>
+<style>
+/* Общий стиль для миниатюр */
+img.mini {
+  width: 100px;      /* размер миниатюр */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition
+
 
 <div class="gallery">
   <a href="images/technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
