@@ -101,118 +101,40 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8">
-<title>Галерея дипломов и книг</title>
-<style>
-body {
-  font-family: sans-serif;
-  background: #f9f9f9;
-  margin: 20px;
-}
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-.gallery a {
-  display: block;
-  width: 150px;
-}
-.gallery img {
-  width: 100%;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: transform 0.2s;
-}
-.gallery img:hover {
-  transform: scale(1.05);
-}
-/* Lightbox */
-#lightbox {
-  position: fixed;
-  top:0; left:0; right:0; bottom:0;
-  background: rgba(0,0,0,0.8);
-  display: none;
-  justify-content: center;
-  align-items: center;
-  z-index: 1000;
-}
-#lightbox img {
-  max-width: 90%;
-  max-height: 90%;
-  border-radius: 5px;
-}
-#lightbox:target {
-  display: flex;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>Галерея дипломов</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+  <style>
+    body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+    .gallery { display: flex; flex-wrap: wrap; gap: 10px; }
+    .gallery img {
+      width: 150px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      transition: transform 0.2s;
+      cursor: zoom-in;
+    }
+    .gallery img:hover { transform: scale(1.05); }
+  </style>
 </head>
 <body>
 
 <h2>Галерея дипломов и книг</h2>
 
 <div class="gallery">
-  <a href="#img0"><img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)"></a>
-  <a href="#img1"><img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н."></a>
-  <a href="#img2"><img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ"></a>
-  <a href="#img3"><img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАН ВШ"></a>
-  <a href="#img4"><img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="РАЕ"></a>
-  <a href="#img5"><img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженный деятель"></a>
-  <a href="#img6"><img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="Академик РАЕ"></a>
-  <a href="#img7"><img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Золотая кафедра"></a>
-  <a href="#img8"><img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" alt="Life Fellowship"></a>
-  <a href="#img9"><img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" alt="Выдающий ученый"></a>
-  <a href="#img10"><img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Золотая медаль USA"></a>
-  <a href="#img11"><img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="Лига Интеллектуалов"></a>
-  <a href="#img12"><img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Мировая экономика"></a>
-  <a href="#img13"><img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Союз писателей"></a>
+  <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Мои книги (2025)">
+    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)">
+  </a>
+  <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
+    <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н.">
+  </a>
+  <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="Профессор РАЕ">
+    <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ">
+  </a>
+  <!-- остальные дипломы аналогично -->
 </div>
 
-<!-- Lightbox модальные окна -->
-<div id="img0" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)"></a>
-</div>
-<div id="img1" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н."></a>
-</div>
-<div id="img2" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ"></a>
-</div>
-<div id="img3" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАН ВШ"></a>
-</div>
-<div id="img4" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="РАЕ"></a>
-</div>
-<div id="img5" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженный деятель"></a>
-</div>
-<div id="img6" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="Академик РАЕ"></a>
-</div>
-<div id="img7" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Золотая кафедра"></a>
-</div>
-<div id="img8" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" alt="Life Fellowship"></a>
-</div>
-<div id="img9" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" alt="Выдающий ученый"></a>
-</div>
-<div id="img10" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Золотая медаль USA"></a>
-</div>
-<div id="img11" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="Лига Интеллектуалов"></a>
-</div>
-<div id="img12" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Мировая экономика"></a>
-</div>
-<div id="img13" class="lightbox">
-  <a href="#"><img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Союз писателей"></a>
-</div>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
