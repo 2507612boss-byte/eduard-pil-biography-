@@ -101,7 +101,6 @@
 Ниже представлены мои достижения, награды и дипломы. Клик по изображению откроет его в полном размере.
 
 ---
-
 [![Мои книги (2025)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg)  
 **Мои книги (2025)**
 
@@ -143,6 +142,7 @@
 
 [![Сертификат член союза писателей (2022)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg)  
 **Сертификат член союза писателей (2022)**
+
 
 
 *Эта страница является постоянно обновляемой биографией Эдуарда Анатольевича Пиля. Последнее обновление: 2025 год.*
