@@ -104,8 +104,8 @@
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-  width: 100px; /* компактные миниатюры */
+img.mini {
+  width: 100px;      /* размер миниатюр */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -113,7 +113,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
   transition: transform 0.2s;
   margin: 5px;
 }
-.gallery img:hover { transform: scale(1.05); }
+img.mini:hover { transform: scale(1.05); }
 </style>
 </head>
 <body>
@@ -121,64 +121,69 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <h2>Папка 1: Основные дипломы</h2>
 <div class="gallery">
   <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.jpg" data-lightbox="diplomas" data-title="Мои книги (2025)">
-    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.jpg" alt="Мои книги (2025)">
+    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.jpg" alt="Мои книги (2025)" class="mini">
   </a>
   <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
-    <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н.">
+    <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." class="mini">
   </a>
   <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="Профессор РАЕ">
-    <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ">
+    <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ" class="mini">
   </a>
   <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.jpg" data-lightbox="diplomas" data-title="МАН ВШ">
-    <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.jpg" alt="МАН ВШ">
+    <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.jpg" alt="МАН ВШ" class="mini">
   </a>
   <a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" data-lightbox="diplomas" data-title="РАЕ">
-    <img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="РАЕ">
+    <img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="РАЕ" class="mini">
   </a>
   <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель науки и образования">
-    <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженный деятель науки и образования">
+    <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженный деятель науки и образования" class="mini">
   </a>
   <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.jpg" data-lightbox="diplomas" data-title="Академик РАЕ">
-    <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.jpg" alt="Академик РАЕ">
+    <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.jpg" alt="Академик РАЕ" class="mini">
   </a>
   <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" data-lightbox="diplomas" data-title="Золотая кафедра России">
-    <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Золотая кафедра России">
+    <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Золотая кафедра России" class="mini">
   </a>
   <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.jpg" data-lightbox="diplomas" data-title="Life Fellowship, Cambridge (2007)">
-    <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.jpg" alt="Life Fellowship, Cambridge (2007)">
+    <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.jpg" alt="Life Fellowship, Cambridge (2007)" class="mini">
   </a>
   <a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.jpg" data-lightbox="diplomas" data-title="Выдающий ученый, Cambridge (2007)">
-    <img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.jpg" alt="Выдающий ученый, Cambridge (2007)">
+    <img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.jpg" alt="Выдающий ученый, Cambridge (2007)" class="mini">
   </a>
   <a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" data-lightbox="diplomas" data-title="Золотая медаль USA (2008)">
-    <img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Золотая медаль USA (2008)">
+    <img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Золотая медаль USA (2008)" class="mini">
   </a>
   <a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов (2021)">
-    <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="Лига Интеллектуалов (2021)">
+    <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="Лига Интеллектуалов (2021)" class="mini">
   </a>
   <a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" data-lightbox="diplomas" data-title="Мировая экономика (2016)">
-    <img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Мировая экономика (2016)">
+    <img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Мировая экономика (2016)" class="mini">
   </a>
   <a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg.jpg" data-lightbox="diplomas" data-title="Союз писателей (2022)">
-    <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.jpg" alt="Союз писателей (2022)">
+    <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.jpg" alt="Союз писателей (2022)" class="mini">
   </a>
 </div>
 
 <h2>Книги по технологии</h2>
 <div class="gallery">
   <a href="images/technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
-    <img src="images/technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)">
+    <img src="images/technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)" class="mini">
   </a>
   <a href="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="technology" data-title="Обработка деталей CNC/FMC (1998)">
-    <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей CNC/FMC (1998)">
+    <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей CNC/FMC (1998)" class="mini">
   </a>
   <a href="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
-    <img src="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)">
+    <img src="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" class="mini">
   </a>
   <a href="images/technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
-    <img src="images/technology/P2_04_book_CARS_2009.jpg" alt="CARS (2009)">
+    <img src="images/technology/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" class="mini">
   </a>
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
