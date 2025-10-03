@@ -121,7 +121,6 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <body>
 
 <h2>Галерея дипломов</h2>
-
 <div class="gallery">
   <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Мои книги (2025)">
     <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)" width="120">
@@ -166,7 +165,3 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
     <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Сертификат члена Союза писателей (2022)" width="120">
   </a>
 </div>
-
-
-
-*Эта страница является постоянно обновляемой биографией Эдуарда Анатольевича Пиля. Последнее обновление: 2025 год.*
