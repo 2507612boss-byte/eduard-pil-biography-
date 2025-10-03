@@ -186,8 +186,8 @@ img.mini:hover {
 
 <!-- Галерея -->
 <div class="gallery">
-  <a href="images/technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
-    <img src="images/technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)" class="mini">
+  [![САПР (1993)](images/technology/P2_01_book_sapr_1993.jpg)](images/technology/P2_01_book_sapr_1993.jpg)  
+САПР (1993)
   </a>
   <a href="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="technology" data-title="Обработка деталей CNC/FMC (1998)">
     <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей CNC/FMC (1998)" class="mini">
