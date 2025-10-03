@@ -97,25 +97,51 @@
 ---
 ### Папка 1: Основные дипломы
 # Дипломы и Сертификаты
-
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" width="150">
+</a>
+<a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" target="_blank">
+  <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" width="150">
+</a>
 Ниже представлены мои достижения, награды и дипломы. Клик по изображению откроет его в полном размере.
 
 ---
-[![Мои книги (2025)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg.JPG)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_00_moi_knigi_2025.jpg.JPG)
-[![Д.т.н.](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg)
-[![Профессор РАЕ](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg)
-[![МАН ВШ](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG)
-[![РАЕ](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg)
-[![Заслуженный деятель](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg)
-[![Академик РАЕ](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG)
-[![Золотая кафедра](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg)
-[![Life Fellowship](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG)
-[![Выдающий учёный](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG)
-[![Золотая медаль USA](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg)
-[![Лига Интеллектуалов](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg)
-[![Мировая экономика](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg)
-[![Союз писателей](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG)](https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG)
-
 
 
 *Эта страница является постоянно обновляемой биографией Эдуарда Анатольевича Пиля. Последнее обновление: 2025 год.*
