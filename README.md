@@ -161,8 +161,8 @@ img.mini:hover { transform: scale(1.05); }
   </a>
   <a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.jpg" data-lightbox="diplomas" data-title="Союз писателей (2022)">
     <img src="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/diplomas/P1_13_sertifikat_souza_2022.jpg.jpg" alt="Союз писателей (2022)" class="mini">
-  </a>
-</div>
+  </
+
 
 <h2>Книги по технологии</h2>
 <div class="gallery">
