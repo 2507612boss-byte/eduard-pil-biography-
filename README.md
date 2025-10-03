@@ -122,51 +122,44 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 
 <h2>Галерея дипломов</h2>
 
-<div class="gallery">
-  <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Мои книги (2025)">
-    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)">
-  </a>
-  <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Диплом д.т.н. (2000)">
-    <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Диплом д.т.н. (2000)">
-  </a>
-  <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="Диплом профессора РАЕ (2012)">
-    <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Диплом профессора РАЕ (2012)">
-  </a>
-  <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="Диплом членкора МАН ВШ (2000)">
-    <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="Диплом членкора МАН ВШ (2000)">
-  </a>
-  <a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" data-lightbox="diplomas" data-title="Диплом членкора РАЕ (2011)">
-    <img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="Диплом членкора РАЕ (2011)">
-  </a>
-  <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Диплом Заслуженного деятеля науки и образования (2011)">
-    <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Диплом Заслуженного деятеля науки и образования (2011)">
-  </a>
-  <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="Диплом Академика РАЕ (2016)">
-    <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="Диплом Академика РАЕ (2016)">
-  </a>
-  <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" data-lightbox="diplomas" data-title="Диплом Золотая кафедра России (2011)">
-    <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Диплом Золотая кафедра России (2011)">
-  </a>
-  <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Diploma of Life Fellowship — Cambridge, England (2007)">
-    <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" alt="Diploma of Life Fellowship — Cambridge, England (2007)">
-  </a>
-  <a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Диплом выдающегося учёного 21 века — Cambridge, England (2007)">
-    <img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" alt="Диплом выдающегося учёного 21 века — Cambridge, England (2007)">
-  </a>
-  <a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" data-lightbox="diplomas" data-title="Диплом к Золотой медали, USA (2008)">
-    <img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Диплом к Золотой медали, USA (2008)">
-  </a>
-  <a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" data-lightbox="diplomas" data-title="Сертификат Лиги Интеллектуалов (2021)">
-    <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="Сертификат Лиги Интеллектуалов (2021)">
-  </a>
-  <a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" data-lightbox="diplomas" data-title="Диплом за развитие мировой экономической науки (2016)">
-    <img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Диплом за развитие мировой экономической науки (2016)">
-  </a>
-  <a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" data-lightbox="diplomas" data-title="Сертификат члена Союза писателей (2022)">
-    <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Сертификат члена Союза писателей (2022)">
-  </a>
-</div>
+<img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" width="120">
+*Мои книги (2025)*
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
-</body>
-</html>
+<img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" width="120">
+*Диплом д.т.н. (2000)*
+
+<img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" width="120">
+*Диплом профессора РАЕ (2012)*
+
+<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" width="120">
+*Диплом членкора МАН ВШ (2000)*
+
+<img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" width="120">
+*Диплом членкора РАЕ (2011)*
+
+<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" width="120">
+*Диплом Заслуженного деятеля науки и образования (2011)*
+
+<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" width="120">
+*Диплом Академика РАЕ (2016)*
+
+<img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" width="120">
+*Диплом Золотая кафедра России (2011)*
+
+<img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" width="120">
+*Diploma of Life Fellowship — Cambridge, England (2007)*
+
+<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" width="120">
+*Диплом выдающегося учёного 21 века — Cambridge, England (2007)*
+
+<img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" width="120">
+*Диплом к Золотой медали, USA (2008)*
+
+<img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" width="120">
+*Сертификат Лиги Интеллектуалов (2021)*
+
+<img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" width="120">
+*Диплом за развитие мировой экономической науки (2016)*
+
+<img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" width="120">
+*Сертификат члена Союза писателей (2022)*
