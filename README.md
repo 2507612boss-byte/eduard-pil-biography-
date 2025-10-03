@@ -167,6 +167,22 @@ width: 100px; /* компактныеминиатюры */
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Союзписателей" width="100">
 </a>
 
+<h2>Книги по технологии</h2>
+
+<div class="gallery">
+  <a href="images/technology/P2_01_book_sapr_1993.jpg.JPG.JPG" data-lightbox="technology" data-title="САПР (1993)">
+    <img src="images/technology/P2_01_book_sapr_1993.jpg.JPG.JPG" alt="САПР (1993)" width="120">
+  </a>
+  <a href="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg.JPG.JPG" data-lightbox="technology" data-title="Обработка деталей CNC/FMC (1998)">
+    <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg.JPG.JPG" alt="Обработка деталей CNC/FMC (1998)" width="120">
+  </a>
+  <a href="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg.JPG.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
+    <img src="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg.JPG.jpg" alt="Теория обработки корпусных деталей (2003)" width="120">
+  </a>
+  <a href="images/technology/P2_04_book_CARS_2009.jpg.JPG.jpg" data-lightbox="technology" data-title="CARS (2009)">
+    <img src="images/technology/P2_04_book_CARS_2009.jpg.JPG.jpg" alt="CARS (2009)" width="120">
+  </a>
+</div>
 <!-- Далее добавляйте остальные дипломы, просто копируя блок <a> с <img> и меняя путь и alt/title -->
 </div>
 
