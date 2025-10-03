@@ -168,35 +168,45 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 <h2>Книги по технологии</h2>
-<!-- CSS для миниатюр -->
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Галерея книг по технологии</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
-img.mini {
-  width: 100px;      /* размер миниатюр */
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+  width: 100px; /* компактные миниатюры */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
   cursor: zoom-in;
   transition: transform 0.2s;
-  margin: 5px;       /* отступы между миниатюрами */
 }
-img.mini:hover {
-  transform: scale(1.1); /* эффект при наведении */
-}
+.gallery img:hover { transform: scale(1.05); }
 </style>
+</head>
+<body>
 
-<!-- Галерея -->
+<h2>Книги по технологии</h2>
+
 <div class="gallery">
-  [![САПР (1993)](images/technology/P2_01_book_sapr_1993.jpg)](images/technology/P2_01_book_sapr_1993.jpg)  
-САПР (1993)
+  <a href="images/technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
+    <img src="images/technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)">
   </a>
   <a href="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="technology" data-title="Обработка деталей CNC/FMC (1998)">
-    <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей CNC/FMC (1998)" class="mini">
+    <img src="images/technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей CNC/FMC (1998)">
   </a>
   <a href="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
-    <img src="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" class="mini">
+    <img src="images/technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)">
   </a>
   <a href="images/technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
-    <img src="images/technology/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" class="mini">
+    <img src="images/technology/P2_04_book_CARS_2009.jpg" alt="CARS (2009)">
   </a>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
