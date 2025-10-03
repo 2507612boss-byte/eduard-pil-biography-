@@ -122,19 +122,18 @@
 
 <div class="gallery">
   <a href="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" data-lightbox="diplomas" data-title="Мои книги (2025)">
-    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)" width="150">
+    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Мои книги (2025)" width="120">
   </a>
   <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
-    <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." width="150">
+    <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." width="120">
   </a>
   <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="Профессор РАЕ">
-    <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ" width="150">
+    <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ" width="120">
   </a>
   <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="МАН ВШ">
-    <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАН ВШ" width="150">
+    <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАН ВШ" width="120">
   </a>
-  <!-- остальные дипломы в таком же формате -->
-</div>
+  <!-- остальные дипломы так же -->
 
 
 
