@@ -216,3 +216,50 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Книгипомедицине</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Книги по медицине</h2>
+
+<divclass="Medical">
+<!-- Пример первых 4 книг -->
+<a href="Medicaly/P3_01_book_health_2010.jpg" data-lightbox="Medical" data-title="Ваше здоровье от А до Я (2010))">
+<img src="Medical/P3_01_book_health_2010.jpg" alt="Ваше здоровье от А до Я (2010)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание (2022)">
+<img src="MedicalP3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание (2022)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
