@@ -251,7 +251,7 @@ width: 100px; /* компактныеминиатюры */
 <divclass="Medical">
 <!-- Пример первых 2 книг -->
 <a href="Medicaly/P3_01_book_health_2010.jpg" data-lightbox="Medical" data-title="Ваше здоровье от А до Я (2010)">
-<img src="Medical/P3_01_book_health_2010.jpgg" alt="Ваше здоровье от А до Я (2010)" width="100">
+<img src="Medical/P3_01_book_health_2010.jpg" alt="Ваше здоровье от А до Я (2010)" width="100">
 </a>
 <a href="Medical/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание (2022)">
 <img src="Medical/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание (2022)" width="100">
