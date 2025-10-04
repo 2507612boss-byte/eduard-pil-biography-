@@ -218,12 +218,6 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -262,4 +256,106 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Книгипотехнологии</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Книги по технологии</h2>
+
+<divclass="technology">
+<!-- Пример первых 4 книг -->
+<a href="technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
+<img src="technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)" width="100">
+</a>
+<a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="technology" data-title="Обработка деталей на станкх с ЧПУ и ГПС (1998)">
+<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей на станкх с ЧПУ и ГПС (1998)" width="100">
+</a>
+<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
+<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
+</a>
+<a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
+<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Книгипоэкономике</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Книги по экономике</h2>
+
+<divclass=economy"">
+<!-- Пример первых 5 книг -->
+<a href="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)">
+<img src="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)" width="100">
+</a>
+<a href="economy/P4_02_book_anal_VVP_nasel_stran_2012.jpg" data-lightbox="economy" data-title="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030  (2012)">
+<img src="economy/P4_02_book_anal_VVP_nasel_stran_2012.jpg" alt="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030 (2012)" width="100">
+</a>
+<a href="economy/P4_03_book_teor_econ_cris_V6_2024.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 6 (2024)">
+<img src="economy/P4_03_book_teor_econ_cris_V6_2024.jpg" alt="Теория экономических кризисов Том 6 (2024)" width="100">
+</a>
+<a href="economy/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="economy" data-title="Theory of Economic Crises Vol 1 (2020)">
+<img src="economyP4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol 1 (2020)" width="100">
+</a>
+<a href="economy/P4_05_book_nast_kniga_2025.jpg" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
+<img src="economy/P4_05_book_nast_kniga_2025.jpg" alt="Настольная книга экономиста (2025)" width="100">
+</a>
+
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
