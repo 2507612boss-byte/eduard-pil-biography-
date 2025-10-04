@@ -117,7 +117,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Галереядипломов</h2>
+<h2>Галерея дипломов</h2>
 
 <divclass="gallery">
 <!-- Пример первых 14 дипломов -->
@@ -172,9 +172,46 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Книгипотехнологии</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
 
 <h2>Книги по технологии</h2>
+
+<divclass="technology">
+<!-- Пример первых 4 книг -->
+<a href="technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
+<img src="technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)" width="100">
+</a>
+<a href="technology/P1_02_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
+<img src="images/diplomas/P1_02_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." width="100">
+</a>
+<a href="images/diplomas/P1_03_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="ПрофессорРАЕ">
+<img src="images/diplomas/P1_03_diplom_prof_rae_2012.jpg.jpg" alt="ПрофессорРАЕ" width="100">
+</a>
+<a href="images/diplomas/P1_04_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="МАНВШ">
+<img src="images/diplomas/P1_04_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАНВШ" width="100">
+</a>
+
+
 <h2>Книги по технологии</h2>
 <div class="gallery">
   <a href="https://raw.githubusercontent.com/2507612boss-byte/eduard-pil-biography-/main/images/technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
