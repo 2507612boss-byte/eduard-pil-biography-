@@ -339,7 +339,7 @@ width: 100px; /* компактныеминиатюры */
 <img src="economy/P4_03_book_teor_econ_cris_V6_2024.jpg" alt="Теория экономических кризисов Том 6 (2024)" width="100">
 </a>
 <a href="economy/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="economy" data-title="Theory of Economic Crises Vol 1 (2020)">
-<img src="economyP4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol 1 (2020)" width="100">
+<img src="economy/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol 1 (2020)" width="100">
 </a>
 <a href="economy/P4_05_book_nast_kniga_2025.jpg" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
 <img src="economy/P4_05_book_nast_kniga_2025.jpg" alt="Настольная книга экономиста (2025)" width="100">
