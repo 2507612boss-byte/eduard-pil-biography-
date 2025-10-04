@@ -201,15 +201,14 @@ width: 100px; /* компактныеминиатюры */
 <a href="technology/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="САПР (1993)">
 <img src="technology/P2_01_book_sapr_1993.jpg" alt="САПР (1993)" width="100">
 </a>
-<a href="technology/P1_02_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
-<img src="images/diplomas/P1_02_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." width="100">
+<a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="technology" data-title="Обработка деталей на станкх с ЧПУ и ГПС (1998)">
+<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Обработка деталей на станкх с ЧПУ и ГПС (1998)" width="100">
 </a>
-<a href="images/diplomas/P1_03_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="ПрофессорРАЕ">
-<img src="images/diplomas/P1_03_diplom_prof_rae_2012.jpg.jpg" alt="ПрофессорРАЕ" width="100">
+<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="diplomas" data-title="Теория обработки корпусных деталей (2003)">
+<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
 </a>
-<a href="images/diplomas/P1_04_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="МАНВШ">
-<img src="images/diplomas/P1_04_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАНВШ" width="100">
-</a>
+<a href=technology/P2_04_book_CARS_2009.jpg" data-lightbox="diplomas" data-title="Автомобили (2009)">
+<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
 
 
 <h2>Книги по технологии</h2>
