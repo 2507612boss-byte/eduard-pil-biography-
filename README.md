@@ -441,6 +441,7 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -480,4 +481,67 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Биография</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Биография</h2>
+
+<divclass=english"">
+<!-- Пример первых 7 источников -->
+<a href="biography/P8_01_book_outstand_2010.jpg" data-lightbox="biography" data-title="2000 Outstanding Scientists (2010)">
+<img src="biography/P8_01_book_outstand_2010.jpg" alt="2000 Outstanding Scientists (2010))" width="100">
+<a href="biography/P8_02_book_abi_2011.jpg" data-lightbox="biography" data-title="Biography Proof (2011)">
+<img src="biography/P8_02_book_abi_2011.jpg" alt="Biography Proof (2011)" width="100">
+</a>
+
+<a href="biography/P8_03_book_who_2012.jpg" data-lightbox="biography" data-title="Who Is Who В России (2012)">
+<img src="biography/P8_03_book_who_2012.jpg" alt=Who Is Who В России (2012))" width="100">
+<a href="biography/P8_04_book_pgup1_2002.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)">
+<img src="biography/P8_04_book_pgup1_2002.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)" width="100">
+</a>
+
+
+<a href="biographyP8_05_book_pgup2_2009.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011)">
+<img src="biography/P8_05_book_pgup2_2009.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011))" width="100">
+<a href="biography/P8_06_book_sea_2015.jpg" data-lightbox="biography" data-title="Газета ЗА КАДРЫ ВЕРФЯМ (2015)">
+<img src="biography/P8_06_book_sea_2015.jpg" alt="Газета ЗА КАДРЫ ВЕРФЯМ (2015)" width="100">
+</a>
+
+<a href="biographyP8_07_book_polet_2022.jpg" data-lightbox="biography" data-title="Газета В ПОЛЁТ (2022)">
+<img src="biographyP8_07_book_polet_2022.jpg" alt="Газета В ПОЛЁТ (2022)" width="100">
+</a>
+
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
