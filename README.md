@@ -430,7 +430,7 @@ width: 100px; /* компактныеминиатюры */
 <divclass=english"">
 <!-- Пример первых 2 книг -->
 <a href="fiction/P6_01_book_stepan_2022.jpg" data-lightbox="fiction" data-title="Один День Питерского Карасика Степашки (2022)">
-<img src="fiction/eP6_01_book_stepan_2022.jpgP6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022))" width="100">
+<img src="fiction/P6_01_book_stepan_2022.jpgP6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022))" width="100">
 </a>
 <a href="fiction/P6_02_book_rus_2025.jpg" data-lightbox="fiction" data-title="Житие Святой Руси (2025)">
 <img src="fiction/P6_02_book_rus_2025.jpg" alt="Житие Святой Руси (2025)" width="100">
