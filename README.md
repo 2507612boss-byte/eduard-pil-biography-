@@ -400,3 +400,48 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Книгипохудожественнойлитературе</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Художественная литература</h2>
+
+<divclass=english"">
+<!-- Пример первых 2 книг -->
+<a href="fiction/P6_01_book_stepan_2022.jpg" data-lightbox="fiction" data-title="Один День Питерского Карасика Степашки (2022)">
+<img src="fiction/eP6_01_book_stepan_2022.jpgP6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022))" width="100">
+</a>
+<a href="fiction/P6_02_book_rus_2025.jpg" data-lightbox="fiction" data-title="Житие Святой Руси (2025)">
+<img src="fiction/P6_02_book_rus_2025.jpg" alt="Житие Святой Руси (2025)" width="100">
+</a>
+
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
