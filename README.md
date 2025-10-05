@@ -378,10 +378,10 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Книги по экономике</h2>
+<h2>Книги по английскому языку</h2>
 
 <divclass=english"">
-<!-- Пример первых 5 книг -->
+<!-- Пример первых 4 книг -->
 <a href="english/P5_01_book_letter_call_2000.jpgg" data-lightbox="english" data-title="English Letters and Calling (2000)">
 <img src="english/P5_01_book_letter_call_2000.jpgg" alt="English Letters and Calling (2000))" width="100">
 </a>
