@@ -699,39 +699,33 @@ width: 100px; /* компактныеминиатюры */
 <a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="record" data-title="Certificate of Participation. Turkey, (2006)">
 <img src="serpapers/P11_01_book_papers1_2017.jpg" alt=Certificate of Participation. Turkey, (2006)" width="100">
 </a>
-
 <a href="serpapers/P11_02_book_papers2_2017.jpg" data-lightbox="record" data-title="Certificate of Business Conference. Germany, (2008)">
 <img src="serpapers/P11_02_book_papers2_2017.jpg" alt=Certificate of Business Conference. Germany, (2008)" width="100">
 </a>
-
 <a href="serpapers/P11_03_book_papers3_2017.jpg" data-lightbox="serpapers" data-title="World congress of science, engineering and technology. Paris, (2009)">
 <img src="serpapers/P11_03_book_papers3_2017.jpg" alt=World congress of science, engineering and technology. Paris, (2009)" width="100">
 </a>
 <a href="serpapers/P11_04_book_papers4_2017.jpg" data-lightbox="record" data-title="Financial, material and information flows of the company. UAE, (2015)">
 <img src="serpapers/P11_04_book_papers4_2017.jpg" alt=Financial, material and information flows of the company. UAE, (2015)" width="100">
 </a>
-
 <a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
 <img src="serpapers/P11_05_book_papers5_2017.jpg" alt=Theory of the economy crises. China, (2019)" width="100">
 </a>
 <a href="serpapers/P11_06_book_papers6_2017.jpg" data-lightbox="record" data-title="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)">
 <img src="serpapers/P11_06_book_papers6_2017.jpg" alt=Analysis of 3D graphs of existing of the variable X3sul. China,(2019)" width="100">
 </a>
-
 <a href="serpapers/P11_07_book_papers7_2017.jpg" data-lightbox="serpapers" data-title="3D graphing for the Veu parameter. UK, (2019)">
 <img src="serpapers/P11_07_book_papers7_2017.jpg" alt=3D graphing for the Veu parameter. UK, (2019)" width="100">
 </a>
 <a href="serpapers/P11_08_book_papers8_2017.jpg" data-lightbox="record" data-title="The effect of X6 on 3D graphs for the Veu parameter. Praha, (2020)">
 <img src="serpapers/P11_08_book_papers8_2017.jpg" alt=The effect of X6 on 3D graphs for the Veu parameter. Praha, (2020)" width="100">
 </a>
-
 <a href="serpapers/P11_09_book_papers9_2017.jpg" data-lightbox="serpapers" data-title="The effect of X5 on 3D graphs for the Veu parameter. Poiland, (2020)">
 <img src="serpapers/P11_09_book_papers9_2017.jpg" alt=The effect of X5 on 3D graphs for the Veu parameter. Poiland, (2020)" width="100">
 </a>
 <a href="serpapers/P11_010_book_papers10_2017.jpg" data-lightbox="record" data-title="3D graphing of Veu based on X6. Bulgaria, (2020)">
 <img src="serpapers/P11_010_book_papers10_2017.jpg" alt=3D graphing of Veu based on X6. Bulgaria, (2020)" width="100">
 </a>
-
 <a href="serpapers/P11_011_book_papers11_2017.jpg" data-lightbox="record" data-title="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)">
 <img src="serpapers/P11_011_book_papers11_2017.jpg" alt=Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)" width="100">
 </a>
