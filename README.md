@@ -121,8 +121,8 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass="gallery">
 <!-- Пример первых 14 дипломов -->
-<a href="images/diplomas/P1_00_moi_knigi_2025.jpg.jpg" data-lightbox="diplomas" data-title="Моикниги (2025)">
-<img src="images/diplomas/P1_00_moi_knigi_2025.jpg.JPG" alt="Моикниги (2025)" width="100">
+<a href="images/diplomas/P1_00_moi_knigi_2025.jpg.jpg" data-lightbox="diplomas" data-title="Мои книги (2025)">
+<img src="images/diplomas/P1_00_moi_knigi_2025.jpg.jpg" alt="Мои книги (2025)" width="100">
 </a>
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
 <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." width="100">
