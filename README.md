@@ -697,9 +697,11 @@ width: 100px; /* компактныеминиатюры */
 <h4>Здесь представлены только 11 сертификатов из 493, которые имеются в наличии у автора.</h4>
 <divclass=serpapers"">
 <!-- Пример первых 11 сертификатов -->
-<a href="serpapers/P11_01_book_papers1_2006.jpg" data-lightbox="serpapers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="serpapers/P11_01_book_papers1_2006.jpg" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
+<a href="serpapers/P11_01_book_papers1_2006.jpg" data-lightbox="serpapers" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
+<img src="serpapers/P11_01_book_papers1_2006.jpg" alt="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017))" width="100">
 </a>
+
+
 <a href="serpapers/P11_02_book_papers2_2008.jpg" data-lightbox="serpapers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
 <img src=serpapers/P11_02_book_papers2_2008.jpg" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
