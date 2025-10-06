@@ -696,11 +696,11 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=serpapers"">
 <!-- Пример первых 11 сертификатов -->
-<a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="record" data-title="Certificate of Participation. Turkey, (2006)">
-<img src="serpapers/P11_01_book_papers1_2017.jpg" alt=Certificate of Participation. Turkey, (2006)" width="100">
+<a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
+<img src="serpapers/P11_01_book_papers1_2017.jpg" alt=Certificate of participation. Turkey, (2006)" width="100">
 </a>
-<a href="serpapers/P11_02_book_papers2_2017.jpg" data-lightbox="record" data-title="Certificate of Business Conference. Germany, (2008)">
-<img src="serpapers/P11_02_book_papers2_2017.jpg" alt=Certificate of Business Conference. Germany, (2008)" width="100">
+<a href="serpapers/P11_02_book_papers2_2017.jpg" data-lightbox="serpapers" data-title="Certificate of business conference. Germany, (2008)">
+<img src="serpapers/P11_02_book_papers2_2017.jpg" alt=Certificate of business conference. Germany, (2008)" width="100">
 </a>
 <a href="serpapers/P11_03_book_papers3_2017.jpg" data-lightbox="serpapers" data-title="World congress of science, engineering and technology. Paris, (2009)">
 <img src="serpapers/P11_03_book_papers3_2017.jpg" alt=World congress of science, engineering and technology. Paris, (2009)" width="100">
@@ -738,4 +738,43 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>ОткрыткиотФиделяКастро</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>От</h2>
+<h2>Открытки от Фиделя Кастро</h2>
+<divclass=kastro"">
+<!-- Пример первых 2 открытки -->
+<a href="kastro/P12_01_book_kastro_2013.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2013)">
+<img src="kastro/P12_01_book_kastro_2013.jpg" alt=Открытка от Фиделя Кастро Рус (2013))" width="100">
+</a>
+<a href="kastro/P12_02_book_kastro_2014.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2014)">
+<img src="kastro/P12_02_book_kastro_2014.jpg" alt=Открытка от Фиделя Кастро Рус (2014)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 <
