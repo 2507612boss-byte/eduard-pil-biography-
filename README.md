@@ -696,16 +696,16 @@ width: 100px; /* компактныеминиатюры */
 <h2>Сертификаты выступлений на конференциях</h2>
 <h4>Здесь представлены только 11 сертификатов из 493, которые имеются в наличии у автора.</h4>
 <divclass=serpapers"">
-<!-- Пример первых 13 статьи -->
+<!-- Пример первых 11 сертификатов -->
 <a href="serpapers/P11_01_book_papers1_2006.jpg" data-lightbox="serpapers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
 <img src="serpapers/P11_01_book_papers1_2006.jpg" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
 </a>
 <a href="serpapers/P11_02_book_papers2_2008.jpg" data-lightbox="serpapers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="serpapers/P11_02_book_papers2_2008.jpg" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<img src=serpapers/P11_02_book_papers2_2008.jpg" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
 
-<a href="serpapers/P11_03_book_serpapers_2009.jpg" data-lightbox="serpapers" data-title="Theory of the economic crises. Part II (2017)">
-<img src="serpapers/P11_03_book_serpapers_2009.jpg" alt=Theory of the economic crises. Part II (2017" width="100">
+<a href="serpapers/P11_03_book_papers_2009.jpg" data-lightbox="serpapers" data-title="Theory of the economic crises. Part II (2017)">
+<img src="serpapers/P11_03_book_papers_2009.jpg" alt=Theory of the economic crises. Part II (2017" width="100">
 </a>
 <a href="serpapers/P11_04_book_serpapers_2015.jpg" data-lightbox="serpapers" data-title="Theory of the financial crises. Part III (2017">
 <img src="serpapers/P11_04_book_serpapers_2015.jpg" alt=Theory of the financial crises. Part III (2017" width="100">
