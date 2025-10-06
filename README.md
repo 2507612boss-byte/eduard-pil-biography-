@@ -582,6 +582,46 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Статьиизжурналовиконференций</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Статьи из журналов и конференций</h2>
+<h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES.</h4>
+
+<divclass=english"">
+<!-- Пример первых 2 статьи -->
+<a href="english/P10_01_book_paper1_2017.pdf" data-lightbox="english" data-title="Rate of currency exchange impact onto country's GDP (2017)">
+<img src="english/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country's GDP (2017)" width="100">
+<a href="english/P10_02_book_paper2_2017.pdf" data-lightbox="english" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
+<img src="english/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+</a>
+
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
 
 
