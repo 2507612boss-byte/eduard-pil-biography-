@@ -696,9 +696,10 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=serpapers"">
 <!-- Пример первых 11 сертификатов -->
-<a href="serpapers/P11_01_book_papers1_20017.jpg" data-lightbox="serpapers" data-title="Certificate of Participation. Turkey, (2006)">
+<a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="record" data-title="Certificate of Participation. Turkey, (2006)">
 <img src="serpapers/P11_01_book_papers1_2017.jpg" alt=Certificate of Participation. Turkey, (2006)" width="100">
 </a>
+
 <a href="serpapers/P11_02_book_papers2_2017.jpg" data-lightbox="record" data-title="Certificate of Business Conference. Germany, (2008)">
 <img src="serpapers/P11_02_book_papers2_2017.jpg" alt=Certificate of Business Conference. Germany, (2008)" width="100">
 </a>
