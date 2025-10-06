@@ -694,7 +694,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Сертификаты выступлений на конференциях</h2>
-
+<h4>Здесь представлены только 11 сертификатов из 493, которые имеются в наличии у автора.</h4>
 <divclass=serpapers"">
 <!-- Пример первых 13 статьи -->
 <a href="serpapers/P11_01_book_papers1_2006.jpg" data-lightbox="serpapers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
