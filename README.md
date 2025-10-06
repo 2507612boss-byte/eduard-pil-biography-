@@ -697,11 +697,11 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=serpapers"">
 <!-- Пример первых 13 статьи -->
-<a href="serpapers/P11_01_book_serpapers_2006.jpg" data-lightbox="serpapers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="serpapers/P11_01_book_serpapers_2006.jpg" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
+<a href="serpapers/P11_01_book_papers1_2006.jpg" data-lightbox="serpapers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
+<img src="serpapers/P11_01_book_papers1_2006.jpg" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
 </a>
-<a href="serpapers/P11_02_book_serpapers_2008.jpg" data-lightbox="serpapers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="serpapers/P11_02_book_serpapers_2008.jpg" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<a href="serpapers/P11_02_book_papers2_2008.jpg" data-lightbox="serpapers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
+<img src="serpapers/P11_02_book_papers2_2008.jpg" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
 
 <a href="serpapers/P11_03_book_serpapers_2009.jpg" data-lightbox="serpapers" data-title="Theory of the economic crises. Part II (2017)">
