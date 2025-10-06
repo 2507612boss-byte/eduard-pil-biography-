@@ -429,6 +429,7 @@ width: 100px; /* компактныеминиатюры */
 <!-- Пример первых 2 книг -->
 <a href="fiction/P6_01_book_stepan_2022.jpg" data-lightbox="fiction" data-title="Один День Питерского Карасика Степашки (2022)">
 <img src="fiction/P6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022)" width="100">
+</a>
 <a href="fiction/P6_02_book_rus_2025.jpg" data-lightbox="fiction" data-title="Житие Святой Руси (2025)">
 <img src="fiction/P6_02_book_rus_2025.jpg" alt="Житие Святой Руси (2025)" width="100">
 </a>
@@ -470,6 +471,7 @@ width: 100px; /* компактныеминиатюры */
 <!-- Пример первых 2 статьи -->
 <a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Аглийского Языка (2016)">
 <img src="theory/P7_01_book_english1_2016.pdf" alt=Теория Аглийского Языка (2016)" width="100">
+</a>
 <a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
 <img src="theory/P7_02_book_english2_2018.pdf" alt=Theory of the English Language (2018)" width="100">
 </a>
@@ -510,13 +512,15 @@ width: 100px; /* компактныеминиатюры */
 <!-- Пример первых 7 источников -->
 <a href="biography/P8_01_book_outstand_2010.jpg" data-lightbox="biography" data-title="2000 Outstanding Scientists (2010)">
 <img src="biography/P8_01_book_outstand_2010.jpg" alt="2000 Outstanding Scientists (2010))" width="100">
+</a>
 <a href="biography/P8_02_book_abi_2011.jpg" data-lightbox="biography" data-title="Biography Proof (2011)">
 <img src="biography/P8_02_book_abi_2011.jpg" alt="Biography Proof (2011)" width="100">
 </a>
 
 <a href="biography/P8_03_book_who_2012.jpg" data-lightbox="biography" data-title="Who Is Who В России (2012)">
 <img src="biography/P8_03_book_who_2012.jpg" alt=Who Is Who В России (2012))" width="100">
-<a href="biography/P8_04_book_pgup1_2002.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)">
+</a>
+ <a href="biography/P8_04_book_pgup1_2002.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)">
 <img src="biography/P8_04_book_pgup1_2002.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)" width="100">
 </a>
 
@@ -524,6 +528,7 @@ width: 100px; /* компактныеминиатюры */
 <a href="biography/P8_05_book_pgup2_2009.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011)">
 <img src="biography/P8_05_book_pgup2_2009.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011))" width="100">
 <a href="biography/P8_06_book_sea_2015.jpg" data-lightbox="biography" data-title="Газета ЗА КАДРЫ ВЕРФЯМ (2015)">
+</a>
 <img src="biography/P8_06_book_sea_2015.jpg" alt="Газета ЗА КАДРЫ ВЕРФЯМ (2015)" width="100">
 </a>
 
@@ -611,10 +616,49 @@ width: 100px; /* компактныеминиатюры */
 <!-- Пример первых 13 статьи -->
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
+</a>
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
 
+<a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
+<img src="papers/P10_03_book_paper3_2017.pdf" alt=Theory of the economic crises. Part II (2017" width="100">
+</a>
+<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017">
+<img src="papers/P10_04_book_paper4_2017.pdf" alt=Theory of the financial crises. Part III (2017" width="100">
+</a>
+
+<a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
+<img src="papers/P10_05_book_paper5_2018.pdf" alt=Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
+</a>
+<a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
+<img src="papers/P10_06_book_paper6_2016.pdf" alt=The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
+</a>
+
+<a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (2018)">
+<img src="papers/P10_07_book_paper7_2018.pdf" alt=Анализ 3D области переменной X4su (2018)" width="100">
+</a>
+<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
+<img src="paperP10_08_book_paper8_2019.pdf" alt=Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
+</a>
+
+<a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
+<img src="papers/P10_09_book_paper9_2019.pdf" alt=Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
+</a>
+<a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
+<img src="papers/P10_010_book_paper10_2019.pdf" alt=Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
+</a>
+
+<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)">
+<img src="papers/P10_011_book_paper11_2021.pdf" alt=Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
+</a>
+<a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
+<img src="papers/P10_012_book_paper12_2019.pdf" alt=Theory of the economic crises (2019)" width="100">
+</a>
+
+<a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
+<img src="papers/P10_013_book_paper13_2019.pdf" alt=Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
+</a>
 
 </div>
 
