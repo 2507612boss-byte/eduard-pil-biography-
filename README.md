@@ -567,10 +567,10 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=record"">
 <!-- Пример первых 2 рекорда -->
-<a href="record/P9_01_book_record1_2017.jpg" data-lightbox="biography" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
+<a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
 <img src="record/P9_01_book_record1_2017.jpg" alt="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017))" width="100">
 </a>
-<a href="record/P9_02_book_record2_2017.JPG" data-lightbox="biography" data-title="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)">
+<a href="record/P9_02_book_record2_2017.JPG" data-lightbox="record" data-title="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)">
 <img src="record/P9_02_book_record2_2017.JPG" alt="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)" width="100">
 </a>
 
@@ -607,12 +607,12 @@ width: 100px; /* компактныеминиатюры */
 <h2>Статьи из журналов и конференций</h2>
 <h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.</h4>
 
-<divclass=english"">
+<divclass=paper"">
 <!-- Пример первых 13 статьи -->
-<a href="english/P10_01_book_paper1_2017.pdf" data-lightbox="english" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="english/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country's GDP (2017)" width="100">
-<a href="english/P10_02_book_paper2_2017.pdf" data-lightbox="english" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="english/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<a href="paper/P10_01_book_paper1_2017.pdf" data-lightbox="english" data-title="Rate of currency exchange impact onto country's GDP (2017)">
+<img src="paper/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country's GDP (2017)" width="100">
+<a href="paper/P10_02_book_paper2_2017.pdf" data-lightbox="english" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
+<img src="paper/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
 
 
