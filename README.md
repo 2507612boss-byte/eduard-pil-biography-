@@ -607,12 +607,12 @@ width: 100px; /* компактныеминиатюры */
 <h2>Статьи из журналов и конференций</h2>
 <h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.</h4>
 
-<divclass=paper"">
+<divclass=papers"">
 <!-- Пример первых 13 статьи -->
-<a href="paper/P10_01_book_paper1_2017.pdf" data-lightbox="paper" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="paper/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
-<a href="paper/P10_02_book_paper2_2017.pdf" data-lightbox="paper" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="paper/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
+<img src="papers/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
+<a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
+<img src="papers/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
 
 
