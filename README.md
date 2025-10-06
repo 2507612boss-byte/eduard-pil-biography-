@@ -765,11 +765,11 @@ width: 100px; /* компактныеминиатюры */
 <h2>Открытки от Фиделя Кастро</h2>
 <divclass=kastro"">
 <!-- Пример первых 2 открытки -->
-<a href="kastro/P12_01_book_kastro_2013.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2013)">
-<img src="kastro/P12_01_book_kastro_2013.jpg" alt=Открытка от Фиделя Кастро Рус (2013))" width="100">
+<a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2013)">
+<img src="kastro/P12_01_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2013))" width="100">
 </a>
-<a href="kastro/P12_02_book_kastro_2014.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2014)">
-<img src="kastro/P12_02_book_kastro_2014.jpg" alt=Открытка от Фиделя Кастро Рус (2014)" width="100">
+<a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2014)">
+<img src="kastro/P12_02_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2014)" width="100">
 </a>
 
 </div>
