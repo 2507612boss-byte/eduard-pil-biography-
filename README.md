@@ -696,15 +696,15 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=serpapers"">
 <!-- Пример первых 11 сертификатов -->
-<a href="serpapers/P11_01_book_papers1_20017.jpg" data-lightbox="serpapers" data-title="Certificate of Participation Turkey, (2006)">
-<img src="serpapers/P11_01_book_papers1_2017.jpg" alt=Certificate of Participation Turkey, (2006)" width="100">
+<a href="serpapers/P11_01_book_papers1_20017.jpg" data-lightbox="serpapers" data-title="Certificate of Participation. Turkey, (2006)">
+<img src="serpapers/P11_01_book_papers1_2017.jpg" alt=Certificate of Participation. Turkey, (2006)" width="100">
 </a>
 <a href="serpapers/P11_02_book_papers2_2017.jpg" data-lightbox="record" data-title="Certificate of Business Conference. Germany, (2008)">
 <img src="serpapers/P11_02_book_papers2_2017.jpg" alt=Certificate of Business Conference. Germany, (2008)" width="100">
 </a>
 
-<a href="serpapers/P11_03_book_papers3_2017.jpg" data-lightbox="serpapers" data-title="World Congress of Science, Eng and Techn. Paris, (2009)">
-<img src="serpapers/P11_03_book_papers3_2017.jpg" alt=World Congress of Science, Eng and Techn. Paris, (2009)" width="100">
+<a href="serpapers/P11_03_book_papers3_2017.jpg" data-lightbox="serpapers" data-title="World congress of science, engineering and technology. Paris, (2009)">
+<img src="serpapers/P11_03_book_papers3_2017.jpg" alt=World congress of science, engineering and technology. Paris, (2009)" width="100">
 </a>
 <a href="serpapers/P11_04_book_papers4_2017.jpg" data-lightbox="record" data-title="Financial, material and information flows of the company. UAE, (2015)">
 <img src="serpapers/P11_04_book_papers4_2017.jpg" alt=Financial, material and information flows of the company. UAE, (2015)" width="100">
