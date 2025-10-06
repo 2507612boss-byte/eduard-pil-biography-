@@ -639,7 +639,7 @@ width: 100px; /* компактныеминиатюры */
 <img src="papers/P10_07_book_paper7_2018.pdf" alt=Анализ 3D области переменной X4su (2018)" width="100">
 </a>
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
-<img src="paperP10_08_book_paper8_2019.pdf" alt=Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
+<img src="papers/P10_08_book_paper8_2019.pdf" alt=Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
 </a>
 
 <a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
@@ -669,3 +669,76 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Сертификатывыступленийнаконференциях</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Сертификаты выступлений на конференциях</h2>
+
+<divclass=serpapers"">
+<!-- Пример первых 13 статьи -->
+<a href="serpapers/P11_01_book_serpapers_2006.jpg" data-lightbox="serpapers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
+<img src="serpapers/P11_01_book_serpapers_2006.jpg" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
+</a>
+<a href="serpapers/P11_02_book_serpapers_2008.jpg" data-lightbox="serpapers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
+<img src="serpapers/P11_02_book_serpapers_2008.jpg" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+</a>
+
+<a href="serpapers/P11_03_book_serpapers_2009.jpg" data-lightbox="serpapers" data-title="Theory of the economic crises. Part II (2017)">
+<img src="serpapers/P11_03_book_serpapers_2009.jpg" alt=Theory of the economic crises. Part II (2017" width="100">
+</a>
+<a href="serpapers/P11_04_book_serpapers_2015.jpg" data-lightbox="serpapers" data-title="Theory of the financial crises. Part III (2017">
+<img src="serpapers/P11_04_book_serpapers_2015.jpg" alt=Theory of the financial crises. Part III (2017" width="100">
+</a>
+
+<a href="serpapers/P11_05_book_serpapers_2019.jpg" data-lightbox="serpapers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
+<img src="serpapers/P11_05_book_serpapers_2019.jpg" alt=Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
+</a>
+<a href="serpapers/P11_06_book_serpapers_2019.jpg" data-lightbox="serpapers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
+<img src="serpapers/P11_06_book_serpapers_2019.jpg" alt=The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
+</a>
+
+<a href="serpapers/P11_07_book_serpapers_2019.jpg" data-lightbox="serpapers" data-title="Анализ 3D области переменной X4su (2018)">
+<img src="serpapers/P11_07_book_serpapers_2019.jpg" alt=Анализ 3D области переменной X4su (2018)" width="100">
+</a>
+<a href="serpapers/P11_08_book_serpapers_2020.jpg" data-lightbox="serpapers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
+<img src="serpapers/P11_08_book_serpapers_2020.jpg" alt=Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
+</a>
+
+<a href="serpapers/P11_09_book_serpapers_2020.jpg" data-lightbox="serpapers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
+<img src="serpapers/P11_09_book_serpapers_2020.jpg" alt=Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
+</a>
+<a href="serpapers/P11_010_book_serpapers_2020.jpg" data-lightbox="serpapers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
+<img src="serpapersP11_010_book_serpapers_2020.jpg" alt=Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
+</a>
+
+<a href="serpapersP11_011_book_serpapers_2023.jpg" data-lightbox="serpapers" data-title="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)">
+<img src="serpapers/P11_011_book_serpapers_2023.jpg" alt=Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
+</a>
+
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
