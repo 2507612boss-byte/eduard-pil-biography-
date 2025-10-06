@@ -609,10 +609,10 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=paper"">
 <!-- Пример первых 13 статьи -->
-<a href="paper/P10_01_book_paper1_2017.pdf" data-lightbox="paper" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="paper/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country's GDP (2017)" width="100">
-<a href="paper/P10_02_book_paper2_2017.pdf" data-lightbox="paper" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="paper/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<a href="paper/P7_01_book_english1_2016.pdf" data-lightbox="paper" data-title="Rate of currency exchange impact onto country's GDP (2017)">
+<img src="paper/P7_01_book_english1_2016.pdf" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
+<a href="paper/P7_02_book_english2_2018.pdf" data-lightbox="paper" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
+<img src="paper/P7_02_book_english2_2018.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
 
 
