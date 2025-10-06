@@ -669,6 +669,46 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Сертификатывыступленийнаконференциях</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Сертификаты выступлений на конференциях</h2>
+<h4>Здесь представлены только 11 сертификатов из 493, которые имеются в наличии у автора.</h4>
+
+<divclass=serpapers"">
+<!-- Пример первых 13 сертификатов -->
+<a href="serpapers/P11_01_book_papers1_2006.jpg" data-lightbox="serpapers" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
+<img src="serpapers/P11_01_book_papers1_2006.jpg" alt="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017))" width="100">
+</a>
+<a href="serpapers/P11_02_book_papers2_2008.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)">
+<img src="serpapers/P11_02_book_papers2_2008.jpg" alt="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
 
 <
