@@ -894,7 +894,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Книги подаренные известными учеными</h2>
-<divclass=presentl"">
+<divclass=present"">
 
 <!-- Пример первых 4 копии -->
 <a href="present/P15_01_book_nobel_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
