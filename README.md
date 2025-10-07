@@ -898,7 +898,7 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- Пример первых 4 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
-<img src="present/P15_01_book_present_2017.jpg" alt=Книга подаренная С.Ю. Глазьевым (2019)" width="100">
+<img src="present/P15_01_book_present_2019.jpg" alt=Книга подаренная С.Ю. Глазьевым (2019)" width="100">
  </a>
 <a href="present/P15_02_book_present_2018.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2018)">
 <img src="present/P15_02_book_present_2018.jpg" alt=Книга подаренная С.Д Бодруновым (2018)" width="100">
