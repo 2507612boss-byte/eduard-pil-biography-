@@ -850,8 +850,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
 <img src="nobel/P14_01_book_nobel_2017.jpg" alt=Письмо от Jean Tirole (2017)" width="100">
 </a>
-<a href="nobel/P14_02_book_nobel_2020.jpg" data-lightbox="nobel" data-title="Письмо от Angus S. Deaton (2020)">
-<img src="nobel/P14_02_book_nobel_2020.jpg" alt=Письмо от Angus S. Deaton (2020)" width="100">
+<a href="nobel/P14_02_book_nobel_2020.JPG" data-lightbox="nobel" data-title="Письмо от Angus S. Deaton (2020)">
+<img src="nobel/P14_02_book_nobel_2020.JPG" alt=Письмо от Angus S. Deaton (2020)" width="100">
 </a>
 <a href="nobel/P14_03_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Письмо от Joseph E. Stiglitz (2025)">
 <img src="nobel/P14_03_book_nobel_2025.jpg" alt=Письмо от Joseph E. Stiglitz (2025))" width="100">
