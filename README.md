@@ -763,7 +763,7 @@ width: 100px; /* компактныеминиатюры */
 <divclass=kastro"">
 <!-- Пример первых 2 открытки -->
 <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2013)">
-<img src="kastro/P12_01_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2013))" width="100">
+<img src="kastro/P12_01_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2013)" width="100">
 </a>
 <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2014)">
 <img src="kastro/P12_02_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2014)" width="100">
@@ -802,12 +802,16 @@ width: 100px; /* компактныеминиатюры */
 <divclass=bibl"">
 
 <!-- Пример первых 3 копии -->
-<a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2013)">
-<img src="kastro/P12_01_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2013))" width="100">
+<a href="bibl/P13_01_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Финляндии (2025)">
+<img src="bibl/P13_01_book_bibl_2025.jpg" alt=Копия экрана Национальной Библиотеки Финляндии (2025)" width="100">
 </a>
-<a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2014)">
-<img src="kastro/P12_02_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2014)" width="100">
+<a href="bibl/P13_02_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Ческой Республики (2025)">
+<img src="bibl/P13_02_book_bibl_2025.jpg" alt=Копия экрана Национальной Библиотеки Ческой Республики (2025)" width="100">
 </a>
+<a href="bibl/P13_03_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью из Национальной Библиотеки Ческой Республики (2012)">
+<img src="bibl/P13_03_book_bibl_2012.jpg" alt=Письмо с благодарностью из Национальной Библиотеки Ческой Республики (2012" width="100">
+</a>
+
 
 </div>
 
