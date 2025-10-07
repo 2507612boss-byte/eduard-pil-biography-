@@ -868,9 +868,6 @@ width: 100px; /* компактныеминиатюры */
 <
 
 
-
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -896,7 +893,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Книги подаренные известными учеными</h2>
 <divclass=present"">
 
-<!-- Пример первых 4 копии -->
+<!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
 <img src="present/P15_01_book_present_2019.jpg" alt=Книга подаренная С.Ю. Глазьевым (2019)" width="100">
  </a>
@@ -920,5 +917,69 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Сертификатыповышенияквалификации</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Сертификаты повышения квалификации</h2>
+
+<divclass=kvalif"">
+
+<!-- Пример первых 7 копии -->
+<a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
+<img src="kvalif/P16_01_book_kvalif_2019.jpg" alt=Методология анализа и проектирования бизнес систем (2013)" width="100">
+ </a>
+<a href="kvalif/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат достижения майкрософт (2018)">
+<img src="kvalif/P16_02_book_kvalif_2019.jpg" alt=Сертификат достижения майкрософт (2018)" width="100">
+</a>
+<a href="kvalif/P16_03_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации по педагогике и психологии Высшей школы (СПбГПМУ) (2013)">
+<img src="kvalif/P16_03_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации по педагогике и психологии Высшей школы (СПбГПМУ) (2013)" width="100">
+</a>
+<a href="kvalif/P16_04_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Организация перевозок и управления на транспорте” (СПбГУАП) (2017)">
+<img src="kvalif/P16_04_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации “Организация перевозок и управления на транспорте” (СПбГУАП) (2017)" width="100">
+</a>
+<a href="kvalif/P16_05_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Противодействия коррупции” (СПбГАСУ) (2018)">
+<img src="kvalif/P16_05_book_kvalif_2019.jpg" alt=Противодействия коррупции” (СПбГАСУ) (2018)" width="100">
+</a>
+<a href="kvalif/P16_06_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2021)">
+<img src="kvalif/P16_06_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2021)" width="100">
+</a>
+<a href="kvalif/P16_07_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Организация перевозок и управление на транспорте” (СПбГУАП) (2023)">
+<img src="kvalif/P16_07_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2023)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+<
+
+
+
+
+
+
 <
 
