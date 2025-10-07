@@ -897,23 +897,23 @@ width: 100px; /* компактныеминиатюры */
 <divclass=present"">
 
 <!-- Пример первых 4 копии -->
-<a href="present/P15_01_book_nobel_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
-<img src="present/P15_01_book_nobel_2017.jpg" alt=Книга подаренная С.Ю. Глазьевым (2019)" width="100">
+<a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
+<img src="present/P15_01_book_present_2017.jpg" alt=Книга подаренная С.Ю. Глазьевым (2019)" width="100">
  </a>
-<a href="present/P15_02_book_nobel_2018.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2018)">
-<img src="present/P15_02_book_nobel_2018.jpg" alt=Книга подаренная С.Д Бодруновым (2018)" width="100">
+<a href="present/P15_02_book_present_2018.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2018)">
+<img src="present/P15_02_book_present_2018.jpg" alt=Книга подаренная С.Д Бодруновым (2018)" width="100">
 </a>
-<a href="present/P15_03_book_nobel_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2019)">
-<img src="present/P15_03_book_nobel_2019.jpg" alt=Книга подаренная С.Д Бодруновым (2019)" width="100">
+<a href="present/P15_03_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2019)">
+<img src="present/P15_03_book_present_2019.jpg" alt=Книга подаренная С.Д Бодруновым (2019)" width="100">
 </a>
-<a href="present/P15_04_book_nobel_2019.jpg" data-lightbox="present" data-title="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)">
-<img src="present/P15_04_book_nobel_2019.jpg" alt=Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" width="100">
+<a href="present/P15_04_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)">
+<img src="present/P15_04_book_present_2019.jpg" alt=Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" width="100">
 </a>
-<a href="present/P15_05_book_nobel_2005.jpg" data-lightbox="present" data-title="Книга подаренная Е.В. Стельмашонок (2005)">
-<img src="present/P15_05_book_nobel_2005.jpg" alt=Книга подаренная Е.В. Стельмашонок (2005)" width="100">
+<a href="present/P15_05_book_present_2005.jpg" data-lightbox="present" data-title="Книга подаренная Е.В. Стельмашонок (2005)">
+<img src="present/P15_05_book_present_2005.jpg" alt=Книга подаренная Е.В. Стельмашонок (2005)" width="100">
 </a>
-<a href="present/P15_06_book_nobel_2004.jpg" data-lightbox="present" data-title="Книга подаренная Ф.Ф. Павновым (2004)">
-<img src="present/P15_06_book_nobel_2004.jpg" alt=Книга подаренная Ф.Ф. Павновым (2004)" width="100">
+<a href="present/P15_06_book_present_2004.jpg" data-lightbox="present" data-title="Книга подаренная Ф.Ф. Павновым (2004)">
+<img src="present/P15_06_book_present_2004.jpg" alt=Книга подаренная Ф.Ф. Павновым (2004)" width="100">
 </a>
 </div>
 
