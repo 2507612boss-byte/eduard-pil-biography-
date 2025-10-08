@@ -516,22 +516,18 @@ width: 100px; /* компактныеминиатюры */
 <a href="biography/P8_02_book_abi_2011.jpg" data-lightbox="biography" data-title="Biography Proof (2011)">
 <img src="biography/P8_02_book_abi_2011.jpg" alt="Biography Proof (2011)" width="100">
 </a>
-
 <a href="biography/P8_03_book_who_2012.jpg" data-lightbox="biography" data-title="Who Is Who В России (2012)">
 <img src="biography/P8_03_book_who_2012.jpg" alt=Who Is Who В России (2012))" width="100">
 </a>
  <a href="biography/P8_04_book_pgup1_2002.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)">
 <img src="biography/P8_04_book_pgup1_2002.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)" width="100">
 </a>
-
-
 <a href="biography/P8_05_book_pgup2_2009.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011)">
 <img src="biography/P8_05_book_pgup2_2009.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011))" width="100">
 <a href="biography/P8_06_book_sea_2015.jpg" data-lightbox="biography" data-title="Газета ЗА КАДРЫ ВЕРФЯМ (2015)">
 </a>
 <img src="biography/P8_06_book_sea_2015.jpg" alt="Газета ЗА КАДРЫ ВЕРФЯМ (2015)" width="100">
 </a>
-
 <a href="biography/P8_07_book_polet_2022.jpg" data-lightbox="biography" data-title="Газета В ПОЛЁТ (2022)">
 <img src="biography/P8_07_book_polet_2022.jpg" alt="Газета В ПОЛЁТ (2022)" width="100">
 </a>
@@ -801,7 +797,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Книги подаренные библиотекам</h2>
 <divclass=bibl"">
 
-<!-- Пример первых 3 копии -->
+<!-- Пример первых 5 копии -->
 <a href="bibl/P13_01_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Финляндии (2025)">
 <img src="bibl/P13_01_book_bibl_2025.jpg" alt=Копия экрана Национальной Библиотеки Финляндии (2025)" width="100">
 </a>
