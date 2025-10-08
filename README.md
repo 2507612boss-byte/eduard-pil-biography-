@@ -808,10 +808,12 @@ width: 100px; /* компактныеминиатюры */
 <a href="bibl/P13_02_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Ческой Республики (2025)">
 <img src="bibl/P13_02_book_bibl_2025.jpg" alt=Копия экрана Национальной Библиотеки Ческой Республики (2025)" width="100">
 </a>
-<a href="bibl/P13_03_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью из Библиотеки Конгресса США (2012)">
-<img src="bibl/P13_03_book_bibl_2012.jpg" alt=Письмо с благодарностью из Библиотеки Конгресса США (2012)" width="100">
+<a href="bibl/P13_03_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)">
+<img src="bibl/P13_03_book_bibl_2012.jpg" alt=Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)" width="100">
 </a>
-
+<a href="bibl/P13_04_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью из Библиотеки Конгресса США (2012)">
+<img src="bibl/P13_04_book_bibl_2012.jpg" alt=Письмо с благодарностью из Библиотеки Конгресса США (2012)" width="100">
+</a>
 
 </div>
 
