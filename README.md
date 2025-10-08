@@ -757,8 +757,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="bibl/P13_04_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью из Библиотеки Конгресса США (2012)">
 <img src="bibl/P13_04_book_bibl_2012.jpg" alt=Письмо с благодарностью из Библиотеки Конгресса США (2012)" width="100">
 </a>
-<a href="bibl/P13_05_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью от Президента Университета Сорбоны (2012)">
-<img src="bibl/P13_05_book_bibl_2012.jpg" alt=Письмо с благодарностью от Президента Университета Сорбоны (2012)" width="100">
+<a href="bibl/P13_05_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью от Президента Университета Сорбонны (2012)">
+<img src="bibl/P13_05_book_bibl_2012.jpg" alt=Письмо с благодарностью от Президента Университета Сорбонны (2012)" width="100">
 </a>
 </div>
 
