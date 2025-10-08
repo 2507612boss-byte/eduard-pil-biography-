@@ -420,7 +420,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Статьи по теории английскго языка</h2>
+<h2>Статьи по теории английского языка</h2>
 <h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.</h4>
 
 <divclass=english"">
@@ -431,7 +431,6 @@ width: 100px; /* компактныеминиатюры */
 <a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
 <img src="theory/P7_02_book_english2_2018.pdf" alt=Theory of the English Language (2018)" width="100">
 </a>
-
 
 </div>
 
@@ -488,14 +487,11 @@ width: 100px; /* компактныеминиатюры */
 <img src="biography/P8_07_book_polet_2022.jpg" alt="Газета В ПОЛЁТ (2022)" width="100">
 </a>
 
-
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
-
 
 
 <!DOCTYPE html>
@@ -572,7 +568,6 @@ width: 100px; /* компактныеминиатюры */
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
-
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt=Theory of the economic crises. Part II (2017" width="100">
 </a>
@@ -586,28 +581,24 @@ width: 100px; /* компактныеминиатюры */
 <a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
 <img src="papers/P10_06_book_paper6_2016.pdf" alt=The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
 </a>
-
 <a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (2018)">
 <img src="papers/P10_07_book_paper7_2018.pdf" alt=Анализ 3D области переменной X4su (2018)" width="100">
 </a>
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
 <img src="papers/P10_08_book_paper8_2019.pdf" alt=Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
 </a>
-
 <a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
 <img src="papers/P10_09_book_paper9_2019.pdf" alt=Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
 </a>
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
 <img src="papers/P10_010_book_paper10_2019.pdf" alt=Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
 </a>
-
 <a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)">
 <img src="papers/P10_011_book_paper11_2021.pdf" alt=Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
 </a>
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt=Theory of the economic crises (2019)" width="100">
 </a>
-
 <a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt=Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
 </a>
