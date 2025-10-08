@@ -18,7 +18,7 @@
 
 # Eduard Anatolyevich Pil
 
-**Eduard Anatolyevich Pil** (born 1950) is a Soviet and Russian encyclopedic scholar, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural Sciences (RAE). Author of **42 books, 27 textbooks**, and more than 1,590 scientific papers in the fields of mechanical engineering technology, economics, linguistics, medicine, as well as works of fiction. Recipient of numerous international and Russian awards, Honored Scientist and Educator of the RAE (2011). Record holder in the Russian Book of Records (2016) for scientific productivity. His monographs have been awarded the highest distinctions at leading international book exhibitions, fairs, and salons.
+**Eduard Anatolyevich Pil** (born 1950) is a Soviet and Russian encyclopedic scholar, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural History (RAE). Author of **42 books, 27 textbooks**, and more than 1,590 scientific papers in the fields of mechanical engineering technology, economics, linguistics, medicine, as well as works of fiction. Recipient of numerous international and Russian awards, Honored Scientist and Educator of the RAE (2011). Record holder in the Russian Book of Records (2016) for scientific productivity. His monographs have been awarded the highest distinctions at leading international book exhibitions, fairs, and salons.
 
 ## Biography: The Path of an Encyclopedic Scholar
 
@@ -65,7 +65,7 @@ A fundamental work presenting a complete development of the author's mathematica
 
 *   *Covers of the volumes will be added to the gallery*
 
-**2. Works in the Field of Mechanical Engineering**
+**2. Works in the Field of Mechanical and Instrument Engineering**
 *   Pil E.A. Technological Support of CAD/CAM for Housing Parts. — St. Petersburg: ITMO, 1993. — 195 p.
 *   Pil E.A. Theory of Complexity of Machining Housing Parts and Its Application in Machine and Instrument Engineering. — St. Petersburg: REMO &Co., 2003. — 211 p.
 
