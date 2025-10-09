@@ -140,6 +140,9 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="АкадемикРАЕ">
 <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="АкадемикРАЕ" width="100">
 </a>
+<a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="АкадемикРАЕ">
+<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="АкадемикРАЕ" width="100">
+</a>
 <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Заслуженныйдеятель">
 <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженныйдеятель" width="100">
 </a>
