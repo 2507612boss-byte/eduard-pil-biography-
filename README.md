@@ -131,23 +131,17 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="ПрофессорРАЕ">
 <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="ПрофессорРАЕ" width="100">
 </a>
-<a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="МАНВШ">
-<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАНВШ" width="100">
-</a>
 <a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" data-lightbox="diplomas" data-title="РАЕ">
 <img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="РАЕ" width="100">
 </a>
 <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="АкадемикРАЕ">
 <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="АкадемикРАЕ" width="100">
 </a>
-<a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="АкадемикРАЕ">
-<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="АкадемикРАЕ" width="100">
+<a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="МАНВШ">
+<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАНВШ" width="100">
 </a>
 <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Заслуженныйдеятель">
 <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженныйдеятель" width="100">
-</a>
-<a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="АкадемикРАЕ">
-<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="АкадемикРАЕ" width="100">
 </a>
 <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" data-lightbox="diplomas" data-title="Золотаякафедра">
 <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Золотаякафедра" width="100">
