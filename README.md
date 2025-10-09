@@ -479,8 +479,8 @@ width: 100px; /* компактныеминиатюры */
 </a>
 <a href="biography/P8_05_book_pgup2_2009.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011)">
 <img src="biography/P8_05_book_pgup2_2009.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011))" width="100">
-<a href="biography/P8_06_book_sea_2015.jpg" data-lightbox="biography" data-title="Газета ЗА КАДРЫ ВЕРФЯМ (2015)">
 </a>
+<a href="biography/P8_06_book_sea_2015.jpg" data-lightbox="biography" data-title="Газета ЗА КАДРЫ ВЕРФЯМ (2015)">
 <img src="biography/P8_06_book_sea_2015.jpg" alt="Газета ЗА КАДРЫ ВЕРФЯМ (2015)" width="100">
 </a>
 <a href="biography/P8_07_book_polet_2022.jpg" data-lightbox="biography" data-title="Газета В ПОЛЁТ (2022)">
