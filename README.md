@@ -726,18 +726,18 @@ width: 100px; /* компактныеминиатюры */
 <a href="kastro/P12_09_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Германии (2011)">
 <img src="kastro/P12_09_book_kastro_2017.jpg" alt=Письмо из Германии (2011)" width="100">
 </a>
-<a href="kastro/P12_010_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Ватикана (2012)">
-<img src="kastro/P12_010_book_kastro_2017.jpg" alt=Письмо из Ватикана (2012)" width="100">
+<a href="kastro/P12_10_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Ватикана (2012)">
+<img src="kastro/P12_10_book_kastro_2017.jpg" alt=Письмо из Ватикана (2012)" width="100">
 </a>
-<a href="kastro/P12_011_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2012)">
-<img src="kastro/P12_011_book_kastro_2017.jpg" alt=Письмо из Кубы (2012)" width="100">
+<a href="kastro/P12_11_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2012)">
+<img src="kastro/P12_11_book_kastro_2017.jpg" alt=Письмо из Кубы (2012)" width="100">
 </a>
-<a href="kastro/P12_012_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2014)">
-<img src="kastro/P12_012_book_kastro_2017.jpg" alt=Письмо из Кубы (2014)" width="100">
+<a href="kastro/P12_12_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2014)">
+<img src="kastro/P12_12_book_kastro_2017.jpg" alt=Письмо из Кубы (2014)" width="100">
 </a>
 
-<a href="kastro/P12_013_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Бразилии (2014)">
-<img src="kastro/P12_013_book_kastro_2017.jpg" alt=Письмо из Бразии (2014)" width="100">
+<a href="kastro/P12_13_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Бразилии (2014)">
+<img src="kastro/P12_13_book_kastro_2017.jpg" alt=Письмо из Бразии (2014)" width="100">
 </a>
 <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2013)">
 <img src="kastro/P12_01_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2013)" width="100">
