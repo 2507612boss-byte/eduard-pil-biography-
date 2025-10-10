@@ -705,8 +705,8 @@ width: 100px; /* компактныеминиатюры */
 <h2>Письма и открытки</h2>
 <divclass=kastro"">
 <!-- Пример первых 13 открытки -->
-<a href="kastro/P12_01_letter1_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
-<img src="kastro/P12_01_letter1_kastro_2017.jpg" alt=Письмо из Канады (2011)" width="100">
+<a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
+<img src="kastro/P12_03_letter1_kastro_2017.jpg" alt=Письмо из Канады (2011)" width="100">
 </a>
 
   
