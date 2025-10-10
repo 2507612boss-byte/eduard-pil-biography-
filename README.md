@@ -712,8 +712,8 @@ width: 100px; /* компактныеминиатюры */
 <img src="kastro/P12_04_book_kastro_2017.jpg" alt=Письмо из Испании (2011)" width="100">
 </a>
 
-<a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
-<img src="kastro/P12_05_book_kastro_2017.jpg" alt=Письмо из Испании (2011)" width="100">
+<a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2012)">
+<img src="kastro/P12_05_book_kastro_2017.jpg" alt=Письмо из Испании (2012)" width="100">
 </a>
 
 
