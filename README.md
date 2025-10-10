@@ -709,6 +709,10 @@ width: 100px; /* компактныеминиатюры */
 <img src="kastro/P12_03_book_kastro_2017.jpg" alt=Письмо из Канады (2011)" width="100">
 </a>
 
+<a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
+<img src="kastro/P12_04_book_kastro_2017.jpg" alt=Письмо из Испании (2011)" width="100">
+</a>
+
   
 <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро Рус (2013)">
 <img src="kastro/P12_01_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро Рус (2013)" width="100">
