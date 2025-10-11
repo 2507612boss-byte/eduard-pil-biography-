@@ -100,53 +100,34 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <title>Галерея дипломов</title>
-    <!-- Подключаем CSS -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-    <style>
-        body { 
-            font-family: sans-serif; 
-            background: #f9f9f9; 
-            margin: 20px; 
-        }
-        .gallery { 
-            display: flex; 
-            flex-wrap: wrap; 
-            gap: 8px; 
-            justify-content: flex-start; 
-        }
-        .gallery img {
-            width: 100px;
-            height: auto;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            cursor: zoom-in;
-            transition: transform 0.2s;
-        }
-        .gallery img:hover { 
-            transform: scale(1.05); 
-        }
-    </style>
+<meta charset="UTF-8">
+<title>Полнаягалереядипломов</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
 </head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 <body>
 
 <h2>Галерея дипломов</h2>
 
 <div class="gallery">
-    <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" 
-       data-lightbox="diplomas" 
-       title="Мои книги (2025)">
-        <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги (2025)" width="100">
-    </a>
-</div>
+<!-- Пример первых 14 дипломов -->
 
-<!-- 🔴 ВАЖНО: добавьте эту строку! -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-</body>
-</html>
-
+<a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
+  <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
+</a>
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
 <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="Д.т.н." width="100">
 </a>
