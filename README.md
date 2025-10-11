@@ -140,13 +140,6 @@
     </a>
 </div>
 
-<!-- Скрипт В КОНЦЕ -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
-</html>
-
-
-
 
 <a href="https://via.placeholder.com/800x600" data-lightbox="test" title="Мои книги">
     <img src="https://via.placeholder.com/100x80" width="100">
