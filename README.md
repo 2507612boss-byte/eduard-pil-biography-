@@ -684,7 +684,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Письма от монархов и политиков</title>
+<title>Письмаотмонарховиполитиков</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -702,11 +702,11 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Письма</h2>
+<h2>Письма от монархов и политиков</h2>
 <divclass=kastro"">
 <!-- Пример первых 11 письма -->
 <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
-<img src="kastro/P12_03_book_kastro_2017.jpg" alt=Письмо из Канады (2011)" width="100">
+<img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
 </a>
 <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
 <img src="kastro/P12_04_book_kastro_2017.jpg" alt=Письмо из Испании (2011)" width="100">
