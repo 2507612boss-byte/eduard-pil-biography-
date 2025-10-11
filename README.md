@@ -133,17 +133,17 @@
 <h2>Галерея дипломов</h2>
 
 <div class="gallery">
-    <!-- Пример первого диплома -->
-    <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" title="Мои книги (2025)">
+    <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" 
+       data-lightbox="diplomas" 
+       title="Мои книги (2025)">
         <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги (2025)" width="100">
     </a>
 </div>
 
-<!-- Скрипт должен быть ПОСЛЕ контента -->
+<!-- Скрипт В КОНЦЕ -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
 
 
 
