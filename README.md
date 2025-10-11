@@ -129,20 +129,20 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
 <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg.jpg" alt="Д.т.н." width="100">
 </a>
-<a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="ПрофессорРАЕ">
-<img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="ПрофессорРАЕ" width="100">
+<a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" data-lightbox="diplomas" data-title="Профессор РАЕ">
+<img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg.jpg" alt="Профессор РАЕ" width="100">
 </a>
 <a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" data-lightbox="diplomas" data-title="РАЕ">
 <img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg.jpg" alt="РАЕ" width="100">
 </a>
-<a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="АкадемикРАЕ">
-<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="АкадемикРАЕ" width="100">
+<a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" data-lightbox="diplomas" data-title="Академик РАЕ">
+<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg.JPG" alt="Академик РАЕ" width="100">
 </a>
 <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" data-lightbox="diplomas" data-title="МАНВШ">
 <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg.JPG" alt="МАНВШ" width="100">
 </a>
-<a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Заслуженныйдеятель">
-<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженныйдеятель" width="100">
+<a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель">
+<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg.jpg" alt="Заслуженный деятель" width="100">
 </a>
 <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" data-lightbox="diplomas" data-title="Золотаякафедра">
 <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg.jpg" alt="Золотаякафедра" width="100">
@@ -150,19 +150,19 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Life Fellowship">
 <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg.JPG" alt="Life Fellowship" width="100">
 </a>
-<a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Выдающийучёный">
-<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" alt="Выдающийучёный" width="100">
+<a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" data-lightbox="diplomas" data-title="Выдающий учёный">
+<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg.JPG" alt="Выдающий учёный" width="100">
 </a>
-<a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" data-lightbox="diplomas" data-title="Золотаямедаль USA">
-<img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Золотаямедаль USA" width="100">
+<a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" data-lightbox="diplomas" data-title="Золотая медаль USA">
+<img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg.jpg" alt="Золотая медаль USA" width="100">
 </a>
-<a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" data-lightbox="diplomas" data-title="ЛигаИнтеллектуалов">
-<img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="ЛигаИнтеллектуалов" width="100">
+<a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов">
+<img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg.jpg" alt="Лига Интеллектуалов" width="100">
 </a>
-<a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" data-lightbox="diplomas" data-title="Мироваяэкономика">
-<img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Мироваяэкономика" width="100">
+<a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" data-lightbox="diplomas" data-title="Мировая экономика">
+<img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg.jpg" alt="Мировая экономика" width="100">
 </a>
-<a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" data-lightbox="diplomas" data-title="Союзписателей">
+<a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" data-lightbox="diplomas" data-title="Союз писателей">
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg.JPG" alt="Союзписателей" width="100">
 </a>
 
@@ -427,10 +427,10 @@ width: 100px; /* компактныеминиатюры */
 <divclass=english"">
 <!-- Пример первых 2 статьи -->
 <a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Аглийского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt=Теория Аглийского Языка (2016)" width="100">
+<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Аглийского Языка (2016)" width="100">
 </a>
 <a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
-<img src="theory/P7_02_book_english2_2018.pdf" alt=Theory of the English Language (2018)" width="100">
+<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
 </a>
 
 </div>
@@ -473,7 +473,7 @@ width: 100px; /* компактныеминиатюры */
 <img src="biography/P8_02_book_abi_2011.jpg" alt="Biography Proof (2011)" width="100">
 </a>
 <a href="biography/P8_03_book_who_2012.jpg" data-lightbox="biography" data-title="Who Is Who В России (2012)">
-<img src="biography/P8_03_book_who_2012.jpg" alt=Who Is Who В России (2012))" width="100">
+<img src="biography/P8_03_book_who_2012.jpg" alt="Who Is Who В России (2012))" width="100">
 </a>
  <a href="biography/P8_04_book_pgup1_2002.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)">
 <img src="biography/P8_04_book_pgup1_2002.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)" width="100">
@@ -564,44 +564,44 @@ width: 100px; /* компактныеминиатюры */
 <divclass=papers"">
 <!-- Пример первых 13 статьи -->
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="papers/P10_01_book_paper1_2017.pdf" alt=Rate of currency exchange impact onto country GDP (2017)" width="100">
+<img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
 </a>
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="papers/P10_02_book_paper2_2017.pdf" alt=Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
-<img src="papers/P10_03_book_paper3_2017.pdf" alt=Theory of the economic crises. Part II (2017" width="100">
+<img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
 </a>
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017">
-<img src="papers/P10_04_book_paper4_2017.pdf" alt=Theory of the financial crises. Part III (2017" width="100">
+<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
 </a>
 
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
-<img src="papers/P10_05_book_paper5_2018.pdf" alt=Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
+<img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
 </a>
 <a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
-<img src="papers/P10_06_book_paper6_2016.pdf" alt=The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
+<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
 </a>
 <a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (2018)">
-<img src="papers/P10_07_book_paper7_2018.pdf" alt=Анализ 3D области переменной X4su (2018)" width="100">
+<img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (2018)" width="100">
 </a>
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
-<img src="papers/P10_08_book_paper8_2019.pdf" alt=Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
+<img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
 </a>
 <a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
-<img src="papers/P10_09_book_paper9_2019.pdf" alt=Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
+<img src="papers/P10_09_book_paper9_2019.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
 </a>
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
-<img src="papers/P10_010_book_paper10_2019.pdf" alt=Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
+<img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
 </a>
 <a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)">
-<img src="papers/P10_011_book_paper11_2021.pdf" alt=Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
+<img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
 </a>
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
-<img src="papers/P10_012_book_paper12_2019.pdf" alt=Theory of the economic crises (2019)" width="100">
+<img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (2019)" width="100">
 </a>
 <a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
-<img src="papers/P10_013_book_paper13_2019.pdf" alt=Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
+<img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
 </a>
 
 </div>
@@ -641,37 +641,37 @@ width: 100px; /* компактныеминиатюры */
 <divclass=serpapers"">
 <!-- Пример первых 11 сертификатов -->
 <a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
-<img src="serpapers/P11_01_book_papers1_2017.jpg" alt=Certificate of participation. Turkey, (2006)" width="100">
+<img src="serpapers/P11_01_book_papers1_2017.jpg" alt="Certificate of participation. Turkey, (2006)" width="100">
 </a>
 <a href="serpapers/P11_02_book_papers2_2017.jpg" data-lightbox="serpapers" data-title="Certificate of business conference. Germany, (2008)">
-<img src="serpapers/P11_02_book_papers2_2017.jpg" alt=Certificate of business conference. Germany, (2008)" width="100">
+<img src="serpapers/P11_02_book_papers2_2017.jpg" alt="Certificate of business conference. Germany, (2008)" width="100">
 </a>
 <a href="serpapers/P11_03_book_papers3_2017.jpg" data-lightbox="serpapers" data-title="World congress of science, engineering and technology. Paris, (2009)">
-<img src="serpapers/P11_03_book_papers3_2017.jpg" alt=World congress of science, engineering and technology. Paris, (2009)" width="100">
+<img src="serpapers/P11_03_book_papers3_2017.jpg" alt="World congress of science, engineering and technology. Paris, (2009)" width="100">
 </a>
 <a href="serpapers/P11_04_book_papers4_2017.jpg" data-lightbox="record" data-title="Financial, material and information flows of the company. UAE, (2015)">
-<img src="serpapers/P11_04_book_papers4_2017.jpg" alt=Financial, material and information flows of the company. UAE, (2015)" width="100">
+<img src="serpapers/P11_04_book_papers4_2017.jpg" alt="Financial, material and information flows of the company. UAE, (2015)" width="100">
 </a>
 <a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
-<img src="serpapers/P11_05_book_papers5_2017.jpg" alt=Theory of the economy crises. China, (2019)" width="100">
+<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" width="100">
 </a>
 <a href="serpapers/P11_06_book_papers6_2017.jpg" data-lightbox="record" data-title="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)">
-<img src="serpapers/P11_06_book_papers6_2017.jpg" alt=Analysis of 3D graphs of existing of the variable X3sul. China,(2019)" width="100">
+<img src="serpapers/P11_06_book_papers6_2017.jpg" alt="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)" width="100">
 </a>
 <a href="serpapers/P11_07_book_papers7_2017.jpg" data-lightbox="serpapers" data-title="3D graphing for the Veu parameter. UK, (2019)">
-<img src="serpapers/P11_07_book_papers7_2017.jpg" alt=3D graphing for the Veu parameter. UK, (2019)" width="100">
+<img src="serpapers/P11_07_book_papers7_2017.jpg" alt="3D graphing for the Veu parameter. UK, (2019)" width="100">
 </a>
 <a href="serpapers/P11_08_book_papers8_2017.jpg" data-lightbox="record" data-title="The effect of X6 on 3D graphs for the Veu parameter. Praha, (2020)">
-<img src="serpapers/P11_08_book_papers8_2017.jpg" alt=The effect of X6 on 3D graphs for the Veu parameter. Praha, (2020)" width="100">
+<img src="serpapers/P11_08_book_papers8_2017.jpg" alt="The effect of X6 on 3D graphs for the Veu parameter. Praha, (2020)" width="100">
 </a>
 <a href="serpapers/P11_09_book_papers9_2017.jpg" data-lightbox="serpapers" data-title="The effect of X5 on 3D graphs for the Veu parameter. Poiland, (2020)">
-<img src="serpapers/P11_09_book_papers9_2017.jpg" alt=The effect of X5 on 3D graphs for the Veu parameter. Poiland, (2020)" width="100">
+<img src="serpapers/P11_09_book_papers9_2017.jpg" alt="The effect of X5 on 3D graphs for the Veu parameter. Poiland, (2020)" width="100">
 </a>
 <a href="serpapers/P11_010_book_papers10_2017.jpg" data-lightbox="record" data-title="3D graphing of Veu based on X6. Bulgaria, (2020)">
-<img src="serpapers/P11_010_book_papers10_2017.jpg" alt=3D graphing of Veu based on X6. Bulgaria, (2020)" width="100">
+<img src="serpapers/P11_010_book_papers10_2017.jpg" alt="3D graphing of Veu based on X6. Bulgaria, (2020)" width="100">
 </a>
 <a href="serpapers/P11_011_book_papers11_2017.jpg" data-lightbox="record" data-title="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)">
-<img src="serpapers/P11_011_book_papers11_2017.jpg" alt=Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)" width="100">
+<img src="serpapers/P11_011_book_papers11_2017.jpg" alt="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)" width="100">
 </a>
 
 </div>
@@ -714,34 +714,34 @@ width: 100px; /* компактныеминиатюры */
 <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
 </a>
 <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
-<img src="kastro/P12_04_book_kastro_2017.jpg" alt=Письмо из Испании (2011)" width="100">
+<img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письмо из Испании (2011)" width="100">
 </a>
 <a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2012)">
-<img src="kastro/P12_05_book_kastro_2017.jpg" alt=Письмо из Испании (2012)" width="100">
+<img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" width="100">
 </a>
 <a href="kastro/P12_06_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Австралии (2011)">
-<img src="kastro/P12_06_book_kastro_2017.jpg" alt=Письмо из Австралии (2011)" width="100">
+<img src="kastro/P12_06_book_kastro_2017.jpg" alt="Письмо из Австралии (2011)" width="100">
 </a>
 <a href="kastro/P12_07_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Австралии (2012)">
-<img src="kastro/P12_07_book_kastro_2017.jpg" alt=Письмо из Австралии (2012)" width="100">
+<img src="kastro/P12_07_book_kastro_2017.jpg" alt="Письмо из Австралии (2012)" width="100">
 </a>
 <a href="kastro/P12_08_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Англии (2011)">
 <img src="kastro/P12_08_book_kastro_2017.jpg" alt=Письмо из Англии (2011)" width="100">
 </a>
 <a href="kastro/P12_09_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Германии (2011)">
-<img src="kastro/P12_09_book_kastro_2017.jpg" alt=Письмо из Германии (2011)" width="100">
+<img src="kastro/P12_09_book_kastro_2017.jpg" alt="Письмо из Германии (2011)" width="100">
 </a>
 <a href="kastro/P12_10_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Ватикана (2012)">
 <img src="kastro/P12_10_book_kastro_2017.jpg" alt=Письмо из Ватикана (2012)" width="100">
 </a>
 <a href="kastro/P12_11_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2012)">
-<img src="kastro/P12_11_book_kastro_2017.jpg" alt=Письмо из Кубы (2012)" width="100">
+<img src="kastro/P12_11_book_kastro_2017.jpg" alt="Письмо из Кубы (2012)" width="100">
 </a>
 <a href="kastro/P12_12_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2014)">
 <img src="kastro/P12_12_book_kastro_2017.jpg" alt=Письмо из Кубы (2014)" width="100">
 </a>
 <a href="kastro/P12_13_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Бразилии (2014)">
-<img src="kastro/P12_13_book_kastro_2017.jpg" alt=Письмо из Бразии (2014)" width="100">
+<img src="kastro/P12_13_book_kastro_2017.jpg" alt="Письмо из Бразии (2014)" width="100">
 </a>
 
 </a>
@@ -780,10 +780,10 @@ width: 100px; /* компактныеминиатюры */
 <divclass=kastro"">
 <!-- Пример первых 2 письма -->
 <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро (2012)">
-<img src="kastro/P12_01_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро (2012)" width="100">
+<img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка от Фиделя Кастро (2012)" width="100">
 </a>
 <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро (2014)">
-<img src="kastro/P12_02_book_kastro_2017.jpg" alt=Открытка от Фиделя Кастро (2014)" width="100">
+<img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка от Фиделя Кастро (2014)" width="100">
 </a>
 
 </div>
@@ -822,19 +822,19 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- Пример первых 5 копии -->
 <a href="bibl/P13_01_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Финляндии (2025)">
-<img src="bibl/P13_01_book_bibl_2025.jpg" alt=Копия экрана Национальной Библиотеки Финляндии (2025)" width="100">
+<img src="bibl/P13_01_book_bibl_2025.jpg" alt="Копия экрана Национальной Библиотеки Финляндии (2025)" width="100">
 </a>
 <a href="bibl/P13_02_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Ческой Республики (2025)">
-<img src="bibl/P13_02_book_bibl_2025.jpg" alt=Копия экрана Национальной Библиотеки Ческой Республики (2025)" width="100">
+<img src="bibl/P13_02_book_bibl_2025.jpg" alt="Копия экрана Национальной Библиотеки Ческой Республики (2025)" width="100">
 </a>
 <a href="bibl/P13_03_book_bibl_2012.JPG" data-lightbox="bibl" data-title="Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)">
-<img src="bibl/P13_03_book_bibl_2012.JPG" alt=Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)" width="100">
+<img src="bibl/P13_03_book_bibl_2012.JPG" alt="Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)" width="100">
 </a>
 <a href="bibl/P13_04_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью из Библиотеки Конгресса США (2012)">
-<img src="bibl/P13_04_book_bibl_2012.jpg" alt=Письмо с благодарностью из Библиотеки Конгресса США (2012)" width="100">
+<img src="bibl/P13_04_book_bibl_2012.jpg" alt="Письмо с благодарностью из Библиотеки Конгресса США (2012)" width="100">
 </a>
 <a href="bibl/P13_05_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью от Президента Университета Сорбонны (2012)">
-<img src="bibl/P13_05_book_bibl_2012.jpg" alt=Письмо с благодарностью от Президента Университета Сорбонны (2012)" width="100">
+<img src="bibl/P13_05_book_bibl_2012.jpg" alt="Письмо с благодарностью от Президента Университета Сорбонны (2012)" width="100">
 </a>
 </div>
 
@@ -871,16 +871,16 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- Пример первых 4 копии -->
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
-<img src="nobel/P14_01_book_nobel_2017.jpg" alt=Письмо от Jean Tirole (2017)" width="100">
+<img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" width="100">
 </a>
 <a href="nobel/P14_02_book_nobel_2020.JPG" data-lightbox="nobel" data-title="Письмо от Angus S. Deaton (2020)">
-<img src="nobel/P14_02_book_nobel_2020.JPG" alt=Письмо от Angus S. Deaton (2020)" width="100">
+<img src="nobel/P14_02_book_nobel_2020.JPG" alt="Письмо от Angus S. Deaton (2020)" width="100">
 </a>
 <a href="nobel/P14_03_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Письмо от Joseph E. Stiglitz (2025)">
-<img src="nobel/P14_03_book_nobel_2025.jpg" alt=Письмо от Joseph E. Stiglitz (2025)" width="100">
+<img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" width="100">
 </a>
 <a href="nobel/P14_04_book_nobel_2019.jpg" data-lightbox="nobel" data-title="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)">
-<img src="nobel/P14_04_book_nobel_2025.jpg" alt=Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" width="100">
+<img src="nobel/P14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" width="100">
 </a>
 
 </div>
@@ -918,22 +918,22 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
-<img src="present/P15_01_book_present_2019.jpg" alt=Книга подаренная С.Ю. Глазьевым (2019)" width="100">
+<img src="present/P15_01_book_present_2019.jpg" alt="Книга подаренная С.Ю. Глазьевым (2019)" width="100">
  </a>
 <a href="present/P15_02_book_present_2018.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2018)">
-<img src="present/P15_02_book_present_2018.jpg" alt=Книга подаренная С.Д Бодруновым (2018)" width="100">
+<img src="present/P15_02_book_present_2018.jpg" alt="Книга подаренная С.Д Бодруновым (2018)" width="100">
 </a>
 <a href="present/P15_03_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2019)">
-<img src="present/P15_03_book_present_2019.jpg" alt=Книга подаренная С.Д Бодруновым (2019)" width="100">
+<img src="present/P15_03_book_present_2019.jpg" alt="Книга подаренная С.Д Бодруновым (2019)" width="100">
 </a>
 <a href="present/P15_04_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)">
-<img src="present/P15_04_book_present_2019.jpg" alt=Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" width="100">
+<img src="present/P15_04_book_present_2019.jpg" alt="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" width="100">
 </a>
 <a href="present/P15_05_book_present_2005.jpg" data-lightbox="present" data-title="Книга подаренная Е.В. Стельмашонок (2005)">
 <img src="present/P15_05_book_present_2005.jpg" alt=Книга подаренная Е.В. Стельмашонок (2005)" width="100">
 </a>
 <a href="present/P15_06_book_present_2004.jpg" data-lightbox="present" data-title="Книга подаренная Ф.Ф. Павновым (2004)">
-<img src="present/P15_06_book_present_2004.jpg" alt=Книга подаренная Ф.Ф. Павновым (2004)" width="100">
+<img src="present/P15_06_book_present_2004.jpg" alt="Книга подаренная Ф.Ф. Павновым (2004)" width="100">
 </a>
 </div>
 
@@ -971,25 +971,25 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- Пример первых 7 копии -->
 <a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
-<img src="kvalif/P16_01_book_kvalif_2019.jpg" alt=Методология анализа и проектирования бизнес систем (2013)" width="100">
+<img src="kvalif/P16_01_book_kvalif_2019.jpg" alt="Методология анализа и проектирования бизнес систем (2013)" width="100">
  </a>
 <a href="kvalif/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат достижения майкрософт (2018)">
-<img src="kvalif/P16_02_book_kvalif_2019.jpg" alt=Сертификат достижения майкрософт (2018)" width="100">
+<img src="kvalif/P16_02_book_kvalif_2019.jpg" alt="Сертификат достижения майкрософт (2018)" width="100">
 </a>
 <a href="kvalif/P16_03_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации по педагогике и психологии Высшей школы (СПбГПМУ) (2013)">
-<img src="kvalif/P16_03_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации по педагогике и психологии Высшей школы (СПбГПМУ) (2013)" width="100">
+<img src="kvalif/P16_03_book_kvalif_2019.jpg" alt="Сертификат повышения квалификации по педагогике и психологии Высшей школы (СПбГПМУ) (2013)" width="100">
 </a>
 <a href="kvalif/P16_04_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Организация перевозок и управления на транспорте” (СПбГУАП) (2017)">
-<img src="kvalif/P16_04_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации “Организация перевозок и управления на транспорте” (СПбГУАП) (2017)" width="100">
+<img src="kvalif/P16_04_book_kvalif_2019.jpg" alt="Сертификат повышения квалификации “Организация перевозок и управления на транспорте” (СПбГУАП) (2017)" width="100">
 </a>
 <a href="kvalif/P16_05_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Противодействия коррупции” (СПбГАСУ) (2018)">
-<img src="kvalif/P16_05_book_kvalif_2019.jpg" alt=Противодействия коррупции” (СПбГАСУ) (2018)" width="100">
+<img src="kvalif/P16_05_book_kvalif_2019.jpg" alt="Противодействия коррупции” (СПбГАСУ) (2018)" width="100">
 </a>
 <a href="kvalif/P16_06_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2021)">
-<img src="kvalif/P16_06_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2021)" width="100">
+<img src="kvalif/P16_06_book_kvalif_2019.jpg" alt="Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2021)" width="100">
 </a>
 <a href="kvalif/P16_07_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации “Организация перевозок и управление на транспорте” (СПбГУАП) (2023)">
-<img src="kvalif/P16_07_book_kvalif_2019.jpg" alt=Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2023)" width="100">
+<img src="kvalif/P16_07_book_kvalif_2019.jpg" alt="Сертификат повышения квалификации “Информационно-коммуникационные технологии в образовательной деятельности” (ИРДПО) (2023)" width="100">
 </a>
 
 </div>
