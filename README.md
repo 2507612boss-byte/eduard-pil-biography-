@@ -719,12 +719,6 @@ h2>Письма от монархов и политиков</h2>
 <a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2012)">
 <img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" width="100">
 </a>
-<a href="kastro/P12_06_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Австралии (2011)">
-<img src="kastro/P12_06_book_kastro_2017.jpg" alt="Письмо из Австралии (2011)" width="100">
-</a>
-<a href="kastro/P12_07_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Австралии (2012)">
-<img src="kastro/P12_07_book_kastro_2017.jpg" alt="Письмо из Австралии (2012)" width="100">
-</a>
 <a href="kastro/P12_08_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Англии (2011)">
 <img src="kastro/P12_08_book_kastro_2017.jpg" alt=Письмо из Англии (2011)" width="100">
 </a>
