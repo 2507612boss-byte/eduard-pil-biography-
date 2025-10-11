@@ -102,6 +102,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Галерея дипломов</title>
+    <!-- Подключаем CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
     <style>
         body { 
@@ -140,6 +141,11 @@
     </a>
 </div>
 
+<!-- 🔴 ВАЖНО: добавьте эту строку! -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+</body>
+</html>
 
 
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
