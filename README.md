@@ -686,31 +686,93 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Письмаотмонарховиполитиков</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<title>Галерея писем</title>
 <style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
+body {
+  font-family: sans-serif;
+  background: #f9f9f9;
+  margin: 20px;
 }
-.gallery img:hover { transform: scale(1.05); }
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+/* Контейнер для миниатюры */
+figure {
+  position: relative;
+  margin: 0;
+  text-align: center;
+}
+
+/* Миниатюра */
+figure img {
+  width: 120px;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+/* Эффект увеличения при наведении */
+figure img:hover {
+  transform: scale(2);
+  z-index: 2;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+/* Подпись под миниатюрой */
+figcaption {
+  margin-top: 6px;
+  font-size: 14px;
+  color: #333;
+}
 </style>
 </head>
 <body>
-  
-<h2>Письма от монархов и политиков</h2>
-<divclass=kastro"">
-<!-- Пример первых 11 письма -->
+
+<h1>Галерея писем</h1>
+
+<div class="gallery">
+  <!-- Каждая миниатюра -->
+  <figure>
+    <a href="kastro/P12_03_book_kastro_2017.jpg" target="_blank">
+      <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)">
+    </a>
+    <figcaption>Письмо из Канады (2011)</figcaption>
+  </figure>
+
+  <figure>
+    <a href="kastro/P12_04_letter_queen_2019.jpg" target="_blank">
+      <img src="kastro/P12_04_letter_queen_2019.jpg" alt="Письмо от королевы (2019)">
+    </a>
+    <figcaption>Письмо от королевы (2019)</figcaption>
+  </figure>
+
+  <figure>
+    <a href="kastro/P12_05_letter_president_2020.jpg" target="_blank">
+      <img src="kastro/P12_05_letter_president_2020.jpg" alt="Письмо от президента (2020)">
+    </a>
+    <figcaption>Письмо от президента (2020)</figcaption>
+  </figure>
+</div>
+
+</body>
+</html>
+
 
 <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
 <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
