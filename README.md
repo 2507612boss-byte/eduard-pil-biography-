@@ -674,8 +674,9 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 </div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script 
+    src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js">
+  </script>
 </body>
 </html>
 
