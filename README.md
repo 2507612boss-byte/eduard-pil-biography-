@@ -699,10 +699,9 @@ width: 100px; /* компактныеминиатюры */
 }
 .gallery img:hover { transform: scale(1.05); }
 </style>
-  <script 
- src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script> 
   </head>
-<body>
+ src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script> 
+    <body>
 
 <h2>Письма от монархов и политиков</h2>
 <divclass=kastro"">
