@@ -141,9 +141,7 @@
 </div>
 
 
-<a href="https://via.placeholder.com/800x600" data-lightbox="test" title="Мои книги">
-    <img src="https://via.placeholder.com/100x80" width="100">
-</a>
+
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
 <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="Д.т.н." width="100">
 </a>
