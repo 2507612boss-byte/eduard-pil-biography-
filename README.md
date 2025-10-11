@@ -702,6 +702,18 @@ width: 100px; /* компактныеминиатюры */
     src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js">
   </script>
 </body>
+  <body>
+  <h1>Галерея писем</h1>
+
+  <div class="gallery">
+    <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
+      <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
+    </a>
+  </div>
+
+  <!-- Подключаем JS Lightbox -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </html>
   
 <h2>Письма от монархов и политиков</h2>
