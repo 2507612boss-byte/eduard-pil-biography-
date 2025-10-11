@@ -147,7 +147,6 @@
 </body>
 </html>
 
-
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
 <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="Д.т.н." width="100">
 </a>
