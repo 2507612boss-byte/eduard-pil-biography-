@@ -18,46 +18,75 @@
 
 # Eduard Anatolyevich Pil
 
-**Eduard Anatolyevich Pil** (born 1950) is a Soviet and Russian encyclopedic scholar, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural History (RAE). Author of **42 books, 27 textbooks**, and more than 1,590 scientific papers in the fields of mechanical engineering technology, economics, linguistics, medicine, as well as works of fiction. Recipient of numerous international and Russian awards, Honored Scientist and Educator of the RAE (2011). Record holder in the Russian Book of Records (2016) for scientific productivity. His monographs have been awarded the highest distinctions at leading international book exhibitions, fairs, and salons.
+**Eduard Anatolyevich Pil** (born 1950) — Soviet and Russian encyclopedic scientist, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural History (RANH).  
+Author of **42 books** (including 1 on automobiles, 1 work of fiction, 4 technical, 8 English-language, 10 medical, and 18 economic), **27 textbooks**, and more than **1,660 scientific works** in mechanical engineering, economics, linguistics, medicine, and fiction.  
+Holder of numerous Russian and international awards, Honored Scientist and Educator of RAE (2011), and **Russian Book of Records laureate (2016)** for scientific productivity.  
+His monographs have received top honors at major international book exhibitions and fairs.
 
-## Biography: The Path of an Encyclopedic Scholar
+---
 
-Eduard Anatolyevich Pil was born in 1950. In 1967, he entered a higher technical educational institution, graduating in 1973 with a specialization related to hydraulic turbines and automation. Alongside his engineering studies, he pursued intensive English training at the two-year State Foreign Language Courses, building a foundation for his future international scientific career. 
+## 🧭 Biography: The Path of an Encyclopedic Scholar
 
-He began his scientific career in 1973 at research institutes, working on the development of technological processes for CNC (Computer Numerical Control) machines. From 1981 to 1996, he worked at the Leningrad Institute of Fine Mechanics and Optics (LITMO), advancing from senior engineer to senior researcher. He completed his postgraduate and doctoral studies here. During this period, his main scientific interests in the field of mechanical engineering technology were formed. In 1999, he successfully defended his doctoral dissertation on "Improving the Productivity of Machining Housing Parts on CNC Machines Based on Complexity Theory" at the St. Petersburg State Marine Technical University (SPbSMTU).
+Eduard Anatolyevich Pil was born in 1950 into a family of railway workers.  
+His father, grandfather, and great-grandfather worked as locomotive drivers on the Oktyabrskaya Railway (formerly the Nikolaev Railway). His mother, Vera Fyodorovna Grigoryeva, was the chief accountant at the Leningrad–Warsaw Railway Polyclinic.
 
-Since 2000, he has been actively engaged in teaching at leading universities in St. Petersburg, including Emperor Alexander I St. Petersburg State Transport University (PGUPS) (Head of Department) and the State Polar Academy (Head of Department). This period marked the expansion of his scientific interests into economics and linguistics.
+In 1967, he entered a higher technical institution, graduating in 1973 with a degree in hydraulic turbines and automation.  
+Alongside engineering studies, he completed a two-year program in English at the State Foreign Language Courses — forming a foundation for his later international academic work.
 
-## Global Recognition: Awards and Distinctions
+He began his research career in 1973 at several All-Union Research Institutes, developing technological processes and control software for CNC machines.  
+From 1981 to 1996, he worked at the Leningrad Institute of Fine Mechanics and Optics (LITMO), advancing from senior engineer to senior researcher. There he completed postgraduate and doctoral studies, defining his main research interests in mechanical and instrument engineering technologies.
 
-### Highest Academic Titles and State Awards
-*   Doctor of Technical Sciences (1999)
-*   Professor (2012)
-*   Corresponding Member of the International Academy of Sciences of the Higher School (2000)
-*   Corresponding Member of the Russian Academy of Natural Sciences (RAE, 2011)
-*   Full Member (Academician) of the Russian Academy of Natural Sciences (RAE, 2016)
-*   Honored Scientist and Educator of RAE (2011)
+In 1999, he defended his doctoral dissertation *“Improving the Productivity of Machining of Casing Parts on CNC Machines Based on the Theory of Complexity”* at the Saint Petersburg State Marine Technical University.
 
-### Gold Medals for Scientific Works at International Exhibitions
-Eduard Pil's scientific monographs have received highest recognition at the global level.
-*   **Five Gold Medals** for the monograph series "Theory of Economic Crises":
-    *   Frankfurt Book Fair (Germany, 2017)
-    *   London Book Fair (UK, 2017)
-    *   Paris Book Salon (France, 2018)
-    *   BookExpo America (USA, New York, 2019)
-    *   International Book Fair (Vienna, Austria, 2019)
-*   **Two Gold Medals** for other economic research:
-    *   For the book "Theoretical and Statistical Variants of the Development of the Economy and Population of Different Countries of the World and Their Forecast" (LIBER Barcelona, Spain, 2018)
-    *   For the book "Analysis of GDP and Population of Different Countries of the World from 1960 to 2006 and Their Forecast until 2030" (HKTDC Hong Kong Book Fair, Hong Kong, 2019)
-*   **Gold Medal "For Innovative Work in Higher Education"** (RAE, 2025)
+Since 2000, he has taught at major universities in Saint Petersburg — including the Emperor Alexander I St. Petersburg State Transport University and the State Polar Academy — expanding his interests into economics and linguistics.
 
-### Public and International Recognition
-Scientific works of Eduard Pil have found response in the highest political and scientific circles of the world.
-*   **Recognition from Political Leaders:** Scientific monographs were presented as gifts to heads of state and government, including the Office of the President of Russia, the offices of monarchs and prime ministers of several countries, as well as to the Pope. In response, official letters of gratitude were received, as well as **two personal postcards from the leader of the Cuban Revolution, Fidel Castro** (2012, 2014).
-*   **Dialogue with Scientific Elite:** Eduard Anatolyevich maintains professional correspondence with Nobel Prize laureates in economics, discussing issues of his developed "Theory of Economic Crises."
+---
 
-## Scientific Legacy: 1,660 Works, Including 42 Books
-Eduard Anatolyevich Pil is the author of more than 1,600 scientific, educational, and popular science works, demonstrating exceptional productivity. Of these, 1,474 works were published without co-authors.
+## 🏅 Global Recognition: Awards and Honors
+
+### Academic Titles and Awards
+- Doctor of Technical Sciences (1999)  
+- Professor (2012)  
+- Corresponding Member, International Academy of Higher Education Sciences (2000)  
+- Corresponding Member, Russian Academy of Natural Sciences (2011)  
+- Honored Scientist and Educator of RAE (2011)  
+- Academician, Russian Academy of Natural Sciences (2016)
+
+### Gold Medals at International Exhibitions
+His monographs have earned **global recognition**:
+
+- **Five Gold Medals** for the monograph cycle *“Theory of Economic Crises”*:
+  - Frankfurt Book Fair (Germany, 2017)  
+  - London Book Fair (UK, 2017)  
+  - Paris Book Salon (France, 2018)  
+  - BookExpo America (USA, 2019)  
+  - Vienna International Book Exhibition (Austria, 2019)
+- **Two Gold Medals** for other economic studies:
+  - *“Theoretical and Statistical Variants of Economic and Population Development of the World’s Countries”* (LIBER Barcelona, Spain, 2018)  
+  - *“Analysis of GDP and Population from 1960 to 2006 and Forecast up to 2030”* (Hong Kong Book Fair, 2019)
+- Gold Medal *“For Innovative Work in Higher Education”* (RAE, 2025)
+
+---
+
+## 🌍 Public and International Recognition
+
+His scientific works have been acknowledged by **heads of state, international institutions, and Nobel Prize laureates**.  
+Letters of appreciation were received from:
+- The Administration of the President of the Russian Federation  
+- The Office of His Majesty the King of Spain  
+- The Office of the Prince of Wales (now King Charles III)  
+- The Vatican (Pope Benedict XVI)  
+- The Prime Ministers of Canada and Australia  
+- The Office of Fidel Castro, Leader of the Cuban Revolution  
+
+He received personal postcards from Fidel Castro (2012, 2014) and official letters with national seals — evidence of recognition in political and academic circles.
+
+---
+
+## 📚 Scientific Legacy
+
+Eduard A. Pil is the author of **over 1,660 publications**, including **42 books** and **27 textbooks**, with **1,474 works published independently** — a record of exceptional productivity in modern science.
+
 
 ### Fundamental Monograph Cycles
 **1. Cycle "Theory of Economic Crises" (6 volumes, 3,268 pages)**
