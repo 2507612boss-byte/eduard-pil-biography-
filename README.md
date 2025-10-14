@@ -173,7 +173,7 @@ P1_11_sertifikat_ligi_intellektualov_2021.jpg
 P1_12_diplom_mir_econ_nauki_2016.jpg
 P1_13_sertifikat_souza_2022.jpg
 
-⬆️ [Вернуться к содержанию](../README.md#содержание)
+⬆️ [Вернуться к содержанию](../)
 
 ---
 
@@ -184,7 +184,7 @@ P1_13_sertifikat_souza_2022.jpg
 - ![P2_03_book_theory_obrab_korp_detals_2003](technology/P2_03_book_theory_obrab_korp_detals_2003.jpg)  
 - ![P2_04_book_CARS_2009](technology/P2_04_book_CARS_2009.jpg)  
 
-⬆️ [Вернуться к содержанию](../README.md#содержание)
+⬆️ [Вернуться к содержанию](../)
 
 ---
 
