@@ -136,9 +136,8 @@
 
 ## 🎓 Галерея дипломов  
 ⬆️ [Вернуться к содержанию](#-содержание)  
-![P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007](https://github.com/user-attachments/assets/56d43f42-8f57-4b01-b83b-391885412b7d)
-- ![Diploma 1](Diplomas/P1_00_diplom_dtn_2000.jpg.jpg) 
-- ![Diploma 1](Diplomas/P1_01_diplom_dtn_2000.jpg.jpg)  
+- ![Diploma 1](P1_00_moi_knigi_2025.jpg) 
+- ![Diploma 2](Diplomas/P1_01_diplom_dtn_2000.jpg)  
 *(Добавь сюда изображения или описание)*  
 
 ---
