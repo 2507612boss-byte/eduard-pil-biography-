@@ -774,75 +774,43 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Письмаотмонарховиполитиков</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+<h2 id="pisma-ot-monarkhov">Письма от монархов и политиков</h2>
+⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
+
 <div class="kastro">
-  <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письма от монархов и политиков">
-    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письма от монархов и политиков" width="100">
+  <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
+    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
   </a>
-  <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письма от монархов и политиков">
-    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письма от монархов и политиков" width="100">
+  <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
+    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письмо из Испании (2011)" width="100">
   </a>
-
- 
-<!-- Пример первых 11 письма -->
-<
-
-<a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
-<img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
-</a>
-<a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
-<img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письмо из Испании (2011)" width="100">
-</a>
-<a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2012)">
-<img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" width="100">
-</a>
-<a href="kastro/P12_08_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Англии (2011)">
-<img src="kastro/P12_08_book_kastro_2017.jpg" alt=Письмо из Англии (2011)" width="100">
-</a>
-<a href="kastro/P12_09_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Германии (2011)">
-<img src="kastro/P12_09_book_kastro_2017.jpg" alt="Письмо из Германии (2011)" width="100">
-</a>
-<a href="kastro/P12_10_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Ватикана (2012)">
-<img src="kastro/P12_10_book_kastro_2017.jpg" alt=Письмо из Ватикана (2012)" width="100">
-</a>
-<a href="kastro/P12_11_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2012)">
-<img src="kastro/P12_11_book_kastro_2017.jpg" alt="Письмо из Кубы (2012)" width="100">
-</a>
-<a href="kastro/P12_12_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2014)">
-<img src="kastro/P12_12_book_kastro_2017.jpg" alt=Письмо из Кубы (2014)" width="100">
-</a>
-<a href="kastro/P12_13_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Бразилии (2014)">
-<img src="kastro/P12_13_book_kastro_2017.jpg" alt="Письмо из Бразии (2014)" width="100">
-</a>
-
-</a>
-
+  <a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2012)">
+    <img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" width="100">
+  </a>
+  <a href="kastro/P12_08_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Англии (2011)">
+    <img src="kastro/P12_08_book_kastro_2017.jpg" alt="Письмо из Англии (2011)" width="100">
+  </a>
+  <a href="kastro/P12_09_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Германии (2011)">
+    <img src="kastro/P12_09_book_kastro_2017.jpg" alt="Письмо из Германии (2011)" width="100">
+  </a>
+  <a href="kastro/P12_10_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Ватикана (2012)">
+    <img src="kastro/P12_10_book_kastro_2017.jpg" alt="Письмо из Ватикана (2012)" width="100">
+  </a>
+  <a href="kastro/P12_11_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2012)">
+    <img src="kastro/P12_11_book_kastro_2017.jpg" alt="Письмо из Кубы (2012)" width="100">
+  </a>
+  <a href="kastro/P12_12_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2014)">
+    <img src="kastro/P12_12_book_kastro_2017.jpg" alt="Письмо из Кубы (2014)" width="100">
+  </a>
+  <a href="kastro/P12_13_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Бразилии (2014)">
+    <img src="kastro/P12_13_book_kastro_2017.jpg" alt="Письмо из Бразилии (2014)" width="100">
+  </a>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
-</html>
-<
+
+
+
 
 
 <!DOCTYPE html>
