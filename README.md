@@ -774,7 +774,7 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-<h2 id="pisma-ot-monarkhov">Письма от монархов и политиков</h2>
+<h2 id="pisma-ot-monarkhov">📬 Письма от монархов и политиков</h2>
 ⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
 
 <div class="kastro">
