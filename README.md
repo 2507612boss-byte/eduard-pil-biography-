@@ -795,8 +795,14 @@ width: 100px; /* компактныеминиатюры */
 </style>
 </head>
 <body>
+<div class="kastro">
+  <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письма от монархов и политиков">
+    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письма от монархов и политиков" width="100">
+  </a>
+  <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письма от монархов и политиков">
+    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письма от монархов и политиков" width="100">
+  </a>
 
-  
  
 <!-- Пример первых 11 письма -->
 <
