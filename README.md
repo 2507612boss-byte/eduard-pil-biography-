@@ -184,7 +184,7 @@ P1_13_sertifikat_souza_2022.jpg
 - ![P2_03_book_theory_obrab_korp_detals_2003](technology/P2_03_book_theory_obrab_korp_detals_2003.jpg)  
 - ![P2_04_book_CARS_2009](technology/P2_04_book_CARS_2009.jpg)  
 
-⬆️ [Вернуться к содержанию](#содержание)
+⬆️ [Вернуться к содержанию](../README.md#содержание)
 
 ---
 
