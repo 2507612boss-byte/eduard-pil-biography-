@@ -135,8 +135,9 @@
 ---
 
 ## 🎓 Галерея дипломов  
-- ![Diploma 1](Diplomas/P1_00_moi_knigi_2025.jpg) 
-- ![Diploma 2](Diplomas/P1_01_diplom_dtn_2000.jpg)  
+/README.md
+/Diplomas/P1_00_moi_knigi_2025.jpg
+/Diplomas/P1_01_diplom_dtn_2000.jpg 
 ⬆️ [Вернуться к содержанию](#-содержание)
 
 *(Добавь сюда изображения или описание)*  
