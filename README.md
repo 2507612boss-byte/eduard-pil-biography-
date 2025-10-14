@@ -158,6 +158,9 @@
 
 ---
 ## 🎓 Галерея дипломов
+⬆️ [Вернуться к Содержанию](../)
+
+<!-- Сами дипломы -->
 P1_00_moi_knigi_2025.jpg
 P1_01_diplom_dtn_2000.jpg   
 P1_02_diplom_prof_rae_2012.jpg   
@@ -173,7 +176,7 @@ P1_11_sertifikat_ligi_intellektualov_2021.jpg
 P1_12_diplom_mir_econ_nauki_2016.jpg
 P1_13_sertifikat_souza_2022.jpg
 
-⬆️ [Вернуться к Содержанию](../)
+
 
 ---
 
