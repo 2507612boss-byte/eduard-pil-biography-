@@ -1007,7 +1007,82 @@ width: 100px; /* компактныеминиатюры */
 </html>
 <
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Генеалогическоедревоотца</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
 
+<h2>Генеалогическое древо отца</h2>
+
+<divclass=kvalif"">
+
+<!-- Пример первых 1 копии -->
+<a href="tree/P17_01_book_tree_2025.pdf" data-lightbox="kvalif" data-title="Генеалогическое древо отца">
+<img src="tree/P17_01_book_tree_2025.pdf" alt="Генеалогическое древо отца" width="100">
+ </a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+<
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Генеалогическоедревоматери</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Генеалогическое древо матери</h2>
+
+<divclass=kvalif"">
+
+<!-- Пример первых 1 копии -->
+<a href="tree/P17_02_book_tree_2025.pdf" data-lightbox="kvalif" data-title="Генеалогическое древо матери">
+<img src="tree/P17_02_book_tree_2025.pdf" alt="Генеалогическое древо матери" width="100">
+ </a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+<
 
 
 
