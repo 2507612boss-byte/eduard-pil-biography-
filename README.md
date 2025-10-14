@@ -160,11 +160,23 @@
 19. [🌿 Генеалогическое древо матери](#генеалогическое-древо-матери)
 
 ---
+ЧАСТЬ 1 СОДЕРЖАНИЕ 
+# 📚 Содержание
+
+1. [🎓 Галерея дипломов](#галерея-дипломов)
+2. [⚙️ Книги по технологии](#книги-по-технологии)
+3. [💉 Книги по медицине](#книги-по-медицине)
+4. [💰 Книги по экономике](#книги-по-экономике)
+5. [📘 Книги по английскому языку](#книги-по-английскому-языку)
+6. [📖 Художественная литература](#художественная-литература)
+7. [🧠 Статьи по теории английского языка](#статьи-по-теории-английского-языка)
+
+---
 
 ## 🎓 Галерея дипломов
 ⬆️ [Вернуться к содержанию](#содержание)
 
-- ![P1_00_moi_knigi_2025](images/P1_00_moi_knigi_2025.jpg)
+- ![P1_00_moi_knigi_2025](images/P1_00_moi_knigi_2025.jpg)  
 - ![P1_01_diplom_dtn_2000](images/P1_01_diplom_dtn_2000.jpg)  
 - ![P1_02_diplom_prof_rae_2012](images/P1_02_diplom_prof_rae_2012.jpg)  
 - ![P1_03_diplom_chlenkora_man_vsh_2000](images/P1_03_diplom_chlenkora_man_vsh_2000.jpg)  
@@ -184,7 +196,7 @@
 ## ⚙️ Книги по технологии
 ⬆️ [Вернуться к содержанию](#содержание)
 
-- ![P2_01_book_sapr_1993](technology/P2_01_book_sapr_1993.jpg)
+- ![P2_01_book_sapr_1993](technology/P2_01_book_sapr_1993.jpg)  
 - ![P2_02_book_obrab_detals_CNC_FMC_1998](technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg)  
 - ![P2_03_book_theory_obrab_korp_detals_2003](technology/P2_03_book_theory_obrab_korp_detals_2003.jpg)  
 - ![P2_04_book_CARS_2009](technology/P2_04_book_CARS_2009.jpg)
@@ -233,25 +245,6 @@
 
 - [P7_01_book_english1_2016](fiction/P7_01_book_english1_2016.pdf)  
 - [P7_02_book_english2_2018](fiction/P7_02_book_english2_2018.pdf)
-
----
-
-## 👤 Биография
-⬆️ [Вернуться к содержанию](#содержание)
-
-- ![P8_01_book_outstand_2010](biography/P8_01_book_outstand_2010.jpg)  
-- ![P8_02_book_abi_2011](biography/P8_02_book_abi_2011.jpg)  
-- ![P8_03_book_who_2012](biography/P8_03_book_who_2012.jpg)  
-- ![P8_04_book_pgup1_2002](biography/P8_04_book_pgup1_2002.jpg)  
-- ![P8_05_book_pgup2_2009](biography/P8_05_book_pgup2_2009.jpg)  
-- ![P8_06_book_sea_2015](biography/P8_06_book_sea_2015.jpg)  
-- ![P8_07_book_polet_2022](biography/P8_
-
-
-
-
-
-
 
 
 
