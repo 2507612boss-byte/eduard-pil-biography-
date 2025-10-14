@@ -247,7 +247,7 @@
 - [P7_02_book_english2_2018](fiction/P7_02_book_english2_2018.pdf)
 
 
-
+<!-- STOP -->
 
 
 
@@ -326,7 +326,6 @@ width: 100px; /* компактныеминиатюры */
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg" alt="Союзписателей" width="100">
 </a>
 
-<!-- Далее добавляйте остальные дипломы, просто копируя блок <a> с <img> и меняя путь и alt/title -->
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
