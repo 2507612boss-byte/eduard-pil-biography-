@@ -164,7 +164,8 @@
 ## 🎓 Галерея дипломов
 ⬆️ [Вернуться к содержанию](#содержание)
 
-- ![P1_00_moi_knigi_2025](images/P1_00_moi_knigi_2025.jpg)  
+- ![P1_00_moi_knigi_2025](images/P1_00_moi_knigi_2025.jpg)
+- - <img src="images/P1_00_moi_knigi_2025.jpg" width="100px">
 - ![P1_01_diplom_dtn_2000](images/P1_01_diplom_dtn_2000.jpg)  
 - ![P1_02_diplom_prof_rae_2012](images/P1_02_diplom_prof_rae_2012.jpg)  
 - ![P1_03_diplom_chlenkora_man_vsh_2000](images/P1_03_diplom_chlenkora_man_vsh_2000.jpg)  
@@ -184,7 +185,8 @@
 ## ⚙️ Книги по технологии
 ⬆️ [Вернуться к содержанию](#содержание)
 
-- ![P2_01_book_sapr_1993](technology/P2_01_book_sapr_1993.jpg)  
+- ![P2_01_book_sapr_1993](technology/P2_01_book_sapr_1993.jpg)
+- - <img src="images/P1_00_moi_knigi_2025.jpg" width="100px">
 - ![P2_02_book_obrab_detals_CNC_FMC_1998](technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg)  
 - ![P2_03_book_theory_obrab_korp_detals_2003](technology/P2_03_book_theory_obrab_korp_detals_2003.jpg)  
 - ![P2_04_book_CARS_2009](technology/P2_04_book_CARS_2009.jpg)
