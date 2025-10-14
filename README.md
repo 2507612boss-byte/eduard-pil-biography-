@@ -173,7 +173,7 @@ P1_11_sertifikat_ligi_intellektualov_2021.jpg
 P1_12_diplom_mir_econ_nauki_2016.jpg
 P1_13_sertifikat_souza_2022.jpg
 
-⬆️ [Вернуться к содержанию](#содержание)
+⬆️ [Вернуться к содержанию](../README.md#содержание)
 
 ---
 
