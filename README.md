@@ -136,12 +136,6 @@
 
 ## 🎓 Галерея дипломов  
 /README.md
-1. [Галерея дипломов](#галерея-дипломов)
-
----
-
-## Галерея дипломов
-
 - ![Diploma 1](Diplomas/P1_00_moi_knigi_2025.jpg)  
 - ![Diploma 2](Diplomas/P1_01_diplom_dtn_2000.jpg)
 
