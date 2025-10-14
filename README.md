@@ -136,8 +136,8 @@
 
 ## 🎓 Галерея дипломов  
 /README.md
-- ![Diploma 1](Diplomas/P1_01_diplom_dtn_2000.jpg.jpg)  
-- ![Diploma 2](P1_02_diplom_prof_rae_2012.jpg.jpg)
+- ![Diploma 1](Diplomas/P1_01_diplom_dtn_2000.jpg)  
+- ![Diploma 2](Diplomas/P1_02_diplom_prof_rae_2012.jpg)
   
 ⬆️ [Вернуться к содержанию](#содержание)
 
