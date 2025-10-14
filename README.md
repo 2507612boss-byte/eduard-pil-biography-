@@ -134,114 +134,110 @@
 
 ---
 
-# Содержание
 
-- [🎓 Галерея дипломов](#галерея-дипломов)
-- [⚙️ Книги по технологии](#книги-по-технологии)
-- [💉 Книги по медицине](#книги-по-медицине)
-- [💰 Книги по экономике](#книги-по-экономике)
-- [📘 Книги по английскому языку](#книги-по-английскому-языку)
-- [📖 Художественная литература](#художественная-литература)
-- [🧠 Статьи по теории английского языка](#статьи-по-теории-английского-языка)
-- [👤 Биография](#биография)
-- [🏆 Книга Рекордов России](#книга-рекордов-россии)
-- [📰 Статьи из журналов и конференций](#статьи-из-журналов-и-конференций)
-- [📜 Сертификаты выступлений на конференциях](#сертификаты-выступлений-на-конференциях)
-- [👑 Письма от монархов и политиков](#письма-от-монархов-и-политиков)
-- [🌍 Открытки от Фиделя Кастро](#открытки-от-фиделя-кастро)
-- [🏛️ Книги, подаренные библиотекам](#книги-подаренные-библиотекам)
-- [🏅 Письма от нобелевских лауреатов по экономике](#письма-от-нобелевских-лауреатов-по-экономике)
-- [🔬 Книги, подаренные известными учёными](#книги-подаренные-известными-учёными)
-- [🎓 Сертификаты повышения квалификации](#сертификаты-повышения-квалификации)
-- [🌳 Генеалогическое древо отца](#генеалогическое-древо-отца)
-- [🌿 Генеалогическое древо матери](#генеалогическое-древо-матери)
+
+
+# 📚 Содержание
+
+1. [🎓 Галерея дипломов](#галерея-дипломов)
+2. [⚙️ Книги по технологии](#книги-по-технологии)
+3. [💉 Книги по медицине](#книги-по-медицине)
+4. [💰 Книги по экономике](#книги-по-экономике)
+5. [📘 Книги по английскому языку](#книги-по-английскому-языку)
+6. [📖 Художественная литература](#художественная-литература)
+7. [🧠 Статьи по теории английского языка](#статьи-по-теории-английского-языка)
+8. [👤 Биография](#биография)
+9. [🏆 Книга Рекордов России](#книга-рекордов-россии)
+10. [📰 Статьи из журналов и конференций](#статьи-из-журналов-и-конференций)
+11. [📜 Сертификаты выступлений на конференциях](#сертификаты-выступлений-на-конференциях)
+12. [👑 Письма от монархов и политиков](#письма-от-монархов-и-политиков)
+13. [🌍 Открытки от Фиделя Кастро](#открытки-от-фиделя-кастро)
+14. [🏛️ Книги, подаренные библиотекам](#книги-подаренные-библиотекам)
+15. [🏅 Письма от нобелевских лауреатов по экономике](#письма-от-нобелевских-лауреатов-по-экономике)
+16. [🔬 Книги, подаренные известными учёными](#книги-подаренные-известными-учёными)
+17. [🎓 Сертификаты повышения квалификации](#сертификаты-повышения-квалификации)
+18. [🌳 Генеалогическое древо отца](#генеалогическое-древо-отца)
+19. [🌿 Генеалогическое древо матери](#генеалогическое-древо-матери)
 
 ---
+
 ## 🎓 Галерея дипломов
-⬆️ [Вернуться к Содержанию](../)
+⬆️ [Вернуться к содержанию](#содержание)
 
-<!-- Сами дипломы -->
-P1_00_moi_knigi_2025.jpg
-P1_01_diplom_dtn_2000.jpg   
-P1_02_diplom_prof_rae_2012.jpg   
-P1_03_diplom_chlenkora_man_vsh_2000.jpg
-P1_04_diplom_chlenkora_rae_2011.jpg
-P1_05_diplom_zasluzh_nauki_2011.jpg
-P1_06_diplom_akademika_rae_2016.jpg
-P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg
-P1_08_diplom_life_fellowship_cambridge_2007.jpg
-P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg
-P1_10_diplom_zolotaya_medal_usa_2008.jpg
-P1_11_sertifikat_ligi_intellektualov_2021.jpg
-P1_12_diplom_mir_econ_nauki_2016.jpg
-P1_13_sertifikat_souza_2022.jpg
-
-
+- ![P1_00_moi_knigi_2025](images/P1_00_moi_knigi_2025.jpg)  
+- ![P1_01_diplom_dtn_2000](images/P1_01_diplom_dtn_2000.jpg)  
+- ![P1_02_diplom_prof_rae_2012](images/P1_02_diplom_prof_rae_2012.jpg)  
+- ![P1_03_diplom_chlenkora_man_vsh_2000](images/P1_03_diplom_chlenkora_man_vsh_2000.jpg)  
+- ![P1_04_diplom_chlenkora_rae_2011](images/P1_04_diplom_chlenkora_rae_2011.jpg)  
+- ![P1_05_diplom_zasluzh_nauki_2011](images/P1_05_diplom_zasluzh_nauki_2011.jpg)  
+- ![P1_06_diplom_akademika_rae_2016](images/P1_06_diplom_akademika_rae_2016.jpg)  
+- ![P1_07_diplom_zolotaya_kafedra_rossii_2011](images/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg)  
+- ![P1_08_diplom_life_fellowship_cambridge_2007](images/P1_08_diplom_life_fellowship_cambridge_2007.jpg)  
+- ![P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007](images/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg)  
+- ![P1_10_diplom_zolotaya_medal_usa_2008](images/P1_10_diplom_zolotaya_medal_usa_2008.jpg)  
+- ![P1_11_sertifikat_ligi_intellektualov_2021](images/P1_11_sertifikat_ligi_intellektualov_2021.jpg)  
+- ![P1_12_diplom_mir_econ_nauki_2016](images/P1_12_diplom_mir_econ_nauki_2016.jpg)  
+- ![P1_13_sertifikat_souza_2022](images/P1_13_sertifikat_souza_2022.jpg)
 
 ---
 
 ## ⚙️ Книги по технологии
+⬆️ [Вернуться к содержанию](#содержание)
 
 - ![P2_01_book_sapr_1993](technology/P2_01_book_sapr_1993.jpg)  
 - ![P2_02_book_obrab_detals_CNC_FMC_1998](technology/P2_02_book_obrab_detals_CNC_FMC_1998.jpg)  
 - ![P2_03_book_theory_obrab_korp_detals_2003](technology/P2_03_book_theory_obrab_korp_detals_2003.jpg)  
-- ![P2_04_book_CARS_2009](technology/P2_04_book_CARS_2009.jpg)  
-
-⬆️ [Вернуться к содержанию](../)
+- ![P2_04_book_CARS_2009](technology/P2_04_book_CARS_2009.jpg)
 
 ---
 
 ## 💉 Книги по медицине
+⬆️ [Вернуться к содержанию](#содержание)
 
 - ![P3_01_book_health_2010](Medical/P3_01_book_health_2010.jpg)  
-- ![P3_02_book_longevity_V6_2022](Medical/P3_02_book_longevity_V6_2022.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
+- ![P3_02_book_longevity_V6_2022](Medical/P3_02_book_longevity_V6_2022.jpg)
 
 ---
 
 ## 💰 Книги по экономике
+⬆️ [Вернуться к содержанию](#содержание)
 
 - ![P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011](economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg)  
 - ![P4_02_book_anal_VVP_nasel_stran_2012](economy/P4_02_book_anal_VVP_nasel_stran_2012.jpg)  
 - ![P4_03_book_teor_econ_cris_V6_2024](economy/P4_03_book_teor_econ_cris_V6_2024.jpg)  
 - ![P4_04_book_theory_econ_cris_Vol1_2020](economy/P4_04_book_theory_econ_cris_Vol1_2020.jpg)  
-- ![P4_05_book_nast_kniga_2025](economy/P4_05_book_nast_kniga_2025.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
+- ![P4_05_book_nast_kniga_2025](economy/P4_05_book_nast_kniga_2025.jpg)
 
 ---
 
 ## 📘 Книги по английскому языку
+⬆️ [Вернуться к содержанию](#содержание)
 
 - ![P5_01_book_letter_call_2000](english/P5_01_book_letter_call_2000.jpg)  
 - ![P5_02_book_slang_2001](english/P5_02_book_slang_2001.jpg)  
 - ![P5_03_book_jokes_2002](english/P5_03_book_jokes_2002.jpg)  
-- ![P5_04_book_words_2004](english/P5_04_book_words_2004.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
+- ![P5_04_book_words_2004](english/P5_04_book_words_2004.jpg)
 
 ---
 
-## Художественная литература
-
 ## 📖 Художественная литература
+⬆️ [Вернуться к содержанию](#содержание)
 
 - ![P6_01_book_stepan_2022](fiction/P6_01_book_stepan_2022.jpg)  
-- ![P6_02_book_rus_2025](fiction/P6_02_book_rus_2025.jpg)  
+- ![P6_02_book_rus_2025](fiction/P6_02_book_rus_2025.jpg)
 
-⬆️ [Вернуться к содержанию](#содержание)
-
+---
 
 ## 🧠 Статьи по теории английского языка
+⬆️ [Вернуться к содержанию](#содержание)
 
 - [P7_01_book_english1_2016](fiction/P7_01_book_english1_2016.pdf)  
-- [P7_02_book_english2_2018](fiction/P7_02_book_english2_2018.pdf)  
+- [P7_02_book_english2_2018](fiction/P7_02_book_english2_2018.pdf)
 
-⬆️ [Вернуться к содержанию](#содержание)
 ---
 
 ## 👤 Биография
+⬆️ [Вернуться к содержанию](#содержание)
 
 - ![P8_01_book_outstand_2010](biography/P8_01_book_outstand_2010.jpg)  
 - ![P8_02_book_abi_2011](biography/P8_02_book_abi_2011.jpg)  
@@ -249,145 +245,9 @@ P1_13_sertifikat_souza_2022.jpg
 - ![P8_04_book_pgup1_2002](biography/P8_04_book_pgup1_2002.jpg)  
 - ![P8_05_book_pgup2_2009](biography/P8_05_book_pgup2_2009.jpg)  
 - ![P8_06_book_sea_2015](biography/P8_06_book_sea_2015.jpg)  
-- ![P8_07_book_polet_2022](biography/P8_07_book_polet_2022.jpg)  
+- ![P8_07_book_polet_2022](biography/P8_
 
-⬆️ [Вернуться к содержанию](#содержание)
----
 
-## 🏆 Книга Рекордов России
-
-- ![P9_01_book_record1_2017](record/P9_01_book_record1_2017.jpg)  
-- ![P9_02_book_record2_2017](record/P9_02_book_record2_2017.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
----
-
-## 📰 Статьи из журналов и конференций
-
-- [P10_01_book_paper1_2017](papers/P10_01_book_paper1_2017.pdf)  
-- [P10_02_book_paper2_2017](papers/P10_02_book_paper2_2017.pdf)  
-- [P10_03_book_paper3_2017](papers/P10_03_book_paper3_2017.pdf)  
-- [P10_04_book_paper4_2017](papers/P10_04_book_paper4_2017.pdf)  
-- [P10_05_book_paper5_2018](papers/P10_05_book_paper5_2018.pdf)  
-- [P10_06_book_paper6_2016](papers/P10_06_book_paper6_2016.pdf)  
-- [P10_07_book_paper7_2018](papers/P10_07_book_paper7_2018.pdf)  
-- [P10_08_book_paper8_2019](papers/P10_08_book_paper8_2019.pdf)  
-- [P10_09_book_paper9_2019](papers/P10_09_book_paper9_2019.pdf)  
-- [P10_010_book_paper10_2019](papers/P10_010_book_paper10_2019.pdf)  
-- [P10_011_book_paper11_2021](papers/P10_011_book_paper11_2021.pdf)  
-- [P10_012_book_paper12_2019](papers/P10_012_book_paper12_2019.pdf)  
-- [P10_013_book_paper13_2019](papers/P10_013_book_paper13_2019.pdf)  
-
-⬆️ [Вернуться к содержанию](#содержание)
----
-
-## 📜 Сертификаты выступлений на конференциях
-
-- ![P11_01_book_papers1_2017](serpapers/P11_01_book_papers1_2017.jpg)  
-- ![P11_02_book_papers2_2017](serpapers/P11_02_book_papers2_2017.jpg)  
-- ![P11_03_book_papers3_2017](serpapers/P11_03_book_papers3_2017.jpg)  
-- ![P11_04_book_papers4_2017](serpapers/P11_04_book_papers4_2017.jpg)  
-- ![P11_05_book_papers5_2017](serpapers/P11_05_book_papers5_2017.jpg)  
-- ![P11_06_book_papers6_2017](serpapers/P11_06_book_papers6_2017.jpg)  
-- ![P11_07_book_papers7_2017](serpapers/P11_07_book_papers7_2017.jpg)  
-- ![P11_08_book_papers8_2017](serpapers/P11_08_book_papers8_2017.jpg)  
-- ![P11_09_book_papers9_2017](serpapers/P11_09_book_papers9_2017.jpg)  
-- ![P11_010_book_papers10_2017](serpapers/P11_010_book_papers10_2017.jpg)  
-- ![P11_011_book_papers11_2017](serpapers/P11_011_book_papers11_2017.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
----
-
-## 👑 Письма от монархов и политиков
-
-- ![P12_03_book_kastro_2017](kastro/P12_03_book_kastro_2017.jpg)  
-- ![P12_04_book_kastro_2017](kastro/P12_04_book_kastro_2017.jpg)  
-- ![P12_05_book_kastro_2017](kastro/P12_05_book_kastro_2017.jpg)  
-- ![P12_06_book_kastro_2017](kastro/P12_06_book_kastro_2017.jpg)  
-- ![P12_07_book_kastro_2017](kastro/P12_07_book_kastro_2017.jpg)  
-- ![P12_08_book_kastro_2017](kastro/P12_08_book_kastro_2017.jpg)  
-- ![P12_09_book_kastro_2017](kastro/P12_09_book_kastro_2017.jpg)  
-- ![P12_10_book_kastro_2017](kastro/P12_10_book_kastro_2017.jpg)  
-- ![P12_11_book_kastro_2017](kastro/P12_11_book_kastro_2017.jpg)  
-- ![P12_12_book_kastro_2017](kastro/P12_12_book_kastro_2017.jpg)  
-- ![P12_13_book_kastro_2017](kastro/P12_13_book_kastro_2017.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
-
----
-
-## 🌍 Открытки от Фиделя Кастро
-
-- ![P12_01_book_kastro_2017](kastro/P12_01_book_kastro_2017.jpg)  
-- ![P12_02_book_kastro_2017](kastro/P12_02_book_kastro_2017.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
----
-
-## 🏛️ Книги, подаренные библиотекам
-
-- ![P13_01_book_bibl_2025](bibl/P13_01_book_bibl_2025.jpg)  
-- ![P13_02_book_bibl_2025](bibl/P13_02_book_bibl_2025.jpg)  
-- ![P13_03_book_bibl_2012](bibl/P13_03_book_bibl_2012.JPG)  
-- ![P13_04_book_bibl_2012](bibl/P13_04_book_bibl_2012.jpg)  
-- ![P13_05_book_bibl_2012](bibl/P13_05_book_bibl_2012.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
----
-
-## 🏅 Письма от нобелевских лауреатов по экономике
-
-- ![P14_01_book_nobel_2017](nobel/P14_01_book_nobel_2017.jpg)  
-- ![P14_02_book_nobel_2020](nobel/P14_02_book_nobel_2020.jpg)  
-- ![P14_03_book_nobel_2025](nobel/P14_03_book_nobel_2025.jpg)  
-- ![P14_04_book_nobel_2025](nobel/P14_04_book_nobel_2025.jpg)  
-- ![P14_05_book_nobel_2025](nobel/P14_05_book_nobel_2025.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
-
----
-
-## 🔬 Книги, подаренные известными учёными
-
-- ![P15_01_book_present_2019](present/P15_01_book_present_2019.jpg)  
-- ![P15_02_book_present_2018](present/P15_02_book_present_2018.jpg)  
-- ![P15_03_book_present_2019](present/P15_03_book_present_2019.jpg)  
-- ![P15_04_book_present_2019](present/P15_04_book_present_2019.jpg)  
-- ![P15_05_book_present_2005](present/P15_05_book_present_2005.jpg)  
-- ![P15_06_book_present_2004](present/P15_06_book_present_2004.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
-
----
-
-## 🎓 Сертификаты повышения квалификации
-
-- ![P16_01_book_kvalif_2019](kvalif/P16_01_book_kvalif_2019.jpg)  
-- ![P16_02_book_kvalif_2019](kvalif/P16_02_book_kvalif_2019.jpg)  
-- ![P16_03_book_kvalif_2019](kvalif/P16_03_book_kvalif_2019.jpg)  
-- ![P16_04_book_kvalif_2019](kvalif/P16_04_book_kvalif_2019.jpg)  
-- ![P16_05_book_kvalif_2019](kvalif/P16_05_book_kvalif_2019.jpg)  
-- ![P16_06_book_kvalif_2019](kvalif/P16_06_book_kvalif_2019.jpg)  
-- ![P16_07_book_kvalif_2019](kvalif/P16_07_book_kvalif_2019.jpg)  
-
-⬆️ [Вернуться к содержанию](#содержание)
-
----
-
-## 🌳 Генеалогическое древо отца
-
-- [P17_01_book_tree_2025](tree/P17_01_book_tree_2025.pdf)  
-
-⬆️ [Вернуться к содержанию](#содержание)
-
----
-
-## 🌿 Генеалогическое древо матери
-
-- [P17_02_book_tree_2025](tree/P17_02_book_tree_2025.pdf)  
-
-⬆️ [Вернуться к содержанию](#содержание)
-________________________________________
 
 
 
