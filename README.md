@@ -997,8 +997,16 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Книги подаренные известными учеными</h2>
-<divclass=present"">
+<h2 id="knigi-podarenye-uchyonym">Книги подаренные известными учёными</h2>
+⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
+
+<div class="present">
+  <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книги подаренные известными учёными">
+    <img src="present/P15_01_book_present_2019.jpg" alt="Книги подаренные известными учёными" width="100">
+  </a>
+  <a href="present/P15_02_book_present_2018.jpg" data-lightbox="present" data-title="Книги подаренные известными учёными">
+    <img src="present/P15_02_book_present_2018.jpg" alt="Книги подаренные известными учёными" width="100">
+  </a>
 
 <!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
