@@ -590,7 +590,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книга Рекордов России</title>
+<title>КнигаРекордовРоссии</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -618,10 +618,12 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
   <a href="record/P9_02_book_record2_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
     <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2017">
   </a>
-  <a href="record/P9_03_book_record3_2017.jpg" data-lightbox="record" data-title="Рекорд 3">
-    <img src="record/P9_03_book_record3_2017.jpg" alt="Рекорд 2017">
-  </a>
-  <a href="record/P9_04_book_record4_2017.jpg" data-lightbox="record" data-title="Рекорд 4
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
 
 <!DOCTYPE html>
