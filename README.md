@@ -218,14 +218,14 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
 </a>
-<a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="Д.т.н.">
-<img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="Д.т.н." width="100">
+<a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="доктор технических наук">
+<img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="доктор технических наук" width="100">
 </a>
 <a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg" data-lightbox="diplomas" data-title="Профессор РАЕ">
 <img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg" alt="Профессор РАЕ" width="100">
 </a>
-<a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" data-lightbox="diplomas" data-title="РАЕ">
-<img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" alt="РАЕ" width="100">
+<a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" data-lightbox="diplomas" data-title="Член-корреспондент РАЕ">
+<img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Член-корреспондент РА" width="100">
 </a>
 <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" data-lightbox="diplomas" data-title="Академик РАЕ">
 <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" alt="Академик РАЕ" width="100">
@@ -233,11 +233,11 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" data-lightbox="diplomas" data-title="МАНВШ">
 <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="МАНВШ" width="100">
 </a>
-<a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель">
-<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Заслуженный деятель" width="100">
+<a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель науки РАЕ">
+<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Заслуженный деятель науки РАЕ" width="100">
 </a>
-<a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas" data-title="Золотаякафедра">
-<img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Золотаякафедра" width="100">
+<a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas" data-title="Золотая кафедра РАЕ">
+<img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Золотая кафедра РАЕ" width="100">
 </a>
 <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Life Fellowship">
 <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship" width="100">
