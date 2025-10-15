@@ -590,13 +590,13 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>КнигаРекордовРоссии</title>
+<title>Книга Рекордов России</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
 .gallery img {
-width: 100px; /* компактныеминиатюры */
+  width: 100px;
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -604,25 +604,72 @@ width: 100px; /* компактныеминиатюры */
   transition: transform 0.2s;
 }
 .gallery img:hover { transform: scale(1.05); }
+
+/* кнопка "вверх" */
+.to-top {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  width: 44px;
+  height: 44px;
+  background: #222;
+  color: #fff;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  text-decoration: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+  opacity: 0.9;
+  z-index: 9999;
+}
+.to-top:hover { transform: translateY(-3px); opacity: 1; }
+.to-top.hidden { display: none; }
 </style>
 </head>
 <body>
 
-<h2>Книга Рекордов России/h2>
+<h2>Книга Рекордов России</h2>
 
-<divclass=record"">
-<!-- Пример первых 2 рекорда -->
-<a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
-<img src="record/P9_01_book_record1_2017.jpg" alt="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017))" width="100">
-</a>
-<a href="record/P9_02_book_record2_2017.JPG" data-lightbox="record" data-title="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)">
-<img src="record/P9_02_book_record2_2017.JPG" alt="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)" width="100">
-</a>
-
+<div class="gallery" id="record">
+  <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов (2017)">
+    <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 2017">
+  </a>
+  <a href="record/P9_02_book_record2_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
+    <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2017">
+  </a>
 </div>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-  ⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
+<!-- кнопка "вверх" -->
+<a href="#top" class="to-top hidden" id="toTopBtn" title="Вверх">↑</a>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script>
+  // инициализация lightbox
+  if(window.lightbox) {
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true
+    });
+  }
+
+  // кнопка "вверх"
+  (function(){
+    var btn = document.getElementById('toTopBtn');
+    function checkScroll(){
+      if(window.pageYOffset > 200) btn.classList.remove('hidden');
+      else btn.classList.add('hidden');
+    }
+    window.addEventListener('scroll', checkScroll);
+    btn.addEventListener('click', function(e){
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    checkScroll();
+  })();
+</script>
+
 </body>
 </html>
 
