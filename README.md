@@ -632,13 +632,14 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 
 <h2>Книга Рекордов России</h2>
 
-<div class="gallery" id="record">
-  <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов (2017)">
-    <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 2017">
+<div class="gallery">
+  <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Рекорд 1">
+    <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 1">
   </a>
-  <a href="record/P9_02_book_record2_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
-    <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2017">
+  <a href="record/P9_02_book_record2_2017.jpg" data-lightbox="record" data-title="Рекорд 2">
+    <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2">
   </a>
+  <!-- все остальные изображения той же группы -->
 </div>
 
 <!-- кнопка "вверх" -->
