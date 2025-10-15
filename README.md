@@ -595,6 +595,7 @@ width: 100px; /* компактныеминиатюры */
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery a { display: inline-block; } /* важная строка */
 .gallery img {
   width: 100px;
   height: auto;
@@ -611,59 +612,16 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <h2>Книга Рекордов России</h2>
 
 <div class="gallery" id="record">
-  <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции (2017)">
-    <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 2017" width="100">
+  <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов (2017)">
+    <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 2017">
   </a>
   <a href="record/P9_02_book_record2_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
-    <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2017" width="100">
+    <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2017">
   </a>
-  <!-- при желании добавляй остальные изображения так же -->
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
-</html>
-
-
-
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Книга Рекордов России</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-  width: 100px;
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
-
-<h2>Книга Рекордов России</h2>
-
-<div class="gallery" id="record">
-  <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции (2017)">
-    <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 2017" width="100">
+  <a href="record/P9_03_book_record3_2017.jpg" data-lightbox="record" data-title="Рекорд 3">
+    <img src="record/P9_03_book_record3_2017.jpg" alt="Рекорд 2017">
   </a>
-  <a href="record/P9_02_book_record2_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
-    <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2017" width="100">
-  </a>
-  <!-- при желании добавляй остальные изображения так же -->
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
-</html>
+  <a href="record/P9_04_book_record4_2017.jpg" data-lightbox="record" data-title="Рекорд 4
 
 
 <!DOCTYPE html>
