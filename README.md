@@ -586,21 +586,6 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 </html>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -787,10 +772,10 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>ОткрыткиотФиделяКастро</title>
+  <title>Открытки от Фиделя Кастро</title>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
   <style>
-       body {
+    body {
       font-family: sans-serif;
       background: #f9f9f9;
       margin: 20px;
@@ -802,7 +787,7 @@ width: 100px; /* компактныеминиатюры */
       justify-content: flex-start;
     }
     .gallery img {
-      width: 100px;
+      width: 100px; /* компактные миниатюры */
       height: auto;
       border: 1px solid #ccc;
       border-radius: 4px;
@@ -816,19 +801,19 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-  <h2>Открытки от Фиделя Кастро</h2>
+<h2>Открытки от Фиделя Кастро</h2>
 
-  <div class="kastro">
-   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка (2012)">
-  <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 2012">
-</a>
-    <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро (2014)">
-      <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка от Фиделя Кастро (2014)">
-    </a>
-  </div>
+<div class="gallery">
+  <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка (2012)">
+    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 2012" width="100">
+  </a>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-  ⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
+  <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка (2014)">
+    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка 2014" width="100">
+  </a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
@@ -860,7 +845,6 @@ width: 100px; /* компактныеминиатюры */
 
 
 <h2>Книги подаренные библиотекам</h2>
-⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
 <divclass=bibl"">
 
 <!-- Пример первых 5 копии -->
@@ -910,7 +894,6 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Письма от нобелевских лауреатов по экономике</h2>
-⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
 <divclass=nobel"">
 
 <!-- Пример первых 4 копии -->
@@ -958,7 +941,6 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
  <h2 id="knigi-podarenye-uchyonym">Книги подаренные известными учёными</h2>
-⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
 
 <div class="present">
 
