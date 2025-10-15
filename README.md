@@ -621,7 +621,8 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+  ⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
 </body>
 </html>
 
