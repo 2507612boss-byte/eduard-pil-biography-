@@ -616,11 +616,11 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass="record">
 <!-- Пример первых 2 книг -->
-<a href="record/P2_01_book_sapr_1993.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов (2017)">
-<img src="technology/P2_01_book_sapr_1993.jpg" alt="Наибольшее количество статей без соавторов (2017)" width="100">
+<a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов (2017)">
+<img src="technology/P9_01_book_record1_2017.jpg" alt="Наибольшее количество статей без соавторов (2017)" width="100">
 </a>
-<a href="record/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
-<img src="record/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Наибольшее количество статей автора без соавторов (2017)" width="100">
+<a href="record/P9_02_book_record2_2017.JPG" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
+<img src="record/P9_02_book_record2_2017.JPG" alt="Наибольшее количество статей автора без соавторов (2017)" width="100">
 </a>
 
 </div>
