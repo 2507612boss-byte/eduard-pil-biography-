@@ -586,6 +586,10 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
+
+
+
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -595,9 +599,8 @@ width: 100px; /* компактныеминиатюры */
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery a { display: inline-block; } /* важная строка */
 .gallery img {
-  width: 100px;
+width: 100px; /* компактныеминиатюры */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -611,16 +614,20 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 
 <h2>Книга Рекордов России</h2>
 
-<div class="gallery" id="record">
-  <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов (2017)">
-    <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 2017">
-  </a>
-  <a href="record/P9_02_book_record2_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
-    <img src="record/P9_02_book_record2_2017.jpg" alt="Рекорд 2017">
-  </a>
+<divclass="record">
+<!-- Пример первых 4 книг -->
+<a href="record/P2_01_book_sapr_1993.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов (2017)">
+<img src="technology/P2_01_book_sapr_1993.jpg" alt="Наибольшее количество статей без соавторов (2017)" width="100">
+</a>
+<a href="record/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" data-lightbox="record" data-title="Наибольшее количество статей автора без соавторов (2017)">
+<img src="record/P2_02_book_obrab_detals_CNC_FMC_1998.jpg" alt="Наибольшее количество статей автора без соавторов (2017)" width="100">
+</a>
+
 </div>
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 
 
 
