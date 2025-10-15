@@ -242,8 +242,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Life Fellowship">
 <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship" width="100">
 </a>
-<a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Выдающий учёный">
-<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg" alt="Выдающий учёный" width="100">
+<a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" data-lightbox="diplomas" data-title="Выдающийся учёный">
+<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" alt="Выдающийся учёный" width="100">
 </a>
 <a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg" data-lightbox="diplomas" data-title="Золотая медаль USA">
 <img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg" alt="Золотая медаль USA" width="100">
