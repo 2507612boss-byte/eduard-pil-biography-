@@ -620,9 +620,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
   </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
-</html>
+
 
 
 
