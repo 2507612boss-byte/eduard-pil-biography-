@@ -587,52 +587,41 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<metacharset="UTF-8">
-<title>КнигаРекордовРоссии</title>
+<meta charset="UTF-8">
+<title>Книга Рекордов России</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-height: auto;
-border: 1px solid #ccc;
-border-radius: 4px;
-cursor: zoom-in;
-transition: transform 0.2s;
-}
- gallery img:hover { transform: scale(1.05); }
+  body { font-family: sans-serif; background: #f9f9f9; margin: 20px; }
+  img {
+    width: 100px;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 4px;
+    cursor: pointer;
+  }
 </style>
 </head>
 <body>
 
 <h2>Книга Рекордов России</h2>
 
-<divclass=record"">
-<!-- Пример первых 2 рекорда -->
-<a href="record/P9_01_book_record1_2017.jpg" data-lightbox="biography" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
-<imgsrc="record/P9_01_book_record1_2017.jpg" alt="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017))" width="100">
-</a>
-<a href="record/P9_02_book_record2_2017.JPG" data-lightbox="biography" data-title="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)">
-<imgsrc="record/P9_02_book_record2_2017.JPG" alt="Наибольшее количество статей автора, опубликованных за 1 год без соавторов (2017)" width="100">
+<!-- просто картинки -->
+<a href="record/P9_01_book_record1_2017.jpg" data-lightbox="rec">
+  <img src="record/P9_01_book_record1_2017.jpg" alt="Рекорд 1">
 </a>
 
-</div>
+<a href="record/P9_02_book_record2_2017.JPG" data-lightbox="rec">
+  <img src="record/P9_02_book_record2_2017.JPG" alt="Рекорд 2">
+</a>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
-
-
-
-
-
-
-
 
 
 
