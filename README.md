@@ -592,7 +592,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книга Рекордов России</title>
+<title>КнигаРекордовРоссии</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -611,7 +611,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <body>
 
 <h2>Книга Рекордов России</h2>
-
+<divclass=record"">
 <div class="gallery">
 <!-- Пример первых 2 рекордов -->
 <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
