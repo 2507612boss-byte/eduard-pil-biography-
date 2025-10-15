@@ -555,7 +555,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Биография</h2>
 
-<divclass=english"">
+<divclass="biography">
 <!-- Пример первых 7 источников -->
 <a href="biography/P8_01_book_outstand_2010.jpg" data-lightbox="biography" data-title="2000 Outstanding Scientists (2010)">
 <img src="biography/P8_01_book_outstand_2010.jpg" alt="2000 Outstanding Scientists (2010))" width="100">
@@ -844,10 +844,10 @@ width: 100px; /* компактныеминиатюры */
 
   <h2>Открытки от Фиделя Кастро</h2>
 
-  <div class="gallery">
-    <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро (2012)">
-      <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка от Фиделя Кастро (2012)">
-    </a>
+  <div class="kastro">
+   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка (2012)">
+  <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 2012">
+</a>
     <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка от Фиделя Кастро (2014)">
       <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка от Фиделя Кастро (2014)">
     </a>
