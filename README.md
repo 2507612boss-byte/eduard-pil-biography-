@@ -1052,9 +1052,9 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Генеалогическое древо отца</h2>
-<divclass=kvalif"">
+<divclass=tree"">
 <!-- Пример первых 1 копии -->
-<a href="tree/P17_01_book_tree_2025.pdf" data-lightbox="kvalif" data-title="Генеалогическое древо отца">
+<a href="tree/P17_01_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо отца">
 <img src="tree/P17_01_book_tree_2025.pdf" alt="Генеалогическое древо отца" width="100">
  </a>
 </div>
@@ -1087,9 +1087,9 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Генеалогическое древо матери</h2>
-<divclass=kvalif"">
+<divclass=tree"">
 <!-- Пример первых 1 копии -->
-<a href="tree/P17_02_book_tree_2025.pdf" data-lightbox="kvalif" data-title="Генеалогическое древо матери">
+<a href="tree/P17_02_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо матери">
 <img src="tree/P17_02_book_tree_2025.pdf" alt="Генеалогическое древо матери" width="100">
  </a>
 
