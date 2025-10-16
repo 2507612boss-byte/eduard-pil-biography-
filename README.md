@@ -1054,8 +1054,8 @@ width: 100px; /* компактныеминиатюры */
 <h2>Генеалогическое древо отца</h2>
 <divclass=tree"">
 <!-- Пример первых 1 копии -->
-<a href="tree/P17_01_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо отца">
-<img src="tree/P17_01_book_tree_2025.pdf" alt="Генеалогическое древо отца" width="100">
+<a href="tree/P17_01_book_tree_2019.pdf" data-lightbox="tree" data-title="Генеалогическое древо отца">
+<img src="tree/P17_01_book_tree_2019.pdf" alt="Генеалогическое древо отца" width="100">
  </a>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
