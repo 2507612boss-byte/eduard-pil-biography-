@@ -1092,6 +1092,11 @@ width: 100px; /* компактныеминиатюры */
 <a href="tree/P17_02_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо матери">
 <img src="tree/P17_02_book_tree_2025.pdf" alt="Генеалогическое древо матери" width="100">
  </a>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+  ⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
+</body>
+</html>
 
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
