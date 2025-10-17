@@ -195,7 +195,6 @@ width: 100px; /* компактныеминиатюры */
   <img src="images/diplomas/P1_19_diplom_docent_2005.jpg" alt="Аттестат доцентак" width="100">
 </a>
 
-
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="доктор технических наук">
 <img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="доктор технических наук" width="100">
 </a>
