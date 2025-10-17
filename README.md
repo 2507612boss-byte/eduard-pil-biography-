@@ -151,7 +151,7 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Полнаягалереядипломов</title>
+<title>Государственные курсы иностранных языков</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -171,9 +171,24 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Галерея дипломов</h2>
+<h2>Государственные курсы иностранных языков</h2>
 
 <div class="gallery">
-<!-- Пример первых 14 дипломов -->
+<!-- Пример первых 17 дипломов -->
+
+<a href="images/diplomas/P1_14_sertifikat_english_1975.jpg" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков">
+  <img src="images/diplomas/P1_14_sertifikat_english_1975.jpg" alt="Сертификат Государственных курсов иностранных языков" width="100">
+</a>
+
+<a href="images/diplomas/P1_15_diplom_vtuza_1973.jpg" data-lightbox="diplomas" data-title="Диплом ВТУЗа">
+  <img src="images/diplomas/P1_15_diplom_vtuza_1973.jpg" alt="Диплом ВТУЗа" width="100">
+</a>
+
+<a href="images/diplomas/P1_16_diplom_kandidata_1991.jpg" data-lightbox="diplomas" data-title="Диплом ВТУЗа">
+  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом ВТУЗа" width="100">
+</a>
+
+
 
 <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
