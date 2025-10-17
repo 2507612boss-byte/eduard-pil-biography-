@@ -191,8 +191,8 @@ width: 100px; /* компактныеминиатюры */
   <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата наук" width="100">
 </a>
 
-<a href="images/diplomas/P1_19_diplom_docent_2005.jpg" data-lightbox="diplomas" data-title="Аттестат доцента">
-  <img src="images/diplomas/P1_19_diplom_docent_2005.jpg" alt="Аттестат доцентак" width="100">
+<a href="images/diplomas/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas" data-title="Аттестат доцента">
+  <img src="images/diplomas/P1_18_diplom_docent_2005.jpg" alt="Аттестат доцентак" width="100">
 </a>
 
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="доктор технических наук">
@@ -216,6 +216,12 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas" data-title="Золотая кафедра РАЕ">
 <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Золотая кафедра РАЕ" width="100">
 </a>
+
+<a href="images/diplomas/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas" data-title="Удостоверение к медали Адама Смита">
+<img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
+</a>
+
+
 <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Life Fellowship">
 <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship" width="100">
 </a>
