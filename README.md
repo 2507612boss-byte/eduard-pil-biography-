@@ -362,7 +362,7 @@ width: 100px; /* компактныеминиатюры */
 <img src="economy/P4_02_book_anal_VVP_nasel_stran_2012.jpg" alt="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030 (2012)" width="100">
 </a>
 <a href="economy/P4_03_book_teor_econ_cris_V6_2024.JPG" data-lightbox="economy" data-title="Теория экономических кризисов Том 6 (2024)">
-<img src="economyP4_03_book_teor_econ_cris_V6_2024.JPG" alt="Теория экономических кризисов Том 6 (2024)" width="100">
+<img src="economy/P4_03_book_teor_econ_cris_V6_2024.JPG" alt="Теория экономических кризисов Том 6 (2024)" width="100">
 </a>
 <a href="economy/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="economy" data-title="Theory of Economic Crises Vol 1 (2020)">
 <img src="economy/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol 1 (2020)" width="100">
