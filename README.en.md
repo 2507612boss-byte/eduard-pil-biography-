@@ -93,21 +93,21 @@ Eduard A. Pil is the author of **over 1,660 publications**, including **42 books
 **1. Cycle *"Theory of Economic Crisess"* (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs.
 
 **2. Works in the Field of Mechanical and Instrument Engineering**
-*   Pil E.A. Technological Support of CAD/CAM for Housing Parts. — St. Petersburg: ITMO, 1993. — 195 p.
-*   Pil E.A. Theory of Complexity of Machining Housing Parts and Its Application in Machine and Instrument Engineering. — St. Petersburg: REMO &Co., 2003. — 211 p.
+*   Pil E.A. *Technological Support of CAD/CAM for Housing Parts.* — St. Petersburg: ITMO, 1993. — 195 p.
+*   Pil E.A. *Theory of Complexity of Machining Housing Parts and Its Application in Machine and Instrument Engineering.* — St. Petersburg: REMO &Co., 2003. — 211 p.
 
 **3. Works on Applied Linguistics**
 Developed a formalized theory of the English language using graph theory.
-*   Pil E.A. English Letters and Calling. — St. Petersburg: REMO & Co., 2000.
-*   Pil E.A., Pil M.E. Idioms, Slang, Antonymus and Synonyms In One Book. —  St. Petersburg: РЕМО & Co., 2001.
-*   Pil E.A. Words for Everyday Topics. —  St. Petersburg: РЕМО & Co., 2010.  
+*   Pil E.A. *English Letters and Calling.* — St. Petersburg: REMO & Co., 2000.
+*   Pil E.A., Pil M.E. *Idioms, Slang, Antonymus and Synonyms In One Book.* —  St. Petersburg: РЕМО & Co., 2001.
+*   Pil E.A. *Words for Everyday Topics.* —  St. Petersburg: РЕМО & Co., 2010.  
 *   Pil E.A. Theory of the English Language // Open science 2.0. — USA, 2018.
 
 **4. Popular Science and Literary Works**
-*   Pil E.A. "Your Health from A to Z (Health Encyclopedia)". — St. Petersburg, 2010.
-*   Pil E.A. "Longevity and Nutrition" (in 8 volumes). — St. Petersburg, 2022.
-*   Pil E.A. "One Day in the Life of Stepashka, a Petersburg Crucian Carp". — St. Petersburg, 2022.
-*   Pil E.A. "The Life of Holy Rus'". — St. Petersburg: NITs ART, 2025.
+*   Pil E.A. *"Your Health from A to Z (Health Encyclopedia)".* — St. Petersburg, 2010.
+*   Pil E.A. *"Longevity and Nutrition" (in 8 volumes).* — St. Petersburg, 2022.
+*   Pil E.A. *"One Day in the Life of a Little Peterburg Crucian, Stepashkap".* — St. Petersburg, 2022.
+*   Pil E.A. *"The Life of Holy Rus'".* — St. Petersburg: NITs ART, 2025.
 
 ## Worldwide Fame: Presentations on 5 Continents
 E.A. Pil's monographs were presented at the world's largest book exhibitions, fairs, and salons testifying to the international recognition of his works:
@@ -118,11 +118,36 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, fa
 
 ## Records and Unique Achievements
 *   In 2016, he was officially entered into the Russian Book of Records in two categories:
-    *   Publication of 87 scientific articles in one calendar year without co-authors.
-    *   Publication of 13 scientific articles in a single collection without co-authors.
- 
-    
+    *   *Publication of 87 scientific articles in one calendar year without co-authors.*
+    *  *Publication of 13 scientific articles in a single collection without co-authors.*
+     
     <script src="script.js"></script>
+
+📚 CONTENTS
+1.	🏆 Gallery of Diplomas](#-галерея-дипломов)
+2.	💻 Books on Technology](#️-книги-по-технологии)
+3.	🩺 Books on Medicine](#-книги-по-медицине)
+4.	💰 Books on Economics](#-книги-по-экономике)
+5.	📚 Books on the English Language](#-книги-по-английскому-языку)
+6.	📖 Fiction](#-художественная-литература)
+7.	📝 Articles on the Theory of the English Language](#-статьи-по-теории-английского-языка)
+8.	👤 Biography](#-биография)
+9.	🏅 Book of Records of Russia](#-книга-рекордов-россии)
+10.	📰 Articles from Journals and Conferences](#-статьи-из-журналов-и-конференций)
+11.	🎓 Certificates of Conference Presentations](#-сертификаты-выступлений-на-конференциях)
+12.	✉️ Letters from Monarchs and Politicians](#письма-от-монархов-и-политиков)
+13.	✉️ Postcards from Fidel Castro](#-открытки-от-фиделя-кастро)
+14.	📦 Books Donated to Libraries](#️-книги-подаренные-библиотекам)
+15.	🏆 Letters from Nobel Laureates in Economics](#-письма-от-нобелевских-лауреатов-по-экономике)
+16.	🎁 Books Donated by Prominent Scientists](#-книги-подаренные-известными-учёными)
+17.	📜 Certificates of Advanced Training](#-сертификаты-повышения-квалификации)
+18.	🌳 Father’s Genealogical Tree](#-генеалогическое-древо-отца)
+19.	🌿 Mother’s Genealogical Tree](#-генеалогическое-древо-матери)
+
+📌 Hint: 
+After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow in the upper left corner of the page.
+
+
 
 ---
 *This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
