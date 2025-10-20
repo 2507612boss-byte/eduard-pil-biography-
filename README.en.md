@@ -124,25 +124,25 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, fa
     <script src="script.js"></script>
 
 📚 CONTENTS
-1.	🏆 Gallery of Diplomas](#-галерея-дипломов)
-2.	💻 Books on Technology](#️-книги-по-технологии)
-3.	🩺 Books on Medicine](#-книги-по-медицине)
-4.	💰 Books on Economics](#-книги-по-экономике)
-5.	📚 Books on the English Language](#-книги-по-английскому-языку)
-6.	📖 Fiction](#-художественная-литература)
-7.	📝 Articles on the Theory of the English Language](#-статьи-по-теории-английского-языка)
-8.	👤 Biography](#-биография)
-9.	🏅 Book of Records of Russia](#-книга-рекордов-россии)
-10.	📰 Articles from Journals and Conferences](#-статьи-из-журналов-и-конференций)
-11.	🎓 Certificates of Conference Presentations](#-сертификаты-выступлений-на-конференциях)
-12.	✉️ Letters from Monarchs and Politicians](#письма-от-монархов-и-политиков)
-13.	✉️ Postcards from Fidel Castro](#-открытки-от-фиделя-кастро)
-14.	📦 Books Donated to Libraries](#️-книги-подаренные-библиотекам)
-15.	🏆 Letters from Nobel Laureates in Economics](#-письма-от-нобелевских-лауреатов-по-экономике)
-16.	🎁 Books Donated by Prominent Scientists](#-книги-подаренные-известными-учёными)
-17.	📜 Certificates of Advanced Training](#-сертификаты-повышения-квалификации)
-18.	🌳 Father’s Genealogical Tree](#-генеалогическое-древо-отца)
-19.	🌿 Mother’s Genealogical Tree](#-генеалогическое-древо-матери)
+1.	🏆 Gallery of Diplomas
+2.	💻 Books on Technology
+3.	🩺 Books on Medicine
+4.	💰 Books on Economics
+5.	📚 Books on the English Language
+6.	📖 Fiction
+7.	📝 Articles on the Theory of the English Language
+8.	👤 Biography
+9.	🏅 Book of Records of Russia
+10.	📰 Articles from Journals and Conferences
+11.	🎓 Certificates of Conference Presentations
+12.	✉️ Letters from Monarchs and Politicians
+13.	✉️ Postcards from Fidel Castro
+14.	📦 Books Donated to Libraries
+15.	🏆 Letters from Nobel Laureates in Economics
+16.	🎁 Books Donated by Prominent Scientists
+17.	📜 Certificates of Advanced Training
+18.	🌳 Father’s Genealogical Tree
+19.	🌿 Mother’s Genealogical Tree
 
 📌 Hint: 
 After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow in the upper left corner of the page.
