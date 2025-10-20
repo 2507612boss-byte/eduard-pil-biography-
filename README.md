@@ -134,6 +134,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 
@@ -243,6 +255,14 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -287,6 +307,9 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
 
 
 <!DOCTYPE html>
@@ -431,7 +454,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книгипохудожественнойлитературе</title>
+<title>Художественнаялитература</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
