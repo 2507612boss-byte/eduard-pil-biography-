@@ -629,6 +629,9 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 </html>
 
 
+
+
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -774,6 +777,15 @@ width: 100px; /* компактныеминиатюры */
 </body>
 </html>
 
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
 <h2 id="pisma-ot-monarkhov">Письма от монархов и политиков</h2>
 <span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
 ⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
