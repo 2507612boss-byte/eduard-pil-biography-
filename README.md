@@ -228,7 +228,6 @@ width: 100px; /* компактныеминиатюры */
 <img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
 </a>
 
-
 <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Life Fellowship">
 <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship" width="100">
 </a>
@@ -671,7 +670,6 @@ width: 100px; /* компактныеминиатюры */
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017">
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
 </a>
-
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
 <img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
 </a>
@@ -906,8 +904,6 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-
-
 <h2>Книги подаренные библиотекам</h2>
 <divclass=bibl"">
 
@@ -932,7 +928,7 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-<
+
 
 
 <!DOCTYPE html>
@@ -979,7 +975,7 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-<
+
 
 
 <!DOCTYPE html>
@@ -1089,7 +1085,7 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-<
+
 
 <!DOCTYPE html>
 <html lang="ru">
@@ -1126,7 +1122,7 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-<
+
 
 
 <!DOCTYPE html>
@@ -1170,7 +1166,7 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-<
+
 
 
 
