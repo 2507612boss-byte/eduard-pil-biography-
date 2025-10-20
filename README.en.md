@@ -16,7 +16,9 @@
   <!-- Здесь идёт текст на английском -->
 </div>
 
+
 # Eduard Anatolyevich Pil
+
 
 **Eduard Anatolyevich Pil** (born 1950) — Soviet and Russian encyclopedic scientist, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural History (RANH).  
 Author of **42 books** (including 1 on automobiles, 1 work of fiction, 4 technical, 8 English-language, 10 medical, and 18 economic), **27 textbooks**, and more than **1,660 scientific works** in mechanical engineering, economics, linguistics, medicine, and fiction.  
@@ -27,8 +29,7 @@ His monographs have received top honors at major international book exhibitions 
 
 ## 🧭 Biography: The Path of an Encyclopedic Scholar
 
-Eduard Anatolyevich Pil was born in 1950 into a family of railway workers.  
-His father, grandfather, and great-grandfather worked as locomotive drivers on the Oktyabrskaya Railway (formerly the Nikolaev Railway). His mother, Vera Fyodorovna Grigoryeva, was the chief accountant at the Leningrad–Warsaw Railway Polyclinic.
+Eduard Anatolyevich Pil was born in 1950 into a family of railway workers. His father, Anatoly Konstantinovich Pil, was a train engineer, as were his grandfather, Konstantin Pavlovich Pil, and his great-grandfather, Pavel Karlovich Pil, who all worked on the October Railway (until 1923 known as the Nikolaev Railway). His mother, Vera Fedorovna Grigorieva, worked as the chief accountant at the clinic of the Leningrad–Warsaw branch of the October Railway.
 
 In 1967, he entered a higher technical institution, graduating in 1973 with a degree in hydraulic turbines and automation.  
 Alongside engineering studies, he completed a two-year program in English at the State Foreign Language Courses — forming a foundation for his later international academic work.
@@ -89,7 +90,7 @@ Eduard A. Pil is the author of **over 1,660 publications**, including **42 books
 
 
 ### Fundamental Monograph Cycles
-**1. Cycle "Theory of Economic Crises" (6 volumes, 3,268 pages).**
+**1. Cycle "Theory of Economic Crisess" (6 volumes, 3,268 pages).**
 A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs.
 
 *   *Covers of the volumes will be added to the gallery*
