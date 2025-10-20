@@ -90,9 +90,7 @@ Eduard A. Pil is the author of **over 1,660 publications**, including **42 books
 
 
 ### Fundamental Monograph Cycles
-**1. Cycle "Theory of Economic Crisess" (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs.
-
-*   *Covers of the volumes will be added to the gallery*
+**1. Cycle *"Theory of Economic Crisess"* (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs.
 
 **2. Works in the Field of Mechanical and Instrument Engineering**
 *   Pil E.A. Technological Support of CAD/CAM for Housing Parts. — St. Petersburg: ITMO, 1993. — 195 p.
