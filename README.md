@@ -788,7 +788,6 @@ width: 100px; /* компактныеминиатюры */
 <meta charset="UTF-8">
 <h2 id="pisma-ot-monarkhov">Письма от монархов и политиков</h2>
 <span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
-⬆️ <a href="#soderzhanie">Вернуться к содержанию</a>
 
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
