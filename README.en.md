@@ -229,8 +229,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.JPG" data-lightbox="diplomas2" data-title="Life Fellowship">
 <img src="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.JPG" alt="Life Fellowship" width="100">
 </a>
-<a href="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" data-lightbox="diplomas2" data-title="Outstanding scientists of the 21st centure">
-<img src="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" alt="Outstanding scientists of the 21st centure" width="100">
+<a href="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg" data-lightbox="diplomas2" data-title="Outstanding scientists of the 21st centure">
+<img src="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_cambridge_2007.jpg" alt="Outstanding scientists of the 21st centure" width="100">
 </a>
 <a href="diplomas2/P1_10_diplom_zolotaya_medal_usa_2008.jpg" data-lightbox="diplomas2" data-title="Gold Medal for Russia">
 <img src="diplomas2/P1_10_diplom_zolotaya_medal_usa_2008.jpg" alt="Gold Medal for Russia" width="100">
