@@ -154,7 +154,8 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Галерея дипломов</title>
+<title>**"Diploma Gallery"**.
+</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -173,13 +174,13 @@ width: 100px; /* компактныеминиатюры */
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 <body>
 
-<h2>Галерея дипломов</h2>
+<h2>Diploma Gallery</h2>
 
 <div class="gallery">
 <!-- Пример первых 19 дипломов -->
 
-<a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
-  <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
+<a href="diplomas2/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas2" data-title="My BOOKS">
+  <img src="diplomas2/P1_00_moi_knigi_2025.jpg" alt="My BOOKS" width="100">
 </a>
 
 <a href="images/diplomas/P1_14_sertifikat_english_1975.jpg" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков">
