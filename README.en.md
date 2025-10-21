@@ -149,6 +149,117 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Галерея дипломов</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<body>
+
+<h2>Галерея дипломов</h2>
+
+<div class="gallery">
+<!-- Пример первых 19 дипломов -->
+
+<a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
+  <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
+</a>
+
+<a href="images/diplomas/P1_14_sertifikat_english_1975.jpg" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков">
+  <img src="images/diplomas/P1_14_sertifikat_english_1975.jpg" alt="Сертификат Государственных курсов иностранных языков" width="100">
+</a>
+
+<a href="images/diplomas/P1_15_diplom_vtuza_1973.jpg" data-lightbox="diplomas" data-title="Диплом ВТУЗа">
+  <img src="images/diplomas/P1_15_diplom_vtuza_1973.jpg" alt="Диплом ВТУЗа" width="100">
+</a>
+
+<a href="images/diplomas/P1_16_diplom_kandidata_1991.jpg" data-lightbox="diplomas" data-title="Диплом кандидата наук">
+  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата наук" width="100">
+</a>
+
+<a href="images/diplomas/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas" data-title="Аттестат доцента">
+  <img src="images/diplomas/P1_18_diplom_docent_2005.jpg" alt="Аттестат доцентак" width="100">
+</a>
+
+<a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="доктор технических наук">
+<img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="доктор технических наук" width="100">
+</a>
+<a href="images/diplomas/P1_02_diplom_prof_rae_2012.jpg" data-lightbox="diplomas" data-title="Профессор РАЕ">
+<img src="images/diplomas/P1_02_diplom_prof_rae_2012.jpg" alt="Профессор РАЕ" width="100">
+</a>
+<a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" data-lightbox="diplomas" data-title="Член-корреспондент РАЕ">
+<img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Член-корреспондент РА" width="100">
+</a>
+<a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" data-lightbox="diplomas" data-title="Академик РАЕ">
+<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" alt="Академик РАЕ" width="100">
+</a>
+<a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" data-lightbox="diplomas" data-title="МАНВШ">
+<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="МАНВШ" width="100">
+</a>
+<a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель науки РАЕ">
+<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Заслуженный деятель науки РАЕ" width="100">
+</a>
+<a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas" data-title="Золотая кафедра РАЕ">
+<img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Золотая кафедра РАЕ" width="100">
+</a>
+
+<a href="images/diplomas/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas" data-title="Удостоверение к медали Адама Смита">
+<img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
+</a>
+
+
+<a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Life Fellowship">
+<img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship" width="100">
+</a>
+<a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" data-lightbox="diplomas" data-title="Выдающийся учёный">
+<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" alt="Выдающийся учёный" width="100">
+</a>
+<a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg" data-lightbox="diplomas" data-title="Золотая медаль USA">
+<img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg" alt="Золотая медаль USA" width="100">
+</a>
+<a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов">
+<img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Лига Интеллектуалов" width="100">
+</a>
+<a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg" data-lightbox="diplomas" data-title="Мировая экономика">
+<img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="Мировая экономика" width="100">
+</a>
+<a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg" data-lightbox="diplomas" data-title="Союз писателей">
+<img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg" alt="Союзписателей" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
 ---
 *This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
 
