@@ -183,16 +183,16 @@ width: 100px; /* компактныеминиатюры */
   <img src="diplomas2/P1_00_moi_knigi_2025.jpg" alt="My BOOKS" width="100">
 </a>
 
-<a href="diplomas2/P1_14_sertifikat_english_1975.jpg" data-lightbox="diplomas2" data-title="Certificate of State Foreign Language Courses (1975)">
-  <img src="diplomas2/P1_14_sertifikat_english_1975.jpg" alt="Certificate of State Foreign Language Courses (1975)" width="100">
+<a href="diplomas2/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas2" data-title="Certificate of State Foreign Language Courses (1975)">
+  <img src="diplomas2/P1_14_sertifikat_english_1975.JPG" alt="Certificate of State Foreign Language Courses (1975)" width="100">
 </a>
 
-<a href="diplomas2/P1_15_diplom_vtuza_1973.jpg" data-lightbox="diplomas2" data-title="Master’s in Hydraulic Systems and Automation (1973)">
-  <img src="diplomas2/P1_15_diplom_vtuza_1973.jpg" alt="Master’s in Hydraulic Systems and Automation (1973)" width="100">
+<a href="diplomas2/P1_15_diplom_vtuza_1973.JPG" data-lightbox="diplomas2" data-title="Master’s in Hydraulic Systems and Automation (1973)">
+  <img src="diplomas2/P1_15_diplom_vtuza_1973.JPG" alt="Master’s in Hydraulic Systems and Automation (1973)" width="100">
 </a>
 
-<a href="diplomas2/P1_16_diplom_kandidata_1991.jpg" data-lightbox="diplomas2" data-title="PhD in Technical Science (1991)">
-  <img src="diplomas2/P1_16_diplom_kandidata_1991.jpg" alt="PhD in Technical Science (1991)" width="100">
+<a href="diplomas2/P1_16_diplom_kandidata_1991.JPG" data-lightbox="diplomas2" data-title="PhD in Technical Science (1991)">
+  <img src="diplomas2/P1_16_diplom_kandidata_1991.JPG" alt="PhD in Technical Science (1991)" width="100">
 </a>
 
 <a href="diplomas2/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas2" data-title="Associate Professor Certificate (2005)">
@@ -208,14 +208,14 @@ width: 100px; /* компактныеминиатюры */
 <a href="diplomas2/P1_04_diplom_chlenkora_rae_2011.jpg" data-lightbox="diplomas2" data-title="Corresponding Member of the Russian Academy of Natural History (2011)">
 <img src="diplomas2/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Corresponding Member of the Russian Academy of Natural History (2011)" width="100">
 </a>
-<a href="diplomas2/P1_06_diplom_akademika_rae_2016.jpg" data-lightbox="diplomas2" data-title="Academician of the Russian Academy of Natural History (2016)">
-<img src="diplomas2/P1_06_diplom_akademika_rae_2016.jpg" alt="Academician of the Russian Academy of Natural History (2016)" width="100">
+<a href="diplomas2/P1_05_diplom_akademika_rae_2016.JPG" data-lightbox="diplomas2" data-title="Academician of the Russian Academy of Natural History (2016)">
+<img src="diplomas2/P1_05_diplom_akademika_rae_2016.JPG" alt="Academician of the Russian Academy of Natural History (2016)" width="100">
 </a>
-<a href="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.jpg" data-lightbox="diplomas2" data-title="Corresponding Member of the International Academy of Sciences of Higher Education (2000)">
-<img src="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="Corresponding Member of the International Academy of Sciences of Higher Education (2000)" width="100">
+<a href="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.JPG" data-lightbox="diplomas2" data-title="Corresponding Member of the International Academy of Sciences of Higher Education (2000)">
+<img src="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.JPG" alt="Corresponding Member of the International Academy of Sciences of Higher Education (2000)" width="100">
 </a>
-<a href="diplomas2/P1_05_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas2" data-title="Honored Worker of Science and Education (2011)">
-<img src="diplomas2/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Honored Worker of Science and Education (2011)" width="100">
+<a href="diplomas2/P1_06_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas2" data-title="Honored Worker of Science and Education (2011)">
+<img src="diplomas2/P1_06_diplom_zasluzh_nauki_2011.jpg" alt="Honored Worker of Science and Education (2011)" width="100">
 </a>
 <a href="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas2" data-title="Diploma “Golden Chair of Russia” (2011)">
 <img src="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Diploma “Golden Chair of Russia” (2011)" width="100">
@@ -226,11 +226,11 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 
-<a href="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas2" data-title="Life Fellowship">
-<img src="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship" width="100">
+<a href="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.JPG" data-lightbox="diplomas2" data-title="Life Fellowship">
+<img src="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.JPG" alt="Life Fellowship" width="100">
 </a>
-<a href="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" data-lightbox="diplomas2" data-title="Outstanding scientists of the 21st centure">
-<img src="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" alt="Outstanding scientists of the 21st centure" width="100">
+<a href="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.JPG" data-lightbox="diplomas2" data-title="Outstanding scientists of the 21st centure">
+<img src="diplomas2/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.JPG" alt="Outstanding scientists of the 21st centure" width="100">
 </a>
 <a href="diplomas2/P1_10_diplom_zolotaya_medal_usa_2008.jpg" data-lightbox="diplomas2" data-title="Gold Medal for Russia">
 <img src="diplomas2/P1_10_diplom_zolotaya_medal_usa_2008.jpg" alt="Gold Medal for Russia" width="100">
@@ -241,8 +241,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" data-lightbox="diplomas2" data-title="World Scuence">
 <img src="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="World Scuence" width="100">
 </a>
-<a href="diplomas2/P1_13_sertifikat_souza_2022.jpg" data-lightbox="diplomas2" data-title="International Union of Writes and Poets">
-<img src="diplomas2/P1_13_sertifikat_souza_2022.jpg" alt="International Union of Writes and Poets" width="100">
+<a href="diplomas2/P1_13_sertifikat_souza_2022.JPG" data-lightbox="diplomas2" data-title="International Union of Writes and Poets">
+<img src="diplomas2/P1_13_sertifikat_souza_2022.JPG" alt="International Union of Writes and Poets" width="100">
 </a>
 
 </div>
