@@ -280,7 +280,7 @@ width: 100px; /* компактныеминиатюры */
 <img src="technologyeng/P2_01_book_sapr_1993.JPG" alt="Technological Support of CAD/CAM for Housing Parts(1993)" width="100">
 </a>
 <a href="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technologyeng" data-title="Machining of Housing Parts on CNC Machines and Flexible Manufacturing Systems (1998)">
-<img src=technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Machining of Housing Parts on CNC Machines and Flexible Manufacturing Systems (1998)" width="100">
+<img src="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Machining of Housing Parts on CNC Machines and Flexible Manufacturing Systems (1998)" width="100">
 </a>
 <a href="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technologyeng" data-title="Theory of Machining Complexity of Housing Parts and Its Application in Mechanical Engineering and Instrument Making (2003)">
 <img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Theory of Machining Complexity of Housing Parts and Its Application in Mechanical Engineering and Instrument Making (2003)" width="100">
