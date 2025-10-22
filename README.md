@@ -428,17 +428,17 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=english"">
 <!-- Пример первых 4 книг -->
-<a href="english/P5_01_book_letter_call_2000.jpg" data-lightbox="english" data-title="English Letters and Calling (2000)">
-<img src="english/P5_01_book_letter_call_2000.jpg" alt="English Letters and Calling (2000))" width="100">
+<a href="english/P5_01_book_letter_call_2000.JPG" data-lightbox="english" data-title="English Letters and Calling (2000)">
+<img src="english/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000))" width="100">
 </a>
-<a href="english/P5_02_book_slang_2001.jpg" data-lightbox="english" data-title="Idioms, Slang, Antonyms and Synonyms in One Book (2001)">
-<img src="english/P5_02_book_slang_2001.jpg" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" width="100">
+<a href="english/P5_02_book_slang_2001.JPG" data-lightbox="english" data-title="Idioms, Slang, Antonyms and Synonyms in One Book (2001)">
+<img src="english/P5_02_book_slang_2001.JPG" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" width="100">
 </a>
 <a href="english/P5_03_book_jokes_2002.jpg" data-lightbox="english" data-title="I Like English Jokes (2002)">
 <img src="english/P5_03_book_jokes_2002.jpg" alt="I Like English Jokes (2002)" width="100">
 </a>
-<a href="english/P5_04_book_words_2004.jpg" data-lightbox="english" data-title="Words for Everyday Tpics (2004)">
-<img src="english/P5_04_book_words_2004.jpg" alt="Words for Everyday Tpics (2004)" width="100">
+<a href="english/P5_04_book_words_2004.JPG" data-lightbox="english" data-title="Words for Everyday Tpics (2004)">
+<img src="english/P5_04_book_words_2004.JPG" alt="Words for Everyday Tpics (2004)" width="100">
 </a>
 
 </div>
