@@ -339,6 +339,56 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Books on Economics</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Books on Economics</h2>
+
+<divclass=BookEcon"">
+<!-- Пример первых 5 книг -->
+<a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)">
+<img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)" width="100">
+</a>
+<a href="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.jpg" data-lightbox="BookEcon" data-title="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)">
+<img src="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.jpg" alt="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)" width="100">
+</a>
+<a href="BookEcon/P4_03_book_teor_econ_cris_V6_2024.JPG" data-lightbox="BookEcon" data-title="Theory of Economic Crises Vol 6 (2024)">
+<img src="BookEcon/P4_03_book_teor_econ_cris_V6_2024.JPG" alt="Theory of Economic Crises Vol  6 (2024)" width="100">
+</a>
+<a href="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises Vol 1 (2020)">
+<img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol 1 (2020)" width="100">
+</a>
+<a href="BookEcon/P4_05_book_nast_kniga_2025.JPG" data-lightbox="BookEcon" data-title="The Economist’s Handbook (2025)">
+<img src="BookEcon/P4_05_book_nast_kniga_2025.JPG" alt="The Economist’s Handbook(2025)" width="100">
+</a>
+
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
 
 
 ---
