@@ -298,7 +298,7 @@ width: 100px; /* компактныеминиатюры */
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 <meta charset="UTF-8">
 <title>Books on Medicine</title>
@@ -307,7 +307,7 @@ width: 100px; /* компактныеминиатюры */
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
 .gallery img {
-  width: 100px;
+width: 100px; /* компактныеминиатюры */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -321,51 +321,18 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 
 <h2>Books on Medicine</h2>
 
-<!-- Галерея изображений -->
-<div class="BooksMed gallery">
-  <a href="BooksMed/P3_01_book_health_2010.jpg" data-lightbox="BooksMed" data-title="Your Health from A to Z (2010)">
-    <img src="BooksMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (2010)" width="100">
-  </a>
-  <a href="BooksMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BooksMed" data-title="Longevity and Nutrition (2022)">
-    <img src="BooksMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
-  </a>
-  <!-- Добавляйте остальные миниатюры аналогично -->
+<div class="BookMed">
+<!-- Пример первых 2 книг -->
+<a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
+<img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BookMed" data-title="Longevity and Nutrition (2022)">
+<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
+</a>
+
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-<!-- Настройки Lightbox -->
-<script>
-if (window.lightbox) {
-  lightbox.option({
-    'resizeDuration': 200,
-    'wrapAround': true,
-    'disableScrolling': false
-  });
-}
-</script>
-
-<!-- Скрипт для возврата страницы на место миниатюры -->
-<script>
-let lastScroll = 0;
-
-// Запоминаем scroll при клике на миниатюру
-document.querySelectorAll('a[data-lightbox]').forEach(a => {
-  a.addEventListener('click', () => {
-    lastScroll = window.pageYOffset || document.documentElement.scrollTop;
-  });
-});
-
-// Проверяем каждые 50 мс: если Lightbox закрыт — возвращаем scroll
-setInterval(() => {
-  const overlay = document.querySelector('.lightboxOverlay');
-  if (!overlay && lastScroll !== 0) {
-    window.scrollTo(0, lastScroll);
-    lastScroll = 0;
-  }
-}, 50);
-</script>
-
 </body>
 </html>
 
