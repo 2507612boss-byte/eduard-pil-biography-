@@ -298,6 +298,47 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Books on Medicine</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Books on Medicine</h2>
+
+<divclass="Medicaleng">
+<!-- Пример первых 2 книг -->
+<a href="Medicaleng/P3_01_book_health_2010.jpg" data-lightbox="Medicaleng" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
+<img src="Medicaleng/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
+</a>
+<a href="Medicaleng/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medicaleng" data-title="Longevity and Nutrition (2022)">
+<img src="Medicaleng/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
 
 
 
