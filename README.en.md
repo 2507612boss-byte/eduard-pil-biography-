@@ -322,12 +322,12 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 
 <h2>Books on Medicine</h2>
 
-<div class="Medicaleng">
-  <a href="Medicaleng/P3_01_book_health_2010.jpg" data-lightbox="Medicaleng" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
-    <img src="Medicaleng/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
+<div class="BookMed">
+  <a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
+    <img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
   </a>
-  <a href="Medicaleng/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medicaleng" data-title="Longevity and Nutrition (2022)">
-    <img src="Medicaleng/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
+  <a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BookMed" data-title="Longevity and Nutrition (2022)">
+    <img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
   </a>
 </div>
 
