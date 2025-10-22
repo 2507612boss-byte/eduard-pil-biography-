@@ -186,8 +186,20 @@ width: 100px; /* компактныеминиатюры */
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
 </a>
 
-<a href="images/diplomas/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков">
-  <img src="images/diplomas/P1_14_sertifikat_english_1975.JPG" alt="Сертификат Государственных курсов иностранных языков" width="100">
+<a href="images/diplomas/P1_21_diplom_school_1967.jpg" data-lightbox="diplomas" data-title="Свидетельство о присвоении квалификации (1967)">
+  <img src="images/diplomas/P1_21_diplom_school_1967.jpg" alt="Свидетельство о присвоении квалификации (1967)" width="100">
+</a>
+
+<a href="images/diplomas/P1_20_diplom_forest_1993.JPG" data-lightbox="diplomas" data-title="Свидетельство международной лесной бирже (1993)">
+  <img src="images/diplomas/P1_20_diplom_forest_1993.JPG" alt=Свидетельство международной лесной бирже (1993)" width="100">
+</a>
+
+<a href="images/diplomas/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков (1975)">
+  <img src="images/diplomas/P1_14_sertifikat_english_1975.JPG" alt="Сертификат Государственных курсов иностранных языков (1975)" width="100">
+</a>
+
+<a href="images/diplomas/P1_19_diplom_mark_1986.JPG" data-lightbox="diplomas" data-title="Диплом университета марксизма-ленинизма (1986)">
+  <img src="images/diplomas/P1_19_diplom_mark_1986.JPG" alt=Диплом университета марксизма-ленинизма (1986)" width="100">
 </a>
 
 <a href="images/diplomas/P1_15_diplom_vtuza_1973.jpg" data-lightbox="diplomas" data-title="Диплом ВТУЗа">
