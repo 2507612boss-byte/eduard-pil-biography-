@@ -276,7 +276,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <h2>Books on Medicine</h2>
 
 <!-- Галерея английской версии -->
-<div class="BooksMed gallery">
+<divclass="BooksMed gallery">
   <a href="BooksMed/P3_01_book_health_2010.jpg" data-lightbox="BooksMed" data-title="Your Health from A to Z (2010)">
     <img src="BooksMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (2010)" width="100">
   </a>
