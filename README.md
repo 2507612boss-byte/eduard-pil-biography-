@@ -186,8 +186,8 @@ width: 100px; /* компактныеминиатюры */
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
 </a>
 
-<a href="images/diplomas/P1_14_sertifikat_english_1975.jpg" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков">
-  <img src="images/diplomas/P1_14_sertifikat_english_1975.jpg" alt="Сертификат Государственных курсов иностранных языков" width="100">
+<a href="images/diplomas/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков">
+  <img src="images/diplomas/P1_14_sertifikat_english_1975.JPG" alt="Сертификат Государственных курсов иностранных языков" width="100">
 </a>
 
 <a href="images/diplomas/P1_15_diplom_vtuza_1973.jpg" data-lightbox="diplomas" data-title="Диплом ВТУЗа">
