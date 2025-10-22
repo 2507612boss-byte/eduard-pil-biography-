@@ -274,7 +274,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Books on Technology</h2>
 
-<divclass="technologyeng">
+<div class="technologyeng">
 <!-- Пример первых 4 книг -->
 <a href="technologyeng/P2_01_book_sapr_1993.JPG" data-lightbox="technologyeng" data-title="Technological Support of CAD/CAM for Housing Parts (1993)">
 <img src="technologyeng/P2_01_book_sapr_1993.JPG" alt="Technological Support of CAD/CAM for Housing Parts(1993)" width="100">
