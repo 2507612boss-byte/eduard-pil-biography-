@@ -333,6 +333,28 @@ width: 100px; /* компактныеминиатюры */
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+<script>
+let lastScroll = 0;
+
+// Запоминаем позицию прокрутки перед открытием картинки
+document.querySelectorAll('a[data-lightbox]').forEach(a => {
+  a.addEventListener('click', () => {
+    lastScroll = window.pageYOffset || document.documentElement.scrollTop;
+  });
+});
+
+// Проверяем каждые 50 мс, если Lightbox закрыт — возвращаем scroll
+setInterval(() => {
+  const overlay = document.querySelector('.lightboxOverlay');
+  if (!overlay && lastScroll !== 0) {
+    window.scrollTo(0, lastScroll);
+    lastScroll = 0;
+  }
+}, 50);
+</script>
+
+
 </body>
 </html>
 
