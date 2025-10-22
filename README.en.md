@@ -255,70 +255,27 @@ width: 100px; /* компактныеминиатюры */
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Books on Medicine</title>
+<title>Books on Medicine (TEST)</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-  width: 100px;
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
 </head>
 <body>
 
-<h2>Books on Medicine</h2>
+<h2>Books on Medicine – Test</h2>
 
-<!-- Галерея английской версии -->
-<divclass="BooksMed gallery">
+<!-- ВАЖНО: div class с ПРОБЕЛОМ -->
+<div class="BooksMed">
+
   <a href="BooksMed/P3_01_book_health_2010.jpg" data-lightbox="BooksMed" data-title="Your Health from A to Z (2010)">
-    <img src="BooksMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (2010)" width="100">
+    <img src="BooksMed/P3_01_book_health_2010.jpg" width="120">
   </a>
+
   <a href="BooksMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BooksMed" data-title="Longevity and Nutrition (2022)">
-    <img src="BooksMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
+    <img src="BooksMed/P3_02_book_longevity_V6_2022.jpg" width="120">
   </a>
-  <!-- Добавляйте остальные миниатюры сюда -->
+
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-<!-- Настройки Lightbox -->
-<script>
-if (window.lightbox) {
-  lightbox.option({
-    'resizeDuration': 200,
-    'wrapAround': true,
-    'disableScrolling': false
-  });
-}
-</script>
-
-<!-- Скрипт для возврата позиции прокрутки -->
-<script>
-let lastScroll = 0;
-
-document.querySelectorAll('a[data-lightbox]').forEach(a => {
-  a.addEventListener('click', () => {
-    lastScroll = window.pageYOffset || document.documentElement.scrollTop;
-  });
-});
-
-// Возврат scroll после закрытия Lightbox
-setInterval(() => {
-  const overlay = document.querySelector('.lightboxOverlay');
-  if (!overlay && lastScroll !== 0) {
-    window.scrollTo(0, lastScroll);
-    lastScroll = 0;
-  }
-}, 50);
-</script>
-
 </body>
 </html>
 
