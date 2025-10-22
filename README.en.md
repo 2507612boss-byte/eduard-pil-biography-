@@ -220,12 +220,9 @@ width: 100px; /* компактныеминиатюры */
 <a href="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas2" data-title="Diploma “Golden Chair of Russia” (2011)">
 <img src="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Diploma “Golden Chair of Russia” (2011)" width="100">
 </a>
-
 <a href="diplomas2/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas2" data-title="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”">
 <img src="diplomas2/P1_17_diplom_adama_2017.jpg" alt="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”" width="100">
 </a>
-
-
 <a href="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.JPG" data-lightbox="diplomas2" data-title="Life Fellowship">
 <img src="diplomas2/P1_08_diploma_life_fellowship_cambridge_2007.JPG" alt="Life Fellowship" width="100">
 </a>
@@ -253,6 +250,50 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Books on Technology</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Books on Technology</h2>
+
+<divclass="technologyeng">
+<!-- Пример первых 4 книг -->
+<a href="technologyeng/P2_01_book_sapr_1993.JPG" data-lightbox="technologyeng" data-title="Technological Support of CAD/CAM for Housing Parts (1993)">
+<img src="technologyeng/P2_01_book_sapr_1993.JPG" alt="Technological Support of CAD/CAM for Housing Parts(1993)" width="100">
+</a>
+<a href="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technologyeng" data-title="Machining of Housing Parts on CNC Machines and Flexible Manufacturing Systems (1998)">
+<img src=technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Machining of Housing Parts on CNC Machines and Flexible Manufacturing Systems (1998)" width="100">
+</a>
+<a href="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technologyeng" data-title="Theory of Machining Complexity of Housing Parts and Its Application in Mechanical Engineering and Instrument Making (2003)">
+<img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Theory of Machining Complexity of Housing Parts and Its Application in Mechanical Engineering and Instrument Making (2003)" width="100">
+</a>
+<a href="technologyeng/P2_04_book_CARS_2009.jpg" data-lightbox="technologyeng" data-title="Everything About Your Favorite Car (Automobile Reference Guide) (2009)">
+<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="Everything About Your Favorite Car (Automobile Reference Guide) (2009)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 
 
 
