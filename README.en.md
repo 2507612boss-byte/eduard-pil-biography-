@@ -183,8 +183,9 @@ width: 100px; /* компактныеминиатюры */
   <img src="diplomas2/P1_00_moi_knigi_2025.jpg" alt="My BOOKS" width="100">
 </a>
 
-[<img src="./diplomas2/P1_14_sertifikat_english_1975.JPG" alt="Certificate of State Foreign Language Courses (1975)" width="100">](./diplomas2/P1_14_sertifikat_english_1975.JPG)
-
+<a href="diplomas2/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas2" data-title="Certificate of State Foreign Language Courses (1975)">
+  <img src="diplomas2/P1_14_sertifikat_english_1975.JPG" alt="Certificate of State Foreign Language Courses (1975)" width="100">
+</a>
 
 <a href="diplomas2/P1_15_diplom_vtuza_1973.JPG" data-lightbox="diplomas2" data-title="Master’s in Hydraulic Systems and Automation (1973)">
   <img src="diplomas2/P1_15_diplom_vtuza_1973.JPG" alt="Master’s in Hydraulic Systems and Automation (1973)" width="100">
