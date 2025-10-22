@@ -250,55 +250,9 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Books on Technology</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
-
-<h2>Books on Technology</h2>
-
-<div class="technologyeng">
-<!-- Пример первых 4 книг -->
-<a href="technologyeng/P2_01_book_sapr_1993.JPG" data-lightbox="technologyeng" data-title="Technological Support of CAD/CAM for Housing Parts (1993)">
-<img src="technologyeng/P2_01_book_sapr_1993.JPG" alt="Technological Support of CAD/CAM for Housing Parts(1993)" width="100">
-</a>
-<a href="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technologyeng" data-title="Machining of Housing Parts on CNC Machines and Flexible Manufacturing Systems (1998)">
-<img src="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Machining of Housing Parts on CNC Machines and Flexible Manufacturing Systems (1998)" width="100">
-</a>
-<a href="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technologyeng" data-title="Theory of Machining Complexity of Housing Parts and Its Application in Mechanical Engineering and Instrument Making (2003)">
-<img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Theory of Machining Complexity of Housing Parts and Its Application in Mechanical Engineering and Instrument Making (2003)" width="100">
-</a>
-<a href="technologyeng/P2_04_book_CARS_2009.jpg" data-lightbox="technologyeng" data-title="Everything About Your Favorite Car (Automobile Reference Guide) (2009)">
-<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="Everything About Your Favorite Car (Automobile Reference Guide) (2009)" width="100">
-</a>
-
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
-</html>
-
-
 
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>Books on Medicine</title>
@@ -307,7 +261,7 @@ width: 100px; /* компактныеминиатюры */
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
 .gallery img {
-width: 100px; /* компактныеминиатюры */
+  width: 100px;
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -321,42 +275,34 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Books on Medicine</h2>
 
-<div class="BookMed">
-<!-- Пример первых 2 книг -->
-<a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
-<img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
-</a>
-<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BookMed" data-title="Longevity and Nutrition (2022)">
-<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
-</a>
-
+<!-- Галерея изображений -->
+<div class="BooksMed gallery">
+  <a href="BooksMed/P3_01_book_health_2010.jpg" data-lightbox="Medical" data-title="Your Health from A to Z (2010)">
+    <img src="BooksMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (2010)" width="100">
+  </a>
+  <a href="BooksMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Longevity and Nutrition (2022)">
+    <img src="BooksMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
+  </a>
+  <!-- Добавляйте остальные миниатюры аналогично -->
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
+<!-- Настройки Lightbox -->
 <script>
-let lastScroll = 0;
-
-// Запоминаем позицию прокрутки перед открытием картинки
-document.querySelectorAll('a[data-lightbox]').forEach(a => {
-  a.addEventListener('click', () => {
-    lastScroll = window.pageYOffset || document.documentElement.scrollTop;
+if (window.lightbox) {
+  lightbox.option({
+    'resizeDuration': 200,
+    'wrapAround': true,
+    'disableScrolling': false
   });
-});
-
-// Проверяем каждые 50 мс, если Lightbox закрыт — возвращаем scroll
-setInterval(() => {
-  const overlay = document.querySelector('.lightboxOverlay');
-  if (!overlay && lastScroll !== 0) {
-    window.scrollTo(0, lastScroll);
-    lastScroll = 0;
-  }
-}, 50);
+}
 </script>
-
 
 </body>
 </html>
+
+
 
 
 
