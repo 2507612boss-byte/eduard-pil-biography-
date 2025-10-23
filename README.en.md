@@ -360,6 +360,54 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Books on English</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Books on English</h2>
+
+<div class=english"">
+<!-- Пример первых 4 книг -->
+<a href="english2/P5_01_book_letter_call_2000.jpg" data-lightbox="english2" data-title="English Letters and Calling (2000)">
+<img src="english2/P5_01_book_letter_call_2000.jpg" alt="English Letters and Calling (2000)" width="100">
+</a>
+<a href="english2/P5_02_book_slang_2001.jpg" data-lightbox="english2" data-title="Idioms, Slang, Antonyms and Synonyms in One Book (2001)">
+<img src="english2/P5_02_book_slang_2001.jpg" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" width="100">
+</a>
+<a href="english2/P5_03_book_jokes_2002.jpg" data-lightbox="english2" data-title="I Like English Jokes (2002)">
+<img src="english2/P5_03_book_jokes_2002.jpg" alt="I Like English Jokes (2002)" width="100">
+</a>
+<a href="english2/P5_04_book_words_2004.jpg" data-lightbox="english2" data-title="Words for Everyday Tpics (2004)">
+<img src="english2/P5_04_book_words_2004.jpg" alt="Words for Everyday Tpics (2004)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
 
 
 
