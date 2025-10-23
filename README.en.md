@@ -143,6 +143,8 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, fa
 17.	📜 Certificates of Advanced Training
 18.	🌳 Father’s Genealogical Tree
 19.	🌿 Mother’s Genealogical Tree
+20.	🗣️ Student Reviews
+21.	🤝 Classmates
 
 📌 Hint: 
 After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow in the upper left corner of the page.
