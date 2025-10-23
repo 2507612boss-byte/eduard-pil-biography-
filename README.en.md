@@ -183,12 +183,28 @@ width: 100px; /* компактныеминиатюры */
   <img src="diplomas2/P1_00_moi_knigi_2025.jpg" alt="My BOOKS" width="100">
 </a>
 
+<a href="diplomas2/P1_21_diplom_kvalif_1967.jpg" data-lightbox="diplomas2" data-title="Certificate of Qualification Award (1967)">
+  <img src="diplomas2/P1_21_diplom_kvalif_1967.jpg" alt="Certificate of Qualification Award (1967)" width="100">
+</a>
+
+<a href="diplomas2/P1_22_diplom_school_1967.jpg" data-lightbox="diplomas2" data-title="Secondary Education Certificate (1967)">
+  <img src="diplomas2/P1_22_diplom_school_1967.jpg" alt="Secondary Education Certificate (1967)" width="100">
+</a>
+
+<a href="diplomas2/P1_20_diplom_forest_1993.JPG" data-lightbox="diplomas2" data-title="Certificate of the International Timber Exchange (1993)">
+  <img src="diplomas2/P1_20_diplom_forest_1993.JPG" alt="Certificate of the International Timber Exchange (1993)" width="100">
+</a>
+
 <a href="diplomas2/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas2" data-title="Certificate of State Foreign Language Courses (1975)">
   <img src="diplomas2/P1_14_sertifikat_english_1975.JPG" alt="Certificate of State Foreign Language Courses (1975)" width="100">
 </a>
 
 <a href="diplomas2/P1_15_diplom_vtuza_1973.JPG" data-lightbox="diplomas2" data-title="Master’s in Hydraulic Systems and Automation (1973)">
   <img src="diplomas2/P1_15_diplom_vtuza_1973.JPG" alt="Master’s in Hydraulic Systems and Automation (1973)" width="100">
+</a>
+
+<a href="diplomas2/P1_19_diplom_mark_1986.JPG" data-lightbox="diplomas2" data-title="Diploma of the University of Marxism–Leninism (1986)">
+  <img src="diplomas2/P1_19_diplom_mark_1986.JPG" alt="Diploma of the University of Marxism–Leninism (1986)" width="100">
 </a>
 
 <a href="diplomas2/P1_16_diplom_kandidata_1991.JPG" data-lightbox="diplomas2" data-title="PhD in Technical Science (1991)">
