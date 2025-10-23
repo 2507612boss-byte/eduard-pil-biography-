@@ -186,16 +186,16 @@ width: 100px; /* компактныеминиатюры */
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
 </a>
 
-<a href="images/diplomas/P1_21_diplom_school_1967.jpg" data-lightbox="diplomas" data-title="Свидетельство о присвоении квалификации (1967)">
-  <img src="images/diplomas/P1_21_diplom_school_1967.jpg" alt="Свидетельство о присвоении квалификации (1967)" width="100">
+<a href="images/diplomas/P1_21_diplom_kvalif_1967.jpg" data-lightbox="diplomas" data-title="Свидетельство о присвоении квалификации (1967)">
+  <img src="images/diplomas/P1_21_diplom_kvalif_1967.jpg" alt="Свидетельство о присвоении квалификации (1967)" width="100">
 </a>
 
 <a href="images/diplomas/P1_22_diplom_school_1967.jpg" data-lightbox="diplomas" data-title="Аттестат о среднем образовании (1967)">
   <img src="images/diplomas/P1_22_diplom_school_1967.jpg" alt="Аттестат о среднем образовании" width="100">
 </a>
 
-<a href="images/diplomas/P1_20_diplom_forest_1993.jpg" data-lightbox="diplomas" data-title="Свидетельство международной лесной бирже (1993)">
-  <img src="images/diplomas/P1_20_diplom_forest_1993.jpg" alt=Свидетельство международной лесной бирже (1993)" width="100">
+<a href="images/diplomas/P1_20_diplom_forest_1993.JPG" data-lightbox="diplomas" data-title="Свидетельство международной лесной бирже (1993)">
+  <img src="images/diplomas/P1_20_diplom_forest_1993.JPG" alt="Свидетельство международной лесной бирже (1993)" width="100">
 </a>
 
 <a href="images/diplomas/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков (1975)">
