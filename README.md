@@ -190,6 +190,10 @@ width: 100px; /* компактныеминиатюры */
   <img src="images/diplomas/P1_21_diplom_school_1967.jpg" alt="Свидетельство о присвоении квалификации (1967)" width="100">
 </a>
 
+<a href="images/diplomas/P1_22_diplom_school_1967.jpg" data-lightbox="diplomas" data-title="Аттестат о среднем образовании (1967)">
+  <img src="images/diplomas/P1_22_diplom_school_1967.jpg" alt="Аттестат о среднем образовании" width="100">
+</a>
+
 <a href="images/diplomas/P1_20_diplom_forest_1993.JPG" data-lightbox="diplomas" data-title="Свидетельство международной лесной бирже (1993)">
   <img src="images/diplomas/P1_20_diplom_forest_1993.JPG" alt=Свидетельство международной лесной бирже (1993)" width="100">
 </a>
@@ -264,12 +268,6 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
-
-
-
-
-
 
 
 
