@@ -124,27 +124,30 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, fa
     <script src="script.js"></script>
 
 📚 CONTENTS
-1.	🏆 Gallery of Diplomas
-2.	💻 Books on Technology
-3.	🩺 Books on Medicine
-4.	💰 Books on Economics
-5.	📚 Books on the English Language
-6.	📖 Fiction
-7.	📝 Articles on the Theory of the English Language
-8.	👤 Biography
-9.	🏅 Book of Records of Russia
-10.	📰 Articles from Journals and Conferences
-11.	🎓 Certificates of Conference Presentations
-12.	✉️ Letters from Monarchs and Politicians
-13.	✉️ Postcards from Fidel Castro
-14.	📦 Books Donated to Libraries
-15.	🏆 Letters from Nobel Laureates in Economics
-16.	🎁 Books Donated by Prominent Scientists
-17.	📜 Certificates of Advanced Training
-18.	🌳 Father’s Genealogical Tree
-19.	🌿 Mother’s Genealogical Tree
-20.	🗣️ Student Reviews
-21.	🤝 Classmates
+<ol style="display: flex; flex-wrap: wrap; gap: 10px; padding: 0; list-style-position: inside;">
+  <li>🏆 Gallery of Diplomas</li>
+  <li>💻 Books on Technology</li>
+  <li>🩺 Books on Medicine</li>
+  <li>💰 Books on Economics</li>
+  <li>📚 Books on the English Language</li>
+  <li>📖 Fiction</li>
+  <li>📝 Articles on the Theory of the English Language</li>
+  <li>👤 Biography</li>
+  <li>🏅 Book of Records of Russia</li>
+  <li>📰 Articles from Journals and Conferences</li>
+  <li>🎓 Certificates of Conference Presentations</li>
+  <li>✉️ Letters from Monarchs and Politicians</li>
+  <li>✉️ Postcards from Fidel Castro</li>
+  <li>📦 Books Donated to Libraries</li>
+  <li>🏆 Letters from Nobel Laureates in Economics</li>
+  <li>🎁 Books Donated by Prominent Scientists</li>
+  <li>📜 Certificates of Advanced Training</li>
+  <li>🌳 Father’s Genealogical Tree</li>
+  <li>🌿 Mother’s Genealogical Tree</li>
+  <li>🗣️ Student Reviews</li>
+  <li>🤝 Classmates</li>
+</ol>
+
 
 📌 Hint: 
 After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow in the upper left corner of the page.
