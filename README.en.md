@@ -279,14 +279,14 @@ width: 100px; /* компактныеминиатюры */
 <h2>Books on Medicine – Test</h2>
 
 <!-- ВАЖНО: div class с ПРОБЕЛОМ -->
-<div class="BooksMed">
+<div class="BookMed">
 
-  <a href="BooksMed/P3_01_book_health_2010.jpg" data-lightbox="BooksMed" data-title="Your Health from A to Z (2010)">
-    <img src="BooksMed/P3_01_book_health_2010.jpg" width="120">
+  <a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (2010)">
+    <img src="BookMed/P3_01_book_health_2010.jpg" width="120">
   </a>
 
-  <a href="BooksMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BooksMed" data-title="Longevity and Nutrition (2022)">
-    <img src="BooksMed/P3_02_book_longevity_V6_2022.jpg" width="120">
+  <a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BookMed" data-title="Longevity and Nutrition (2022)">
+    <img src="BookMed/P3_02_book_longevity_V6_2022.jpg" width="120">
   </a>
 
 </div>
