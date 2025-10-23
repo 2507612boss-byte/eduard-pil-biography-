@@ -268,26 +268,37 @@ width: 100px; /* компактныеминиатюры */
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Books on Medicine (TEST)</title>
+<title>Books on Medicine</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
 </head>
 <body>
 
-<h2>Books on Medicine – Test</h2>
+<h2>Books on Medicine</h2>
 
-<!-- ВАЖНО: div class с ПРОБЕЛОМ -->
 <div class="BookMed">
-
-  <a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (2010)">
-    <img src="BookMed/P3_01_book_health_2010.jpg" width="120">
-  </a>
-
-  <a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BookMed" data-title="Longevity and Nutrition (2022)">
-    <img src="BookMed/P3_02_book_longevity_V6_2022.jpg" width="120">
-  </a>
+<!-- Пример первых 2 книг -->
+<a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
+<img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BookMed" data-title="Longevity and Nutrition (2022)">
+<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
+</a>
 
 </div>
 
