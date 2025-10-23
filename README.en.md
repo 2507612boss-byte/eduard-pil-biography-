@@ -154,7 +154,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>**"Diploma Gallery"**.
+<title>**"Gallery of Diplomas"**.
 </title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
@@ -174,7 +174,7 @@ width: 100px; /* компактныеминиатюры */
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 <body>
 
-<h2>Diploma Gallery</h2>
+<h2>Gallery of Diplomas</h2>
 
 <div class="gallery">
 <!-- Пример первых 19 дипломов -->
