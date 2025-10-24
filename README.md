@@ -691,8 +691,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
 <img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
 </a>
-<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)">
-<img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
+<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (2021)">
+<img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
 </a>
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (2019)" width="100">
