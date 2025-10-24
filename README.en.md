@@ -480,12 +480,12 @@ width: 100px; /* компактныеминиатюры */
 <h2>Articles on English Language Theory</h2>
 <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
 
-<div class=fictione"">
+<div class="fictione">
 <!-- Пример первых 2 статьи -->
-<a href="fictione/P7_01_book_english1_2016.pdf" data-lightbox="fictione" data-title="Theory of the English Language (2018)">
-<img src="fictione/P7_01_book_english1_2016.pdf" alt="Теория Аглийского Языка (2016)Theory of the English Language (2018)
+<a href="fictione/P7_01_book_english1_2016.pdf" data-lightbox="fictione" data-title="Теория английского языка (2016)">
+<img src="fictione/P7_01_book_english1_2016.pdf" alt="Теория английского языка (2016)
 <a href="fictione/P7_02_book_english2_2018.pdf" data-lightbox="fictione" data-title="Theory of the English Language (2018)">
-<img src="fictione/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
+  <img src="fictione/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
 </a>
 
 </div>
