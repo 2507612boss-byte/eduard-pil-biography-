@@ -478,7 +478,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Художественная литература</h2>
 
-<divclass=english"">
+<divc lass=english"">
 <!-- Пример первых 2 книг -->
 <a href="fiction/P6_01_book_stepan_2022.jpg" data-lightbox="fiction" data-title="Один День Питерского Карасика Степашки (2022)">
 <img src="fiction/P6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022)" width="100">
@@ -1060,7 +1060,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Сертификаты повышения квалификации</h2>
 
-<divclass=kvalif"">
+<divclass="kvalif">
 
 <!-- Пример первых 7 копии -->
 <a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
@@ -1096,37 +1096,29 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>ОТЗЫВЫСТУДЕНТОВ</title>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: sans-serif;
-      background: #f9f9f9;
-      margin: 20px;
-    }
-    .gallery {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: flex-start;
-    }
-    .gallery img {
-      width: 100px; /* компактные миниатюры */
-      height: auto;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      cursor: zoom-in;
-      transition: transform 0.2s;
-    }
-    .gallery img:hover {
-      transform: scale(1.05);
-    }
-  </style>
+  <title>ОТЗЫВЫ СТУДЕНТОВ</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
 </head>
 <body>
-
+  
 <h2>ОТЗЫВЫ СТУДЕНТОВ</h2>
-
+  
 <div class="diplomnik">
   <a href="diplomnik/P18_01_book_diplom_2023.JPG" data-lightbox="diplomnik" data-title="Отзывы студентов (2023)">
     <img src="diplomnik/P18_01_book_diplom_2023.JPG" alt="Отзывы студентов (2023)" width="100">
@@ -1169,7 +1161,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Генеалогическое древо отца</h2>
 <h4>Чтобы просмотреть всё древо отца надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 
-<divclass=tree"">
+<divc lass="tree">
 <!-- Пример первых 1 копии -->
 <a href="tree/P17_01_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо отца">
 <img src="tree/P17_01_book_tree_2025.pdf" alt="Генеалогическое древо отца" width="100">
@@ -1208,7 +1200,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Генеалогическое древо матери</h2>
 <h4>Чтобы просмотреть всё древо матери надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 
-<divclass=tree"">
+<div class="tree">
 <!-- Пример первых 1 копии -->
 <a href="tree/P17_02_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо матери">
 <img src="tree/P17_02_book_tree_2025.pdf" alt="Генеалогическое древо матери" width="100">
