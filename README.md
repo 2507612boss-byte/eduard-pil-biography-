@@ -1155,8 +1155,8 @@ width: 100px; /* компактныеминиатюры */
 <h2>Патент</h2>
   
 <div class="patant">
-  <a href="patant/P19_01_book_patent_2023.jpg" data-lightbox="patant" data-title="Патент (1994)">
-    <img src="patant/P19_01_book_patent_2023.jpg" alt=Патент (1994)" width="100">
+  <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
+    <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" width="100">
   </a>
 
 </div>
