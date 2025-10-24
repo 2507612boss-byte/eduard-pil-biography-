@@ -1096,7 +1096,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>ОТЗЫВЫ СТУДЕНТОВ</title>
+  <title>Отзывы Студентов</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1114,11 +1114,11 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
   
-<h2>ОТЗЫВЫ СТУДЕНТОВ</h2>
+<h2>Отзывы Студентов</h2>
   
 <div class="diplomnik">
-  <a href="diplomnik/P18_01_book_diplom_2023.JPG" data-lightbox="diplomnik" data-title="Отзывы студентов (2023)">
-    <img src="diplomnik/P18_01_book_diplom_2023.JPG" alt="Отзывы студентов (2023)" width="100">
+  <a href="diplomnik/P18_01_book_stud_2023.JPG" data-lightbox="diplomnik" data-title="Отзывы студентов (2023)">
+    <img src="diplomnik/P18_01_book_stud_2023.JPG" alt="Отзывы студентов (2023)" width="100">
   </a>
 
 </div>
