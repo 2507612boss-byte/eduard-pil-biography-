@@ -1172,6 +1172,57 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>ОТЗЫВЫ СТУДЕНТОВ</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f9f9f9;
+      margin: 20px;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-start;
+    }
+    .gallery img {
+      width: 100px; /* компактные миниатюры */
+      height: auto;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: zoom-in;
+      transition: transform 0.2s;
+    }
+    .gallery img:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+
+<h2>ОТЗЫВЫ СТУДЕНТОВ</h2>
+
+<div class="gallery">
+  <a href="diplomnik/P18_01_book_diplom_2023.JPG" data-lightbox="diplomnik" data-title="Отзывы студентов (2023)">
+    <img src="diplomnik/P18_01_book_diplom_2023.JPG" alt="Отзывы студентов (2023)" width="100">
+  </a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
 
 
 <
