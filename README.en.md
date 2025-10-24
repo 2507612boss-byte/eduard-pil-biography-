@@ -628,8 +628,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
 </a>
-<a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="GDP Calculation with a Negative Value of a Single Variable (2017)">
+<img src="papers/P10_02_book_paper2_2017.pdf" alt="GDP Calculation with a Negative Value of a Single Variable (2017)" width="100">
 </a>
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
@@ -638,26 +638,26 @@ width: 100px; /* компактныеминиатюры */
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
 </a>
 
-<a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
-<img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
+<a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Calculation of the Variable X3 and the Country's GDP (2018)">
+<img src="papers/P10_05_book_paper5_2018.pdf" alt="Calculation of the Variable X3 and the Country's GDP (2018)" width="100">
 </a>
 <a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
 <img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
 </a>
-<a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (2018)">
-<img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (2018)" width="100">
+<a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Analysis of the 3D Domain of the Variable X4su (2018)">
+<img src="papers/P10_07_book_paper7_2018.pdf" alt="Analysis of the 3D Domain of the Variable X4su (2018)" width="100">
 </a>
-<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
-<img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
+<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)">
+<img src="papers/P10_08_book_paper8_2019.pdf" alt="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)" width="100">
 </a>
-<a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
-<img src="papers/P10_09_book_paper9_2019.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
+<a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)">
+<img src="papers/P10_09_book_paper9_2019.pdf" alt="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)" width="100">
 </a>
-<a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
-<img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
+<a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for Veu Using X2 Values (2019)">
+<img src="papers/P10_010_book_paper10_2019.pdf" alt="Plotting of 3D Graphs for Veu Using X2 Values (2019)" width="100">
 </a>
-<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)">
-<img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа посроенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
+<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)">
+<img src="papers/P10_011_book_paper11_2021.pdf" alt="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)" width="100">
 </a>
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (2019)" width="100">
