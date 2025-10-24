@@ -455,6 +455,44 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Articles on English Language Theory</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Articles on English Language Theory</h2>
+<h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
+
+<div class=fictione"">
+<!-- Пример первых 2 статьи -->
+<a href="fictione/P7_01_book_english1_2016.pdf" data-lightbox="fictione" data-title="Theory of the English Language (2018)">
+<img src="fictione/P7_01_book_english1_2016.pdf" alt="Теория Аглийского Языка (2016)Theory of the English Language (2018)
+<a href="fictione/P7_02_book_english2_2018.pdf" data-lightbox="fictione" data-title="Theory of the English Language (2018)">
+<img src="fictione/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 
 
 
