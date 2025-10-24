@@ -413,6 +413,52 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Fiction</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Fiction</h2>
+
+<divclass="fictione">
+<!-- Пример первых 2 книг -->
+<a href="fictione/P6_01_book_stepan_2022.jpg" data-lightbox="fictione" data-title="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)">
+<img src="fictione/P6_01_book_stepan_2022.jpg" alt="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)" width="100">
+</a>
+<a href="fictione/P6_02_book_rus_2025.jpg" data-lightbox="fictione" data-title="The Life of Holy Rus (Historical/Spiritual Fiction)">
+<img src="fictione/P6_02_book_rus_2025.jpg" alt="The Life of Holy Rus (Historical/Spiritual Fiction)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
 
 
 
