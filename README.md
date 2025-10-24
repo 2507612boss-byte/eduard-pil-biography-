@@ -667,8 +667,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
-<a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)                     ">
-<img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017                      " width="100">
+<a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
+<img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
 </a>
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017">
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
