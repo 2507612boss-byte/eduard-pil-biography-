@@ -482,8 +482,8 @@ width: 100px; /* компактныеминиатюры */
 
 <div class="fictione">
 <!-- Пример первых 2 статьи -->
-<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Аглийского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Аглийского Языка (2016)" width="100">
+<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
+<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
 </a>
 <a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
 <img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
@@ -495,6 +495,75 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Biography</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Biography</h2>
+
+<div class="biographye">
+<!-- Пример первых 7 источников -->
+<a href="biographye/P8_01_book_outstand_2010.jpg" data-lightbox="biographye" data-title="2000 Outstanding Scientists (2010)">
+<img src="biographye/P8_01_book_outstand_2010.jpg" alt="2000 Outstanding Scientists (2010))" width="100">
+</a>
+<a href="biographye/P8_02_book_abi_2011.jpg" data-lightbox="biographye" data-title="Biography Proof (2011)">
+<img src="biographye/P8_02_book_abi_2011.jpg" alt="Biography Proof (2011)" width="100">
+</a>
+<a href="biographye/P8_03_book_who_2012.jpg" data-lightbox="biographye" data-title="Who is Who in Russia (2012)">
+<img src="biographye/P8_03_book_who_2012.jpg" alt="Who is Who in Russia (2012)" width="100">
+</a>
+ <a href="biographye/P8_04_book_pgup1_2002.jpg" data-lightbox="biographye" data-title="Doctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2002)">
+<img src="biographye/P8_04_book_pgup1_2002.jpg" alt="Doctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2002)" width="100">
+</a>
+<a href="biographye/P8_05_book_pgup2_2009.jpg" data-lightbox="biographye" data-title="Doctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2011)">
+<img src="biographye/P8_05_book_pgup2_2009.jpg" alt="ДDoctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2011)" width="100">
+</a>
+<a href="biographye/P8_06_book_sea_2015.jpg" data-lightbox="biographye" data-title="Newspaper Za Kadry Verfiam, SPbGMTU, No. 10 (2545), October (2015)">
+<img src="biographye/P8_06_book_sea_2015.jpg" alt="Newspaper Za Kadry Verfiam, SPbGMTU, No. 10 (2545), October (2015)" width="100">
+</a>
+<a href="biographye/P8_07_book_polet_2022.jpg" data-lightbox="biographye" data-title="Newspaper V Polet, SUAI, No. 8 (139), 18 November (2022)">
+<img src="biographye/P8_07_book_polet_2022.jpg" alt="Newspaper V Polet, SUAI, No. 8 (139), 18 November (2022)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
 
 
 
