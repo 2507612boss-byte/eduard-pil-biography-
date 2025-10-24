@@ -602,7 +602,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Статьиизжурналовиконференций</title>
+<title>Articles from Journals and Conferences</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -620,8 +620,8 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Статьи из журналов и конференций</h2>
-<h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.</h4>
+<h2>Articles from Journals and Conferences</h2>
+<h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
 
 <divclass=papers"">
 <!-- Пример первых 13 статьи -->
