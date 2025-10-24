@@ -142,11 +142,12 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, fa
   <li>🏆 Letters from Nobel Laureates in Economics</li>
   <li>🎁 Books Donated by Prominent Scientists</li>
   <li>📜 Certificates of Advanced Training</li>
+  <li>🗣️ Student Reviews</li>
+  <li>🌱 Patent</li>
   <li>🌳 Father’s Genealogical Tree</li>
   <li>🌿 Mother’s Genealogical Tree</li>
-  <li>🗣️ Student Reviews</li>
-  <li>🤝 Classmates</li>
-</ol>
+  <li>🎓👥 Fellow students</li>
+  </ol>
 
 
 📌 Hint: 
