@@ -811,6 +811,54 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Postcards from Fidel Castro</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f9f9f9;
+      margin: 20px;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-start;
+    }
+    .gallery img {
+      width: 100px; /* компактные миниатюры */
+      height: auto;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: zoom-in;
+      transition: transform 0.2s;
+    }
+    .gallery img:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+
+<h2>Postcards from Fidel Castro</h2>
+
+<div class="gallery">
+  <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Postcard from Fidel Castro (2012)">
+    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Postcard from Fidel Castro (2012)" width="100">
+  </a>
+
+  <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Postcard from Fidel Castro (2014)">
+    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Postcard from Fidel Castro (2014)" width="100">
+  </a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 
 
 
