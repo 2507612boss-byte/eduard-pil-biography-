@@ -735,7 +735,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Сертификаты выступлений на конференциях</h2>
 <h4>Здесь представлены только 11 сертификатов из 493, которые имеются в наличии у автора.</h4>
 
-<divclass=serpapers"">
+<divclass="serpapers">
 <!-- Пример первых 11 сертификатов -->
 <a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
 <img src="serpapers/P11_01_book_papers1_2017.jpg" alt="Certificate of participation. Turkey, (2006)" width="100">
