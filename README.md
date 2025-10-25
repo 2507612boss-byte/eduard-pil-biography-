@@ -957,7 +957,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Письма от нобелевских лауреатов по экономике</h2>
-<divclass=nobel"">
+<div class="nobel">
 
 <!-- Пример первых 4 копии -->
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
