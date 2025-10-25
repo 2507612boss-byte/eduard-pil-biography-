@@ -675,6 +675,73 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Conference Presentation Certificates</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Conference Presentation Certificates</h2>
+<h4>Only 11 out of 493 certificates available to the author are presented here.</h4>
+
+<div class="serpapers">
+<!-- Пример первых 11 сертификатов -->
+<a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
+<img src="serpapers/P11_01_book_papers1_2017.jpg" alt="Certificate of participation. Turkey, (2006)" width="100">
+</a>
+<a href="serpapers/P11_02_book_papers2_2017.jpg" data-lightbox="serpapers" data-title="Certificate of business conference. Germany, (2008)">
+<img src="serpapers/P11_02_book_papers2_2017.jpg" alt="Certificate of business conference. Germany, (2008)" width="100">
+</a>
+<a href="serpapers/P11_03_book_papers3_2017.jpg" data-lightbox="serpapers" data-title="World congress of science, engineering and technology. Paris, (2009)">
+<img src="serpapers/P11_03_book_papers3_2017.jpg" alt="World congress of science, engineering and technology. Paris, (2009)" width="100">
+</a>
+<a href="serpapers/P11_04_book_papers4_2017.jpg" data-lightbox="record" data-title="Financial, material and information flows of the company. UAE, (2015)">
+<img src="serpapers/P11_04_book_papers4_2017.jpg" alt="Financial, material and information flows of the company. UAE, (2015)" width="100">
+</a>
+<a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
+<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" width="100">
+</a>
+<a href="serpapers/P11_06_book_papers6_2017.jpg" data-lightbox="record" data-title="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)">
+<img src="serpapers/P11_06_book_papers6_2017.jpg" alt="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)" width="100">
+</a>
+<a href="serpapers/P11_07_book_papers7_2017.jpg" data-lightbox="serpapers" data-title="3D graphing for the Veu parameter. UK, (2019)">
+<img src="serpapers/P11_07_book_papers7_2017.jpg" alt="3D graphing for the Veu parameter. UK, (2019)" width="100">
+</a>
+<a href="serpapers/P11_08_book_papers8_2017.jpg" data-lightbox="record" data-title="The effect of X6 on 3D graphs for the Veu parameter. Praha, (2020)">
+<img src="serpapers/P11_08_book_papers8_2017.jpg" alt="The effect of X6 on 3D graphs for the Veu parameter. Praha, (2020)" width="100">
+</a>
+<a href="serpapers/P11_09_book_papers9_2017.jpg" data-lightbox="serpapers" data-title="The effect of X5 on 3D graphs for the Veu parameter. Poiland, (2020)">
+<img src="serpapers/P11_09_book_papers9_2017.jpg" alt="The effect of X5 on 3D graphs for the Veu parameter. Poiland, (2020)" width="100">
+</a>
+<a href="serpapers/P11_010_book_papers10_2017.jpg" data-lightbox="record" data-title="3D graphing of Veu based on X6. Bulgaria, (2020)">
+<img src="serpapers/P11_010_book_papers10_2017.jpg" alt="3D graphing of Veu based on X6. Bulgaria, (2020)" width="100">
+</a>
+<a href="serpapers/P11_011_book_papers11_2017.jpg" data-lightbox="record" data-title="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)">
+<img src="serpapers/P11_011_book_papers11_2017.jpg" alt="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)" width="100">
+</a>
+
+</div>
+<script 
+    src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js">
+  </script>
+</body>
+</html>
 
 
 
