@@ -1016,6 +1016,67 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Certificate of Advanced Training</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Certificate of Advanced Training</h2>
+
+<div class="kvalife">
+
+<!-- Пример первых 7 копии -->
+<a href="kvalife/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Methodology for Analysis and Design of Business Systems and Software Complexes Using ARIS Business Architect (2013)">
+<img src="kvalife/P16_01_book_kvalif_2019.jpg" alt="Methodology for Analysis and Design of Business Systems and Software Complexes Using ARIS Business Architect (2013)" width="100">
+ </a>
+<a href="kvalife/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Microsoft Certificate Achievement (2018)">
+<img src="kvalife/P16_02_book_kvalif_2019.jpg" alt="Microsoft Certificate Achievement (2018)" width="100">
+</a>
+<a href="kvalife/P16_03_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in pedagogy and psychology of Higher Education (St. Petersburg State Pediatric Medical University) (2013)">
+<img src="kvalife/P16_03_book_kvalif_2019.jpg" alt="Certificate of advanced training in pedagogy and psychology of Higher Education (St. Petersburg State Pediatric Medical University) (2013)" width="100">
+</a>
+<a href="kvalife/P16_04_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training 'Organization of transportation and transport management' (St. Petersburg State University of Aerospace Instrumentation) (2017)">
+<img src="kvalife/P16_04_book_kvalif_2019.jpg" alt="Certificate of advanced training 'Organization of transportation and transport management' (St. Petersburg State University of Aerospace Instrumentation) (2017)" width="100">
+</a>
+<a href="kvalife/P16_05_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in 'Anti-corruption measures' (St. Petersburg State University of Architecture and Civil Engineering) (2018)">
+<img src="kvalife/P16_05_book_kvalif_2019.jpg" alt="Certificate of advanced training in 'Anti-corruption measures' (St. Petersburg State University of Architecture and Civil Engineering) (2018)" width="100">
+</a>
+<a href="kvalife/P16_06_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in 'Information and communication technologies in educational activities (Institute for the development of further professional education)(2021)">
+<img src="kvalife/P16_06_book_kvalif_2019.jpg" alt="Certificate of advanced training in 'Information and communication technologies in educational activities (Institute for the development of further professional education) (2021)" width="100">
+</a>
+<a href="kvalife/P16_07_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)">
+<img src="kvalife/P16_07_book_kvalif_2019.jpg" alt="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
 ---
 *This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
 
