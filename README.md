@@ -1058,7 +1058,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Сертификаты повышения квалификации</h2>
 
-<divclass="kvalif">
+<div class="kvalif">
 
 <!-- Пример первых 7 копии -->
 <a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
