@@ -908,7 +908,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Книги подаренные библиотекам</h2>
-<divclass=bibl"">
+<divclass="bibl">
 
 <!-- Пример первых 5 копии -->
 <a href="bibl/P13_01_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Финляндии (2025)">
