@@ -885,23 +885,23 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Books in Foreign Libraries</h2>
-<div class="bible">
+<div class="biblee">
 
 <!-- Пример первых 5 копии -->
-<a href="bible/P13_01_book_bibl_2025.jpg" data-lightbox="bible" data-title="Helsinki University Library, Finland">
-<img src="bible/P13_01_book_bibl_2025.jpg" alt="Helsinki University Library, Finland" width="100">
+<a href="biblee/P13_01_book_bibl_2025.jpg" data-lightbox="biblee" data-title="Helsinki University Library, Finland">
+<img src="biblee/P13_01_book_bibl_2025.jpg" alt="Helsinki University Library, Finland" width="100">
 </a>
-<a href="bibel/P13_02_book_bibl_2025.jpg" data-lightbox="bible" data-title="National Library of the Czech Republic)">
-<img src="bible/P13_02_book_bibl_2025.jpg" alt="National Library of the Czech Republic" width="100">
+<a href="biblee/P13_02_book_bibl_2025.jpg" data-lightbox="biblee" data-title="National Library of the Czech Republic)">
+<img src="biblee/P13_02_book_bibl_2025.jpg" alt="National Library of the Czech Republic" width="100">
 </a>
-<a href="bible/P13_03_book_bibl_2012.JPG" data-lightbox="bible" data-title="Letter from the National Library of the Czech Republic (2010)">
-<img src="bible/P13_03_book_bibl_2012.JPG" alt="Letter from the National Library of the Czech Republic (2010)" width="100">
+<a href="biblee/P13_03_book_bibl_2012.JPG" data-lightbox="biblee" data-title="Letter from the National Library of the Czech Republic (2010)">
+<img src="biblee/P13_03_book_bibl_2012.JPG" alt="Letter from the National Library of the Czech Republic (2010)" width="100">
 </a>
-<a href="bible/P13_04_book_bibl_2012.jpg" data-lightbox="bible" data-title="Letter from the Library of Congress, USA (2012)">
-<img src="bible/P13_04_book_bibl_2012.jpg" alt="Letter from the Library of Congress, USA (2012)" width="100">
+<a href="biblee/P13_04_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Letter from the Library of Congress, USA (2012)">
+<img src="biblee/P13_04_book_bibl_2012.jpg" alt="Letter from the Library of Congress, USA (2012)" width="100">
 </a>
-<a href="bible/P13_05_book_bibl_2012.jpg" data-lightbox="bible" data-title="Letter from the President of the University of Sorbonne, France (2012)">
-<img src="bible/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
+<a href="biblee/P13_05_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Letter from the President of the University of Sorbonne, France (2012)">
+<img src="biblee/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
 </a>
 </div>
 
