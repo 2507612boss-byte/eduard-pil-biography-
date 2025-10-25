@@ -862,6 +862,53 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Books in Foreign Libraries</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Books in Foreign Libraries</h2>
+<div class="bible">
+
+<!-- Пример первых 5 копии -->
+<a href="bible/P13_01_book_bibl_2025.jpg" data-lightbox="bible" data-title="Helsinki University Library, Finland">
+<img src="bible/P13_01_book_bibl_2025.jpg" alt="Helsinki University Library, Finland" width="100">
+</a>
+<a href="bibel/P13_02_book_bibl_2025.jpg" data-lightbox="bible" data-title="National Library of the Czech Republic)">
+<img src="bible/P13_02_book_bibl_2025.jpg" alt="National Library of the Czech Republic" width="100">
+</a>
+<a href="bible/P13_03_book_bibl_2012.JPG" data-lightbox="bible" data-title="Letter from the National Library of the Czech Republic (2010)">
+<img src="bible/P13_03_book_bibl_2012.JPG" alt="Letter from the National Library of the Czech Republic (2010)" width="100">
+</a>
+<a href="bible/P13_04_book_bibl_2012.jpg" data-lightbox="bible" data-title="Letter from the Library of Congress, USA (2012)">
+<img src="bible/P13_04_book_bibl_2012.jpg" alt="Letter from the Library of Congress, USA (2012)" width="100">
+</a>
+<a href="bible/P13_05_book_bibl_2012.jpg" data-lightbox="bible" data-title="Letter from the President of the University of Sorbonne, France (2012)">
+<img src="bible/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
+</a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
 
 
