@@ -962,6 +962,60 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Books gifted by prominent scientists</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+ <h2 id="knigi-podarenye-uchyonym">Books gifted by prominent scientists</h2>
+
+<div class="presente">
+
+  <!-- Пример первых 6 копии -->
+<a href="presente/P15_01_book_present_2019.jpg" data-lightbox="presente" data-title="Book gifted by S.Yu. Glazyev (2019)">
+<img src="presente/P15_01_book_present_2019.jpg" alt="Book gifted by S.Yu. Glazyev (2019)" width="100">
+ </a>
+<a href="presente/P15_02_book_present_2018.jpg" data-lightbox="presente" data-title="Book gifted by S.D. Bodrunov (2018)">
+<img src="presente/P15_02_book_present_2018.jpg" alt="Book gifted by S.D. Bodrunovм (2018)" width="100">
+</a>
+<a href="presente/P15_03_book_present_2019.jpg" data-lightbox="presente" data-title="Book gifted by S.D. Bodrunov (2019)">
+<img src="presente/P15_03_book_present_2019.jpg" alt="Book gifted by S.D. Bodrunov (2019)" width="100">
+</a>
+<a href="presente/P15_04_book_present_2019.jpg" data-lightbox="presente" data-title="Book gifted by V.L. Broido and O.P. Ilyinaй (2006)">
+<img src="presente/P15_04_book_present_2019.jpg" alt="Book gifted by V.L. Broido and O.P. Ilyina (2006)" width="100">
+</a>
+<a href="presente/P15_05_book_present_2005.jpg" data-lightbox="presente" data-title="Book gifted by E.V. Stelmashonok (2005)">
+<img src="presente/P15_05_book_present_2005.jpg" alt="Book gifted by E.V. Stelmashonok (2005)" width="100">
+</a>
+<a href="presente/P15_06_book_present_2004.jpg" data-lightbox="presente" data-title="Book gifted by F.F. Pavlov (2004)">
+<img src="presente/P15_06_book_present_2004.jpg" alt="Book gifted by F.F. Pavlov (2004)" width="100">
+</a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
 ---
 *This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
 
