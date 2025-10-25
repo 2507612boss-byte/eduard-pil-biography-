@@ -746,6 +746,48 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<h2 id="pisma-ot-monarkhov">Letters from Monarchs and Political Figures</h2>
+<span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
+
+<div class="kastro">
+  <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Official correspondence from Canadian authorities (2011)">
+    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Official correspondence from Canadian authorities (2011)" width="100">
+  </a>
+  <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Official correspondence from Spanish authorities (2011)">
+    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Official correspondence from Spanish authorities (2011)" width="100">
+  </a>
+  <a href="kastroe/P12_05_book_kastro_2017.jpg" data-lightbox="kastroe" data-title="Official correspondence from Spanish authorities (2012)">
+    <img src="kastroe/P12_05_book_kastro_2017.jpg" alt="Official correspondence from Spanish authorities (2012)" width="100">
+  </a>
+  <a href="kastroe/P12_08_book_kastro_2017.jpg" data-lightbox="kastroe" data-title="Official correspondence from British authorities (2011)">
+    <img src="kastroe/P12_08_book_kastro_2017.jpg" alt="Official correspondence from British authorities (2011)" width="100">
+  </a>
+  <a href="kastroe/P12_09_book_kastro_2017.jpg" data-lightbox="kastroe" data-title="Germany, 2011 – Official correspondence from German authorities (2011)">
+    <img src="kastroe/P12_09_book_kastro_2017.jpg" alt=" Official correspondence from German authorities (2011)" width="100">
+  </a>
+  <a href="kastroe/P12_10_book_kastro_2017.jpg" data-lightbox="kastroe" data-title="Official correspondence from the Vaticanа (2012)">
+    <img src="kastroe/P12_10_book_kastro_2017.jpg" alt="Official correspondence from the Vatican (2012)" width="100">
+  </a>
+  <a href="kastroe/P12_11_book_kastro_2017.jpg" data-lightbox="kastroe" data-title="Official correspondence from Cuban authorities (2012)">
+    <img src="kastroe/P12_11_book_kastro_2017.jpg" alt="Official correspondence from Cuban authorities (2012)" width="100">
+  </a>
+  <a href="kastreo/P12_12_book_kastro_2017.jpg" data-lightbox="kastroe" data-title="Official correspondence from Cuban authorities (2014)">
+    <img src="kastroe/P12_12_book_kastro_2017.jpg" alt="Official correspondence from Cuban authorities (2014)" width="100">
+  </a>
+  <a href="kastroe/P12_13_book_kastro_2017.jpg" data-lightbox="kastroe" data-title="Official correspondence from Brazilian authorities (2014)">
+    <img src="kastroe/P12_13_book_kastro_2017.jpg" alt="Official correspondence from Brazilian authorities (2014)" width="100">
+  </a>
+</div>
+
+<script 
+    src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js">
+  </script>
+</body>
+</html>
 
 
 
