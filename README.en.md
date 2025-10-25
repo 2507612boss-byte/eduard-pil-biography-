@@ -967,7 +967,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Books gifted by prominent scientists</title>
+<title>Books Gifted by Prominent Scientists</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -985,7 +985,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
- <h2 id="knigi-podarenye-uchyonym">Books gifted by prominent scientists</h2>
+ <h2 id="knigi-podarenye-uchyonym">Books Gifted by Prominent Scientists</h2>
 
 <div class="presente">
 
