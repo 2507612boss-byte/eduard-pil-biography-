@@ -914,6 +914,54 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Letters from Nobel Laureates in Economics</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Letters from Nobel Laureates in Economics</h2>
+<div class="nobele">
+
+<!-- Пример первых 4 копии -->
+<a href="nobele/P14_01_book_nobel_2017.jpg" data-lightbox="nobele" data-title="Letter from Jean Tirole (2017)">
+<img src="nobele/P14_01_book_nobel_2017.jpg" alt="Letter from Jean Tirole (2017)" width="100">
+</a>
+<a href="nobele/P14_02_book_nobel_2020.JPG" data-lightbox="nobele" data-title="Letter from Angus S. Deaton (2020)">
+<img src="nobele/P14_02_book_nobel_2020.JPG" alt="Letter from Angus S. Deaton (2020)" width="100">
+</a>
+<a href="nobele/P14_03_book_nobel_2025.jpg" data-lightbox="nobele" data-title="Letter from Joseph E. Stiglitz (2025)">
+<img src="nobele/P14_03_book_nobel_2025.jpg" alt="Letter from Joseph E. Stiglitz (2025)" width="100">
+</a>
+<a href="nobele/P14_04_book_nobel_2019.jpg" data-lightbox="nobele" data-title="Screenshot of letters sent to Nobel Laureates in Economics (2025)">
+<img src="nobele/P14_04_book_nobel_2025.jpg" alt="Screenshot of letters sent to Nobel Laureates in Economics (2025)" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
 ---
 *This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
 
