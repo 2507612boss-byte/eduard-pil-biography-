@@ -341,7 +341,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Books on Economics</h2>
 
-<divclass=BookEcon"">
+<div class="BookEcon">
 <!-- Пример первых 5 книг -->
 <a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)">
 <img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)" width="100">
