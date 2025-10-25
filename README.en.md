@@ -182,7 +182,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Gallery of Diplomas</h2>
 
-<div class="gallery">
+<div class="diplomas2">
 <!-- Пример первых 19 дипломов -->
 
 <a href="diplomas2/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas2" data-title="My BOOKS">
