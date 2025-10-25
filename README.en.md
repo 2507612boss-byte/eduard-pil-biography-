@@ -1048,12 +1048,12 @@ width: 100px; /* компактныеминиатюры */
 <div class="kvalife">
 
 <!-- Пример первых 7 копии -->
+<a href="kvalife/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Microsoft Certificate Achievement (2012)">
+<img src="kvalife/P16_02_book_kvalif_2019.jpg" alt="Microsoft Certificate Achievement (2012)" width="100">
+</a>
 <a href="kvalife/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Methodology for Analysis and Design of Business Systems and Software Complexes Using ARIS Business Architect (2013)">
 <img src="kvalife/P16_01_book_kvalif_2019.jpg" alt="Methodology for Analysis and Design of Business Systems and Software Complexes Using ARIS Business Architect (2013)" width="100">
  </a>
-<a href="kvalife/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Microsoft Certificate Achievement (2018)">
-<img src="kvalife/P16_02_book_kvalif_2019.jpg" alt="Microsoft Certificate Achievement (2018)" width="100">
-</a>
 <a href="kvalife/P16_03_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in pedagogy and psychology of Higher Education (St. Petersburg State Pediatric Medical University) (2013)">
 <img src="kvalife/P16_03_book_kvalif_2019.jpg" alt="Certificate of advanced training in pedagogy and psychology of Higher Education (St. Petersburg State Pediatric Medical University) (2013)" width="100">
 </a>
