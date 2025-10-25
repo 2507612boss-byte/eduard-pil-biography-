@@ -390,7 +390,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Books on English</h2>
 
-<div class=english"">
+<div class="english">
 <!-- Пример первых 4 книг -->
 <a href="english2/P5_01_book_letter_call_2000.JPG" data-lightbox="english2" data-title="English Letters and Calling (2000)">
 <img src="english2/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000)" width="100">
