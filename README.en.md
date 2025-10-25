@@ -1103,8 +1103,8 @@ width: 100px; /* компактныеминиатюры */
 <h2>Student Testimonials</h2>
   
 <div class="diplomnik2">
-  <a href="diplomnik2/P18_01_book_stud_2023.jpg.JPGG" data-lightbox="diplomnik2" data-title="Student Testimonial (2023)">
-    <img src="diplomnik2/P18_01_book_stud_2023.jpg.JPG" alt="Student Testimonial (2023)" width="100">
+  <a href="diplomnik2/P18_01_book_stud_2023.JPGG" data-lightbox="diplomnik2" data-title="Student Testimonial (2023)">
+    <img src="diplomnik2/P18_01_book_stud_2023.JPG" alt="Student Testimonial (2023)" width="100">
   </a>
 
 </div>
