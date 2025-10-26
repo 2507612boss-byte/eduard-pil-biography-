@@ -223,8 +223,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" data-lightbox="diplomas" data-title="Академик РАЕ">
 <img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" alt="Академик РАЕ" width="100">
 </a>
-<a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" data-lightbox="diplomas" data-title="Международной Академии Наук Высшей Школы">
-<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="Международной Академии Наук Высшей Школы" width="100">
+<a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" data-lightbox="diplomas" data-title="Международная Академия Наук Высшей Школы (МАНВШ)">
+<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="Международная Академия Наук Высшей Школы (МАНВШ)" width="100">
 </a>
 <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель науки РАЕ">
 <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Заслуженный деятель науки РАЕ" width="100">
