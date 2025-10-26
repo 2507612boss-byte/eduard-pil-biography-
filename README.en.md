@@ -1157,7 +1157,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Генеалогическоедревоотца</title>
+<title>Father's family tree</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1196,7 +1196,7 @@ width: 100px; /* компактныеминиатюры */
 <meta charset="UTF-8">
   
  
-<title>Father's family tree</title>
+<title>Mother's family tree</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1214,7 +1214,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Father's family tree</h2>
+<h2>Mother's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <div class="treee">
@@ -1230,10 +1230,6 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
-
-
-
 
 
 
