@@ -401,8 +401,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="english2/P5_03_book_jokes_2002.jpg" data-lightbox="english2" data-title="I Like English Jokes (2002)">
 <img src="english2/P5_03_book_jokes_2002.jpg" alt="I Like English Jokes (2002)" width="100">
 </a>
-<a href="english2/P5_04_book_words_2004.JPG" data-lightbox="english2" data-title="Words for Everyday Tpics (2004)">
-<img src="english2/P5_04_book_words_2004.JPG" alt="Words for Everyday Tpics (2004)" width="100">
+<a href="english2/P5_04_book_words_2004.JPG" data-lightbox="english2" data-title="Words for Everyday Topics (2004)">
+<img src="english2/P5_04_book_words_2004.JPG" alt="Words for Everyday Topics (2004)" width="100">
 </a>
 
 </div>
