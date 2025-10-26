@@ -1176,7 +1176,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
   
 <h2>Father's family tree</h2>
-<h4>Чтобы просмотреть всё древо отца надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
+<h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <divc lass="treee">
 <!-- Пример первых 1 копии -->
