@@ -1153,6 +1153,88 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Генеалогическоедревоотца</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+  
+<h2>Father's family tree</h2>
+<h4>Чтобы просмотреть всё древо отца надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
+
+<divc lass="treee">
+<!-- Пример первых 1 копии -->
+<a href="treee/P17_01_book_tree_2025.pdf" data-lightbox="treee" data-title="Father's family tree">
+<img src="treee/P17_01_book_tree_2025.pdf" alt="Father's family tree" width="100">
+ </a>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+  
+ 
+<title>Father's family tree</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Father's family tree</h2>
+<h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
+
+<div class="treee">
+<!-- Пример первых 1 копии -->
+<a href="treee/P17_02_book_tree_2025.pdf" data-lightbox="treee" data-title="Mother's family tree">
+<img src="treee/P17_02_book_tree_2025.pdf" alt="Mother's family tree" width="100">
+ </a>
+  
+</body>
+</html>
+
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
+
 
 
 
