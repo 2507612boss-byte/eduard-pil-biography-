@@ -99,7 +99,7 @@ Eduard A. Pil is the author of **over 1,660 publications**, including **42 books
 **3. Works on Applied Linguistics**
 Developed a formalized theory of the English language using graph theory.
 *   Pil E.A. *English Letters and Calling.* — St. Petersburg: REMO & Co., 2000.
-*   Pil E.A., Pil M.E. *Idioms, Slang, Antonymus and Synonyms In One Book.* —  St. Petersburg: РЕМО & Co., 2001.
+*   Pil E.A., Pil M.E. *Idioms, Slang, Antonyms and Synonyms In One Book.* —  St. Petersburg: РЕМО & Co., 2001.
 *   Pil E.A. *Words for Everyday Topics.* —  St. Petersburg: РЕМО & Co., 2010.  
 *   Pil E.A. Theory of the English Language // Open science 2.0. — USA, 2018.
 
