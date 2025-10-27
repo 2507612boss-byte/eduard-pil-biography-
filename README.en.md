@@ -120,7 +120,8 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, fa
 *   In 2016, he was officially entered into the Russian Book of Records in two categories:
     *   *Publication of 87 scientific articles in one calendar year without co-authors.*
     *  *Publication of 13 scientific articles in a single collection without co-authors.*
-     
+
+Eduard Anatolyevich had a son, Mikhail, in 1990, who graduated from college and institute with a degree in computer networks, as well as RANEPA with a degree in law. In 2019, his grandson Stepan was born, who showed a talent for drawing.
     <script src="script.js"></script>
 
 📚 CONTENTS
