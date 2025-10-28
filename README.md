@@ -1250,7 +1250,7 @@ width: 100px; /* компактныеминиатюры */
 <head>
 <meta charset="UTF-8">
   
-<title>Друзья по учеье</title>
+<title>Друзья по учёбе</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1268,8 +1268,8 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Друзья по учеье</h2>
-<h4>Чтобы просмотреть всех друзей по учебе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
+<h2>Друзья по учёбе</h2>
+<h4>Чтобы просмотреть всех друзей по учёбе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 <div class="friends">
 <!-- Пример первых 1 копии -->
 <a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе">
