@@ -137,7 +137,7 @@
   <li>🌱 Патент</li>
   <li>🌳 Генеалогическое древо отца</li>
   <li>🌿 Генеалогическое древо матери</li>
-  <li>🎓👥 Товарищи по учёбе</li>
+  <li>🎓👥 Друзья по учёбе</li>
 </ol>
 
 
@@ -1167,11 +1167,6 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -1214,7 +1209,6 @@ width: 100px; /* компактныеминиатюры */
 <head>
 <meta charset="UTF-8">
   
- 
 <title>Генеалогическоедревоматери</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
@@ -1251,7 +1245,44 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+  
+<title>Друзья по учеье</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
 
+<h2>Друзья по учеье</h2>
+<h4>Чтобы просмотреть всех друзей по учебе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
+<div class="friends">
+<!-- Пример первых 1 копии -->
+<a href="friends/P17_02_book_tree_2025.pdf" data-lightbox="friends" data-title="Друзья по учебе">
+<img src="friends/P17_02_book_tree_2025.pdf" alt="Друзья по учебе" width="100">
+ </a>
+  
+</body>
+</html>
+
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 
 
 
