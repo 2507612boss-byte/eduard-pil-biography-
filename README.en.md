@@ -147,7 +147,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
   <li>🌱 Patent</li>
   <li>🌳 Father’s Genealogical Tree</li>
   <li>🌿 Mother’s Genealogical Tree</li>
-  <li>🎓👥 Fellow students from Univirsity</li>
+  <li>🎓👥 My Univirsity Classmates (1967-1973)</li>
   </ol>
 
 
@@ -1239,7 +1239,7 @@ width: 100px; /* компактныеминиатюры */
 <head>
 <meta charset="UTF-8">
   
-<title>Fellow students from University</title>
+<title>My Univirsity Classmates (1967-1973)</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1257,12 +1257,12 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Fellow students from University</h2>
+<h2>My Univirsity Classmates (1967-1973)</h2>
 <h4>To view the entire fellow students from University, click on the small icon below and scroll to the end of the downloaded page.</h4>
 <div class="friends">
 <!-- Пример первых 1 копии -->
-<a href="friends/P23_02_book_friends_2025.pdf" data-lightbox="friends" data-title="Fellow students from University">
-<img src="friends/P23_02_book_friends_2025.pdf" alt="Fellow students from University" width="100">
+<a href="friends/P23_02_book_friends_2025.pdf" data-lightbox="friends" data-title="My Univirsity Classmates (1967-1973)">
+<img src="friends/P23_02_book_friends_2025.pdf" alt="My Univirsity Classmates (1967-1973)" width="100">
  </a>
   
 </body>
