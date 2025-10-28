@@ -147,7 +147,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
   <li>🌱 Patent</li>
   <li>🌳 Father’s Genealogical Tree</li>
   <li>🌿 Mother’s Genealogical Tree</li>
-  <li>🎓👥 Fellow students</li>
+  <li>🎓👥 Fellow students from Univirsity</li>
   </ol>
 
 
@@ -1231,6 +1231,48 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+  
+<title>Fellow students from University</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
+</head>
+<body>
+
+<h2>Fellow students from University</h2>
+<h4>To view the entire fellow students from University, click on the small icon below and scroll to the end of the downloaded page.</h4>
+<div class="friends">
+<!-- Пример первых 1 копии -->
+<a href="friends/P23_02_book_friends_2025.pdf" data-lightbox="friends" data-title="Fellow students from University">
+<img src="friends/P23_02_book_friends_2025.pdf" alt="Fellow students from University" width="100">
+ </a>
+  
+</body>
+</html>
+
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
 
 
