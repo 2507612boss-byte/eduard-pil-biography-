@@ -73,7 +73,8 @@ His monographs have earned **global recognition**:
 
 His scientific works have been acknowledged by **heads of state, international institutions, and Nobel Prize laureates**.  
 Letters of appreciation were received from:
-- The Administration of the President of the Russian Federation  
+- The Administration of the President of the Russian Federation
+- Ministry of Defense of the Russian Federation
 - The Office of His Majesty the King of Spain  
 - The Office of the Prince of Wales (now King Charles III)  
 - The Vatican (Pope Benedict XVI)  
