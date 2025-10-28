@@ -1272,8 +1272,8 @@ width: 100px; /* компактныеминиатюры */
 <h4>Чтобы просмотреть всех друзей по учебе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 <div class="friends">
 <!-- Пример первых 1 копии -->
-<a href="friends/P17_02_book_tree_2025.pdf" data-lightbox="friends" data-title="Друзья по учебе">
-<img src="friends/P17_02_book_tree_2025.pdf" alt="Друзья по учебе" width="100">
+<a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе">
+<img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе" width="100">
  </a>
   
 </body>
