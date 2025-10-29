@@ -1246,14 +1246,18 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
+
+
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-  
-<title>Друзья по учёбе</title>
+ 
+<title>Друзья по учёбе во ВТУЗе с 1967 по 1973 годы</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
+
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
 .gallery img {
@@ -1273,8 +1277,8 @@ width: 100px; /* компактныеминиатюры */
 <h4>Чтобы просмотреть всех друзей по учёбе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 <div class="friends">
 <!-- Пример первых 1 копии -->
-<a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе">
-<img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе" width="100">
+<a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы">
+<img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
  </a>
   
 </body>
