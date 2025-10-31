@@ -702,7 +702,15 @@ width: 100px; /* компактныеминиатюры */
 <a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
 </a>
-
+<a href="papers/P10_011_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (1991)">
+<img src="papers/P10_011_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (1991)" width="100">
+</a>
+<a href="papers/P10_011_book_paper15_2019.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
+<img src="papers/P10_011_book_paper15_2019.pdf" alt="Математическая модель корпорации (2006)" width="100">
+</a>
+<a href="papers/P10_011_book_paper16_2019.pdf" data-lightbox="papers" data-title="Математическая модель плоских корпусных деталей используемых в САПР (1991)">
+<img src="papers/P10_011_book_paper16_2019.pdf" alt="Математическая модель плоских корпусных деталей используемых в САПР (1991)" width="100">
+</a>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
