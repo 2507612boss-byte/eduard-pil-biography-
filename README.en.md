@@ -668,6 +668,16 @@ width: 100px; /* компактныеминиатюры */
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
 </a>
 
+<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Optimal Tool Setup (1991)">
+<img src="papers/P10_014_book_paper14_2019.pdf" alt="Optimal Tool Setup (1991)" width="100">
+</a>
+<a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Mathematical Model of a Corporation (2006)">
+<img src="papersP10_015_book_paper15_2019.pdf" alt="Mathematical Model of a Corporation (2006)" width="100">
+</a>
+<a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Mathematical Model of Flat Casing Parts Used in CAD (1991)">
+<img src="papers/P10_016_book_paper16_2019.pdff" alt="Mathematical Model of Flat Casing Parts Used in CAD (1991)" width="100">
+</a>
+
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
