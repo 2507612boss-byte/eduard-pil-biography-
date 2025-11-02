@@ -265,8 +265,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="diplomas2/P1_13_sertifikat_souza_2022.JPG" data-lightbox="diplomas2" data-title="International Union of Writes and Poets">
 <img src="diplomas2/P1_13_sertifikat_souza_2022.JPG" alt="International Union of Writes and Poets" width="100">
 </a>
-<a href="images/diplomas/P1_24_diplom_school_2025.jpg" data-lightbox="diplomas" data-title="Certificate of the Free Economic Society of Russia">
-<img src="images/diplomas/P1_24_diplom_school_2025.jpg" alt="Certificate of the Free Economic Society of Russiaи" width="100">
+<a href="images/diplomas2/P1_24_diplom_school_2025.jpg" data-lightbox="diplomas" data-title="Certificate of the Free Economic Society of Russia">
+<img src="images/diplomas2/P1_24_diplom_school_2025.jpg" alt="Certificate of the Free Economic Society of Russiaи" width="100">
 </a>
 </div>
 
