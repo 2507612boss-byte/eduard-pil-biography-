@@ -234,11 +234,9 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas" data-title="Золотая кафедра РАЕ">
 <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Золотая кафедра РАЕ" width="100">
 </a>
-
 <a href="images/diplomas/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas" data-title="Удостоверение к медали Адама Смита">
 <img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
 </a>
-
 <a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Life Fellowship (England)">
 <img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship (England)" width="100">
 </a>
@@ -257,8 +255,8 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg" data-lightbox="diplomas" data-title="Союз писателей и поэтов">
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg" alt="Союз писателей и поэтов" width="100">
 </a>
-<a href="images/diplomas/P1_23_sertifikat_souza_2025.jpg" data-lightbox="diplomas" data-title="Удостоверение Вольного экономического общества России">
-<img src="images/diplomas/P1_23_sertifikat_souza_2025.jpg" alt="Удостоверение Вольного экономического общества России" width="100">
+<a href="images/diplomas/P1_23_diplom_school_2025.jpg" data-lightbox="diplomas" data-title="Удостоверение Вольного экономического общества России">
+<img src="images/diplomas/P1_23_diplom_school_2025.jpg" alt="Удостоверение Вольного экономического общества России" width="100">
 </a>
 </div>
 
