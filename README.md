@@ -258,6 +258,9 @@ width: 100px; /* компактныеминиатюры */
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg" alt="Союз писателей и поэтов" width="100">
 </a>
 
+<a href="images/diplomas/P1_23_sertifikat_souza_2022.jpg" data-lightbox="diplomas" data-title="Удостоверение Вольного экономического общества России">
+<img src="images/diplomas/P1_23_sertifikat_souza_2022.jpg" alt="Удостоверение Вольного экономического общества России" width="100">
+</a>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
