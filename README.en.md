@@ -918,9 +918,8 @@ width: 100px; /* компактныеминиатюры */
 <img src="biblee/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
 </a>
 
-
 <h2>Books Donated to Russian Libraries</h2>
-<divclass="bibl">
+<divclass="biblee">
 <a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
 <img src="biblee/P13_06_book_bibl_2012.jpg" alt=Central City Public Library named after V.V. Mayakovsky, St. Petersburg" width="100">
 </a>
