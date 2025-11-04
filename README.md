@@ -917,7 +917,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Книги подаренные библиотекам</h2>
+<h2>Книги подаренные зарубежным библиотекам</h2>
 <divclass="bibl">
 
 <!-- Пример первых 5 копии -->
@@ -941,6 +941,34 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+<h2>Книги подаренные российским библиотекам</h2>
+<divclass="bibl">
+
+<!-- Пример первых 5 копии -->
+<a href="bibl/P13_06_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Центральная городская публичная библиотека имени В.В. Маяковского">
+<img src="bibl/P13_06_book_bibl_2012.jpg" alt="Центральная городская публичная библиотека имени В.В. Маяковского" width="100">
+</a>
+
+<a href="bibl/P13_07_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Российской академии наук в Санкт-Петербурге">
+<img src="bibl/P13_07_book_bibl_2012.jpg" alt="Библиотека Российской академии наук в Санкт-Петербурге" width="100">
+</a>
+
+<a href="bibl/P13_08_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Донская государственная публичная библиотека">
+<img src="bibl/P13_08_book_bibl_2012.jpg" alt="Донская государственная публичная библиотека" width="100">
+</a>
+
+<a href="bibl/P13_09_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Омская государственная областная научная библиотека имени А.С. Пушкина">
+<img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" width="100">
+</a>
+
+<a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
+<img src="bibl/P13_10_book_bibl_2012.jpg" alt="Библиотека Петербургского государственного университета путей сообщения" width="100">
+</a>
+
+<a href="bibl/P13_11_book_bibl_2012.pdf" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
+<img src="bibl/P13_11_book_bibl_2012.pdf" alt="Библиотека Петербургского государственного университета путей сообщения" width="100">
+</a>
 
 
 
