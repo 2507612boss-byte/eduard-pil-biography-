@@ -898,7 +898,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Books in Foreign Libraries</h2>
+<h2>Books Donated to Foreign Libraries</h2>
 <div class="biblee">
 
 <!-- Пример первых 5 копии -->
@@ -917,6 +917,38 @@ width: 100px; /* компактныеминиатюры */
 <a href="biblee/P13_05_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Letter from the President of the University of Sorbonne, France (2012)">
 <img src="biblee/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
 </a>
+
+
+<h2>Books Donated to Russian Libraries</h2>
+<divclass="bibl">
+<a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
+<img src="biblee/P13_06_book_bibl_2012.jpg" alt=Central City Public Library named after V.V. Mayakovsky, St. Petersburg" width="100">
+</a>
+<a href="biblee/P13_07_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Library of the Russian Academy of Sciences, St. Petersburg">
+<img src="biblee/P13_07_book_bibl_2012.jpg" alt=Library of the Russian Academy of Sciences, St. Petersburg" width="100">
+</a>
+<a href="biblee/P13_08_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Don State Public Library">
+<img src="biblee/P13_08_book_bibl_2012.jpg" alt="Don State Public Library" width="100">
+</a>
+<a href="biblee/P13_09_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Omsk State Regional Scientific Library named after A.S. Pushkin">
+<img src="biblee/P13_09_book_bibl_2012.jpg" alt=Omsk State Regional Scientific Library named after A.S. Pushkin" width="100">
+</a>
+<a href="biblee/P13_10_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Library of the St. Petersburg State Transport University">
+<img src="biblee/P13_10_book_bibl_2012.jpg" alt="Library of the St. Petersburg State Transport University" width="100">
+</a>
+<a href="biblee/P13_11_book_bibl_2012.pdf" data-lightbox="biblee" data-title="Russian National Library, St. Petersburg">
+<img src="biblee/P13_11_book_bibl_2012.pdf" alt="Russian National Library, St. Petersburg" width="100">
+</a>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
+
+
+
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
