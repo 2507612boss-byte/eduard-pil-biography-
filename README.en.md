@@ -54,11 +54,11 @@ Since 2000, he has taught at major universities in Saint Petersburg — includin
 - Academician, Russian Academy of Natural Sciences (2016)
 
 ### Achievements from the Russian Academy of Natural History (RANH)
-* Eduard Anatolyevich was awarded various diplomas of the Russian Academy of Natural Sciences (RANH) for his significant contribution to the development of theories such as:
+Eduard Anatolyevich was awarded various diplomas of the Russian Academy of Natural Sciences (RANH) for his significant contribution to the development of theories such as:
 * the theory of economic crises;
 * the theory of complexity in machining complex body parts on Machining Center (MC).
   
-* In addition, he developed the following mathematical models:
+In addition, he developed the following mathematical models:
   
 * mathematical model of a corporation;
 * mathematical model of a machine-building enterprise;
