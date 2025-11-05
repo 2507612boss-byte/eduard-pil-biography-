@@ -77,7 +77,7 @@ Note: These titles are part of his academic career in Russia and may not corresp
 His monographs have earned **global recognition**:
 
 - **Five Gold Medals** for the monograph cycle *“Theory of Economic Crises”*:
-  - Frankfurt Book Fair (Germany, 2017)  
+  - Frankfurt Book Fair (Germany, 2017, 2025)  
   - London Book Fair (UK, 2017)  
   - Paris Book Salon (France, 2018)  
   - BookExpo America (USA, 2019)  
