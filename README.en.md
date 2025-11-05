@@ -57,7 +57,9 @@ Since 2000, he has taught at major universities in Saint Petersburg — includin
 ** Eduard Anatolyevich was awarded various diplomas of the Russian Academy of Natural Sciences (RANH) for his significant contribution to the development of theories such as:
 * the theory of economic crises;
 * the theory of complexity in machining complex body parts on Machining Center (MC).
+* 
 ** In addition, he developed the following mathematical models:
+  
 * mathematical model of a corporation;
 * mathematical model of a machine-building enterprise;
 * mathematical model of a mechanical assembly shop of an enterprise;
