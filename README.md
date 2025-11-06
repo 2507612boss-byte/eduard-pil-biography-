@@ -260,14 +260,7 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas" data-title="Удостоверение к медали Адама Смита">
 <img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
 </a>
-<a href="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" data-lightbox="diplomas" data-title="Life Fellowship (England)">
-<img src="images/diplomas/P1_08_diploma_life_fellowship_cambridge_2007.jpg" alt="Life Fellowship (England)" width="100">
-</a>
-<a href="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" data-lightbox="diplomas" data-title="Выдающийся учёный ">
-<img src="images/diplomas/P1_09_diplom_vydayushchego_uchyonogo_camb_2007.jpg" alt="Выдающийся учёный" width="100">
-</a>
-<a href="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg" data-lightbox="diplomas" data-title="Золотая медаль (USA)">
-<img src="images/diplomas/P1_10_diplom_zolotaya_medal_usa_2008.jpg" alt="Золотая медаль (USA)" width="100">
+
 </a>
 <a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов">
 <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Лига Интеллектуалов" width="100">
