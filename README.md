@@ -261,7 +261,7 @@ width: 100px; /* компактныеминиатюры */
 <img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
 </a>
 
-</a>
+
 <a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов">
 <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Лига Интеллектуалов" width="100">
 </a>
