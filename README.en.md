@@ -548,12 +548,7 @@ width: 100px; /* компактныеминиатюры */
 
 <div class="biographye">
 <!-- Пример первых 7 источников -->
-<a href="biographye/P8_01_book_outstand_2010.JPG" data-lightbox="biographye" data-title="2000 Outstanding Scientists (2010)">
-<img src="biographye/P8_01_book_outstand_2010.JPG" alt="2000 Outstanding Scientists (2010))" width="100">
-</a>
-<a href="biographye/P8_02_book_abi_2011.JPG" data-lightbox="biographye" data-title="Biography Proof (2011)">
-<img src="biographye/P8_02_book_abi_2011.JPG" alt="Biography Proof (2011)" width="100">
-</a>
+
 <a href="biographye/P8_03_book_who_2012.JPG" data-lightbox="biographye" data-title="Who is Who in Russia (2012)">
 <img src="biographye/P8_03_book_who_2012.JPG" alt="Who is Who in Russia (2012)" width="100">
 </a>
