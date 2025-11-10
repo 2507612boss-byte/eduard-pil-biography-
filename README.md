@@ -192,65 +192,11 @@ width: 100px; /* компактныеминиатюры */
 .gallery img:hover { transform: scale(1.05); }
 </style>
 </head>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-
-<!-- Скрипт Lightbox -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-
-  
 <body>
 
 <h2>Галерея дипломов</h2>
-
-<div class="gallery">
-    <div class="audio-item">
-        <button onclick="playAudio('path/to/your/audio1.mp3')">Воспроизвести Музыка 1</button>
-        <audio id="audio1" preload="none">
-            <source src="path/to/your/audio1.mp3" type="audio/mpeg">
-            Ваш браузер не поддерживает аудио.
-        </audio>
-    </div>
-    <!-- Повтори для других аудио -->
-    <div class="audio-item">
-        <button onclick="playAudio('path/to/your/audio2.mp3')">Воспроизвести Музыка 2</button>
-        <audio id="audio2" preload="none">
-            <source src="path/to/your/audio2.mp3" type="audio/mpeg">
-            Ваш браузер не поддерживает аудио.
-        </audio>
-    </div>
-</div>
-
-<script>
-let audioElements = {};  // Карта для всех аудио
-
-function playAudio(src) {
-    const id = 'audio' + src.split('/').pop().match(/\d+/)[0];  // Пример: audio1 для audio1.mp3
-    if (!audioElements[id]) {
-        audioElements[id] = new Audio(src);
-    }
-    const audio = audioElements[id];
-    
-    if (audio.paused) {
-        audio.play().then(() => console.log('Играет')).catch(e => console.error('Ошибка воспроизведения:', e));
-    } else {
-        audio.pause();
-    }
-}
-
-// Дополнительно: Загрузка в фоне (как в твоём коде для изображений)
-function onAudioLoad(src) {
-    // В этот момент файл загружен, но не играет автоматически
-    console.log('Аудио загружено:', src);
-}
-</script>
-
-<a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
-  <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100" onload="onImageLoad()">
-</a>
-
-
+<divclass="diplomas">
+<!-- Пример первых 19 дипломов -->
 
 <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
