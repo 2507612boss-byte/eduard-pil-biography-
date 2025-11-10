@@ -203,17 +203,43 @@ width: 100px; /* компактныеминиатюры */
 <!-- Скрипт Lightbox -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-<!-- Функция для плеера -->
+<!-- Функция для плеера с улучшениями -->
 <script>
+let imagesLoaded = 0; // Счётчик загруженных изображений
+const totalImages = 19; // ЗАМЕНИ на реальное количество изображений в галерее (например, 19, если строк -count 19)
+
 function onImageLoad() {
-    const audio = document.getElementById('audioPlayer');
-    if (audio) {
-        audio.style.display = 'block'; // Показываем плеер
+    imagesLoaded++;
+    if (imagesLoaded === totalImages) { // Показываем плеер только после ВСЕХ изображений
+        const audio = document.getElementById('audioPlayer');
+        if (audio) {
+            audio.style.display = 'block';
+            audio.style.opacity = '1'; // Плавное появление
+            
+            // Автоплей (работает только muted, если браузер позволяет)
+            audio.play().catch(e => console.log('Автоплей заблокирован: ', e));
+            
+            // Снятие mute после клика пользователя (например, на плеере или странице)
+            document.addEventListener('click', () => {
+                audio.muted = false;
+            });
+        }
     }
 }
+
+// Дополнительная функция: если MP3 не загрузится, показать алерт (для отладки)
+const audioElement = document.getElementById('audioPlayer');
+audioElement.addEventListener('error', () => {
+    alert('Ошибка загрузки MP3: проверьте путь к файлу. Путь в коде: ' + audioElement.querySelector('source').src);
+});
 </script>
 
+
+
+
+<!-- Скрипт Lightbox -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 
   
 <body>
