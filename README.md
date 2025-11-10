@@ -196,7 +196,7 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- ДОБАВИТЬ: Аудио-плеер сюда — после </div> твоей галереи, но до </body> -->
 <audio id="audioPlayer" controls preload="auto" style="display: none; margin: 20px;">
-    <source src="music/song.mp3" type="audio/mpeg"> <!-- МЕНЯЙ на свой путь, например: https://your-username.github.io/your-repo/music/song.mp3 -->
+    <source src="P23_01_music_2025.mp3" type="audio/mpeg"> <!-- МЕНЯЙ на свой путь, например: https://your-username.github.io/your-repo/music/song.mp3 -->
     Ваш браузер не поддерживает аудио.
 </audio>
 
@@ -213,8 +213,6 @@ function onImageLoad() {
     // });
 }
 </script>
-
-
 
 
   
