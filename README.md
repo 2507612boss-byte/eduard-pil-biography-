@@ -200,6 +200,30 @@ width: 100px; /* компактныеминиатюры */
 <div class="gallery">
 <!-- Пример первых 19 дипломов -->
 
+<!-- Скрытый плеер -->
+<audio id="auto-music" style="display:none;" controls>
+  <source src="/files/music.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+<script>
+function showAudioPlayer() {
+  const audio = document.getElementById('auto-music');
+  audio.style.display = 'block'; // Показываем плеер
+  audio.play().catch(e => {
+    console.log("Автовоспроизведение заблокировано. Нажмите Play.");
+  });
+}
+</script>
+
+
+
+
+
+
+
 <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
 </a>
