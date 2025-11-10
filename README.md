@@ -193,51 +193,37 @@ width: 100px; /* компактныеминиатюры */
 </style>
 </head>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+<!-- ДОБАВИТЬ: Аудио-плеер сюда — после </div> твоей галереи, но до </body> -->
+<audio id="audioPlayer" controls preload="auto" style="display: none; margin: 20px;">
+    <source src="music/song.mp3" type="audio/mpeg"> <!-- МЕНЯЙ на свой путь, например: https://your-username.github.io/your-repo/music/song.mp3 -->
+    Ваш браузер не поддерживает аудио.
+</audio>
+
+<!-- ДОБАВИТЬ: Скрипт сюда — перед закрытием </body> (например, после </audio>) -->
+<script>
+function onImageLoad() {
+    const audio = document.getElementById('audioPlayer');
+    audio.style.display = 'block'; // Показываем плеер
+    // URL для файла музыки — если не указан выше, укажи здесь: audio.src = 'music/song.mp3';
+
+    // Автоплей (обычно блокируется — раскомментируй, если хочешь попробовать, но пользователь может сам нажать Play):
+    // audio.play().catch(function(error) {
+    //     console.log('Автоплей заблокирован: ' + error.message);
+    // });
+}
+</script>
+
+
+
+
+  
 <body>
 
 <h2>Галерея дипломов</h2>
 
 <div class="gallery">
 <!-- Пример первых 19 дипломов -->
-
-
-
-
-<!-- Скрытый плеер -->
-<audio id="auto-music" style="display:none;" controls>
-  <source src="/files/music.mp3" type="audio/mpeg">
-  Ваш браузер не поддерживает аудио.
-</audio>
-
-<script>
-function showAudioPlayer() {
-  const audio = document.getElementById('auto-music');
-  audio.style.display = 'block'; // Показываем плеер
-  audio.play().catch(e => {
-    console.log("Автовоспроизведение заблокировано. Нажмите Play.");
-  });
-}
-</script>
-
-<div class="gallery">
-  <!-- Пример первых 19 дипломов -->
-
-  <!-- Изображение с автопроигрыванием после загрузки -->
-  <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги" onclick="showAudioPlayer()">
-    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100" onload="if(!window.audioPlayed){showAudioPlayer(); window.audioPlayed=true;}">
-  </a>
-
-  <!-- Другие изображения (если нужно) -->
-  <!-- 
-  <a href="images/diplomas/other_diploma.jpg" data-lightbox="diplomas" data-title="Другой диплом">
-    <img src="images/diplomas/other_diploma.jpg" alt="Другой диплом" width="100">
-  </a>
-  -->
-
-
-
-
-
 
 
 <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
