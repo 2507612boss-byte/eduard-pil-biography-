@@ -196,22 +196,11 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- ДОБАВИТЬ: Аудио-плеер сюда — после </div> твоей галереи, но до </body> -->
 <audio id="audioPlayer" controls preload="auto" style="display: none; margin: 20px;">
-    <source src=P24_01_book_music_2025.mp3" type="audio/mpeg"> <!-- МЕНЯЙ на свой путь, например: https://your-username.github.io/your-repo/music/song.mp3 -->
+    <source src="https://your-username.github.io/your-repo/music/P24_01_book_music_2025.mp3" type="audio/mpeg"> <!-- assay ИСПРАВЛЕН: кавычки добавлены, путь обновлен -->
     Ваш браузер не поддерживает аудио.
 </audio>
 
-<!-- ДОБАВИТЬ: Скрипт сюда — перед закрытием </body> (например, после </audio>) -->
-<script>
-function onImageLoad() {
-    const audio = document.getElementById('audioPlayer');
-    audio.style.display = 'block'; // Показываем плеер
-    // URL для файла музыки — если не указан выше, укажи здесь: audio.src = 'music/song.mp3';
-
-    // Автоплей (обычно блокируется — раскомментируй, если хочешь попробовать, но пользователь может сам нажать Play):
-    // audio.play().catch(function(error) {
-    //     console.log('Автоплей заблокирован: ' + error.message);
-    // });
-}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </script>
 
 
