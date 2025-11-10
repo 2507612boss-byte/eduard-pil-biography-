@@ -327,7 +327,7 @@ function showAudioPlayer() {
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книгипотехнологии</title>
+<title>Книги по технологии</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -376,7 +376,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книгипомедицине</title>
+<title>Книги по медицине</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -467,7 +467,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книгипоанглийскомуязыку</title>
+<title>Книги по английскому языку</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -514,7 +514,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Художественнаялитература</title>
+<title>Художественная литература</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -691,7 +691,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Статьиизжурналовиконференций</title>
+<title>Статьи из журналов и конференций</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -775,7 +775,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Сертификатывыступленийнаконференциях</title>
+<title>Сертификаты выступлений на конференциях</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -950,7 +950,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книгиподаренныебиблиотекам</title>
+<title>Книги подаренные библиотекам</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1027,7 +1027,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Письмаотнобелевскихлауреатовпоэкономике</title>
+<title>Письма от нобелевских лауреатов по экономике</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1074,7 +1074,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Книгиподаренныеизвестнымиучеными</title>
+<title>Книги подаренные известными учеными</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1127,7 +1127,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Сертификатыповышенияквалификации</title>
+<title>Сертификаты повышения квалификации</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1257,7 +1257,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Генеалогическоедревоотца</title>
+<title>Генеалогическое древо отца</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -1295,7 +1295,7 @@ width: 100px; /* компактныеминиатюры */
 <head>
 <meta charset="UTF-8">
   
-<title>Генеалогическоедревоматери</title>
+<title>Генеалогическое древо матери</title>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
