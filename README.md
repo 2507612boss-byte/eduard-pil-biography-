@@ -223,6 +223,11 @@ function onImageLoad() {
 <div class="gallery">
 <!-- Пример первых 19 дипломов -->
 
+<a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
+  <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100" onload="onImageLoad()">
+</a>
+
+
 
 <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
   <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100">
