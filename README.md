@@ -196,14 +196,14 @@ width: 100px; /* компактныеминиатюры */
 
 <!-- ДОБАВИТЬ: Аудио-плеер сюда — после </div> твоей галереи, но до </body> -->
 <audio id="audioPlayer" controls preload="auto" style="display: none; margin: 20px;">
-    <source src="https://your-username.github.io/your-repo/music/P24_01_book_music_2025.mp3" type="audio/mpeg"> <!-- ИСПРАВЛЕН: кавычки добавлены, путь обновлен -->
+    <source src="https://your-username.github.io/your-repo/music/P24_01_book_music_2025.mp3" type="audio/mpeg">
     Ваш браузер не поддерживает аудио.
 </audio>
 
-<!-- Скрипт Lightbox (только один!) -->
+<!-- Скрипт Lightbox -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-<!-- Функция для нашего плеера: показать после загрузки первого изображения -->
+<!-- Функция для плеера -->
 <script>
 function onImageLoad() {
     const audio = document.getElementById('audioPlayer');
@@ -212,6 +212,7 @@ function onImageLoad() {
     }
 }
 </script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
   
