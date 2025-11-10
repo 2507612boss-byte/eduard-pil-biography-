@@ -200,13 +200,14 @@ width: 100px; /* компактныеминиатюры */
 <div class="gallery">
 <!-- Пример первых 19 дипломов -->
 
+
+
+
 <!-- Скрытый плеер -->
 <audio id="auto-music" style="display:none;" controls>
   <source src="/files/music.mp3" type="audio/mpeg">
+  Ваш браузер не поддерживает аудио.
 </audio>
-
-
-
 
 <script>
 function showAudioPlayer() {
@@ -217,6 +218,21 @@ function showAudioPlayer() {
   });
 }
 </script>
+
+<div class="gallery">
+  <!-- Пример первых 19 дипломов -->
+
+  <!-- Изображение с автопроигрыванием после загрузки -->
+  <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги" onclick="showAudioPlayer()">
+    <img src="images/diplomas/P1_00_moi_knigi_2025.jpg" alt="Мои книги" width="100" onload="if(!window.audioPlayed){showAudioPlayer(); window.audioPlayed=true;}">
+  </a>
+
+  <!-- Другие изображения (если нужно) -->
+  <!-- 
+  <a href="images/diplomas/other_diploma.jpg" data-lightbox="diplomas" data-title="Другой диплом">
+    <img src="images/diplomas/other_diploma.jpg" alt="Другой диплом" width="100">
+  </a>
+  -->
 
 
 
