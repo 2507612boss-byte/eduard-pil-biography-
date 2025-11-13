@@ -69,7 +69,7 @@ The calculations made in the development of the theory of economic crises made i
 * Note: *These titles are part of his academic career in Russia and may not correspond to international standards. For verification, contact the RANH.*
 
 
-### Gold Medals at International Exhibitions, Book Fair and Salon
+### Gold Medals at International Exhibitions, Book Fair and Literary Salon
 His monographs have earned **global recognition**:
 
 - **Five Gold Medals** for the monograph cycle *“Theory of Economic Crises”*:
