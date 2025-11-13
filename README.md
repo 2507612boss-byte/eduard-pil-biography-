@@ -924,7 +924,7 @@ width: 100px; /* компактныеминиатюры */
       justify-content: flex-start;
     }
     .gallery img {
-      width: 100px;
+      width: 100px; /* компактные миниатюры */
       height: auto;
       border: 1px solid #ccc;
       border-radius: 4px;
@@ -944,6 +944,7 @@ width: 100px; /* компактныеминиатюры */
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 1 (2012)">
     <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)" width="100">
   </a>
+
   <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 2 (2014)">
     <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка 2 (2014)" width="100">
   </a>
@@ -952,6 +953,7 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
 
 
 
