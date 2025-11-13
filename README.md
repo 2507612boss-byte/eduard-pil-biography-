@@ -945,6 +945,15 @@ width: 100px; /* компактныеминиатюры */
     <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)" width="100">
   </a>
 
+  <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 2 (2014)">
+    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка 2 (2014)" width="100">
+  </a>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
+
 
 
 
