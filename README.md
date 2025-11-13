@@ -1046,7 +1046,11 @@ width: 100px; /* компактныеминиатюры */
 <img src="bibl/P13_11_book_bibl_2012.pdf" alt="Российская национальная библиотека, Санкт-Петербург" width="100">
 </a>
 
+</div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 
 <!DOCTYPE html>
 <html lang="ru">
