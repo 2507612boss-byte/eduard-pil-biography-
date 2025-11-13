@@ -1,48 +1,21 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Эдуард Пиль - учёный-энциклопедист</title>
-    <meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-    <style>
-        body { 
-            font-family: sans-serif; 
-            background: #f9f9f9; 
-            margin: 20px; 
-        }
-        .language-switcher {
-            text-align: right;
-            margin-bottom: 20px;
-        }
-        .gallery { 
-            display: flex; 
-            flex-wrap: wrap; 
-            gap: 8px; 
-            justify-content: flex-start; 
-        }
-        .gallery img {
-            width: 100px;
-            height: auto;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            cursor: zoom-in;
-            transition: transform 0.2s;
-        }
-        .gallery img:hover { 
-            transform: scale(1.05); 
-        }
-    </style>
-</head>
-<body>
+<meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
 
-<div class="language-switcher">
-  <sup>View this page in: </sup>
-  <strong>Русский</strong> |
-  <a href="README.en.md">English</a>
+<!-- Английский язык -->
+<div id="en" class="lang">
+  <div align="right">
+    <sup>View this page in: </sup>
+    <a href="README.md">Русский</a> |
+    <strong>English</strong>
+  </div>
+  <br>
+  <div align="center">
+    <img src="eduard-pil-photo.jpg" alt="Eduard Pil" width="400">
+    <br>
+    <em>Eduard Pil — encyclopedic scientist, Doctor of Technical Sciences, Professor</em>
+  </div>
+  <!-- Здесь идёт текст на английском -->
 </div>
 
-<br>
 
 <div align="center">
   <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
