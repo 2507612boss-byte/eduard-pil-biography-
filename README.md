@@ -11,11 +11,8 @@
   <div align="center">
     <img src="eduard-pil-photo.jpg" alt="Eduard Pil" width="400">
     <br>
-    <em>Eduard Pil — encyclopedic scientist, Doctor of Technical Sciences, Professor</em>
-  </div>
-  <!-- Здесь идёт текст на английском -->
-</div>
-
+   </div>
+ 
 
 <div align="center">
   <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
