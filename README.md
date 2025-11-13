@@ -595,8 +595,8 @@ width: 100px; /* компактныеминиатюры */
 
 <divclass=english"">
 <!-- Пример первых 2 статьи -->
-<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Аглийского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Аглийского Языка (2016)" width="100">
+<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
+<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
 </a>
 <a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
 <img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
