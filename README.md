@@ -8,10 +8,6 @@
     <strong>English</strong>
   </div>
   <br>
-  <div align="center">
-    <img src="eduard-pil-photo.jpg" alt="Eduard Pil" width="400">
-    <br>
-   </div>
  
 
 <div align="center">
