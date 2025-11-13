@@ -905,57 +905,51 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <title>Открытки от Фиделя Кастро</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-    <style>
-        body { 
-            font-family: sans-serif; 
-            background: #f9f9f9; 
-            margin: 20px; 
-        }
-        .gallery { 
-            display: flex; 
-            flex-wrap: wrap; 
-            gap: 8px; 
-            justify-content: flex-start; 
-        }
-        .gallery img {
-            width: 100px;
-            height: auto;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            cursor: zoom-in;
-            transition: transform 0.2s;
-        }
-        .gallery img:hover { 
-            transform: scale(1.05); 
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Открытки от Фиделя Кастро</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f9f9f9;
+      margin: 20px;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-start;
+    }
+    .gallery img {
+      width: 100px; /* компактные миниатюры */
+      height: auto;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: zoom-in;
+      transition: transform 0.2s;
+    }
+    .gallery img:hover {
+      transform: scale(1.05);
+    }
+  </style>
 </head>
 <body>
 
-<!-- Ваши фотографии и галерея здесь -->
+<h2>Открытки от Фиделя Кастро</h2>
+
 <div class="gallery">
-    <a href="photos/photo1.jpg" data-lightbox="castro" data-title="Открытка 1">
-        <img src="photos/photo1.jpg" alt="Открытка от Фиделя Кастро" width="100">
-    </a>
-    <!-- остальные фото -->
-</div>
+  <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 1 (2012)">
+    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)" width="100">
+  </a>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
-</body>
-</html>
+
+
+
+
 
 
 
