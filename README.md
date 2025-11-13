@@ -385,7 +385,7 @@ width: 100px; /* компактные миниатюры */
 
 
 
-   <!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
@@ -423,11 +423,6 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
-
-
-
-
 
 
 <!DOCTYPE html>
@@ -472,13 +467,14 @@ width: 100px; /* компактныеминиатюры */
 <img src="economy/P4_05_book_nast_kniga_2025.JPG" alt="Настольная книга экономиста (2025)" width="100">
 </a>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-</div> <!-- Закрывающий тег для div class="gallery" -->
-
 </body>
 </html>
+
+
 
 
 
