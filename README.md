@@ -565,46 +565,35 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8">
-<title>Статьи по теории английского языка</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
+    <meta charset="UTF-8">
+    <title>Статьи по теории английского языка</title>
+    <style>
+        body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+    </style>
 </head>
 <body>
 
 <h2>Статьи по теории английского языка</h2>
-<h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.</h4>
+<h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи.</h4>
 
-<divclass=english"">
-<!-- Пример первых 2 статьи -->
-<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
-</a>
-<a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
-<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
-</a>
-
+<div>
+    <!-- Ваши оригинальные рабочие ссылки -->
+    <a href="theory/P7_01_book_english1_2016.pdf">
+        <img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
+    </a>
+    <a href="theory/P7_02_book_english2_2018.pdf">
+        <img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
+    </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
+
 
 
 <!DOCTYPE html>
