@@ -1,20 +1,19 @@
 <meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
 
-<!-- Английский язык -->
-<div id="en" class="lang">
-  <div align="right">
-    <sup>View this page in: </sup>
-    <a href="README.md">Русский</a> |
-    <strong>English</strong>
-  </div>
-  <br>
- 
-
+<div align="right">
+  <sup>View this page in: </sup>
+  <strong>Русский</strong> |
+  <a href="README.en.md">English</a>
+</div>
+<br>
 <div align="center">
-  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+  <img src="eduard-pil-photo.jpg " alt="Портрет Эдуарда Анатольевича Пиля" width="400">
   <br>
   <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
 </div>
+
+
+
 
 # Эдуард Анатольевич Пиль
 
