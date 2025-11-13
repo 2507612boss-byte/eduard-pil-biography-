@@ -1,3 +1,5 @@
+
+![Проблема](https://github.com/user-attachments/assets/829bca0d-d3e8-4606-8fd8-64a48de022de)
 <meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
 
 <div align="right">
@@ -7,10 +9,11 @@
 </div>
 <br>
 <div align="center">
-  <img src="eduard-pil-photo.jpg " alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
   <br>
   <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
 </div>
+
 
 
 
