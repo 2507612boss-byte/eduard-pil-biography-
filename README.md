@@ -809,7 +809,6 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<h2>Сертификаты выступлений на конференциях</h2>
 <h4>Здесь представлены только 11 сертификатов из 493, которые имеются в наличии у автора.</h4>
 
 <divclass="serpapers">
@@ -863,7 +862,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<h2 id="pisma-ot-monarkhov">Письма от монархов и политиков</h2>
+<h2 id="pisma-ot-monarkhov">👑Письма от монархов и политиков</h2>
 <span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
@@ -881,10 +880,6 @@ width: 100px; /* компактныеминиатюры */
 </style>
 </head>
 <body>
-
-<h2>Письма от монархов и политиков</h2>
-
-<span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
 
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
