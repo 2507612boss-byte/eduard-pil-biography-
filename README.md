@@ -957,10 +957,6 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-
-
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
