@@ -1028,8 +1028,8 @@ width: 100px; /* компактныеминиатюры */
 <img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" width="100">
 </a>
 
-<a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Президентская библиотека им. Б.Н. Ельцина. Санкт-Петербург">
-<img src="bibl/P13_32_book_bibl_2012.jpg" alt="Президентская библиотека им. Б.Н. Ельцина. Санкт-Петербург" width="100">
+<a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург">
+<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург" width="100">
 </a>
 
 <a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
@@ -1049,6 +1049,8 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
+
+
 
 <!DOCTYPE html>
 <html lang="ru">
