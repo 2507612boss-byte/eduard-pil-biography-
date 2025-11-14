@@ -52,6 +52,7 @@ Eduard Anatolyevich was awarded various diplomas of the RANH for his significant
 
 * the theory of economic crises;
 * the theory of complexity in machining complex body parts on Machining Center (MC). There are no analogous works on this topic in the world.
+
 In addition, he developed the following mathematical models:
 
 **Mathematical models:**
@@ -947,9 +948,22 @@ width: 100px; /* компактныеминиатюры */
 <a href="biblee/P13_09_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Omsk State Regional Scientific Library named after A.S. Pushkin">
 <img src="biblee/P13_09_book_bibl_2012.jpg" alt=Omsk State Regional Scientific Library named after A.S. Pushkin" width="100">
 </a>
+
+<a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Presidential Library named after B.N. Yeltsin. St. Petersburg">
+<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Presidential Library named after B.N. Yeltsin. St. Petersburg" width="100">
+</a>
+
+<a href="bibl/P13_12_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Library of Saint Petersburg State University of Aerospace Instrumentation, St. Petersburg">
+<img src="bibl/P13_12_book_bibl_2012.jpg" alt="Library of Saint Petersburg State University of Aerospace Instrumentation, St. Petersburg" width="100">
+</a>
+  
 <a href="biblee/P13_10_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Library of the St. Petersburg State Transport University">
 <img src="biblee/P13_10_book_bibl_2012.jpg" alt="Library of the St. Petersburg State Transport University" width="100">
 </a>
+
+
+
+
 <a href="biblee/P13_11_book_bibl_2012.pdf" data-lightbox="biblee" data-title="Russian National Library, St. Petersburg">
 <img src="biblee/P13_11_book_bibl_2012.pdf" alt="Russian National Library, St. Petersburg" width="100">
 </a>
