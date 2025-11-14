@@ -357,7 +357,7 @@ width: 100px; /* компактные миниатюры */
 
 <h2>Книги по экономике</h2>
 
-<div class="gallery"> <!-- ИСПРАВЛЕНО: было divclass=economy"" -->
+<divclass="gallery"> <!-- ИСПРАВЛЕНО: было divclass=economy"" -->
 <!-- Пример первых 5 книг -->
 <a href="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)">
 <img src="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)" width="100">
@@ -548,7 +548,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Художественная литература</h2>
 
-<divc lass=english"">
+<divclass=english"">
 <!-- Пример первых 2 книг -->
 <a href="fiction/P6_01_book_stepan_2022.jpg" data-lightbox="fiction" data-title="Один День Питерского Карасика Степашки (2022)">
 <img src="fiction/P6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022)" width="100">
@@ -684,7 +684,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 
 <h2>Книга Рекордов России</h2>
 
-<div class="gallery">
+<divclass="gallery">
   <!-- Пример первых 2 рекордов -->
   <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
     <img src="record/P9_01_book_record1_2017.jpg" alt="Наибольшее количество статей без соавторов (2017)" width="100">
@@ -883,7 +883,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
 
-<div class="kastro">
+<divclass="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
     <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
   </a>
@@ -956,7 +956,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Открытки от Фиделя Кастро</h2>
 
-<div class="gallery">
+<divclass="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 1 (2012)">
     <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)" width="100">
   </a>
@@ -1087,7 +1087,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Письма от нобелевских лауреатов по экономике</h2>
-<div class="nobel">
+<divclass="nobel">
 
 <!-- Пример первых 4 копии -->
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
@@ -1135,7 +1135,7 @@ width: 100px; /* компактныеминиатюры */
 
  <h2 id="knigi-podarenye-uchyonym">Книги подаренные известными учёными</h2>
 
-<div class="present">
+<divclass="present">
 
   <!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
@@ -1188,7 +1188,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Сертификаты повышения квалификации</h2>
 
-<div class="kvalif">
+<divclass="kvalif">
 
 <!-- Пример первых 7 копии -->
 <a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
@@ -1244,7 +1244,7 @@ width: 100px; /* компактныеминиатюры */
   
 <h2>Отзывы Студентов</h2>
   
-<div class="diplomnik">
+<divclass="diplomnik">
   <a href="diplomnik/P18_01_book_stud_2023.JPG" data-lightbox="diplomnik" data-title="Отзывы студентов (2023)">
     <img src="diplomnik/P18_01_book_stud_2023.JPG" alt="Отзывы студентов (2023)" width="100">
   </a>
@@ -1281,7 +1281,7 @@ width: 100px; /* компактныеминиатюры */
   
 <h2>Патент</h2>
   
-<div class="patant">
+<divclass="patant">
   <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
     <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" width="100">
   </a>
@@ -1319,7 +1319,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Генеалогическое древо отца</h2>
 <h4>Чтобы просмотреть всё древо отца в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 
-<divc lass="tree">
+<divclass="tree">
 <!-- Пример первых 1 копии -->
 <a href="tree/P17_01_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо отца">
 <img src="tree/P17_01_book_tree_2025.pdf" alt="Генеалогическое древо отца" width="100">
@@ -1357,7 +1357,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Генеалогическое древо матери</h2>
 <h4>Чтобы просмотреть всё древо матери в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 
-<div class="tree">
+<divclass="tree">
 <!-- Пример первых 1 копии -->
 <a href="tree/P17_02_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо матери">
 <img src="tree/P17_02_book_tree_2025.pdf" alt="Генеалогическое древо матери" width="100">
@@ -1401,7 +1401,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Друзья по учёбе</h2>
 <h4>Чтобы просмотреть всех друзей по учёбе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
-<div class="friends">
+<divclass="friends">
 <!-- Пример первых 1 копии -->
 <a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
