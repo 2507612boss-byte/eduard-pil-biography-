@@ -961,9 +961,6 @@ width: 100px; /* компактныеминиатюры */
 <img src="biblee/P13_10_book_bibl_2012.jpg" alt="Library of the St. Petersburg State Transport University" width="100">
 </a>
 
-
-
-
 <a href="biblee/P13_11_book_bibl_2012.pdf" data-lightbox="biblee" data-title="Russian National Library, St. Petersburg">
 <img src="biblee/P13_11_book_bibl_2012.pdf" alt="Russian National Library, St. Petersburg" width="100">
 </a>
@@ -973,17 +970,6 @@ width: 100px; /* компактныеминиатюры */
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
-
-
-
-
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</body>
-</html>
-
-
 
 
 
