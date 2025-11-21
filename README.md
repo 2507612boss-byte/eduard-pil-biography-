@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE">
-    <title>Эдуард Пиль - учёный-энциклопедист</title>
+
 </head>
 <body>
 
