@@ -822,15 +822,39 @@ width: 100px; /* компактныеминиатюры */
 # 👑 Письма от монархов и политиков
 
 <div class="gallery">
+  <a href="img1.jpg" data-lightbox="pisma" data-title="Письмо 1">
+    <img src="img1.jpg" alt="Письмо 1">
+  </a>
+  <a href="img2.jpg" data-lightbox="pisma" data-title="Письмо 2">
+    <img src="img2.jpg" alt="Письмо 2">
+  </a>
+  <a href="img3.jpg" data-lightbox="pisma" data-title="Письмо 3">
+    <img src="img3.jpg" alt="Письмо 3">
+  </a>
+  <!-- добавляй столько <a> с <img>, сколько нужно -->
+</div>
 
 <style>
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; }
-.gallery img { width:100px; height:auto; border:1px solid #ccc; border-radius:4px; cursor:zoom-in; transition:0.2s; }
-.gallery img:hover { transform: scale(1.05); }
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.gallery img {
+  width: 100px;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover {
+  transform: scale(1.05);
+}
 </style>
 
-</body>
-</html>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
  
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
