@@ -820,9 +820,7 @@ width: 100px; /* компактныеминиатюры */
 
 
 # 👑 Письма от монархов и политиков
-
 <div class="gallery">
-
 </div>
  
 <div class="kastro">
@@ -863,35 +861,13 @@ width: 100px; /* компактныеминиатюры */
 
 
 
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
   <title>Открытки от Фиделя Кастро</title>
- <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: sans-serif;
-      background: #f9f9f9;
-      margin: 20px;
-    }
-    .gallery {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: flex-start;
-    }
-    .gallery img {
-      width: 100px; /* компактные миниатюры */
-      height: auto;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      cursor: zoom-in;
-      transition: transform 0.2s;
-    }
-    .gallery img:hover {
-      transform: scale(1.05);
-    }
+
   </style>
 </head>
 <body>
