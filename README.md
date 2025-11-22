@@ -895,11 +895,7 @@ width: 100px; /* компактные миниатюры */
 </style>
 </head>
 <body>
-<!-- Весь контент с галереей -->
-<div class="gallery">
-  <a href="images/1.jpg" data-lightbox="gallery"><img src="images/1.jpg" alt="Письмо 1"></a>
-  <a href="images/2.jpg" data-lightbox="gallery"><img src="images/2.jpg" alt="Письмо 2"></a>
-  <!-- другие изображения -->
+
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
