@@ -819,31 +819,20 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Письма от монархов и политиков</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+# 👑 Письма от монархов и политиков
+
+<div class="gallery">
+  <img src="img1.jpg" alt="Письмо 1">
+  <img src="img2.jpg" alt="Письмо 2">
+</div>
+
 <style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-  width: 100px; 
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; }
+.gallery img { width:100px; height:auto; border:1px solid #ccc; border-radius:4px; cursor:zoom-in; transition:0.2s; }
 .gallery img:hover { transform: scale(1.05); }
 </style>
-</head>
-<body>
-<h2 id="pisma-ot-monarkhov">👑Письма от монархов и политиков</h2>
-<!-- эмодзи можно прямо в тексте заголовка или отдельным span -->
-
 </div>
+
 </body>
 </html>
  
