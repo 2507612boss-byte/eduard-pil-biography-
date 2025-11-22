@@ -1,52 +1,9 @@
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-          body {
-            font-family: sans-serif;
-            background: #f9f9f9;
-            margin: 20px;
-        }
-        .gallery { 
-            display: flex; 
-            flex-wrap: wrap; 
-            gap: 10px;
-            margin: 20px 0;
-        }
-        .gallery img {
-            width: 200px;
-            height: auto;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-        .language-switcher {
-            text-align: right;
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
+# Эдуард Анатольевич Пиль
 
-<div class="language-switcher">
-  <sup>View this page in: </sup>
-  <strong>Русский</strong> |
-  <a href="README.en.md">English</a>
-</div>
+Учёный-энциклопедист, доктор технических наук, профессор
 
-<div align="center">
-  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
-  <br>
-  <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
-</div>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-</body>
-</html>
-
+[Посмотреть полную страницу с фото и галереей](https://2507612boss-byte.github.io/eduard-pil-biography-/)
 
 
 
