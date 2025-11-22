@@ -164,31 +164,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>**"Gallery of Diplomas"**.
-</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-<body>
-
 <h2>Gallery of Diplomas</h2>
 
 <div class="diplomas2">
@@ -281,34 +256,11 @@ width: 100px; /* компактныеминиатюры */
 </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Books on Medicine</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Books on Medicine</h2>
 
@@ -323,7 +275,6 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
@@ -332,27 +283,7 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Books on Economics</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
 
 <h2>Books on Economics</h2>
 
@@ -375,33 +306,11 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Books on English</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Books on English</h2>
 
@@ -422,33 +331,12 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Fiction</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
 
 <h2>Fiction</h2>
 
@@ -463,34 +351,12 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Articles on English Language Theory</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Articles on English Language Theory</h2>
 <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
@@ -507,33 +373,10 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Biography</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Biography</h2>
 
@@ -558,35 +401,12 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Book of Records of Russia</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-  width: 100px; /* компактные миниатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Book of Records of Russia</h2>
 
@@ -601,34 +421,11 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
   </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Articles from Journals and Conferences</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Articles from Journals and Conferences</h2>
 <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
@@ -688,34 +485,11 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Conference Presentation Certificates</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Conference Presentation Certificates</h2>
 <h4>Only 11 out of 493 certificates available to the author are presented here.</h4>
@@ -757,9 +531,6 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 </div>
-<script 
-    src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js">
-  </script>
 </body>
 </html>
 
@@ -767,27 +538,6 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Letters from Monarchs and Political Figures</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Letters from Monarchs and Political Figures</h2>
 
@@ -821,48 +571,12 @@ width: 100px; /* компактныеминиатюры */
   </a>
 </div>
 
-<script 
-    src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js">
-  </script>
 </body>
 </html>
 
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Postcards from Fidel Castro</title>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: sans-serif;
-      background: #f9f9f9;
-      margin: 20px;
-    }
-    .gallery {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: flex-start;
-    }
-    .gallery img {
-      width: 100px; /* компактные миниатюры */
-      height: auto;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      cursor: zoom-in;
-      transition: transform 0.2s;
-    }
-    .gallery img:hover {
-      transform: scale(1.05);
-    }
-  </style>
-</head>
-<body>
 
 <h2>Postcards from Fidel Castro</h2>
 
@@ -876,33 +590,11 @@ width: 100px; /* компактныеминиатюры */
   </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Books in Foreign Libraries</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Books Donated to Foreign Libraries</h2>
 <div class="biblee">
@@ -925,7 +617,7 @@ width: 100px; /* компактныеминиатюры */
 </a>
 
 <h2>Books Donated to Russian Libraries</h2>
-<divclass="biblee">
+<div class="biblee">
 <a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
 <img src="biblee/P13_06_book_bibl_2012.jpg" alt=Central City Public Library named after V.V. Mayakovsky, St. Petersburg" width="100">
 </a>
@@ -957,34 +649,11 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Letters from Nobel Laureates in Economics</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Letters from Nobel Laureates in Economics</h2>
 <div class="nobele">
@@ -1005,7 +674,7 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
@@ -1013,27 +682,7 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Books Gifted by Prominent Scientists</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
 
  <h2 id="knigi-podarenye-uchyonym">Books Gifted by Prominent Scientists</h2>
 
@@ -1060,7 +709,6 @@ width: 100px; /* компактныеминиатюры */
 </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
@@ -1068,30 +716,6 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-
-
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Certificate of Advanced Training</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Certificate of Advanced Training</h2>
 
@@ -1122,33 +746,11 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Student Testimonials</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
   
 <h2>Student Testimonials</h2>
   
@@ -1159,33 +761,10 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Patent</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
-  
 <h2>Patent</h2>
   
 <div class="patante">
@@ -1195,7 +774,6 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
@@ -1203,27 +781,7 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Father's family tree</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
   
 <h2>Father's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
@@ -1234,35 +792,10 @@ width: 100px; /* компактныеминиатюры */
 <img src="treee/P17_01_book_tree_2025.pdf" alt="Father's family tree" width="100">
  </a>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-  
- 
-<title>Mother's family tree</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Mother's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
@@ -1273,38 +806,13 @@ width: 100px; /* компактныеминиатюры */
 <img src="treee/P17_02_book_tree_2025.pdf" alt="Mother's family tree" width="100">
  </a>
   
-</body>
-</html>
 
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-  
-<title>My Univirsity Classmates (1967-1973)</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>My Univirsity Classmates (1967-1973)</h2>
 <h4>To view the entire fellow students from University, click on the small icon below and scroll to the end of the downloaded page.</h4>
@@ -1314,11 +822,10 @@ width: 100px; /* компактныеминиатюры */
 <img src="friends/P23_02_book_friends_2025.pdf" alt="My Univirsity Classmates (1967-1973)" width="100">
  </a>
   
-</body>
-</html>
+
 
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
