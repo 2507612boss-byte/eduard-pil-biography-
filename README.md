@@ -576,7 +576,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Биография</h2>
 
-<divclass="biography">
+<div class="biography">
 <!-- Пример первых 7 источников -->
 
 <a href="biography/P8_03_book_who_2012.jpg" data-lightbox="biography" data-title="Who Is Who В России (2012)">
@@ -628,7 +628,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 
 <h2>Книга Рекордов России</h2>
 
-<divclass="gallery">
+<div class="gallery">
   <!-- Пример первых 2 рекордов -->
   <a href="record/P9_01_book_record1_2017.jpg" data-lightbox="record" data-title="Наибольшее количество статей без соавторов в одном сборнике международной научной конференции за 1 год (2017)">
     <img src="record/P9_01_book_record1_2017.jpg" alt="Наибольшее количество статей без соавторов (2017)" width="100">
@@ -959,7 +959,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Книги подаренные зарубежным библиотекам</h2>
-<divclass="bibl">
+<div class="bibl">
 
 <!-- Пример первых 5 копии -->
 <a href="bibl/P13_01_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Финляндии (2025)">
@@ -984,7 +984,7 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 <h2>Книги подаренные российским библиотекам</h2>
-<divclass="bibl">
+<div class="bibl">
 
 <!-- Пример первых 7 копии -->
 <a href="bibl/P13_06_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Центральная городская публичная библиотека имени В.В. Маяковского">
@@ -1050,7 +1050,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Письма от нобелевских лауреатов по экономике</h2>
-<divclass="nobel">
+<div class="nobel">
 
 <!-- Пример первых 4 копии -->
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
@@ -1099,7 +1099,7 @@ width: 100px; /* компактныеминиатюры */
 
  <h2 id="knigi-podarenye-uchyonym">Книги подаренные известными учёными</h2>
 
-<divclass="present">
+<div class="present">
 
   <!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
@@ -1152,7 +1152,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Сертификаты повышения квалификации</h2>
 
-<divclass="kvalif">
+<div class="kvalif">
 
 <!-- Пример первых 7 копии -->
 <a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
@@ -1208,7 +1208,7 @@ width: 100px; /* компактныеминиатюры */
   
 <h2>Отзывы Студентов</h2>
   
-<divclass="diplomnik">
+<div class="diplomnik">
   <a href="diplomnik/P18_01_book_stud_2023.JPG" data-lightbox="diplomnik" data-title="Отзывы студентов (2023)">
     <img src="diplomnik/P18_01_book_stud_2023.JPG" alt="Отзывы студентов (2023)" width="100">
   </a>
@@ -1245,7 +1245,7 @@ width: 100px; /* компактныеминиатюры */
   
 <h2>Патент</h2>
   
-<divclass="patant">
+<div class="patant">
   <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
     <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" width="100">
   </a>
@@ -1321,7 +1321,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Генеалогическое древо матери</h2>
 <h4>Чтобы просмотреть всё древо матери в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
 
-<divclass="tree">
+<div class="tree">
 <!-- Пример первых 1 копии -->
 <a href="tree/P17_02_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо матери">
 <img src="tree/P17_02_book_tree_2025.pdf" alt="Генеалогическое древо матери" width="100">
@@ -1365,7 +1365,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Друзья по учёбе</h2>
 <h4>Чтобы просмотреть всех друзей по учёбе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
-<divclass="friends">
+<div class="friends">
 <!-- Пример первых 1 копии -->
 <a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
