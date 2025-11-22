@@ -822,6 +822,8 @@ width: 100px; /* компактныеминиатюры */
 # 👑 Письма от монархов и политиков
 
 <div class="gallery">
+  <img src="img1.jpg" alt="Письмо 1">
+  <img src="img2.jpg" alt="Письмо 2">
 </div>
 
 <style>
@@ -829,10 +831,6 @@ width: 100px; /* компактныеминиатюры */
 .gallery img { width:100px; height:auto; border:1px solid #ccc; border-radius:4px; cursor:zoom-in; transition:0.2s; }
 .gallery img:hover { transform: scale(1.05); }
 </style>
-</div>
-
-</body>
-</html>
  
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
