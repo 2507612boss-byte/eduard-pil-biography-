@@ -878,14 +878,15 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>👑Письма от монархов и политиковиях</title>
-<span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
+<!-- Удаляем или комментируем эти строки, чтобы убрать верхние строки -->
+<!-- <h2 id="pisma-ot-monarkhov">👑Письма от монархов и политиков</h2> -->
+<!-- <span style="font-size:24px;">👑</span> -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 .gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
 .gallery img {
-width: 100px; /* компактныеминиатюры */
+width: 100px; /* компактные миниатюры */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -894,8 +895,15 @@ width: 100px; /* компактныеминиатюры */
 }
 .gallery img:hover { transform: scale(1.05); }
 </style>
-
-
+</head>
+<body>
+<!-- Весь контент с галереей -->
+<div class="gallery">
+  <a href="images/1.jpg" data-lightbox="gallery"><img src="images/1.jpg" alt="Письмо 1"></a>
+  <a href="images/2.jpg" data-lightbox="gallery"><img src="images/2.jpg" alt="Письмо 2"></a>
+  <!-- другие изображения -->
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
  
