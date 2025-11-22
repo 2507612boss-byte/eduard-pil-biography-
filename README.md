@@ -1100,8 +1100,9 @@ width: 100px; /* компактныеминиатюры */
 <a href="nobel/P14_03_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Письмо от Joseph E. Stiglitz (2025)">
 <img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" width="100">
 </a>
+
 <a href="nobel/P14_04_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)">
-<img src="nobelP14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" width="100">
+<img src="nobel/P14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" width="100">
 </a>
 
 </div>
