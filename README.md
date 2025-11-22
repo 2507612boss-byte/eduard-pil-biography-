@@ -862,10 +862,6 @@ width: 100px; /* компактныеминиатюры */
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
   <title>Открытки от Фиделя Кастро</title>
 
   </style>
