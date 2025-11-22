@@ -7,11 +7,14 @@
 <br>
 
 <div align="center">
-  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+  <a href="eduard-pil-photo.jpg" target="_blank">
+    <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400" style="border: 2px solid #ccc; border-radius: 8px;">
+  </a>
   <br>
   <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
 </div>
 
+<br>
 
 
 
