@@ -821,7 +821,7 @@ width: 100px; /* компактныеминиатюры */
 
 # 👑 Письма от монархов и политиков
 <div class="gallery">
-</div>
+
  
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
