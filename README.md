@@ -998,33 +998,12 @@ width: 100px; /* компактныеминиатюры */
 </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Сертификаты повышения квалификации</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
 
 <h2>Сертификаты повышения квалификации</h2>
 
@@ -1055,32 +1034,11 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Отзывы Студентов</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
   
 <h2>Отзывы Студентов</h2>
   
@@ -1091,33 +1049,12 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Патент</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
   
 <h2>Патент</h2>
   
@@ -1128,33 +1065,12 @@ width: 100px; /* компактныеминиатюры */
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-<title>Генеалогическое древо отца</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
+
   
 <h2>Генеалогическое древо отца</h2>
 <h4>Чтобы просмотреть всё древо отца в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
@@ -1165,34 +1081,12 @@ width: 100px; /* компактныеминиатюры */
 <img src="tree/P17_01_book_tree_2025.pdf" alt="Генеалогическое древо отца" width="100">
  </a>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
 
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
-  
-<title>Генеалогическое древо матери</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Генеалогическое древо матери</h2>
 <h4>Чтобы просмотреть всё древо матери в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
@@ -1203,41 +1097,14 @@ width: 100px; /* компактныеминиатюры */
 <img src="tree/P17_02_book_tree_2025.pdf" alt="Генеалогическое древо матери" width="100">
  </a>
   
-</body>
-</html>
-
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
 
 
 
-
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
- 
-<title>Друзья по учёбе во ВТУЗе с 1967 по 1973 годы</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
-</head>
-<body>
 
 <h2>Друзья по учёбе</h2>
 <h4>Чтобы просмотреть всех друзей по учёбе надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.</h4>
@@ -1247,11 +1114,9 @@ width: 100px; /* компактныеминиатюры */
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
  </a>
   
-</body>
-</html>
 
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
