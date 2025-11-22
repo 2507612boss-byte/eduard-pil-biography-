@@ -727,7 +727,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Статьи из журналов и конференций</h2>
 <h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.</h4>
 
-<divclass=papers"">
+<div class=papers"">
 <!-- Пример первых 13 статьи -->
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
@@ -813,7 +813,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h4>Здесь представлены только 11 сертификатов из 493, которые имеются в наличии у автора.</h4>
 
-<divclass="serpapers">
+<div class="serpapers">
 <!-- Пример первых 11 сертификатов -->
 <a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
 <img src="serpapers/P11_01_book_papers1_2017.jpg" alt="Certificate of participation. Turkey, (2006)" width="100">
@@ -881,7 +881,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
   
  
-<divclass="kastro">
+<div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
     <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
   </a>
