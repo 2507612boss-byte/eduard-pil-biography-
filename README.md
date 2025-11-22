@@ -878,9 +878,7 @@ width: 100px; /* компактныеминиатюры */
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<!-- Удаляем или комментируем эти строки, чтобы убрать верхние строки -->
-<!-- <h2 id="pisma-ot-monarkhov">👑Письма от монархов и политиков</h2> -->
-<!-- <span style="font-size:24px;">👑</span> -->
+<h2 id="pisma-ot-monarkhov" style="display: none;">👑Письма от монархов и политиков</h2>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
