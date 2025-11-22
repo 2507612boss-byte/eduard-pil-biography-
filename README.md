@@ -857,12 +857,12 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Сертификаты выступлений на конференциях</title>
+<h2 id="pisma-ot-monarkhov">👑Письма от монархов и политиков</h2>
+<span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
 <style>
 body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
@@ -879,25 +879,6 @@ width: 100px; /* компактныеминиатюры */
 </style>
 </head>
 <body>
-
-<h2>Сертификаты выступлений на конференциях</h2>
-
-<div class="gallery">
-    <!-- ВСТАВЬТЕ ВАШИ СЕРТИФИКАТЫ ЗДЕСЬ -->
-    <a href="certificates/cert1.jpg" data-lightbox="certificates" data-title="Сертификат 1">
-        <img src="certificates/cert1.jpg" alt="Сертификат 1" width="100">
-    </a>
-    <a href="certificates/cert2.jpg" data-lightbox="certificates" data-title="Сертификат 2">
-        <img src="certificates/cert2.jpg" alt="Сертификат 2" width="100">
-    </a>
-    <!-- и так далее -->
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-</body>
-</html>
   
  
 <divclass="kastro">
