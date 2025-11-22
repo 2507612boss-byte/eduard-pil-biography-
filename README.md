@@ -822,8 +822,6 @@ width: 100px; /* компактныеминиатюры */
 # 👑 Письма от монархов и политиков
 
 <div class="gallery">
-  <img src="img1.jpg" alt="Письмо 1">
-  <img src="img2.jpg" alt="Письмо 2">
 </div>
 
 <style>
