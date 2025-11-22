@@ -197,7 +197,7 @@ width: 100px; /* компактныеминиатюры */
 <body>
 
 <h2>Галерея дипломов</h2>
-<divclass="diplomas">
+<div class="diplomas">
 <!-- Пример первых 19 дипломов -->
 
 <a href="images/diplomas/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas" data-title="Мои книги">
@@ -260,8 +260,6 @@ width: 100px; /* компактныеминиатюры */
 <a href="images/diplomas/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas" data-title="Удостоверение к медали Адама Смита">
 <img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
 </a>
-
-
 <a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов">
 <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Лига Интеллектуалов" width="100">
 </a>
@@ -277,6 +275,7 @@ width: 100px; /* компактныеминиатюры */
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
 </body>
 </html>
 
@@ -307,7 +306,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Книги по технологии</h2>
 
-<divclass="technology">
+<div class="technology">
 <!-- Пример первых 4 книг -->
 <a href="technology/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
 <img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" width="100">
@@ -353,7 +352,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Книги по медицине</h2>
 
-<divclass="Medical">
+<div class="Medical">
 <!-- Пример первых 2 книг -->
 <a href="Medical/P3_01_book_health_2010.jpg" data-lightbox="Medical" data-title="Ваше здоровье от А до Я (2010)">
 <img src="Medical/P3_01_book_health_2010.jpg" alt="Ваше здоровье от А до Я (2010)" width="100">
@@ -393,7 +392,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Книги по экономике</h2>
 
-<divclass=economy"">
+<div class=economy"">
 <!-- Пример первых 5 книг -->
 <a href="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)">
 <img src="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)" width="100">
@@ -446,7 +445,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Книги по английскому языку</h2>
 
-<divclass=english"">
+<div class=english"">
 <!-- Пример первых 4 книг -->
 <a href="english/P5_01_book_letter_call_2000.JPG" data-lightbox="english" data-title="English Letters and Calling (2000)">
 <img src="english/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000))" width="100">
@@ -493,7 +492,7 @@ width: 100px; /* компактныеминиатюры */
 
 <h2>Художественная литература</h2>
 
-<divclass=english"">
+<div class=english"">
 <!-- Пример первых 2 книг -->
 <a href="fiction/P6_01_book_stepan_2022.jpg" data-lightbox="fiction" data-title="Один День Питерского Карасика Степашки (2022)">
 <img src="fiction/P6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022)" width="100">
@@ -534,7 +533,7 @@ width: 100px; /* компактныеминиатюры */
 <h2>Статьи по теории английского языка</h2>
 <h4>Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.</h4>
 
-<divclass=english"">
+<div class=english"">
 <!-- Пример первых 2 статьи -->
 <a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
 <img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
