@@ -873,63 +873,31 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Письма от монархов и политиков</title>
-    
-    <!-- Подключение стилей для lightbox -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-    
-    <!-- Ваши стили для галереи -->
-    <style>
-        body {
-            font-family: sans-serif;
-            background: #f9f9f9;
-            margin: 20px;
-        }
-        .gallery {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            justify-content: flex-start;
-        }
-        .gallery img {
-            width: 100px; /* компактные миниатюры */
-            height: auto;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            cursor: zoom-in;
-            transition: transform 0.2s;
-        }
-        .gallery img:hover {
-            transform: scale(1.05);
-        }
-    </style>
+<meta charset="UTF-8">
+<title>👑Письма от монархов и политиковиях</title>
+<span style="font-size:24px;">👑</span>  <!-- вот здесь эмодзи -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
 
-    <!-- Подключение скрипта для работы lightbox -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-</head>
-<body>
-
-    <h2 id="pisma-ot-monarkhov">👑 Письма от монархов и политиков</h2>
-    <span style="font-size:24px;">👑</span>  <!-- Эмодзи, который добавляется перед изображениями -->
-    
-    <!-- Галерея с изображениями -->
-    <div class="gallery">
-        <a href="image1.jpg" data-lightbox="gallery" data-title="Письмо от монарха 1">
-            <img src="image1_thumb.jpg" alt="Письмо от монарха 1">
-        </a>
-        <a href="image2.jpg" data-lightbox="gallery" data-title="Письмо от монарха 2">
-            <img src="image2_thumb.jpg" alt="Письмо от монарха 2">
-        </a>
-        <!-- Добавь больше картинок, как тебе нужно -->
-    </div>
 
 </body>
-</html>  
+</html>
  
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
