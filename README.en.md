@@ -3,7 +3,7 @@
     <img src="eduard-pil-photo.jpg" alt="Portrait of Eduard Anatolievich Pil" width="400" style="border: 2px solid #ccc; border-radius: 8px;">
   </a>
   <br>
-  <em>Eduard Anatolievich Pil - encyclopedic scientist, Doctor of Technical Sciences, professor</em>
+  <em>Eduard Pil — encyclopedic scientist, Academician of the Russian Academy Natural History, Doctor of Technical Sciences, Professor</em>
 </div>
 
 
