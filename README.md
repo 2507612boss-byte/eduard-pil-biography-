@@ -7,12 +7,6 @@
 <br>
 
 <div align="center">
-[**🎯 Посмотреть полную версию с фото-галереей**](https://2507612boss-byte.github.io/eduard-pil-biography-/)
-</div>
-
-<br>
-
-<div align="center">
   <a href="eduard-pil-photo.jpg" target="_blank">
     <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
   </a>
