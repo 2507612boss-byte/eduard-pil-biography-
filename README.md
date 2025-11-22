@@ -819,28 +819,7 @@ width: 100px; /* компактныеминиатюры */
 </head>
 <body>
     <h1>Сертификаты выступлений на конференциях</h1>
-    
-    <div class="gallery">
-        <!-- Пример изображения 1 -->
-        <a href="images/fullsize/certificate1.jpg" data-lightbox="certificates" data-title="Сертификат 1">
-            <img src="images/thumbnails/certificate1.jpg" alt="Сертификат 1">
-        </a>
-        
-        <!-- Пример изображения 2 -->
-        <a href="images/fullsize/certificate2.jpg" data-lightbox="certificates" data-title="Сертификат 2">
-            <img src="images/thumbnails/certificate2.jpg" alt="Сертификат 2">
-        </a>
-        
-        <!-- Пример изображения 3 -->
-        <a href="images/fullsize/certificate3.jpg" data-lightbox="certificates" data-title="Сертификат 3">
-            <img src="images/thumbnails/certificate3.jpg" alt="Сертификат 3">
-        </a>
-        
-        <!-- Добавь другие сертификаты по аналогии -->
-    </div>
-    
-    <!-- Подключаем скрипт для Lightbox -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+       
 </body>
 </html>
 
