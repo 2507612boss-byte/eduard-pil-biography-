@@ -822,8 +822,7 @@ width: 100px; /* компактныеминиатюры */
 # 👑 Письма от монархов и политиков
 
 <div class="gallery">
-  <img src="img1.jpg" alt="Письмо 1" style="width:100px; border:1px solid #ccc; border-radius:4px; margin:4px;">
-  <img src="img2.jpg" alt="Письмо 2" style="width:100px; border:1px solid #ccc; border-radius:4px; margin:4px;">
+
 </div>
  
 <div class="kastro">
