@@ -1,19 +1,9 @@
-<meta name="google-site-verification" content="ВАШ_КОД_ОТ_GOOGLE" />
-
-<!-- Английский язык -->
-<div id="en" class="lang">
-  <div align="right">
-    <sup>View this page in: </sup>
-    <a href="README.md">Русский</a> |
-    <strong>English</strong>
-  </div>
+<div align="center">
+  <a href="eduard-pil-photo.jpg" target="_blank">
+    <img src="eduard-pil-photo.jpg" alt="Portrait of Eduard Anatolievich Pil" width="400" style="border: 2px solid #ccc; border-radius: 8px;">
+  </a>
   <br>
-  <div align="center">
-    <img src="eduard-pil-photo.jpg" alt="Eduard Pil" width="400">
-    <br>
-    <em>Eduard Pil — encyclopedic scientist, Academician of the Russian Academy Natural History, Doctor of Technical Sciences, Professor</em>
-  </div>
-  <!-- Здесь идёт текст на английском -->
+  <em>Eduard Anatolievich Pil - encyclopedic scientist, Doctor of Technical Sciences, professor</em>
 </div>
 
 
