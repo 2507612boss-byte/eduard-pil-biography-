@@ -6,10 +6,16 @@
     <title>Эдуард Пиль - учёный-энциклопедист</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
     <style>
+        body {
+            font-family: sans-serif;
+            background: #f9f9f9;
+            margin: 20px;
+        }
         .gallery { 
             display: flex; 
             flex-wrap: wrap; 
-            gap: 10px; 
+            gap: 10px;
+            margin: 20px 0;
         }
         .gallery img {
             width: 200px;
@@ -17,17 +23,19 @@
             border: 1px solid #ccc;
             border-radius: 4px;
         }
+        .language-switcher {
+            text-align: right;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
 
-<div align="right">
+<div class="language-switcher">
   <sup>View this page in: </sup>
   <strong>Русский</strong> |
   <a href="README.en.md">English</a>
 </div>
-
-<br>
 
 <div align="center">
   <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
@@ -35,7 +43,6 @@
   <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
 </div>
 
-<!-- Галерея -->
 <div class="gallery">
     <a href="photo1.jpg" data-lightbox="gallery" data-title="Фото 1">
         <img src="photo1.jpg" alt="Фото 1">
@@ -53,7 +60,6 @@
 
 </body>
 </html>
-
 
 
 
