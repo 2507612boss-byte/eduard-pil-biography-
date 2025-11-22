@@ -784,28 +784,65 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8">
-<title>Сертификаты выступлений на конференциях</title>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<style>
-body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
-.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
-.gallery img {
-width: 100px; /* компактныеминиатюры */
-  height: auto;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: zoom-in;
-  transition: transform 0.2s;
-}
-.gallery img:hover { transform: scale(1.05); }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сертификаты выступлений на конференциях</title>
+    <!-- Подключаем стили для Lightbox -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+    <style>
+        body { 
+            font-family: sans-serif; 
+            background: #f9f9f9; 
+            margin: 20px;
+        }
+        .gallery { 
+            display: flex; 
+            flex-wrap: wrap; 
+            gap: 8px; 
+            justify-content: flex-start; 
+        }
+        .gallery img {
+            width: 100px; /* Компактные миниатюры */
+            height: auto;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            cursor: zoom-in;
+            transition: transform 0.2s;
+        }
+        .gallery img:hover { 
+            transform: scale(1.05); 
+        }
+    </style>
 </head>
 <body>
+    <h1>Сертификаты выступлений на конференциях</h1>
+    
+    <div class="gallery">
+        <!-- Пример изображения 1 -->
+        <a href="images/fullsize/certificate1.jpg" data-lightbox="certificates" data-title="Сертификат 1">
+            <img src="images/thumbnails/certificate1.jpg" alt="Сертификат 1">
+        </a>
+        
+        <!-- Пример изображения 2 -->
+        <a href="images/fullsize/certificate2.jpg" data-lightbox="certificates" data-title="Сертификат 2">
+            <img src="images/thumbnails/certificate2.jpg" alt="Сертификат 2">
+        </a>
+        
+        <!-- Пример изображения 3 -->
+        <a href="images/fullsize/certificate3.jpg" data-lightbox="certificates" data-title="Сертификат 3">
+            <img src="images/thumbnails/certificate3.jpg" alt="Сертификат 3">
+        </a>
+        
+        <!-- Добавь другие сертификаты по аналогии -->
+    </div>
+    
+    <!-- Подключаем скрипт для Lightbox -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
 
 
 
