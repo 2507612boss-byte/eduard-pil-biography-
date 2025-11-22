@@ -24,12 +24,13 @@
 
 
 
+
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <!-- ВСЕ настройки и скрипты ОДИН РАЗ здесь -->
     <meta charset="UTF-8">
-    <title>Моя галерея</title>
+    <title>Эдуард Пиль - учёный-энциклопедист</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
     <style>
         .gallery { 
@@ -47,22 +48,33 @@
 </head>
 <body>
 
-<!-- А здесь все ваши рисунки подряд -->
+<div align="right">
+  <sup>View this page in: </sup>
+  <strong>Русский</strong> |
+  <a href="README.en.md">English</a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="eduard-pil-photo.jpg" alt="Портрет Эдуарда Анатольевича Пиля" width="400">
+  <br>
+  <em>Эдуард Анатольевич Пиль — учёный-энциклопедист, доктор технических наук, профессор</em>
+</div>
+
+<!-- Галерея -->
 <div class="gallery">
     <a href="photo1.jpg" data-lightbox="gallery" data-title="Фото 1">
         <img src="photo1.jpg" alt="Фото 1">
     </a>
-    
     <a href="photo2.jpg" data-lightbox="gallery" data-title="Фото 2">
         <img src="photo2.jpg" alt="Фото 2">
     </a>
-    
     <a href="photo3.jpg" data-lightbox="gallery" data-title="Фото 3">
         <img src="photo3.jpg" alt="Фото 3">
     </a>
 </div>
 
-<!-- Скрипты тоже ОДИН РАЗ в конце -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
