@@ -822,17 +822,6 @@ width: 100px; /* компактныеминиатюры */
 # 👑 Письма от монархов и политиков
 
 <div class="gallery">
-  <a href="img1.jpg" data-lightbox="pisma" data-title="Письмо 1">
-    <img src="img1.jpg" alt="Письмо 1">
-  </a>
-  <a href="img2.jpg" data-lightbox="pisma" data-title="Письмо 2">
-    <img src="img2.jpg" alt="Письмо 2">
-  </a>
-  <a href="img3.jpg" data-lightbox="pisma" data-title="Письмо 3">
-    <img src="img3.jpg" alt="Письмо 3">
-  </a>
-  <!-- добавляй столько <a> с <img>, сколько нужно -->
-</div>
 
 <style>
 .gallery {
