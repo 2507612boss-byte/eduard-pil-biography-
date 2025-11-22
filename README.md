@@ -842,10 +842,7 @@ body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
 <body>
 <h2 id="pisma-ot-monarkhov">👑Письма от монархов и политиков</h2>
 <!-- эмодзи можно прямо в тексте заголовка или отдельным span -->
-<div class="gallery">
-  <img src="img1.jpg" alt="Письмо 1">
-  <img src="img2.jpg" alt="Письмо 2">
-  <!-- и так далее -->
+
 </div>
 </body>
 </html>
