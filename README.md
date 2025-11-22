@@ -24,6 +24,57 @@
 
 
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <!-- ВСЕ настройки и скрипты ОДИН РАЗ здесь -->
+    <meta charset="UTF-8">
+    <title>Моя галерея</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+    <style>
+        .gallery { 
+            display: flex; 
+            flex-wrap: wrap; 
+            gap: 10px; 
+        }
+        .gallery img {
+            width: 200px;
+            height: auto;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- А здесь все ваши рисунки подряд -->
+<div class="gallery">
+    <a href="photo1.jpg" data-lightbox="gallery" data-title="Фото 1">
+        <img src="photo1.jpg" alt="Фото 1">
+    </a>
+    
+    <a href="photo2.jpg" data-lightbox="gallery" data-title="Фото 2">
+        <img src="photo2.jpg" alt="Фото 2">
+    </a>
+    
+    <a href="photo3.jpg" data-lightbox="gallery" data-title="Фото 3">
+        <img src="photo3.jpg" alt="Фото 3">
+    </a>
+</div>
+
+<!-- Скрипты тоже ОДИН РАЗ в конце -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+
 
 # Эдуард Анатольевич Пиль
 
