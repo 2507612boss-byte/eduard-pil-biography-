@@ -3,10 +3,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Эдуард Пиль - учёный-энциклопедист</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-    <style>
-        body {
+          body {
             font-family: sans-serif;
             background: #f9f9f9;
             margin: 20px;
