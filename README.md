@@ -856,69 +856,30 @@ width: 100px; /* компактныеминиатюры */
 </html>
 
 
-<!DOCTYPE html>
+
+   
+   <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <title>Письма от монархов и политиков</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-    <style>
-        body { 
-            font-family: sans-serif; 
-            background: #f9f9f9; 
-            margin: 20px; 
-        }
-        .gallery { 
-            display: flex; 
-            flex-wrap: wrap; 
-            gap: 8px; 
-            justify-content: flex-start; 
-        }
-        .gallery img {
-            width: 100px;
-            height: auto;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            cursor: zoom-in;
-            transition: transform 0.2s;
-        }
-        .gallery img:hover { 
-            transform: scale(1.05); 
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .emoji {
-            font-size: 24px;
-        }
-    </style>
+<meta charset="UTF-8">
+<title>Письма от монархов и политиков</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+<style>
+body { font-family: sans-serif; background:#f9f9f9; margin:20px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; }
+.gallery img {
+width: 100px; /* компактныеминиатюры */
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: transform 0.2s;
+}
+.gallery img:hover { transform: scale(1.05); }
+</style>
 </head>
 <body>
-
-<div class="header">
-    <h2 id="pisma-ot-monarkhov">
-        <span class="emoji">👑</span> Письма от монархов и политиков
-    </h2>
-</div>
-
-<div class="gallery">
-    <!-- Ваши изображения писем здесь -->
-    <a href="letters/letter1.jpg" data-lightbox="monarchs" data-title="Письмо 1">
-        <img src="letters/letter1.jpg" alt="Письмо 1" width="100">
-    </a>
-    <!-- остальные письма -->
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
-</body>
-</html>
-
-
-
-
+ 
 <divclass="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
     <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
