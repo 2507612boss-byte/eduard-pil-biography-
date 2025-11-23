@@ -340,7 +340,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 <h2>Fiction</h2>
 
-<divclass="fictione">
+<div class="fictione">
 <!-- Пример первых 2 книг -->
 <a href="fictione/P6_01_book_stepan_2022.jpg" data-lightbox="fictione" data-title="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)">
 <img src="fictione/P6_01_book_stepan_2022.jpg" alt="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)" width="100">
@@ -472,7 +472,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
 </a>
-
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Optimal Tool Setup (1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Optimal Tool Setup (1991)" width="100">
 </a>
@@ -674,7 +673,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 </div>
 
-
 </body>
 </html>
 
@@ -780,8 +778,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-
-
   
 <h2>Father's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
@@ -822,8 +818,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="friends/P23_02_book_friends_2025.pdf" alt="My Univirsity Classmates (1967-1973)" width="100">
  </a>
   
-
-
 </div>
 
 </body>
