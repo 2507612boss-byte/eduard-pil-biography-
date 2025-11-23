@@ -348,13 +348,14 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 </a>
 
 <a href="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 6 (2024)">
-<img src="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Theory of Economic Crises. Vol. 5. (2024)" width="100">
+<img src="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Theory of Economic Crises. Vol. 6. (2024)" width="100">
 </a>
 
 </div>
 
 </body>
 </html>
+
 
 
 
