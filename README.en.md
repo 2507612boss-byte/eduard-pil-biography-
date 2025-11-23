@@ -148,15 +148,19 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
   <li>✉️ Letters from Monarchs and Politicians</li>
   <li>✉️ Postcards from Fidel Castro</li>
   <li>📦 Books Donated to Libraries</li>
+  <li>📦 Books Donated to Foreign Libraries
+  <li>📦 Books Donated to Russian Libraries</li>
+  <li>🎁 Books Presented to Me by Renowned Scientists </li>
   <li>🏆 Letters from Nobel Laureates in Economics</li>
-  <li>🎁 Books Donated by Prominent Scientists</li>
   <li>📜 Certificates of Advanced Training</li>
-  <li>🗣️ Student Reviews</li>
+  <li>🗣️ Student Testimonials</li>
   <li>🌱 Patent</li>
   <li>🌳 Father’s Genealogical Tree</li>
   <li>🌿 Mother’s Genealogical Tree</li>
   <li>🎓👥 My Univirsity Classmates (1967-1973)</li>
   </ol>
+  
+ 
 
 
 📌 Hint: 
@@ -164,7 +168,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Gallery of Diplomas</h2>
+<h2>🏆 Gallery of Diplomas</h2>
 
 <div class="diplomas2">
 <!-- Пример первых 19 дипломов -->
@@ -237,8 +241,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="diplomas2/P1_17_diplom_adama_2017.jpg" alt="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”" width="100">
 </a>
 
-
-
 <a href="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas2" data-title="Certificate of Full Member of the International League of Intellectuals (2021)">
 <img src="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Certificate of Full Member of the International League of Intellectuals (2021)" width="100">
 </a>
@@ -260,9 +262,33 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 </html>
 
 
+<h2>💻 Books on Technology</h2>
+
+<div class="technology">
+<!-- Пример первых 4 книг -->
+<a href="technology/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
+<img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" width="100">
+</a>
+<a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Обработка деталей на станках с ЧПУ и ГПС (1998)">
+<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)" width="100">
+</a>
+<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
+<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
+</a>
+<a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
+<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
+</a>
+
+</div>
+
+</body>
+</html>
 
 
-<h2>Books on Medicine</h2>
+
+
+
+<h2>🩺 Books on Medicine</h2>
 
 <div class="BookMed">
 <!-- Пример первых 2 книг -->
@@ -285,7 +311,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Books on Economics</h2>
+<h2>💰 Books on Economics</h2>
 
 <div class="BookEcon">
 <!-- Пример первых 5 книг -->
@@ -312,7 +338,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Books on English</h2>
+<h2>📚 Books on the English Language</h2>
 
 <div class="english">
 <!-- Пример первых 4 книг -->
@@ -338,7 +364,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Fiction</h2>
+<h2>📖 Fiction</h2>
 
 <div class="fictione">
 <!-- Пример первых 2 книг -->
@@ -358,7 +384,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Articles on English Language Theory</h2>
+<h2>📝 Articles on English Language Theory</h2>
 <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
 
 <div class="fictione">
@@ -370,7 +396,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
 </a>
 
-
 </div>
 
 </body>
@@ -378,7 +403,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Biography</h2>
+<h2>👤 Biography</h2>
 
 <div class="biographye">
 <!-- Пример первых 7 источников -->
@@ -408,7 +433,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Book of Records of Russia</h2>
+<h2>🏅 Book of Records of Russia</h2>
 
 <div class="gallery">
   <!-- Пример первых 2 рекордов -->
@@ -427,7 +452,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Articles from Journals and Conferences</h2>
+<h2>📰 Articles from Journals and Conferences</h2>
 <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
 
 <divclass=papers"">
@@ -490,7 +515,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Conference Presentation Certificates</h2>
+<h2>🎓 Certificates of Conference Presentations</h2>
 <h4>Only 11 out of 493 certificates available to the author are presented here.</h4>
 
 <div class="serpapers">
@@ -538,7 +563,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Letters from Monarchs and Political Figures</h2>
+<h2>✉️ Letters from Monarchs and Political Figures</h2>
 
 <div class="kastroe">
   <a href="kastroe/P12_03_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Canadian authorities (2011)">
@@ -577,7 +602,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Postcards from Fidel Castro</h2>
+<h2>✉️ Postcards from Fidel Castro</h2>
 
 <div class="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Postcard from Fidel Castro (2012)">
@@ -595,7 +620,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Books Donated to Foreign Libraries</h2>
+<h2>📦 Books Donated to Foreign Libraries</h2>
 <div class="biblee">
 
 <!-- Пример первых 5 копии -->
@@ -615,7 +640,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="biblee/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
 </a>
 
-<h2>Books Donated to Russian Libraries</h2>
+<h2>📦 Books Donated to Russian Libraries</h2>
 <div class="biblee">
 <a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
 <img src="biblee/P13_06_book_bibl_2012.jpg" alt=Central City Public Library named after V.V. Mayakovsky, St. Petersburg" width="100">
@@ -653,36 +678,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-
-<h2>Letters from Nobel Laureates in Economics</h2>
-<div class="nobele">
-
-<!-- Пример первых 4 копии -->
-<a href="nobele/P14_01_book_nobel_2017.jpg" data-lightbox="nobele" data-title="Letter from Jean Tirole (2017)">
-<img src="nobele/P14_01_book_nobel_2017.jpg" alt="Letter from Jean Tirole (2017)" width="100">
-</a>
-<a href="nobele/P14_02_book_nobel_2020.JPG" data-lightbox="nobele" data-title="Letter from Angus S. Deaton (2020)">
-<img src="nobele/P14_02_book_nobel_2020.JPG" alt="Letter from Angus S. Deaton (2020)" width="100">
-</a>
-<a href="nobele/P14_03_book_nobel_2025.jpg" data-lightbox="nobele" data-title="Letter from Joseph E. Stiglitz (2025)">
-<img src="nobele/P14_03_book_nobel_2025.jpg" alt="Letter from Joseph E. Stiglitz (2025)" width="100">
-</a>
-<a href="nobele/P14_04_book_nobel_2019.jpg" data-lightbox="nobele" data-title="Screenshot of letters sent to Nobel Laureates in Economics (2025)">
-<img src="nobele/P14_04_book_nobel_2025.jpg" alt="Screenshot of letters sent to Nobel Laureates in Economics (2025)" width="100">
-</a>
-
-</div>
-
-</body>
-</html>
-
-
-
-
-
-
-
- <h2 id="knigi-podarenye-uchyonym">Books Gifted by Prominent Scientists</h2>
+ <h2 id="knigi-podarenye-uchyonym">🎁 Books Presented to Me by Renowned Scientists </h2>
 
 <div class="presente">
 
@@ -715,7 +711,32 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Certificate of Advanced Training</h2>
+<h2>🏆 Letters from Nobel Laureates in Economics</h2>
+<div class="nobele">
+
+<!-- Пример первых 4 копии -->
+<a href="nobele/P14_01_book_nobel_2017.jpg" data-lightbox="nobele" data-title="Letter from Jean Tirole (2017)">
+<img src="nobele/P14_01_book_nobel_2017.jpg" alt="Letter from Jean Tirole (2017)" width="100">
+</a>
+<a href="nobele/P14_02_book_nobel_2020.JPG" data-lightbox="nobele" data-title="Letter from Angus S. Deaton (2020)">
+<img src="nobele/P14_02_book_nobel_2020.JPG" alt="Letter from Angus S. Deaton (2020)" width="100">
+</a>
+<a href="nobele/P14_03_book_nobel_2025.jpg" data-lightbox="nobele" data-title="Letter from Joseph E. Stiglitz (2025)">
+<img src="nobele/P14_03_book_nobel_2025.jpg" alt="Letter from Joseph E. Stiglitz (2025)" width="100">
+</a>
+<a href="nobele/P14_04_book_nobel_2019.jpg" data-lightbox="nobele" data-title="Screenshot of letters sent to Nobel Laureates in Economics (2025)">
+<img src="nobele/P14_04_book_nobel_2025.jpg" alt="Screenshot of letters sent to Nobel Laureates in Economics (2025)" width="100">
+</a>
+
+</div>
+
+</body>
+</html>
+
+
+
+
+<h2>📜 Certificate of Advanced Training</h2>
 
 <div class="kvalife">
 
@@ -750,7 +771,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
   
-<h2>Student Testimonials</h2>
+<h2>🗣️ Student Testimonials</h2>
   
 <div class="diplomnik2">
   <a href="diplomnik2/P18_01_book_stud_2023.JPGG" data-lightbox="diplomnik2" data-title="Student Testimonial (2023)">
@@ -763,7 +784,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 </html>
 
 
-<h2>Patent</h2>
+<h2>🌱 Patent</h2>
   
 <div class="patante">
   <a href="patente/P19_01_book_patent_2023.jpg" data-lightbox="patente" data-title="Vibrodynamic Head (1994)">
@@ -779,7 +800,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
   
-<h2>Father's family tree</h2>
+<h2>🌳 Father's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <divc lass="treee">
@@ -793,7 +814,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>Mother's family tree</h2>
+<h2>🌿 Mother's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <div class="treee">
@@ -810,7 +831,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
-<h2>My Univirsity Classmates (1967-1973)</h2>
+<h2>🎓👥 My Univirsity Classmates (1967-1973)</h2>
 <h4>To view the entire fellow students from University, click on the small icon below and scroll to the end of the downloaded page.</h4>
 <div class="friends">
 <!-- Пример первых 1 копии -->
