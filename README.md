@@ -303,6 +303,7 @@
 
 
 <h2>💰 Книги по экономике</h2>
+<h4>Содержание книг представлены в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием книги и клгда достигните конца страницы надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё содержание.</h4>
 
 <div class=economy"">
 <!-- Пример первых 5 книг -->
@@ -320,6 +321,29 @@
 </a>
 <a href="economy/P4_05_book_nast_kniga_2025.JPG" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
 <img src="economy/P4_05_book_nast_kniga_2025.JPG" alt="Настольная книга экономиста (2025)" width="100">
+</a>
+
+<a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 1 (2018)">
+<img src="economy/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Теория экономических кризисов. Том 1 (2018))" width="100">
+</a>
+
+<a href="economy/P4_07_book_theory_econ_cris_Vol2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
+<img src="economy/P4_07_book_theory_econ_cris_Vol2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
+</a>
+
+<a href="economy/P4_08_book_theory_econ_cris_Vol3.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 3 (2021)">
+<img src="economy/P4_08_book_theory_econ_cris_Vol3.pdf" alt="Теория экономических кризисов. Том 3 (2021)" width="100">
+</a>
+
+<a href="economy/P4_09_book_theory_econ_cris_Vol4.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 4 (2022)">
+<img src="economy/P4_09_book_theory_econ_cris_Vol4.pdf" alt="Теория экономических кризисов. Том 4 (2022)" width="100">
+</a>
+
+<a href="economy/P4_10_book_theory_econ_cris_Vol5.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 5 (2023)">
+<img src="economy/P4_10_book_theory_econ_cris_Vol5.pdf" alt="Теория экономических кризисов. Том 5 (2023)" width="100">
+</a>
+<a href="economy/P4_11_book_theory_econ_cris_Vol6.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 6 (2024)">
+<img src="economy/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Теория экономических кризисов. Том 6 (2024)" width="100">
 </a>
 
 </div>
