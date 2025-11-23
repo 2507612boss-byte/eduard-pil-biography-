@@ -154,8 +154,8 @@
   <li>✉️ Письма от монархов и политиков</li>
   <li>✉️ Открытки от Фиделя Кастро</li>
   <li>📦 Книги, подаренные библиотекам</li>
-  <li>🏆 Письма от нобелевских лауреатов по экономике</li>
   <li>🎁 Книги, подаренные известными учёными</li>
+  <li>🏆 Письма от нобелевских лауреатов по экономике</li>
   <li>📜 Сертификаты повышения квалификации</li>
   <li>🗣️ Отзывы студентов</li>
   <li>🌱 Патент</li>
@@ -676,34 +676,7 @@
 
 
 
-
-<h2>🏆 Письма от нобелевских лауреатов по экономике</h2>
-<div class="nobel">
-
-<!-- Пример первых 4 копии -->
-<a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
-<img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" width="100">
-</a>
-<a href="nobel/P14_02_book_nobel_2020.JPG" data-lightbox="nobel" data-title="Письмо от Angus S. Deaton (2020)">
-<img src="nobel/P14_02_book_nobel_2020.JPG" alt="Письмо от Angus S. Deaton (2020)" width="100">
-</a>
-<a href="nobel/P14_03_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Письмо от Joseph E. Stiglitz (2025)">
-<img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" width="100">
-</a>
-
-<a href="nobel/P14_04_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)">
-<img src="nobel/P14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" width="100">
-</a>
-
-</div>
-
-</body>
-</html>
-
-
-
-
- <h2 id="knigi-podarenye-uchyonym">🎁 Книги подаренные известными учёными</h2>
+<h2 id="knigi-podarenye-uchyonym">🎁 Книги подаренные известными учёными</h2>
 
 <div class="present">
 
@@ -733,7 +706,34 @@
 
 
 
-<h2>📜 Сертификаты повышения квалификации</h2>
+
+<h2>🏆 Письма от нобелевских лауреатов по экономике</h2>
+<div class="nobel">
+
+<!-- Пример первых 4 копии -->
+<a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
+<img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" width="100">
+</a>
+<a href="nobel/P14_02_book_nobel_2020.JPG" data-lightbox="nobel" data-title="Письмо от Angus S. Deaton (2020)">
+<img src="nobel/P14_02_book_nobel_2020.JPG" alt="Письмо от Angus S. Deaton (2020)" width="100">
+</a>
+<a href="nobel/P14_03_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Письмо от Joseph E. Stiglitz (2025)">
+<img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" width="100">
+</a>
+
+<a href="nobel/P14_04_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)">
+<img src="nobel/P14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" width="100">
+</a>
+
+</div>
+
+</body>
+</html>
+
+
+
+
+ <h2>📜 Сертификаты повышения квалификации</h2>
 
 <div class="kvalif">
 
