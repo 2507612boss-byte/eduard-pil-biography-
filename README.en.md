@@ -147,7 +147,6 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
   <li>🎓 Certificates of Conference Presentations</li>
   <li>✉️ Letters from Monarchs and Politicians</li>
   <li>✉️ Postcards from Fidel Castro</li>
-  <li>📦 Books Donated to Libraries</li>
   <li>📦 Books Donated to Foreign Libraries
   <li>📦 Books Donated to Russian Libraries</li>
   <li>🎁 Books Presented to Me by Renowned Scientists </li>
@@ -385,7 +384,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 <h2>📝 Articles on English Language Theory</h2>
-<h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
+<h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading</h4>
 
 <div class="fictione">
 <!-- Пример первых 2 статьи -->
@@ -640,8 +639,13 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="biblee/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
 </a>
 
+
+
+
+
 <h2>📦 Books Donated to Russian Libraries</h2>
 <div class="biblee">
+  
 <a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
 <img src="biblee/P13_06_book_bibl_2012.jpg" alt=Central City Public Library named after V.V. Mayakovsky, St. Petersburg" width="100">
 </a>
