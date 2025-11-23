@@ -307,7 +307,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 <h2>💰 Books on Economics</h2>
-<h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
 <div class="BookEcon">
 <!-- Пример первых 5 книг -->
@@ -326,6 +325,8 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="BookEcon/P4_05_book_nast_kniga_2025.JPG" data-lightbox="BookEcon" data-title="The Economist’s Handbook (2025)">
 <img src="BookEcon/P4_05_book_nast_kniga_2025.JPG" alt="The Economist’s Handbook(2025)" width="100">
 </a>
+
+<h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
 <img src="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol. 1 (2018)" width="100">
