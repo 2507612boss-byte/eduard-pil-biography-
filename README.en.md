@@ -166,7 +166,6 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow in the upper left corner of the page.
 
 
-
 <h2>🏆 Gallery of Diplomas</h2>
 
 <div class="diplomas2">
@@ -326,6 +325,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="BookEcon/P4_05_book_nast_kniga_2025.JPG" alt="The Economist’s Handbook(2025)" width="100">
 </a>
 
+📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
@@ -407,7 +407,8 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 <h2>📝 Articles on English Language Theory</h2>
-<h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading</h4>
+📌 Note:
+<h4>The book contents are presented in PDF files.To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
 
 <div class="fictione">
 <!-- Пример первых 2 статьи -->
@@ -475,6 +476,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 <h2>📰 Articles from Journals and Conferences</h2>
+📌 Note:
 <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
 
 <divclass=papers"">
@@ -828,7 +830,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
   
 <h2>🌳 Father's family tree</h2>
-<h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
+<h4>To view the entire father's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <divc lass="treee">
 <!-- Пример первых 1 копии -->
