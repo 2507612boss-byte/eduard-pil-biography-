@@ -484,12 +484,19 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
 </a>
+
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="GDP Calculation with a Negative Value of a Single Variable (2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="GDP Calculation with a Negative Value of a Single Variable (2017)" width="100">
 </a>
+
+  
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017">
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
 </a>
@@ -503,30 +510,44 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Analysis of the 3D Domain of the Variable X4su (2018)">
 <img src="papers/P10_07_book_paper7_2018.pdf" alt="Analysis of the 3D Domain of the Variable X4su (2018)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)">
 <img src="papers/P10_08_book_paper8_2019.pdf" alt="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)" width="100">
 </a>
+
+  
 <a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)">
 <img src="papers/P10_09_book_paper9_2019.pdf" alt="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for Veu Using X2 Values (2019)">
 <img src="papers/P10_010_book_paper10_2019.pdf" alt="Plotting of 3D Graphs for Veu Using X2 Values (2019)" width="100">
 </a>
+
+  
 <a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)">
 <img src="papers/P10_011_book_paper11_2021.pdf" alt="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)" width="100">
 </a>
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (2019)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Optimal Tool Setup (1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Optimal Tool Setup (1991)" width="100">
 </a>
 <a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Mathematical Model of a Corporation (2006)">
 <img src="papersP10_015_book_paper15_2019.pdf" alt="Mathematical Model of a Corporation (2006)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Mathematical Model of Flat Casing Parts Used in CAD (1991)">
 <img src="papers/P10_016_book_paper16_2019.pdff" alt="Mathematical Model of Flat Casing Parts Used in CAD (1991)" width="100">
 </a>
