@@ -482,6 +482,8 @@
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
@@ -502,6 +504,8 @@
 <a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
 <img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (2018)">
 <img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (2018)" width="100">
 </a>
@@ -511,6 +515,8 @@
 <a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
 <img src="papers/P10_09_book_paper9_2019.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
 <img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
 </a>
@@ -535,7 +541,8 @@
 <a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
 <img src="papersP10_015_book_paper15_2019.pdf" alt="Математическая модель корпорации (2006)" width="100">
 </a>
-  
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Математическая модель плоских корпусных деталей используемых в САПР (1991)">
 <img src="papers/P10_016_book_paper16_2019.pdff" alt="Математическая модель плоских корпусных деталей используемых в САПР (1991)" width="100">
 </a>
