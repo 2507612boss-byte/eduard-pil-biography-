@@ -488,9 +488,23 @@
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
 </a>
-<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017">
-<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
+
+
+
+
+
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017)">
+<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017)" width="100">
 </a>
+
+
+
+  
+
+
+
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
 <img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
 </a>
