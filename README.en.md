@@ -479,19 +479,18 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 📌 Note:
 <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
 
-<divclass=papers"">
+<div class=papers"">
 <!-- Пример первых 13 статьи -->
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
 </a>
-
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="GDP Calculation with a Negative Value of a Single Variable (2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="GDP Calculation with a Negative Value of a Single Variable (2017)" width="100">
 </a>
 
- <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
 </a>
@@ -516,7 +515,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)">
 <img src="papers/P10_08_book_paper8_2019.pdf" alt="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)" width="100">
 </a>
-
   
 <a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)">
 <img src="papers/P10_09_book_paper9_2019.pdf" alt="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)" width="100">
@@ -526,7 +524,6 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for Veu Using X2 Values (2019)">
 <img src="papers/P10_010_book_paper10_2019.pdf" alt="Plotting of 3D Graphs for Veu Using X2 Values (2019)" width="100">
 </a>
-
   
 <a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)">
 <img src="papers/P10_011_book_paper11_2021.pdf" alt="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)" width="100">
