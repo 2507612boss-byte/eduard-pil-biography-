@@ -487,6 +487,8 @@
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
 </a>
@@ -509,6 +511,8 @@
 <a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (2018)">
 <img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (2018)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
 <img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
 </a>
