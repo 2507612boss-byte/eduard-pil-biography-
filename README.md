@@ -538,7 +538,7 @@
 
 
 
-  
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (1991)" width="100">
 </a>
