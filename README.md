@@ -500,14 +500,13 @@
 </a>
 
 
-
-  
-
-
-
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
 <img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
 </a>
+
+
+  
 <a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
 <img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
 </a>
@@ -529,15 +528,31 @@
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (2019)" width="100">
 </a>
+
+
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
 </a>
+
+
+
+  
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (1991)" width="100">
 </a>
+
+
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
 <img src="papersP10_015_book_paper15_2019.pdf" alt="Математическая модель корпорации (2006)" width="100">
 </a>
+
+
+
+  
 <a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Математическая модель плоских корпусных деталей используемых в САПР (1991)">
 <img src="papers/P10_016_book_paper16_2019.pdff" alt="Математическая модель плоских корпусных деталей используемых в САПР (1991)" width="100">
 </a>
