@@ -491,7 +491,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="GDP Calculation with a Negative Value of a Single Variable (2017)" width="100">
 </a>
 
-  
+ <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
 </a>
@@ -501,6 +501,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
 </a>
 
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Calculation of the Variable X3 and the Country's GDP (2018)">
 <img src="papers/P10_05_book_paper5_2018.pdf" alt="Calculation of the Variable X3 and the Country's GDP (2018)" width="100">
 </a>
@@ -543,6 +544,8 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Optimal Tool Setup (1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Optimal Tool Setup (1991)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Mathematical Model of a Corporation (2006)">
 <img src="papersP10_015_book_paper15_2019.pdf" alt="Mathematical Model of a Corporation (2006)" width="100">
 </a>
