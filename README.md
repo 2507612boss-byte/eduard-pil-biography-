@@ -329,7 +329,7 @@
 <h4>Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз.</h4>
 
 <a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 1 (2018)">
-<img src="economy/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Теория экономических кризисов. Том 1 (2018))" width="100">
+<img src="economy/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Теория экономических кризисов. Том 1 (2018)" width="100">
 </a>
 
 <a href="economy/P4_07_book_theory_econ_cris_Vol2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
