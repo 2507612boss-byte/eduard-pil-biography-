@@ -728,7 +728,7 @@
 
 
 
-<h2 id="knigi-podarenye-uchyonym">🎁 Книги подаренные мне известными учёными</h2>
+<h2 id="knigi-podarenye-uchyonym">🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</h2>
 
 <div class="present">
 
