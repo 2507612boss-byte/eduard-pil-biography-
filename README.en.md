@@ -728,7 +728,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
- <h2 id="knigi-podarenye-uchyonym">🎁 Books Presented to Me by Renowned Scientists </h2>
+ <h2 id="knigi-podarenye-uchyonym">🎁 Books Presented to Eduard Anatolyevich by Renowned Scientists </h2>
 
 <div class="presente">
 
