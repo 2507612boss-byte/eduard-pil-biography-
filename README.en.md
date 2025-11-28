@@ -25,7 +25,7 @@ In 1967, he entered a higher technical institution, graduating in 1973 with a de
 Alongside engineering studies, he completed a two-year program in English at the State Foreign Language Courses — forming a foundation for his later international academic work.
 
 He began his research career in 1973 at several All-Union Research Institutes, developing technological processes and control software for CNC machines.  
-From 1981 to 1996, he worked at the Leningrad Institute of Fine Mechanics and Optics (LITMO), advancing from senior engineer to senior researcher. There he completed postgraduate and doctoral studies, defining his main research interests in mechanical and instrument engineering technologies.
+From 1981 to 1996, he worked at the Leningrad Institute of Fine Mechanics and Optics (LIFMO), advancing from senior engineer to senior researcher. There he completed postgraduate and doctoral studies, defining his main research interests in mechanical and instrument engineering technologies.
 
 In 1999, he defended his doctoral dissertation *“Improving the Productivity of Machining of Casing Parts on CNC Machines Based on the Theory of Complexity”* at the Saint Petersburg State Marine Technical University.
 
@@ -94,7 +94,7 @@ He received personal postcards from Fidel Castro (2012, 2014) and official lette
 
 ## 📚 Scientific Legacy
 
-Eduard A. Pil is the author of **over 1,660 publications**, including **42 books** and **27 textbooks**, with **1,474 works published independently** — a record of exceptional productivity in modern science.
+Eduard A. Pil is the author of **over 1,660 publications**, including **42 books** and **27 textbooks**, with **1,474 works published independently** — a record of exceptional productivity in modern science. Of the 42 books written by the author, only 4 were published in collaboration.
 
 
 ### Fundamental Monograph Cycles
