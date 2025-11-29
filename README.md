@@ -351,6 +351,11 @@
 <img src="economy/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Теория экономических кризисов. Том 6 (2024)" width="100">
 </a>
 
+<a href="economy/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
+<img src="economy/P4_12_book_theory_handbook.pdf" alt="Настольная книга экономиста (2025)" width="100">
+</a>
+
+
 </div>
 
 </body>
