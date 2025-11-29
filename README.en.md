@@ -149,7 +149,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
   <li>✉️ Postcards from Fidel Castro</li>
   <li>📦 Books Donated to Foreign Libraries
   <li>📦 Books Donated to Russian Libraries</li>
-  <li>🎁 Books Presented to Me by Renowned Scientists </li>
+  <li>🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </li>
   <li>🏆 Letters from Nobel Laureates in Economics</li>
   <li>📜 Certificates of Advanced Training</li>
   <li>🗣️ Student Testimonials</li>
@@ -728,7 +728,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 
 
- <h2 id="knigi-podarenye-uchyonym">🎁 Books Presented to Eduard Anatolyevich by Renowned Scientists </h2>
+ <h2 id="knigi-podarenye-uchyonym">🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </h2>
 
 <div class="presente">
 
