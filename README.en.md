@@ -352,6 +352,11 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Theory of Economic Crises. Vol. 6. (2024)" width="100">
 </a>
 
+<a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="The Economist’s Handbook (2025)">
+<img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="The Economist’s Handbook (2025)" width="100">
+</a>
+
+
 </div>
 
 </body>
