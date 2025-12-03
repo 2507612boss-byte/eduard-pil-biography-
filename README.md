@@ -330,24 +330,20 @@
 📌 Подсказка:
 Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз. Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
 
-*Книги по теории экономических кризисов*
+Книги по теории экономических кризисов
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 1 (2018)">
 <img src="economy/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Теория экономических кризисов. Том 1 (2018)" width="100">
 </a>
-
 <a href="economy/P4_07_book_theory_econ_cris_Vol2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
 <img src="economy/P4_07_book_theory_econ_cris_Vol2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
 </a>
-
 <a href="economy/P4_08_book_theory_econ_cris_Vol3.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 3 (2021)">
 <img src="economy/P4_08_book_theory_econ_cris_Vol3.pdf" alt="Теория экономических кризисов. Том 3 (2021)" width="100">
 </a>
-
 <a href="economy/P4_09_book_theory_econ_cris_Vol4.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 4 (2022)">
 <img src="economy/P4_09_book_theory_econ_cris_Vol4.pdf" alt="Теория экономических кризисов. Том 4 (2022)" width="100">
 </a>
-
 <a href="economy/P4_10_book_theory_econ_cris_Vol5.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 5 (2023)">
 <img src="economy/P4_10_book_theory_econ_cris_Vol5.pdf" alt="Теория экономических кризисов. Том 5 (2023)" width="100">
 </a>
@@ -356,14 +352,14 @@
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-*Настольная книга экономиста*
+Настольная книга экономиста
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
 <img src="economy/P4_12_book_theory_handbook.pdf" alt="Настольная книга экономиста (2025)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-*Список литературы для книг по теории экономических кризисов*
+Список литературы для книг по теории экономических кризисов
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
 <img src="economy/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
