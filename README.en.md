@@ -325,6 +325,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="BookEcon/P4_05_book_nast_kniga_2025.JPG" alt="The Economist’s Handbook(2025)" width="100">
 </a>
 
+<h2>The contents of the books</h2>
 📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
@@ -352,6 +353,14 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Theory of Economic Crises. Vol. 6. (2024)" width="100">
 </a>
 
+*Bibliography for Volume*
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="economy/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
+<img src="economy/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
+</a>
+
+
+*The Economist’s Handbook*
 <a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="The Economist’s Handbook (2025)">
 <img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="The Economist’s Handbook (2025)" width="100">
 </a>
