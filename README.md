@@ -303,8 +303,6 @@
 
 
 
-
-
 <h2>💰 Книги по экономике</h2>
 
 <div class=economy"">
@@ -329,7 +327,7 @@
 
 📌 Подсказка:
 Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз. Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
-
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Книги по теории экономических кризисов
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 1 (2018)">
