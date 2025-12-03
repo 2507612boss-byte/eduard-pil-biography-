@@ -353,6 +353,7 @@
 </a>
 
 *Список литературы по книгам*
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
 <img src="economy/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
 </a>
