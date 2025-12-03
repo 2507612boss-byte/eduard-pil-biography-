@@ -332,37 +332,31 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
 <img src="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol. 1 (2018)" width="100">
 </a>
-
 <a href="BookEcon/P4_07_book_theory_econ_cris_Vol2.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 2 (2019)">
 <img src="BookEcon/P4_07_book_theory_econ_cris_Vol2.pdf" alt="Theory of Economic Crises. Vol 2. (2019)" width="100">
 </a>
-
 <a href="BookEcon/P4_08_book_theory_econ_cris_Vol3.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 3 (2021)">
 <img src="BookEcon/P4_08_book_theory_econ_cris_Vol3.pdf" alt="Theory of Economic Crises. Vol. 3 (2021)" width="100">
 </a>
-
 <a href="BookEcon/P4_09_book_theory_econ_cris_Vol4.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 4 (2022)">
 <img src="BookEcon/P4_09_book_theory_econ_cris_Vol4.pdf" alt="Theory of Economic Crises. Vol. 4. (2022)" width="100">
 </a>
-
 <a href="BookEcon/P4_10_book_theory_econ_cris_Vol5.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 5 (2023)">
 <img src="BookEcon/P4_10_book_theory_econ_cris_Vol5.pdf" alt="Theory of Economic Crises. Vol. 5. (2023)" width="100">
 </a>
-
 <a href="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 6 (2024)">
 <img src="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Theory of Economic Crises. Vol. 6. (2024)" width="100">
 </a>
 
-*Bibliography for Volume*
+The Economist’s Handbook
+<a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="The Economist’s Handbook (2025)">
+<img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="The Economist’s Handbook (2025)" width="100">
+</a>
+
+Book bibliography: Theory of Economic Crises
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
 <img src="economy/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
-</a>
-
-
-*The Economist’s Handbook*
-<a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="The Economist’s Handbook (2025)">
-<img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="The Economist’s Handbook (2025)" width="100">
 </a>
 
 
