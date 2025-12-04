@@ -357,6 +357,7 @@ The Economist’s Handbook
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Book bibliography: Theory of Economic Crises
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol. 1 (2011)">
 <img src="BookEcon/P4_13_book_theory_liter1.pdf" alt="Theory of Economic Crises. Vol. 1 (2011)" width="100">
 </a>
