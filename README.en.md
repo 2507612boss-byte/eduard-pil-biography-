@@ -357,9 +357,12 @@ The Economist’s Handbook
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Book bibliography: Theory of Economic Crises
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="economy/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
-<img src="economy/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
+<a href="BookEcon/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 1 (2011)">
+<img src="BookEcon/P4_13_book_theory_liter1.pdf" alt="Теория экономических кризисов. Том 1 (2018)" width="100">
+</a>
+  
+<a href="BookEcon/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 2 (2019)">
+<img src="BookEcon/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том 2 (2019)" width="100">
 </a>
 
 
