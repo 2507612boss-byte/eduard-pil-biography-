@@ -583,6 +583,9 @@
 
 <div class="serpapers">
 <!-- Пример первых 11 сертификатов -->
+<a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
+<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" width="100">
+</a>
 <a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
 <img src="serpapers/P11_01_book_papers1_2017.jpg" alt="Certificate of participation. Turkey, (2006)" width="100">
 </a>
@@ -594,9 +597,6 @@
 </a>
 <a href="serpapers/P11_04_book_papers4_2017.jpg" data-lightbox="record" data-title="Financial, material and information flows of the company. UAE, (2015)">
 <img src="serpapers/P11_04_book_papers4_2017.jpg" alt="Financial, material and information flows of the company. UAE, (2015)" width="100">
-</a>
-<a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
-<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" width="100">
 </a>
 <a href="serpapers/P11_07_book_papers7_2017.jpg" data-lightbox="serpapers" data-title="3D graphing for the Veu parameter. UK, (2019)">
 <img src="serpapers/P11_07_book_papers7_2017.jpg" alt="3D graphing for the Veu parameter. UK, (2019)" width="100">
