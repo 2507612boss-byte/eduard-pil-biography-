@@ -598,9 +598,6 @@
 <a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
 <img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" width="100">
 </a>
-<a href="serpapers/P11_06_book_papers6_2017.jpg" data-lightbox="record" data-title="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)">
-<img src="serpapers/P11_06_book_papers6_2017.jpg" alt="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)" width="100">
-</a>
 <a href="serpapers/P11_07_book_papers7_2017.jpg" data-lightbox="serpapers" data-title="3D graphing for the Veu parameter. UK, (2019)">
 <img src="serpapers/P11_07_book_papers7_2017.jpg" alt="3D graphing for the Veu parameter. UK, (2019)" width="100">
 </a>
