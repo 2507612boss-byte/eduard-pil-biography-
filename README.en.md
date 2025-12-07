@@ -576,10 +576,13 @@ Book bibliography: Theory of Economic Crises
 
 
 <h2>🎓 Certificates of Conference Presentations</h2>
-<h4>Only 11 out of 493 certificates available to the author are presented here.</h4>
+<h4>Only 10 out of 493 certificates available to the author are presented here.</h4>
 
 <div class="serpapers">
 <!-- Пример первых 11 сертификатов -->
+<a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
+<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" width="100">
+</a>
 <a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
 <img src="serpapers/P11_01_book_papers1_2017.jpg" alt="Certificate of participation. Turkey, (2006)" width="100">
 </a>
@@ -591,12 +594,6 @@ Book bibliography: Theory of Economic Crises
 </a>
 <a href="serpapers/P11_04_book_papers4_2017.jpg" data-lightbox="record" data-title="Financial, material and information flows of the company. UAE, (2015)">
 <img src="serpapers/P11_04_book_papers4_2017.jpg" alt="Financial, material and information flows of the company. UAE, (2015)" width="100">
-</a>
-<a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
-<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" width="100">
-</a>
-<a href="serpapers/P11_06_book_papers6_2017.jpg" data-lightbox="record" data-title="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)">
-<img src="serpapers/P11_06_book_papers6_2017.jpg" alt="Analysis of 3D graphs of existing of the variable X3sul. China,(2019)" width="100">
 </a>
 <a href="serpapers/P11_07_book_papers7_2017.jpg" data-lightbox="serpapers" data-title="3D graphing for the Veu parameter. UK, (2019)">
 <img src="serpapers/P11_07_book_papers7_2017.jpg" alt="3D graphing for the Veu parameter. UK, (2019)" width="100">
