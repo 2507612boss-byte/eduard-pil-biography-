@@ -358,6 +358,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Список литературы для книг по теории экономических кризисов:
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 1 (2018)">
 <img src="economy/P4_13_book_theory_liter1.pdf" alt="Теория экономических кризисов. Том 1 (2018)" width="100">
 </a>
