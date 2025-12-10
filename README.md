@@ -338,8 +338,6 @@
 <img src="economy/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Теория экономических кризисов Том 6 (2024)" width="100">
 </a>
 
-
-
 <a href="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 1 (2020)">
 <img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises. Vol 1 (2020)" width="100">
 </a>
@@ -387,11 +385,9 @@
 <a href="economy/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018)">
 <img src="economy/P4_13_book_theory_liter1.pdf" alt="Теория экономических кризисов. Том I (2018)" width="100">
 </a>
- 
-<a href="economy/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том II (2019)">
+ <a href="economy/P4_14_book_theory_liter2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том II (2019)">
 <img src="economy/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том II (2019)" width="100">
 </a>
-
 <a href="economy/P4_15_book_theory_liter3.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том III (2020)">
 <img src="economy/P4_15_book_theory_liter3.pdf" alt="Теория экономических кризисов. Том III (2020)" width="100">
 </a>
@@ -399,15 +395,17 @@
 <a href="economy/P4_16_book_theory_liter4.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том IV (2022)">
 <img src="economy/P4_16_book_theory_liter4.pdf" alt="Теория экономических кризисов. Том IV (2022)" width="100">
 </a>
-
 <a href="economy/P4_17_book_theory_liter5.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том V (2023)">
 <img src="economy/P4_17_book_theory_liter5.pdf" alt="Теория экономических кризисов. Том V (2023)" width="100">
 </a>
-
 <a href="economy/P4_18_book_theory_liter6.pdf " data-lightbox="economy" data-title="Теория экономических кризисов. Том VI (2024)">
 <img src="economy/P4_18_book_theory_liter6.pdf " alt="Теория экономических кризисов. Том VI (2024)" width="100">
 </a>
 
+Список литературы для настольной книги экономиста:
+<a href="economy/P4_18_book_theory_liter6.pdf " data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
+<img src="economy/P4_18_book_theory_liter6.pdf " alt="Настольная книга экономиста (2025)" width="100">
+</a>
 </div>
 
 </body>
