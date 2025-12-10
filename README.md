@@ -367,8 +367,8 @@
 <a href="economy/P4_09_book_theory_econ_cris_Vol4.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 4 (2022)">
 <img src="economy/P4_09_book_theory_econ_cris_Vol4.pdf" alt="Теория экономических кризисов. Том 4 (2022)" width="100">
 </a>
-<a href="economy/P4_10_book_theory_econ_cris_Vol5.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 5 (2023)">
-<img src="economy/P4_10_book_theory_econ_cris_Vol5.pdf" alt="Теория экономических кризисов. Том 5 (2023)" width="100">
+<a href="economyP4_06_book_theory_econ_cris_Vol5_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов. Том 5 (2023)">
+<img src="economy/P4_06_book_theory_econ_cris_Vol5_2020.jpg" alt="Теория экономических кризисов. Том 5 (2023)" width="100">
 </a>
 <a href="economy/P4_11_book_theory_econ_cris_Vol6.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том 6 (2024)">
 <img src="economy/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Теория экономических кризисов. Том 6 (2024)" width="100">
