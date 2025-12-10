@@ -315,14 +315,31 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" data-lightbox="BookEcon" data-title="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)">
 <img src="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)" width="100">
 </a>
-
-  
-  
-  
-  
-  <a href="BookEcon/P4_03_book_teor_econ_cris_V6_2024.JPG" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 6 (2024)">
-<img src="BookEcon/P4_03_book_teor_econ_cris_V6_2024.JPG" alt="Theory of Economic Crises Vol  6 (2024)" width="100">
+ 
+<a href="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 1 (2018)">
+<img src="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol 1 (2018)" width="100">
 </a>
+
+<a href="BookEcon/P4_04_book_theory_econ_cris_Vol2_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 2 (2019)">
+<img src="BookEcon/P4_04_book_theory_econ_cris_Vol2_2020.jpg" alt="Theory of Economic Crises Vol 2 (2019)" width="100">
+</a>
+
+<a href="BookEcon/P4_05_book_theory_econ_cris_Vol3_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 3 (2020)">
+<img src="BookEcon/P4_05_book_theory_econ_cris_Vol3_2020.jpg" alt="Theory of Economic Crises Vol 3 (2020)" width="100">
+</a>
+
+<a href="BookEcon/P4_06_book_theory_econ_cris_Vol4_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 4 (2022)">
+<img src="BookEcon/P4_06_book_theory_econ_cris_Vol4_2020.jpg" alt="Theory of Economic Crises Vol 4 (2022)" width="100">
+</a>
+
+<a href="BookEcon/P4_07_book_theory_econ_cris_Vol5_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 5 (2023)">
+<img src="BookEcon/P4_07_book_theory_econ_cris_Vol5_2020.jpg" alt="Theory of Economic Crises Vol 5 (2023)" width="100">
+</a>
+
+<a href="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 6 (2024)">
+<img src="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Theory of Economic Crises Vol 6 (2024)" width="100">
+</a>
+
 <a href="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 1 (2020)">
 <img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises. Vol 1 (2020)" width="100">
 </a>
