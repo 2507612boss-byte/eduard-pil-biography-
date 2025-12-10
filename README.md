@@ -400,7 +400,8 @@
 <a href="economy/P4_18_book_theory_liter6.pdf " data-lightbox="economy" data-title="Теория экономических кризисов. Том VI (2024)">
 <img src="economy/P4_18_book_theory_liter6.pdf " alt="Теория экономических кризисов. Том VI (2024)" width="100">
 </a>
-
+  
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Список литературы для настольной книги экономиста:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_19_book_theory_handbook.pdf" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
