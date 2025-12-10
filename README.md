@@ -330,8 +330,8 @@
 <img src="economy/P4_06_book_theory_econ_cris_Vol4_2020.jpg" alt="Теория экономических кризисов Том 4 (2022)" width="100">
 </a>
 
-<a href="economy/P4_06_book_theory_econ_cris_Vol5_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 5 (2023)">
-<img src="economyP4_06_book_theory_econ_cris_Vol5_2020.jpg" alt="Теория экономических кризисов Том 5 (2023)" width="100">
+<a href="economy/P4_07_book_theory_econ_cris_Vol5_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 5 (2023)">
+<img src="economyP4_07_book_theory_econ_cris_Vol5_2020.jpg" alt="Теория экономических кризисов Том 5 (2023)" width="100">
 </a>
 
 <a href="economy/P4_08_book_teor_econ_cris_V6_2024.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 6 (2024)">
