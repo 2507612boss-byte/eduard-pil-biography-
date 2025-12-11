@@ -287,7 +287,7 @@
 </a>
 
 
-  
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
 <img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
 </a>
