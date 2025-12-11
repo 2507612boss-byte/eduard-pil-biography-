@@ -399,8 +399,9 @@ Book bibliography: Theory of Economic Crises
 <img src="BookEcon/P4_18_book_theory_liter6.pdf" alt="Theory of Economic Crises. Vol. VI (2024)" width="100">
 </a>
 
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Book bibliography: The Economist’s Handbook
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_19_book_theory_handbook.pdf" data-lightbox="economy" data-title="The Economist's Handbook (2025)">
 <img src="BookEcon/P4_19_book_theory_handbook.pdf" alt="The Economist's Handbook (2025)" width="100">
 </a>
