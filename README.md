@@ -277,7 +277,6 @@
 </a>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <h2>Содержание книги и список литература</h2>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Содержание книги">
 <img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" width="100">
 </a>
@@ -287,7 +286,7 @@
 </a>
 
 
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+ <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
 <img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
 </a>
