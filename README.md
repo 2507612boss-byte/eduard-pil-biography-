@@ -275,7 +275,7 @@
 <a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
 <img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
 </a>
-  <h2>Содержание книги и список литература</h2>
+Содержание книги по теории сложности обработки корпусных деталейи список литература
 <a href="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Содержание книги">
 <img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" width="100">
 </a>
