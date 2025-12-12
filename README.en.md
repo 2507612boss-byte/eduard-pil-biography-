@@ -305,8 +305,24 @@ Contents and Bibliography of the Book on the Theory of Casing Part Machining Com
 <a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
 <img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="BookMed" data-title="Longevity and Nutrition (2022)">
-<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Longevity and Nutrition (2022)" width="100">
+
+<a href="BookMed/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 1 (2022)">
+<img src="BookMed/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание 1 (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 2 (2022)">
+<img src="BookMed/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание 2 (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 3 (2022)">
+<img src="BookMed/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание 3 (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 4 (2022)">
+<img src="BookMed/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание 4 (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 5 (2022)">
+<img src="BookMed/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание 5 (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 6 (2022)">
+<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание 6 (2022)" width="100">
 </a>
 
 </div>
