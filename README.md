@@ -304,8 +304,23 @@
 <a href="Medical/P3_01_book_health_2010.jpg" data-lightbox="Medical" data-title="Ваше здоровье от А до Я (2010)">
 <img src="Medical/P3_01_book_health_2010.jpg" alt="Ваше здоровье от А до Я (2010)" width="100">
 </a>
-<a href="Medical/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание (2022)">
-<img src="Medical/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание (2022)" width="100">
+<a href="Medical/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 1 (2022)">
+<img src="Medical/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание 1 (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 2 (2022)">
+<img src="Medical/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание 2 (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 3 (2022)">
+<img src="Medical/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание 3 (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 4 (2022)">
+<img src="Medical/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание 4 (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 5 (2022)">
+<img src="Medical/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание 5 (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 6 (2022)">
+<img src="Medical/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание 6 (2022)" width="100">
 </a>
 
 </div>
