@@ -332,11 +332,12 @@
 <a href="Medical/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том II (2022)">
 <img src="Medical/P3_02_book_longevity_V2_2022.pdf" alt="Долголетие и питание. Том II (2022)" width="100">
 </a>
-
 <a href="Medical/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том III (2022)">
 <img src="Medical/P3_02_book_longevity_V3_2022.pdf" alt="Долголетие и питание. Том III (2022)" width="100">
 </a>
-
+<a href="Medical/P3_02_book_longevity_V4_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том IV (2022)">
+<img src="Medical/P3_02_book_longevity_V4_2022.pdf" alt="Долголетие и питание. Том IV (2022)" width="100">
+</a>
 </div>
 
 </body>
