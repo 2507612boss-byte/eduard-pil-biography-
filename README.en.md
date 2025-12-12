@@ -375,7 +375,7 @@ Contents and Bibliography of the Book on the Theory of Casing Part Machining Com
 <img src="BookEcon/P4_05_book_nast_kniga_2025.JPG" alt="The Economist’s Handbook(2025)" width="100">
 </a>
 
-<h2>The contents of the books</h2>
+<h2>Contents of the Books on the Theory of Economic Crises</h2>
 📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
