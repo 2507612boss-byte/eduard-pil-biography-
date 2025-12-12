@@ -273,6 +273,8 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
 <img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Contents and Bibliography of the Book on the Theory of Casing Part Machining Complexity
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Contents">
