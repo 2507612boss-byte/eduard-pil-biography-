@@ -331,6 +331,9 @@
 <img src="Medical/P3_02_book_longevity_V1_2022.pdf" alt="Долголетие и питание 1 (2022)" width="100">
 </a>
 
+<a href="Medical/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание 2 (2022)">
+<img src="Medical/P3_02_book_longevity_V2_2022.pdf" alt="Долголетие и питание 2 (2022)" width="100">
+</a>
 
 
 
