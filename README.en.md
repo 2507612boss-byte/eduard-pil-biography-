@@ -284,7 +284,7 @@ Contents and Bibliography of the Book on the Theory of Casing Part Machining Com
 <img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Bibliography" width="100">
 </a>
 
-  
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
 <img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
 </a>
