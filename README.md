@@ -325,16 +325,16 @@
 📌 Подсказка:
 Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз.
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="Medical/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том 1 (2022)">
-<img src="Medical/P3_02_book_longevity_V1_2022.pdf" alt="Долголетие и питание 1 (2022)" width="100">
+<a href="Medical/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том I (2022)">
+<img src="Medical/P3_02_book_longevity_V1_2022.pdf" alt="Долголетие и питание. Том I (2022)" width="100">
 </a>
 
-<a href="Medical/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том 2 (2022)">
-<img src="Medical/P3_02_book_longevity_V2_2022.pdf" alt="Долголетие и питание 2 (2022)" width="100">
+<a href="Medical/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том II (2022)">
+<img src="Medical/P3_02_book_longevity_V2_2022.pdf" alt="Долголетие и питание. Том II (2022)" width="100">
 </a>
 
-<a href="Medical/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том 3 (2022)">
-<img src="Medical/P3_02_book_longevity_V3_2022.pdf" alt="Долголетие и питание 3 (2022)" width="100">
+<a href="Medical/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том III (2022)">
+<img src="Medical/P3_02_book_longevity_V3_2022.pdf" alt="Долголетие и питание. Том III (2022)" width="100">
 </a>
 
 </div>
