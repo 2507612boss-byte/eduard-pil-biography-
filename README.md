@@ -322,6 +322,9 @@
 <a href="Medical/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение. Том VII (2024)">
 <img src="Medical/P3_02_book_longevity_V7_2022.jpg" alt="Курение. Том VII (2024)" width="100">
 </a>
+<a href="Medical/P3_02_book_longevity_V8_2022.jpg" data-lightbox="Medical" data-title="Курение. Том VIII (2024)">
+<img src="Medical/P3_02_book_longevity_V8_2022.jpg" alt="Курение. Том VIII (2024)" width="100">
+</a>
 
 <h2>Содержание книг</h2>
 
@@ -349,6 +352,9 @@
 </a>
 <a href="Medical/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Курение. Том VII (2024)">
 <img src="Medical/P3_02_book_longevity_V7_2022.pdf" alt="Курение. Том VII (2024)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V8_2022.pdf" data-lightbox="Medical" data-title="Курение. Том VIII (2024)">
+<img src="Medical/P3_02_book_longevity_V8_2022.pdf" alt="Курение. Том VIII (2024)" width="100">
 </a>
 
 </div>
