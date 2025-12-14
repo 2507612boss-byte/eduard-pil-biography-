@@ -324,14 +324,20 @@ Contents and Bibliography of the Book on the Theory of Casing Part Machining Com
 <a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 6 (2022)">
 <img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание 6 (2022)" width="100">
 </a>
-
 <a href="BookMed/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение (2024)">
 <img src="BookMed/P3_02_book_longevity_V7_2022.jpg" alt="Курение (2024)" width="100">
 </a>
-
 <a href="BookMed/P3_02_book_longevity_V8_2022.jpg" data-lightbox="Medical" data-title="Алкоголизм (2024)">
 <img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" width="100">
 </a>
+
+The Contents of Books on Medical
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание 1 (2022)">
+<img src="BookMed/P3_02_book_longevity_V1_2022.pdf" alt="Долголетие и питание 1 (2022)" width="100">
+</a>
+
+
 
 </div>
 
