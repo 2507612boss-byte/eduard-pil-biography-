@@ -331,6 +331,7 @@ Contents and Bibliography of the Book on the Theory of Casing Part Machining Com
 <img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" width="100">
 </a>
 
+<h2>The Contents of Books on Medical</h2>
 The Contents of Books on Medical
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume I (2022)">
@@ -392,7 +393,7 @@ The Contents of Books on Medical
 <h2>The Contents of Books on Economics</h2>
 📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
-
+The Contents of Books on the Theory of Economic Crises
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
 <img src="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol. 1 (2018)" width="100">
 </a>
