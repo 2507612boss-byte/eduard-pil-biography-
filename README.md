@@ -358,6 +358,7 @@
 <a href="Medical/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том VI (2022)">
 <img src="Medical/P3_02_book_longevity_V6_2022.pdf" alt="Долголетие и питание. Том VI (2022)" width="100">
 </a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="Medical/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Курение. Том VII (2024)">
 <img src="Medical/P3_02_book_longevity_V7_2022.pdf" alt="Курение. Том VII (2024)" width="100">
 </a>
