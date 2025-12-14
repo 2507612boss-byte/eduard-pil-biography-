@@ -331,8 +331,8 @@ Contents and Bibliography of the Book on the Theory of Casing Part Machining Com
 <img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" width="100">
 </a>
 
-<h2>The Contents of Books on "Longevity and Nutrition"</h2>
-The Contents of Books on Medical
+<h2>The Contents of Books on Medical</h2>
+The Contents of Books on "Longevity and Nutrition"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume I (2022)">
 <img src="BookMed/P3_02_book_longevity_V1_2022.pdf" alt="Longevity and Nutrition. Volume I (2022)" width="100">
