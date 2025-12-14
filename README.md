@@ -330,12 +330,12 @@
 
 📌 Подсказка:
 Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз.
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Содержание книги "Ваше Здоровье от А до Я"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="Medical/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Ваше Здоровье от А до Я (2010)">
 <img src="Medical/P3_01_book_health_2010.pdf" alt="Ваше Здоровье от А до Я (2010)" width="100">
 </a>
-
 Содержание книг "Долголетие и Питание" и других книг из этой серии.
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="Medical/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том I (2022)">
