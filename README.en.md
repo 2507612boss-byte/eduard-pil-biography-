@@ -394,6 +394,7 @@ The Contents of Books on Medical
 📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 The Contents of Books on the Theory of Economic Crises
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
 <img src="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol. 1 (2018)" width="100">
 </a>
