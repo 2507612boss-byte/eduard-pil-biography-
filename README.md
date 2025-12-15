@@ -435,7 +435,7 @@
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Настольная книга экономиста
+Содержание настольной книги экономиста
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
 <img src="economy/P4_12_book_theory_handbook.pdf" alt="Настольная книга экономиста (2025)" width="100">
