@@ -352,6 +352,8 @@ The Contents of Books on "Longevity and Nutrition"
 <a href="BookMed/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume VI (2022)">
 <img src="BookMed/P3_02_book_longevity_V6_2022.pdf" alt="Longevity and Nutrition. Volume VI (2022)" width="100">
 </a>
+
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Smoking. Volume VII (2024)">
 <img src="BookMed/P3_02_book_longevity_V7_2022.pdf" alt="Smoking. Volume VII (2024)" width="100">
 </a>
