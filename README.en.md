@@ -331,14 +331,13 @@ Contents and Bibliography of the Book on the Theory of Casing Part Machining Com
 <img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" width="100">
 </a>
 
+<h2>The Contents of Books on Medical</h2>
 Contents of the book "Your Health from A to Z"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Your Health from A to Z (2010)">
 <img src="BookMed/P3_01_book_health_2010.pdf" alt="Your Health from A to Z (2010)" width="100">
 </a>
 
-
-<h2>The Contents of Books on Medical</h2>
 The Contents of Books on "Longevity and Nutrition"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume I (2022)">
