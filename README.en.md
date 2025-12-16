@@ -338,7 +338,6 @@ Contents of the book "Your Health from A to Z"
 <img src="BookMed/P3_01_book_health_2010.pdf" alt="Your Health from A to Z (2010)" width="100">
 </a>
 
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 The Contents of Books on "Longevity and Nutrition"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume I (2022)">
