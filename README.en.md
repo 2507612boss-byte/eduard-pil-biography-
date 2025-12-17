@@ -422,6 +422,18 @@ The Contents of Books on "Longevity and Nutrition"
 <h2>The Contents of Books on Economics</h2>
 📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Analysis of GDP and Population of Various Countries from 1960 to 2006 and Their Prediction until 2030":
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="economy/P4_22_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents">
+<img src="economy/P4_22_book_theory_predict.pdf" alt="Contents" width="100">
+</a>
+<a href="economy/P4_23_book_theory_predict.pdf" data-lightbox="economy" data-title="Bibliography">
+<img src="economyP4_23_book_theory_predict.pdf" alt="Bibliography" width="100">
+</a>
+
+
 The Contents of Books on the Theory of Economic Crises
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
