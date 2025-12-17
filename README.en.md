@@ -434,7 +434,7 @@ Analysis of GDP and Population of Various Countries from 1960 to 2006 and Their 
 <img src="BookEcon/P4_23_book_theory_predict.pdf" alt="Bibliography" width="100">
 </a>
 
-
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 The Contents of Books on the Theory of Economic Crises
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
