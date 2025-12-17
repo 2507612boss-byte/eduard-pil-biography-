@@ -479,7 +479,7 @@ Bibliography: Theory of Economic Crises
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contants and Bibliography of the Economist’s Handbook
+Contents and Bibliography of the Economist’s Handbook
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="The Economist’s Handbook (2025)">
 <img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="The Economist’s Handbook (2025)" width="100">
