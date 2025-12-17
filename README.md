@@ -414,7 +414,7 @@
 Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз. Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание и литература книги "Анализ ВВП и населения различных стран с 1960 по 2006 голы и их прогноз до 2030 года":
+Содержание и литература книги "Анализ ВВП и населения различных стран с 1960 по 2006 годы и их прогноз до 2030 года":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_20_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
 <img src="economy/P4_20_book_theory_predict.pdf" alt="Содержание" width="100">
