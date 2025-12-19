@@ -435,6 +435,20 @@ Analysis of GDP and Population of Various Countries from 1960 to 2006 and Their 
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Contents and Bibliography of the book "Theoretical and Statistical Scenarios for the Development of Economics and Population in Various Countries of the World and Their Prediction":
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="economy/P4_26_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Volume I">
+<img src="economy/P4_26_book_theory_predict.pdf" alt="Contents. Volume I" width="100">
+</a>
+<a href="economy/P4_27_book_theory_predict.pdf" data-lightbox="economy" data-title=" Bibliography. Volume I">
+<img src="economyP4_27_book_theory_predict.pdf" alt="Bibliography. Volume I" width="100">
+</a>
+
+
+
+
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 The Contents of Books on the Theory of Economic Crises
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. 1 (2018)">
