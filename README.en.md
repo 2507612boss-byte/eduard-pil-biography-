@@ -282,7 +282,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 <img src="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Contents" width="100">
 </a>
 
-<a href="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Contents">
+<a href="technologyeng/P2_05_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="References">
 <a href="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="References" width="100">
 </a>
 
