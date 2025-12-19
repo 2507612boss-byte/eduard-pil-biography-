@@ -267,21 +267,23 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="technology/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
 <img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" width="100">
 </a>
-<a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Обработка деталей на станках с ЧПУ и ГПС (1998)">
-<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)" width="100">
+<a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Processing of Parts on CNC and FMS Machines (1998)">
+<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Processing of Parts on CNC and FMS Machines (1998)" width="100">
 </a>
-<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
-<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
+<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="The Book on the Theory of Casing Part Machining Complexity (2003)">
+<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="The Book on the Theory of Casing Part Machining Complexity (2003)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents and Bibliography of the Book on the Theory of Casing Part Machining Complexity
+Contents and References of the Book on the Theory of Casing Part Machining Complexity
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+
 <a href="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Contents">
 <img src="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Contents" width="100">
 </a>
-<a href="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="Bibliography">
-<img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Bibliography" width="100">
+
+<a href="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Contents">
+<a href="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="References" width="100">
 </a>
 
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
