@@ -263,10 +263,10 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 
 <h2>💻 Books on Technology</h2>
 
-<div class="technology">
+<div class="technologyeng">
 <!-- Пример первых 4 книг -->
-<a href="technologyeng/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
-<img src="technologyeng/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" width="100">
+<a href="technologyeng/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="CAD/CAM (1993)">
+<img src="technologyeng/P2_01_book_sapr_1993.jpg" alt="CAD/CAM (1993)" width="100">
 </a>
 <a href="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Processing of Parts on CNC and FMS Machines (1998)">
 <img src="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Processing of Parts on CNC and FMS Machines (1998)" width="100">
@@ -288,8 +288,8 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 </a>
 
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
-<a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
-<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
+<a href="technologyeng/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
+<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" width="100">
 </a>
 
 </div>
