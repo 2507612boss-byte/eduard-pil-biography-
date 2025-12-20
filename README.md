@@ -419,16 +419,6 @@
 Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз. Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание и литература книги "Анализ ВВП и населения различных стран с 1960 по 2006 годы и их прогноз до 2030 года":
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="economy/P4_20_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
-<img src="economy/P4_20_book_theory_predict.pdf" alt="Содержание" width="100">
-</a>
-<a href="economy/P4_21_book_theory_predict.pdf" data-lightbox="economy" data-title="Список  литературы">
-<img src="economyP4_21_book_theory_predict.pdf" alt="Список литературы" width="100">
-</a>
-
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Содержание и литература книги "Теоретические и Статистические Варианты Развития Экономики и Населения Различных Стран Мира и их Прогноз":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
      ТОМ 1
@@ -451,6 +441,18 @@
 <a href="economy/P4_29_book_theory_predict.pdf" data-lightbox="economy" data-title="Список литературы">
 <img src="economyP4_29_book_theory_predict.pdf" alt="Список литературы" width="100">
 </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Содержание и литература книги "Анализ ВВП и населения различных стран с 1960 по 2006 годы и их прогноз до 2030 года":
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="economy/P4_20_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
+<img src="economy/P4_20_book_theory_predict.pdf" alt="Содержание" width="100">
+</a>
+<a href="economy/P4_21_book_theory_predict.pdf" data-lightbox="economy" data-title="Список  литературы">
+<img src="economyP4_21_book_theory_predict.pdf" alt="Список литературы" width="100">
+</a>
+
+
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
