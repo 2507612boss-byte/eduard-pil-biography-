@@ -377,9 +377,14 @@
 
 <div class=economy"">
 <!-- Пример первых 5 книг -->
-<a href="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)">
-<img src="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз (2011)" width="100">
+<a href="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том I (2011)">
+<img src="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том I (2011)" width="100">
 </a>
+<a href="economy/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том II (2011)">
+<img src="economy/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том II (2011)" width="100">
+</a>
+
+  
 <a href="economy/P4_02_book_anal_VVP_nasel_stran_2012.JPG" data-lightbox="economy" data-title="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030  (2012)">
 <img src="economy/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030 (2012)" width="100">
 </a>
