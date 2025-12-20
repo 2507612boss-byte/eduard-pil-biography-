@@ -270,8 +270,8 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Processing of Parts on CNC and FMS Machines (1998)">
 <img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Processing of Parts on CNC and FMS Machines (1998)" width="100">
 </a>
-<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="The Book on the Theory of Casing Part Machining Complexity (2003)">
-<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="The Book on the Theory of Casing Part Machining Complexity (2003)" width="100">
+<a href="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="The Book on the Theory of Casing Part Machining Complexity (2003)">
+<img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="The Book on the Theory of Casing Part Machining Complexity (2003)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
