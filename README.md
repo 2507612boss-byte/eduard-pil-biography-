@@ -425,7 +425,9 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Содержание и литература книги "Теоретические и Статистические Варианты Развития Экономики и Населения Различных Стран Мира и их Прогноз":
-ТОМ 1
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+     ТОМ 1
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_24_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
 <img src="economy/P4_24_book_theory_predict.pdf" alt="Содержание" width="100">
@@ -434,7 +436,9 @@
 <img src="economyP4_25_book_theory_predict.pdf" alt="Список литературы" width="100">
 </a>
 
-ТОМ 2
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+     ТОМ 2
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_28_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
 <img src="economy/P4_28_book_theory_predict.pdf" alt="Содержание" width="100">
