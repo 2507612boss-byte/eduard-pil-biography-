@@ -387,10 +387,11 @@ The Contents of Books on "Longevity and Nutrition"
 <a href="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" data-lightbox="BookEcon" data-title="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)">
 <img src="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)" width="100">
 </a>
-    
-  <a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)">
+
+<a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)">
 <img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)" width="100">
 </a>
+
  
 <a href="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 1 (2018)">
 <img src="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol 1 (2018)" width="100">
