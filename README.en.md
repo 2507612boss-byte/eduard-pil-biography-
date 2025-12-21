@@ -445,7 +445,7 @@ Contents and References of the book "Theoretical and Statistical Scenarios for t
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-"GDP and Population in Selected Countries from 1960 to 2006 and Their Projection through 2030":
+"GDP and Population in Selected Countries from 1960 to 2006 and Their Projection Through 2030":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 
 <a href="BookEcon/P4_22_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents">
