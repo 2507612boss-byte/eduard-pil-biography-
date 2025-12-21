@@ -452,7 +452,7 @@ Contents and References of the book "Theoretical and Statistical Scenarios for t
 <img src="BookEcon/P4_22_book_theory_predict.pdf" alt="Contents" width="100">
 </a>
 <a href="BookEcon/P4_23_book_theory_predict.pdf" data-lightbox="economy" data-title="Bibliography">
-<img src="BookEcon/P4_23_book_theory_predict.pdf" alt="Contents" width="100">
+<img src="BookEcon/P4_23_book_theory_predict.pdf" alt="Reference" width="100">
 </a>
 
 
