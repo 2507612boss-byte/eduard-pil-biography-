@@ -440,12 +440,12 @@ Contents and References of the book "Theoretical and Statistical Scenarios for t
 <a href="BookEcon/P4_26_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Vol. I">
 <img src="BookEcon/P4_26_book_theory_predict.pdf" alt="Contents. Vol. I" width="100">
 </a>
-<a href="BookEcon/P4_27_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Vol. I">
-<img src="BookEcon/P4_27_book_theory_predict.pdf" alt="Contents. Vol. I" width="100">
+<a href="BookEcon/P4_27_book_theory_predict.pdf" data-lightbox="economy" data-title="Reference. Vol. I">
+<img src="BookEcon/P4_27_book_theory_predict.pdf" alt="Reference. Vol. I" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Analysis of GDP and Population of Various Countries from 1960 to 2006 and Their Prediction until 2030":
+"GDP and Population in Selected Countries from 1960 to 2006 and Their Projection through 2030":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 
 <a href="BookEcon/P4_22_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents">
