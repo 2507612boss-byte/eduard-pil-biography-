@@ -344,31 +344,30 @@ Contents of the book "Your Health from A to Z"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 The Contents of Books on "Longevity and Nutrition"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume I (2022)">
-<img src="BookMed/P3_02_book_longevity_V1_2022.pdf" alt="Longevity and Nutrition. Volume I (2022)" width="100">
+<a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. I (2022)">
+<img src="BookMed/P3_02_book_longevity_V1_2022.pdf" alt="Longevity and Nutrition. Vol. I (2022)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume II (2022)">
-<img src="BookMed/P3_02_book_longevity_V2_2022.pdf" alt="Longevity and Nutrition. Volume II (2022)" width="100">
+<a href="BookMed/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. II (2022)">
+<img src="BookMed/P3_02_book_longevity_V2_2022.pdf" alt="Longevity and Nutrition. Vol. II (2022)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume III (2022)">
-<img src="BookMed/P3_02_book_longevity_V3_2022.pdf" alt="Longevity and Nutrition. Volume III (2022)" width="100">
+<a href="BookMed/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. III (2022)">
+<img src="BookMed/P3_02_book_longevity_V3_2022.pdf" alt="Longevity and Nutrition. Vol. III (2022)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V4_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume IV (2022)">
-<img src="BookMed/P3_02_book_longevity_V4_2022.pdf" alt="Longevity and Nutrition. Volume IV (2022)" width="100">
+<a href="BookMed/P3_02_book_longevity_V4_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. IV (2022)">
+<img src="BookMed/P3_02_book_longevity_V4_2022.pdf" alt="Longevity and Nutrition. Vol. IV (2022)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V5_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume V (2022)">
-<img src="BookMed/P3_02_book_longevity_V5_2022.pdf" alt="Longevity and Nutrition. Volume V (2022)" width="100">
+<a href="BookMed/P3_02_book_longevity_V5_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. V (2022)">
+<img src="BookMed/P3_02_book_longevity_V5_2022.pdf" alt="Longevity and Nutrition. Vol. V (2022)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Volume VI (2022)">
-<img src="BookMed/P3_02_book_longevity_V6_2022.pdf" alt="Longevity and Nutrition. Volume VI (2022)" width="100">
+<a href="BookMed/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. VI (2022)">
+<img src="BookMed/P3_02_book_longevity_V6_2022.pdf" alt="Longevity and Nutrition. Vol. VI (2022)" width="100">
 </a>
-
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="BookMed/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Smoking. Volume VII (2024)">
-<img src="BookMed/P3_02_book_longevity_V7_2022.pdf" alt="Smoking. Volume VII (2024)" width="100">
+<a href="BookMed/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Smoking. Vol. VII (2024)">
+<img src="BookMed/P3_02_book_longevity_V7_2022.pdf" alt="Smoking. Vol. VII (2024)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V8_2022.pdf" data-lightbox="Medical" data-title="Alcoholism. Volume VIII (2024)">
-<img src="BookMed/P3_02_book_longevity_V8_2022.pdf" alt="Alcoholism. Volume VIII (2024)" width="100">
+<a href="BookMed/P3_02_book_longevity_V8_2022.pdf" data-lightbox="Medical" data-title="Alcoholism. Vol. VIII (2024)">
+<img src="BookMed/P3_02_book_longevity_V8_2022.pdf" alt="Alcoholism. Vol. VIII (2024)" width="100">
 </a>
 
 
@@ -388,9 +387,16 @@ The Contents of Books on "Longevity and Nutrition"
 <img src="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)" width="100">
 </a>
 
-<a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)">
-<img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. In 2 books (2011)" width="100">
+<a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. I (2011)">
+<img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. I  (2011)" width="100">
 </a>
+
+<a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. II (2011)">
+<img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. II  (2011)" width="100">
+</a>
+
+
+
 
  
 <a href="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 1 (2018)">
@@ -429,13 +435,13 @@ The Contents of Books on "Longevity and Nutrition"
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents and Bibliography of the book "Theoretical and Statistical Scenarios for the Development of Economics and Population in Various Countries of the World and Their Prediction":
+Contents and References of the book "Theoretical and Statistical Scenarios for the Development of Economics and Population in Various Countries of the World and Their Prediction":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="BookEcon/P4_26_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Volume I">
-<img src="BookEcon/P4_26_book_theory_predict.pdf" alt="Contents. Volume I" width="100">
+<a href="BookEcon/P4_26_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Vol. I">
+<img src="BookEcon/P4_26_book_theory_predict.pdf" alt="Contents. Vol. I" width="100">
 </a>
-<a href="BookEcon/P4_27_book_theory_predict.pdf" data-lightbox="economy" data-title="Bibliography. Volume I">
-<img src="BookEcon/P4_27_book_theory_predict.pdf" alt="Bibliography. Volume I" width="100">
+<a href="BookEcon/P4_27_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Vol. I">
+<img src="BookEcon/P4_27_book_theory_predict.pdf" alt="Contents. Vol. I" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -446,7 +452,7 @@ Analysis of GDP and Population of Various Countries from 1960 to 2006 and Their 
 <img src="BookEcon/P4_22_book_theory_predict.pdf" alt="Contents" width="100">
 </a>
 <a href="BookEcon/P4_23_book_theory_predict.pdf" data-lightbox="economy" data-title="Bibliography">
-<img src="BookEcon/P4_23_book_theory_predict.pdf" alt="Bibliography" width="100">
+<img src="BookEcon/P4_23_book_theory_predict.pdf" alt="Contents" width="100">
 </a>
 
 
@@ -476,7 +482,7 @@ The Contents of Books on the Theory of Economic Crises
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Bibliography: Theory of Economic Crises
+Contents: Theory of Economic Crises
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol. I (2018)">
 <img src="BookEcon/P4_13_book_theory_liter1.pdf" alt="Theory of Economic Crises. Vol. I (2018)" width="100">
@@ -498,7 +504,7 @@ Bibliography: Theory of Economic Crises
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents and Bibliography of the Economist’s Handbook
+Contents and References of the Economist’s Handbook
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="The Economist’s Handbook (2025)">
 <img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="The Economist’s Handbook (2025)" width="100">
