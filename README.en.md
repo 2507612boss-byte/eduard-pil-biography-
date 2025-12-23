@@ -426,8 +426,8 @@ The Contents of Books on "Longevity and Nutrition"
 <a href="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 1 (2020)">
 <img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises. Vol 1 (2020)" width="100">
 </a>
-<a href="BookEcon/P4_05_book_nast_kniga_2025.JPG" data-lightbox="BookEcon" data-title="The Economist’s Handbook (2025)">
-<img src="BookEcon/P4_05_book_nast_kniga_2025.JPG" alt="The Economist’s Handbook(2025)" width="100">
+<a href="BookEcon/P4_05_book_nast_kniga_2025.jpg" data-lightbox="BookEcon" data-title="The Economist’s Handbook (2025)">
+<img src="BookEcon/P4_05_book_nast_kniga_2025.jpg" alt="The Economist’s Handbook(2025)" width="100">
 </a>
 
 <h2>The Contents of Books on Economics</h2>
