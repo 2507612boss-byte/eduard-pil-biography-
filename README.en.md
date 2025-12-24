@@ -430,7 +430,7 @@ Contents of Books on "Longevity and Nutrition"
 <img src="BookEcon/P4_05_book_nast_kniga_2025.jpg" alt="The Economist’s Handbook(2025)" width="100">
 </a>
 
-<h2>Contents of Books on Economics</h2>
+<h2>Contents and References of Books on Economics</h2>
 📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
@@ -460,7 +460,7 @@ Contents and References of the book "Theoretical and Statistical Scenarios for t
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents of Books on the Theory of Economic Crises
+"Contents of Books on the Theory of Economic Crises"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2018)">
 <img src="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol. I (2018)" width="100">
