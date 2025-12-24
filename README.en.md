@@ -481,6 +481,20 @@ The Contents of Books on the Theory of Economic Crises
 <img src="BookEcon/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Theory of Economic Crises. Vol. VI (2024)" width="100">
 </a>
 
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+The Economist's Handbook
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+"Contents and References of the Economist's Handbook":
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="BookEcon/P4_12_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents">
+<img src="BookEcon/P4_12_book_theory_predict.pdf" alt="Contents" width="100">
+</a>
+<a href="BookEcon/P4_19_book_theory_predict.pdf" data-lightbox="economy" data-title="References">
+<img src="BookEcon/P4_19_book_theory_predict.pdf" alt="References" width="100">
+</a>
+
+
 </div>
 
 </body>
