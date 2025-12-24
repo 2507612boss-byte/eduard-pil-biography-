@@ -483,9 +483,36 @@ The Contents of Books on the Theory of Economic Crises
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+The References of Books on the Theory of Economic Crises
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="BookEcon/P4_13_book_theory_liter1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2018)">
+<img src="BookEcon/P4_13_book_theory_liter1.pdf" alt="Theory of Economic Crises. Vol. I (2018)" width="100">
+</a>
+<a href="BookEcon/P4_14_book_theory_liter2.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. II (2019)">
+<img src="BookEcon/P4_14_book_theory_liter2.pdf" alt="Theory of Economic Crises. Vol II (2019)" width="100">
+</a>
+<a href="BookEcon/P4_15_book_theory_liter3.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. III (2021)">
+<img src="BookEcon/P4_15_book_theory_liter3.pdf" alt="Theory of Economic Crises. Vol. III (2021)" width="100">
+</a>
+<a href="BookEcon/P4_16_book_theory_liter4.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. IV (2022)">
+<img src="BookEcon/P4_16_book_theory_liter4.pdf" alt="Theory of Economic Crises. Vol. IV (2022)" width="100">
+</a>
+<a href="BookEcon/P4_17_book_theory_liter5.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. V (2023)">
+<img src="BookEcon/P4_17_book_theory_liter5.pdf" alt="Theory of Economic Crises. Vol. V (2023)" width="100">
+</a>
+<a href="BookEcon/P4_18_book_theory_liter6.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. VI (2024)">
+<img src="BookEcon/P4_18_book_theory_liter6.pdf" alt="Theory of Economic Crises. Vol. VI (2024)" width="100">
+</a>
+
+
+
+
+
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 The Economist's Handbook
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents and References of the Economist's Handbook:
+"Contents and References of the Economist's Handbook":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Contents">
 <img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="Contents" width="100">
