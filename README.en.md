@@ -333,7 +333,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 <img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" width="100">
 </a>
 
-<h2>The Contents of Books on Medical</h2>
+<h2>Contents of Books on Medical</h2>
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 Contents of the book "Your Health from A to Z"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -342,7 +342,7 @@ Contents of the book "Your Health from A to Z"
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-The Contents of Books on "Longevity and Nutrition"
+Contents of Books on "Longevity and Nutrition"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. I (2022)">
 <img src="BookMed/P3_02_book_longevity_V1_2022.pdf" alt="Longevity and Nutrition. Vol. I (2022)" width="100">
@@ -430,7 +430,7 @@ The Contents of Books on "Longevity and Nutrition"
 <img src="BookEcon/P4_05_book_nast_kniga_2025.jpg" alt="The Economist’s Handbook(2025)" width="100">
 </a>
 
-<h2>The Contents of Books on Economics</h2>
+<h2>Contents of Books on Economics</h2>
 📌 Note:
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
@@ -460,7 +460,7 @@ Contents and References of the book "Theoretical and Statistical Scenarios for t
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-The Contents of Books on the Theory of Economic Crises
+Contents of Books on the Theory of Economic Crises
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2018)">
 <img src="BookEcon/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol. I (2018)" width="100">
@@ -483,7 +483,7 @@ The Contents of Books on the Theory of Economic Crises
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-The References of Books on the Theory of Economic Crises
+"References of Books on the Theory of Economic Crises"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_13_book_theory_liter1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2018)">
 <img src="BookEcon/P4_13_book_theory_liter1.pdf" alt="Theory of Economic Crises. Vol. I (2018)" width="100">
