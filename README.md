@@ -508,7 +508,7 @@
 Содержание и список литературы настольной книги экономиста:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
-<img src="economy/P4_12_book_theory_handbook.pdf" alt="Настольная книга экономиста (2025)" width="100">
+<img src="economy/P4_12_book_theory_handbook.pdf" alt=Содержание (2025)" width="100">
 </a>
 
 <a href="economy/P4_19_book_theory_handbook.pdf" data-lightbox="economy" data-title="Список литературы (2025)">
