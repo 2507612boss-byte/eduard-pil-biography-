@@ -460,7 +460,7 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    Тома I-VI
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018) ">
+<a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I  (2018)">
 <img src="economy/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Теория экономических кризисов. Том I (2018)" width="100">
 </a>
 <a href="economy/P4_07_book_theory_econ_cris_Vol2.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том II (2019)">
