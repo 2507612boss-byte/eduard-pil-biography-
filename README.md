@@ -491,7 +491,7 @@
 <img src="economy/P4_14_book_theory_liter2.pdf" alt="Теория экономических кризисов. Том II (2019)" width="100">
 </a>
 <a href="economy/P4_15_book_theory_liter3.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том III (2021)">
-<img src="economy/P4_15_book_theory_liter3.pdf" alt="Теория экономических кризисов. Том III (2020)" width="100">
+<img src="economy/P4_15_book_theory_liter3.pdf" alt="Теория экономических кризисов. Том III (2021)" width="100">
 </a>
 <a href="economy/P4_16_book_theory_liter4.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том IV (2022)">
 <img src="economy/P4_16_book_theory_liter4.pdf" alt="Теория экономических кризисов. Том IV (2022)" width="100">
