@@ -459,6 +459,7 @@
 Содержание книг по теории экономических кризисов:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    ТОМА I-VI
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018)">
 <img src="economy/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Теория экономических кризисов. Том I (2018)" width="100">
 </a>
@@ -482,6 +483,7 @@
 Список литературы для книг по теории экономических кризисов:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    ТОМА I-VI
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <a href="economy/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018)">
 <img src="economy/P4_13_book_theory_liter1.pdf" alt="Теория экономических кризисов. Том I (2018)" width="100">
 </a>
