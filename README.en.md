@@ -438,14 +438,15 @@ Contents of Books on "Longevity and Nutrition"
 Contents and References of the book "Theoretical and Statistical Trajectories of Economic and Population Development Across Countries and Their Projection":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    VOLUME I
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <a href="BookEcon/P4_26_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Vol. I">
 <img src="BookEcon/P4_26_book_theory_predict.pdf" alt="Contents. Vol. I" width="100">
 </a>
 <a href="BookEcon/P4_27_book_theory_predict.pdf" data-lightbox="economy" data-title="References. Vol. I">
 <img src="BookEcon/P4_27_book_theory_predict.pdf" alt="References. Vol. I" width="100">
 </a>
-
   VOLUME II
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_28_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Vol. II">
 <img src="BookEcon/P4_28_book_theory_predict.pdf" alt="Contents. Vol. II" width="100">
