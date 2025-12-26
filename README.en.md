@@ -445,7 +445,8 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 <a href="BookEcon/P4_27_book_theory_predict.pdf" data-lightbox="economy" data-title="References. Vol. I">
 <img src="BookEcon/P4_27_book_theory_predict.pdf" alt="References. Vol. I" width="100">
 </a>
-  VOLUME II
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+    VOLUME II
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_28_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents. Vol. II">
