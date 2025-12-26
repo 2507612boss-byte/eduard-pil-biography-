@@ -396,8 +396,6 @@ Contents of Books on "Longevity and Nutrition"
 </a>
 
 
-
-
  
 <a href="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2018)">
 <img src="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol. I (2018)" width="100">
@@ -435,7 +433,7 @@ Contents of Books on "Longevity and Nutrition"
 <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents and References of the book "Theoretical and Statistical Trajectories of Economic and Population Development Across Countries and Their Projection":
+<h2>Contents and References of the book "Theoretical and Statistical Trajectories of Economic and Population Development Across Countries and Their Projection":<h2>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    VOLUME I
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
