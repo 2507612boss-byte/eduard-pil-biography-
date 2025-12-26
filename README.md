@@ -443,7 +443,7 @@
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание и литература книги "Анализ ВВП и населения различных стран с 1960 по 2006 годы и их прогноз до 2030 года":
+Содержание и литература книги "Анализ ВВП и Населения Различных Стран с 1960 по 2006 годы и их Прогноз до 2030 года":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_20_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
 <img src="economy/P4_20_book_theory_predict.pdf" alt="Содержание" width="100">
