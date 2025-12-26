@@ -457,19 +457,14 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-
   "GDP and Population in Selected Countries from 1960 to 2006 and Their Projection Through 2030":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-
 <a href="BookEcon/P4_22_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents">
 <img src="BookEcon/P4_22_book_theory_predict.pdf" alt="Contents" width="100">
 </a>
 <a href="BookEcon/P4_23_book_theory_predict.pdf" data-lightbox="economy" data-title="Bibliography">
 <img src="BookEcon/P4_23_book_theory_predict.pdf" alt="Reference" width="100">
 </a>
-
-
-
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
