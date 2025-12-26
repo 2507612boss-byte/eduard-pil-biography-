@@ -456,7 +456,7 @@
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание книг по теории экономических кризисов:
+Содержание для книг "Теория Экономических Кризисов":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    Тома I-VI
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -480,7 +480,7 @@
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Список литературы для книг по теории экономических кризисов:
+Список литературы для книг "Теория Экономических Кризисов":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    Тома I-VI
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -505,7 +505,7 @@
   
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание и список литературы настольной книги экономиста:
+Содержание и список литературы Настольной Книги Экономиста:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
 <img src="economy/P4_12_book_theory_handbook.pdf" alt=Содержание (2025)" width="100">
