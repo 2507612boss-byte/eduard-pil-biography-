@@ -421,7 +421,7 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Содержание и литература книги "Теоретические и Статистические Варианты Развития Экономики и Населения Различных Стран Мира и их Прогноз":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-     ТОМ I
+     Том I
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_24_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
@@ -432,7 +432,7 @@
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-     ТОМ II
+     Том II
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_28_book_theory_predict.pdf" data-lightbox="economy" data-title="Содержание">
@@ -458,7 +458,7 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Содержание книг по теории экономических кризисов:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-   ТОМА I-VI
+   Тома I-VI
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018)">
 <img src="economy/P4_06_book_theory_econ_cris_Vol1.pdf" alt="Теория экономических кризисов. Том I (2018)" width="100">
@@ -482,7 +482,7 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Список литературы для книг по теории экономических кризисов:
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-   ТОМА I-VI
+   Тома I-VI
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <a href="economy/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018)">
 <img src="economy/P4_13_book_theory_liter1.pdf" alt="Теория экономических кризисов. Том I (2018)" width="100">
