@@ -416,7 +416,7 @@
 <h2>Содержание книг</h2>
 
 📌 Подсказка:
-Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз. Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
+Содержания и литература книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз. Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Содержание и литература книги "Теоретические и Статистические Варианты Развития Экономики и Населения Различных Стран Мира и их Прогноз":
@@ -479,6 +479,7 @@
 <img src="economy/P4_11_book_theory_econ_cris_Vol6.pdf" alt="Теория экономических кризисов. Том VI (2024)" width="100">
 </a>
 
+
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Список литературы для книг "Теория Экономических Кризисов":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -501,6 +502,16 @@
 </a>
 <a href="economy/P4_18_book_theory_liter6.pdf " data-lightbox="economy" data-title="Теория экономических кризисов. Том VI (2024)">
 <img src="economy/P4_18_book_theory_liter6.pdf " alt="Теория экономических кризисов. Том VI (2024)" width="100">
+</a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Содержание и список литературы тома I на английском языке "Theory of Economic Crises":
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="economy/P4_12_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol I (2020)">
+<img src="economyP4_12_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol I (2020)" width="100">
+</a>
+  <a href="economy/P4_19_book_theory_liter1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol I (2020)">
+<img src="economyP4_19_book_theory_liter1.pdf" alt="Theory of Economic Crises. Vol I (2020)" width="100">
 </a>
   
 
