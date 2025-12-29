@@ -505,13 +505,13 @@
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание и список литературы Тома I на английском языке "Theory of Economic Crises":
+Содержание и список литературы Тома I на английском языке "Theory of Economic Crises (2020)":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_12_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol I (2020)">
-<img src="economyP4_12_book_theory_econ_cris_Vol1.pdf" alt="Theory of Economic Crises. Vol I (2020)" width="100">
+<img src="economyP4_12_book_theory_econ_cris_Vol1.pdf" alt="Содержание" width="100">
 </a>
   <a href="economy/P4_19_book_theory_liter1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol I (2020)">
-<img src="economyP4_19_book_theory_liter1.pdf" alt="Theory of Economic Crises. Vol I (2020)" width="100">
+<img src="economyP4_19_book_theory_liter1.pdf" alt="Список литературы" width="100">
 </a>
   
 
