@@ -518,7 +518,7 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents and Reference List of Volume I in English "Theory of Economic Crises (2020)":
+"Contents and Reference List of Volume I in English "Theory of Economic Crises (2020)":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_12_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol I (2020)">
 <img src="economyP4_12_book_theory_econ_cris_Vol1.pdf" alt="Contents" width="100">
