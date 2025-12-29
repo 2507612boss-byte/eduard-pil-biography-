@@ -517,6 +517,15 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 </a>
 
 
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Contents and Reference List of Volume I in English "Theory of Economic Crises (2020)":
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="economy/P4_12_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol I (2020)">
+<img src="economyP4_12_book_theory_econ_cris_Vol1.pdf" alt="Contents" width="100">
+</a>
+  <a href="economy/P4_19_book_theory_liter1.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. Vol I (2020)">
+<img src="economyP4_19_book_theory_liter1.pdf" alt="References" width="100">
+</a>
 
 
 
@@ -524,7 +533,7 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 The Economist's Handbook
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-"Contents and References of the Economist's Handbook":
+"Contents and References of the Economist's Handbook (2025)":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Contents">
 <img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="Contents" width="100">
