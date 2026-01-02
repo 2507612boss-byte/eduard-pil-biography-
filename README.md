@@ -832,11 +832,11 @@
 
 <div class="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 1 (2012)">
-    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)"style="width: 100px; height: 125px;">
+    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)"style="width: 100px; height: 110px;">
   </a>
 
   <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 2 (2014)">
-    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка 2 (2014)"style="width: 100px; height: 125px;">
+    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка 2 (2014)"style="width: 100px; height: 110px;">
   </a>
 </div>
 
