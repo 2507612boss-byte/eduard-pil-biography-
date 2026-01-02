@@ -989,25 +989,24 @@ The Economist's Handbook
 
 <!-- Пример первых 7 копии -->
 <a href="kvalife/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Microsoft Certificate Achievement (2012)">
-<img src="kvalife/P16_02_book_kvalif_2019.jpg" alt="Microsoft Certificate Achievement (2012)" width="100">
+<img src="kvalife/P16_02_book_kvalif_2019.jpg" alt="Microsoft Certificate Achievement (2012)"style="width: 100px; height: 110px;">
 </a>
 <a href="kvalife/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Methodology for Analysis and Design of Business Systems and Software Complexes Using ARIS Business Architect (2013)">
-<img src="kvalife/P16_01_book_kvalif_2019.jpg" alt="Methodology for Analysis and Design of Business Systems and Software Complexes Using ARIS Business Architect (2013)" width="100">
+<img src="kvalife/P16_01_book_kvalif_2019.jpg" alt="Methodology for Analysis and Design of Business Systems and Software Complexes Using ARIS Business Architect (2013)" style="width: 100px; height: 110px;">
  </a>
 <a href="kvalife/P16_03_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in pedagogy and psychology of Higher Education (St. Petersburg State Pediatric Medical University) (2013)">
-<img src="kvalife/P16_03_book_kvalif_2019.jpg" alt="Certificate of advanced training in pedagogy and psychology of Higher Education (St. Petersburg State Pediatric Medical University) (2013)" width="100">
+<img src="kvalife/P16_03_book_kvalif_2019.jpg" alt="Certificate of advanced training in pedagogy and psychology of Higher Education (St. Petersburg State Pediatric Medical University) (2013)" style="width: 100px; height: 110px;">
 </a>
 <a href="kvalife/P16_04_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training 'Organization of transportation and transport management' (St. Petersburg State University of Aerospace Instrumentation) (2017)">
-<img src="kvalife/P16_04_book_kvalif_2019.jpg" alt="Certificate of advanced training 'Organization of transportation and transport management' (St. Petersburg State University of Aerospace Instrumentation) (2017)" width="100">
+<img src="kvalife/P16_04_book_kvalif_2019.jpg" alt="Certificate of advanced training 'Organization of transportation and transport management' (St. Petersburg State University of Aerospace Instrumentation) (2017)"style="width: 100px; height: 110px;">
 </a>
 <a href="kvalife/P16_05_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in 'Anti-corruption measures' (St. Petersburg State University of Architecture and Civil Engineering) (2018)">
-<img src="kvalife/P16_05_book_kvalif_2019.jpg" alt="Certificate of advanced training in 'Anti-corruption measures' (St. Petersburg State University of Architecture and Civil Engineering) (2018)" width="100">
+<img src="kvalife/P16_05_book_kvalif_2019.jpg" alt="Certificate of advanced training in 'Anti-corruption measures' (St. Petersburg State University of Architecture and Civil Engineering) (2018)" style="width: 100px; height: 110px;">
 </a>
 <a href="kvalife/P16_06_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in 'Information and communication technologies in educational activities (Institute for the development of further professional education)(2021)">
-<img src="kvalife/P16_06_book_kvalif_2019.jpg" alt="Certificate of advanced training in 'Information and communication technologies in educational activities (Institute for the development of further professional education) (2021)" width="100">
-</a>
+<img src="kvalife/P16_06_book_kvalif_2019.jpg" alt="Certificate of advanced training in 'Information and communication technologies in educational activities (Institute for the development of further professional education) (2021)" style="width: 100px; height: 110px;">
 <a href="kvalife/P16_07_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)">
-<img src="kvalife/P16_07_book_kvalif_2019.jpg" alt="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)" width="100">
+<img src="kvalife/P16_07_book_kvalif_2019.jpg" alt="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)" style="width: 100px; height: 110px;">
 </a>
 
 </div>
