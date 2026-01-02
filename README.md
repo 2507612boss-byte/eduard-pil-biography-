@@ -389,7 +389,7 @@
 </a>
 
 <a href="economy/P4_09_book_teor_econ_cris_2013.jpg" data-lightbox="economy" data-title="Теория экономических кризисов (2013)">
-<img src="economy/P4_09_book_teor_econ_cris_2013.jpg" alt="Теория экономических кризисов (2013)" height="150px"," width="100">
+<img src="economy/P4_09_book_teor_econ_cris_2013.jpg" alt="Теория экономических кризисов (2013)" height="350px"," width="100">
 </a>
 
 
