@@ -792,31 +792,31 @@
  
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
-    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" width="100">
+    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
-    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письмо из Испании (2011)" width="100">
+    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письмо из Испании (2011)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2012)">
-    <img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" width="100">
+    <img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_08_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Англии (2011)">
-    <img src="kastro/P12_08_book_kastro_2017.jpg" alt="Письмо из Англии (2011)" width="100">
+    <img src="kastro/P12_08_book_kastro_2017.jpg" alt="Письмо из Англии (2011)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_09_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Германии (2011)">
-    <img src="kastro/P12_09_book_kastro_2017.jpg" alt="Письмо из Германии (2011)" width="100">
+    <img src="kastro/P12_09_book_kastro_2017.jpg" alt="Письмо из Германии (2011)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_10_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Ватикана (2012)">
-    <img src="kastro/P12_10_book_kastro_2017.jpg" alt="Письмо из Ватикана (2012)" width="100">
+    <img src="kastro/P12_10_book_kastro_2017.jpg" alt="Письмо из Ватикана (2012)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_11_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2012)">
-    <img src="kastro/P12_11_book_kastro_2017.jpg" alt="Письмо из Кубы (2012)" width="100">
+    <img src="kastro/P12_11_book_kastro_2017.jpg" alt="Письмо из Кубы (2012)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_12_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2014)">
-    <img src="kastro/P12_12_book_kastro_2017.jpg" alt="Письмо из Кубы (2014)" width="100">
+    <img src="kastro/P12_12_book_kastro_2017.jpg" alt="Письмо из Кубы (2014)" style="width: 100px; height: 110px;">
   </a>
   <a href="kastro/P12_13_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Бразилии (2014)">
-    <img src="kastro/P12_13_book_kastro_2017.jpg" alt="Письмо из Бразилии (2014)" width="100">
+    <img src="kastro/P12_13_book_kastro_2017.jpg" alt="Письмо из Бразилии (2014)" style="width: 100px; height: 110px;">
   </a>
 </div>
 
@@ -917,22 +917,22 @@
 
   <!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
-<img src="present/P15_01_book_present_2019.jpg" alt="Книга подаренная С.Ю. Глазьевым (2019)" width="100">
+<img src="present/P15_01_book_present_2019.jpg" alt="Книга подаренная С.Ю. Глазьевым (2019)" style="width: 100px; height: 110px;">
  </a>
 <a href="present/P15_02_book_present_2018.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2018)">
-<img src="present/P15_02_book_present_2018.jpg" alt="Книга подаренная С.Д Бодруновым (2018)" width="100">
+<img src="present/P15_02_book_present_2018.jpg" alt="Книга подаренная С.Д Бодруновым (2018)" style="width: 100px; height: 110px;">
 </a>
 <a href="present/P15_03_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2019)">
-<img src="present/P15_03_book_present_2019.jpg" alt="Книга подаренная С.Д Бодруновым (2019)" width="100">
+<img src="present/P15_03_book_present_2019.jpg" alt="Книга подаренная С.Д Бодруновым (2019)" style="width: 100px; height: 110px;">
 </a>
 <a href="present/P15_04_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)">
-<img src="present/P15_04_book_present_2019.jpg" alt="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" width="100">
+<img src="present/P15_04_book_present_2019.jpg" alt="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" style="width: 100px; height: 110px;">
 </a>
 <a href="present/P15_05_book_present_2005.jpg" data-lightbox="present" data-title="Книга подаренная Е.В. Стельмашонок (2005)">
-<img src="present/P15_05_book_present_2005.jpg" alt=Книга подаренная Е.В. Стельмашонок (2005)" width="100">
+<img src="present/P15_05_book_present_2005.jpg" alt="Книга подаренная Е.В. Стельмашонок (2005)" style="width: 100px; height: 110px;">
 </a>
 <a href="present/P15_06_book_present_2004.jpg" data-lightbox="present" data-title="Книга подаренная Ф.Ф. Павновым (2004)">
-<img src="present/P15_06_book_present_2004.jpg" alt="Книга подаренная Ф.Ф. Павновым (2004)" width="100">
+<img src="present/P15_06_book_present_2004.jpg" alt="Книга подаренная Ф.Ф. Павновым (2004)" style="width: 100px; height: 110px;">
 </a>
 </div>
 
