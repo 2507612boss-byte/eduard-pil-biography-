@@ -1034,7 +1034,7 @@ The Economist's Handbook
   
 <div class="patante">
   <a href="patente/P19_01_book_patent_2023.jpg" data-lightbox="patente" data-title="Vibrodynamic Head (1994)">
-    <img src="patente/P19_01_book_patent_2023.jpg" alt="Vibrodynamic Head (1994)" width="100">
+    <img src="patente/P19_01_book_patent_2023.jpg" alt="Vibrodynamic Head (1994)" style="width: 100px; height: 110px;">
   </a>
 
 </div>
