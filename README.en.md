@@ -308,23 +308,23 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 <img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" style="width: 100px; height: 140px;">
 </a>
 
-<a href="BookMed/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 1 (2022)">
-<img src="BookMed/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание 1 (2022)" style="width: 100px; height: 140px;">
+<a href="BookMed/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание I (2022)">
+<img src="BookMed/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание I (2022)" style="width: 100px; height: 140px;">
 </a>
-<a href="BookMed/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 2 (2022)">
-<img src="BookMed/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание 2 (2022)" style="width: 100px; height: 140px;">
+<a href="BookMed/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание II (2022)">
+<img src="BookMed/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание II (2022)" style="width: 100px; height: 140px;">
 </a>
-<a href="BookMed/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 3 (2022)">
-<img src="BookMed/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание 3 (2022)" style="width: 100px; height: 140px;">
+<a href="BookMed/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание III (2022)">
+<img src="BookMed/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание III (2022)" style="width: 100px; height: 140px;">
 </a>
-<a href="BookMed/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 4 (2022)">
-<img src="BookMed/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание 4 (2022)" style="width: 100px; height: 140px;">
+<a href="BookMed/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание IV (2022)">
+<img src="BookMed/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание IV (2022)" style="width: 100px; height: 140px;">
 </a>
-<a href="BookMed/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 5 (2022)">
-<img src="BookMed/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание 5 (2022)" style="width: 100px; height: 140px;">
+<a href="BookMed/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание V (2022)">
+<img src="BookMed/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание V (2022)" style="width: 100px; height: 140px;">
 </a>
-<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 6 (2022)">
-<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание 6 (2022)" style="width: 100px; height: 140px;">
+<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание VI (2022)">
+<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание VI (2022)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение (2024)">
 <img src="BookMed/P3_02_book_longevity_V7_2022.jpg" alt="Курение (2024)" style="width: 100px; height: 140px;">
