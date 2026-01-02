@@ -1021,7 +1021,7 @@ The Economist's Handbook
   
 <div class="diplomnik2">
   <a href="diplomnik2/P18_01_book_stud_2023.JPGG" data-lightbox="diplomnik2" data-title="Student Testimonial (2023)">
-    <img src="diplomnik2/P18_01_book_stud_2023.JPG" alt="Student Testimonial (2023)" width="100">
+    <img src="diplomnik2/P18_01_book_stud_2023.JPG" alt="Student Testimonial (2023)" style="width: 100px; height: 110px;">
   </a>
 
 </div>
