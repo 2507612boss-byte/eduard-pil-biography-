@@ -266,13 +266,13 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <div class="technologyeng">
 <!-- Пример первых 4 книг -->
 <a href="technologyeng/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="CAD/CAM (1993)">
-<img src="technologyeng/P2_01_book_sapr_1993.jpg" alt="CAD/CAM (1993)" width="100">
+<img src="technologyeng/P2_01_book_sapr_1993.jpg" alt="CAD/CAM (1993)" style="width: 100px; height: 135px;">
 </a>
 <a href="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Processing of Parts on CNC and FMS Machines (1998)">
-<img src="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Processing of Parts on CNC and FMS Machines (1998)" width="100">
+<img src="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Processing of Parts on CNC and FMS Machines (1998)" style="width: 100px; height: 135px;">
 </a>
 <a href="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="The Book on the Theory of Casing Part Machining Complexity (2003)">
-<img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="The Book on the Theory of Casing Part Machining Complexity (2003)" width="100">
+<img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="The Book on the Theory of Casing Part Machining Complexity (2003)" style="width: 100px; height: 135px;">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -305,32 +305,32 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 <div class="BookMed">
 <!-- Пример первых 2 книг -->
 <a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
-<img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" width="100">
+<img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" style="width: 100px; height: 140px;">
 </a>
 
 <a href="BookMed/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 1 (2022)">
-<img src="BookMed/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание 1 (2022)" width="100">
+<img src="BookMed/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание 1 (2022)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 2 (2022)">
-<img src="BookMed/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание 2 (2022)" width="100">
+<img src="BookMed/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание 2 (2022)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 3 (2022)">
-<img src="BookMed/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание 3 (2022)" width="100">
+<img src="BookMed/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание 3 (2022)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 4 (2022)">
-<img src="BookMed/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание 4 (2022)" width="100">
+<img src="BookMed/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание 4 (2022)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 5 (2022)">
-<img src="BookMed/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание 5 (2022)" width="100">
+<img src="BookMed/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание 5 (2022)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание 6 (2022)">
-<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание 6 (2022)" width="100">
+<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание 6 (2022)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение (2024)">
-<img src="BookMed/P3_02_book_longevity_V7_2022.jpg" alt="Курение (2024)" width="100">
+<img src="BookMed/P3_02_book_longevity_V7_2022.jpg" alt="Курение (2024)" style="width: 100px; height: 140px;">
 </a>
 <a href="BookMed/P3_02_book_longevity_V8_2022.jpg" data-lightbox="Medical" data-title="Алкоголизм (2024)">
-<img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" width="100">
+<img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" style="width: 100px; height: 140px;">
 </a>
 
 <h2>Contents of Books on Medical</h2>
@@ -384,48 +384,48 @@ Contents of Books on "Longevity and Nutrition"
 <div class="BookEcon">
 <!-- Пример первых 5 книг -->
 <a href="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. I (2011)">
-<img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. I  (2011)" width="100">
+<img src="BookEcon/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. I  (2011)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" data-lightbox="BookEcon" data-title="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. II (2011)">
-<img src="BookEcon/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. II  (2011)" width="100">
+<img src="BookEcon/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Theoretical and Statistical Scenarios of Economic and Population Development of Various Countries and Their Forecasts. Vol. II  (2011)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" data-lightbox="BookEcon" data-title="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)">
-<img src="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)" width="100">
+<img src="BookEcon/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Analysis GDP and Population of Different Countries from 1960 to 2006 years and their Predict to 2030 (2012)" style="width: 100px; height: 125px;">
 </a>
 
 
  
 <a href="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2018)">
-<img src="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol. I (2018)" width="100">
+<img src="BookEcon/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises Vol. I (2018)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_04_book_theory_econ_cris_Vol2_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. II (2019)">
-<img src="BookEcon/P4_04_book_theory_econ_cris_Vol2_2020.jpg" alt="Theory of Economic Crises Vol. II (2019)" width="100">
+<img src="BookEcon/P4_04_book_theory_econ_cris_Vol2_2020.jpg" alt="Theory of Economic Crises Vol. II (2019)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_05_book_theory_econ_cris_Vol3_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. III (2020)">
-<img src="BookEcon/P4_05_book_theory_econ_cris_Vol3_2020.jpg" alt="Theory of Economic Crises Vol. III (2020)" width="100">
+<img src="BookEcon/P4_05_book_theory_econ_cris_Vol3_2020.jpg" alt="Theory of Economic Crises Vol. III (2020)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_06_book_theory_econ_cris_Vol4_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. IV (2022)">
-<img src="BookEcon/P4_06_book_theory_econ_cris_Vol4_2020.jpg" alt="Theory of Economic Crises Vol. IV (2022)" width="100">
+<img src="BookEcon/P4_06_book_theory_econ_cris_Vol4_2020.jpg" alt="Theory of Economic Crises Vol. IV (2022)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_07_book_theory_econ_cris_Vol5_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. V (2023)">
-<img src="BookEcon/P4_07_book_theory_econ_cris_Vol5_2020.jpg" alt="Theory of Economic Crises. Vol. V (2023)" width="100">
+<img src="BookEcon/P4_07_book_theory_econ_cris_Vol5_2020.jpg" alt="Theory of Economic Crises. Vol. V (2023)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. VI (2024)">
-<img src="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Theory of Economic Crises. Vol. VI (2024)" width="100">
+<img src="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Theory of Economic Crises. Vol. VI (2024)" wstyle="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2020)">
-<img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises. Vol. I (2020)" width="100">
+<img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises. Vol. I (2020)" style="width: 100px; height: 125px;">
 </a>
 <a href="BookEcon/P4_05_book_nast_kniga_2025.jpg" data-lightbox="BookEcon" data-title="The Economist’s Handbook (2025)">
-<img src="BookEcon/P4_05_book_nast_kniga_2025.jpg" alt="The Economist’s Handbook(2025)" width="100">
+<img src="BookEcon/P4_05_book_nast_kniga_2025.jpg" alt="The Economist’s Handbook(2025)" style="width: 100px; height: 125px;">
 </a>
 
 <h2>Contents and References of Books on Economics</h2>
