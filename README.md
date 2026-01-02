@@ -378,51 +378,50 @@
 <div class=economy"">
 <!-- Пример первых 5 книг -->
 <a href="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том I (2011)">
-<img src="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том I (2011)" width="100">
+<img src="economy/P4_01_book_Teor_stat_razv_econ_nasel_prognoz_2011.JPG" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том I (2011)"  style="width: 100px; height: 125px;">
+  
 </a>
 <a href="economy/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том II (2011)">
-<img src="economy/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том II (2011)" width="100">
+<img src="economy/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том II (2011)" style="width: 100px; height: 125px;">
 </a>
   
 <a href="economy/P4_02_book_anal_VVP_nasel_stran_2012.JPG" data-lightbox="economy" data-title="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030  (2012)">
-<img src="economy/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030 (2012)" width="100">
+<img src="economy/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030 (2012)"  style="width: 100px; height: 125px;">
 </a>
 
 <a href="economy/P4_09_book_teor_econ_cris_2013.jpg" data-lightbox="economy" data-title="Теория экономических кризисов (2013)">
-<img src="economy/P4_09_book_teor_econ_cris_2013.jpg" alt="Теория экономических кризисов (2013)" 
-  style="width: 100px; height: 125px;">
+<img src="economy/P4_09_book_teor_econ_cris_2013.jpg" alt="Теория экономических кризисов (2013)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="economy/P4_09_book_teor_econ_cris_2017.jpg" data-lightbox="economy" data-title="Теория экономических кризисов (2017)">
-<img src="economy/P4_09_book_teor_econ_cris_2017.jpg" alt="Теория экономических кризисов (2017)"
-  style="width: 100px; height: 125px;">
+<img src="economy/P4_09_book_teor_econ_cris_2017.jpg" alt="Теория экономических кризисов (2017)" style="width: 100px; height: 125px;">
 </a>
 
 
 
 <a href="economy/P4_03_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 1 (2018)">
-<img src="economy/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Теория экономических кризисов Том 1 (2018)" width="100">
+<img src="economy/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Теория экономических кризисов Том 1 (2018)"  style="width: 100px; height: 125px;">
 </a>
 <a href="economy/P4_04_book_theory_econ_cris_Vol2_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 2 (2019)">
-<img src="economy/P4_04_book_theory_econ_cris_Vol2_2020.jpg" alt="Теория экономических кризисов Том 2 (2019)" width="100">
+<img src="economy/P4_04_book_theory_econ_cris_Vol2_2020.jpg" alt="Теория экономических кризисов Том 2 (2019)" style="width: 100px; height: 125px;">
 </a>
 <a href="economy/P4_05_book_theory_econ_cris_Vol3_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 3 (2021)">
 <img src="economy/P4_05_book_theory_econ_cris_Vol3_2020.jpg" alt="Теория экономических кризисов Том 3 (2021)" width="100">
 </a>
 <a href="economy/P4_06_book_theory_econ_cris_Vol4_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 4 (2022)">
-<img src="economy/P4_06_book_theory_econ_cris_Vol4_2020.jpg" alt="Теория экономических кризисов Том 4 (2022)" width="100">
+<img src="economy/P4_06_book_theory_econ_cris_Vol4_2020.jpg" alt="Теория экономических кризисов Том 4 (2022)" style="width: 100px; height: 125px;">
 </a>
 <a href="economy/P4_07_book_theory_econ_cris_Vol5_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 5 (2023)">
-<img src="economy/P4_07_book_theory_econ_cris_Vol5_2020.jpg" alt="Теория экономических кризисов Том 5 (2023)" width="100">
+<img src="economy/P4_07_book_theory_econ_cris_Vol5_2020.jpg" alt="Теория экономических кризисов Том 5 (2023)"  style="width: 100px; height: 125px;">
 </a>
 <a href="economy/P4_08_book_teor_econ_cris_V6_2024.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 6 (2024)">
-<img src="economy/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Теория экономических кризисов Том 6 (2024)" width="100">
+<img src="economy/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Теория экономических кризисов Том 6 (2024)"  style="width: 100px; height: 125px;">
 </a>
 <a href="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol 1 (2020)">
-<img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises. Vol 1 (2020)" width="100">
+<img src="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" alt="Theory of Economic Crises. Vol 1 (2020)"  style="width: 100px; height: 125px;">
 </a>
 <a href="economy/P4_05_book_nast_kniga_2025.JPG" data-lightbox="economy" data-title="Настольная книга экономиста (2025)">
-<img src="economy/P4_05_book_nast_kniga_2025.JPG" alt="Настольная книга экономиста (2025)" width="100">
+<img src="economy/P4_05_book_nast_kniga_2025.JPG" alt="Настольная книга экономиста (2025)"  style="width: 100px; height: 125px;">
 </a>
 
 <h2>Содержание книг</h2>
