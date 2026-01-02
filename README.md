@@ -550,16 +550,16 @@
 <div class=english"">
 <!-- Пример первых 4 книг -->
 <a href="english/P5_01_book_letter_call_2000.JPG" data-lightbox="english" data-title="English Letters and Calling (2000)">
-<img src="english/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000))" 
+<img src="english/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000))" style="width: 100px; height: 125px;">
 </a>
 <a href="english/P5_02_book_slang_2001.JPG" data-lightbox="english" data-title="Idioms, Slang, Antonyms and Synonyms in One Book (2001)">
-<img src="english/P5_02_book_slang_2001.JPG" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" width="100">
+<img src="english/P5_02_book_slang_2001.JPG" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" style="width: 100px; height: 125px;">
 </a>
 <a href="english/P5_03_book_jokes_2002.jpg" data-lightbox="english" data-title="I Like English Jokes (2002)">
-<img src="english/P5_03_book_jokes_2002.jpg" alt="I Like English Jokes (2002)" width="100">
+<img src="english/P5_03_book_jokes_2002.jpg" alt="I Like English Jokes (2002)" style="width: 100px; height: 125px;">
 </a>
 <a href="english/P5_04_book_words_2004.JPG" data-lightbox="english" data-title="Words for Everyday Tpics (2004)">
-<img src="english/P5_04_book_words_2004.JPG" alt="Words for Everyday Tpics (2004)" width="100">
+<img src="english/P5_04_book_words_2004.JPG" alt="Words for Everyday Tpics (2004)" style="width: 100px; height: 125px;">
 </a>
 
 </div>
@@ -575,10 +575,10 @@
 <div class=english"">
 <!-- Пример первых 2 книг -->
 <a href="fiction/P6_01_book_stepan_2022.jpg" data-lightbox="fiction" data-title="Один День Питерского Карасика Степашки (2022)">
-<img src="fiction/P6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022)" width="100">
+<img src="fiction/P6_01_book_stepan_2022.jpg" alt="Один День Питерского Карасика Степашки (2022)" style="width: 100px; height: 125px;">
 </a>
 <a href="fiction/P6_02_book_rus_2025.jpg" data-lightbox="fiction" data-title="Житие Святой Руси (2025)">
-<img src="fiction/P6_02_book_rus_2025.jpg" alt="Житие Святой Руси (2025)" width="100">
+<img src="fiction/P6_02_book_rus_2025.jpg" alt="Житие Святой Руси (2025)" style="width: 100px; height: 125px;">
 </a>
 
 </div>
