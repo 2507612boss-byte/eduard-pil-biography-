@@ -277,16 +277,16 @@
   Содержание книги по теории сложности обработки корпусных деталей и список литературы
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Содержание книги">
-<img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" le="width: 100px; height: 135px;">
+<img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" style="width: 100px; height: 135px;">
 </a>
 <a href="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="Список литературы">
-<img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Список литературы" le="width: 100px; height: 135px;">
+<img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Список литературы" style="width: 100px; height: 135px;">
 </a>
 
 
  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
-<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" width="100">
+<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" style="width: 100px; height: 135px;">
 </a>
 
 </div>
@@ -550,7 +550,7 @@
 <div class=english"">
 <!-- Пример первых 4 книг -->
 <a href="english/P5_01_book_letter_call_2000.JPG" data-lightbox="english" data-title="English Letters and Calling (2000)">
-<img src="english/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000))" width="100">
+<img src="english/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000))" 
 </a>
 <a href="english/P5_02_book_slang_2001.JPG" data-lightbox="english" data-title="Idioms, Slang, Antonyms and Synonyms in One Book (2001)">
 <img src="english/P5_02_book_slang_2001.JPG" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" width="100">
