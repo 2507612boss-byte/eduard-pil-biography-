@@ -266,9 +266,10 @@
 <a href="technology/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
 <img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" width="100">
 </a>
+
 <a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Обработка деталей на станках с ЧПУ и ГПС (1998)">
-<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)" width="100">
-</a>
+<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)"  style="width: 100px; height: 125px;">
+    
 <a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
 <img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
 </a>
