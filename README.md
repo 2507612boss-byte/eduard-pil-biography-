@@ -383,11 +383,21 @@
 <a href="economy/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" data-lightbox="economy" data-title="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том II (2011)">
 <img src="economy/P4_02_book_Teor_stat_razv_econ_nasel_prognoz_2011.jpg" alt="Теоретические и статистические варианты развития экономики и населения и их прогноз. Том II (2011)" width="100">
 </a>
-
   
 <a href="economy/P4_02_book_anal_VVP_nasel_stran_2012.JPG" data-lightbox="economy" data-title="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030  (2012)">
 <img src="economy/P4_02_book_anal_VVP_nasel_stran_2012.JPG" alt="Анализ ВВП и населения различных стран с 1960 по 2006 гг и их прогноз до 2030 (2012)" width="100">
 </a>
+
+<a href="economy/P4_09_book_teor_econ_cris_2013.jpg" data-lightbox="economy" data-title="Теория экономических кризисов (2013)">
+<img src="economy/P4_09_book_teor_econ_cris_2013.jpg" alt="Теория экономических кризисов (2013)" width="100">
+</a>
+
+<a href="economy/P4_09_book_teor_econ_cris_2017.jpg" data-lightbox="economy" data-title="Теория экономических кризисов (2017)">
+<img src="economy/P4_09_book_teor_econ_cris_2017.jpg" alt="Теория экономических кризисов (2017)" width="100">
+</a>
+
+
+
 <a href="economy/P4_03_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="economy" data-title="Теория экономических кризисов Том 1 (2018)">
 <img src="economy/P4_03_book_theory_econ_cris_Vol1_2020.jpg" alt="Теория экономических кризисов Том 1 (2018)" width="100">
 </a>
