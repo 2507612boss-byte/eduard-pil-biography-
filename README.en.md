@@ -565,16 +565,16 @@ The Economist's Handbook
 <div class="english">
 <!-- Пример первых 4 книг -->
 <a href="english2/P5_01_book_letter_call_2000.JPG" data-lightbox="english2" data-title="English Letters and Calling (2000)">
-<img src="english2/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000)" width="100">
+<img src="english2/P5_01_book_letter_call_2000.JPG" alt="English Letters and Calling (2000)" style="width: 100px; height: 125px;">
 </a>
 <a href="english2/P5_02_book_slang_2001.JPG" data-lightbox="english2" data-title="Idioms, Slang, Antonyms and Synonyms in One Book (2001)">
-<img src="english2/P5_02_book_slang_2001.JPG" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" width="100">
+<img src="english2/P5_02_book_slang_2001.JPG" alt="Idioms, Slang, Antonyms and Synonyms in One Book (2001)" style="width: 100px; height: 125px;">
 </a>
 <a href="english2/P5_03_book_jokes_2002.jpg" data-lightbox="english2" data-title="I Like English Jokes (2002)">
-<img src="english2/P5_03_book_jokes_2002.jpg" alt="I Like English Jokes (2002)" width="100">
+<img src="english2/P5_03_book_jokes_2002.jpg" alt="I Like English Jokes (2002)" style="width: 100px; height: 125px;">
 </a>
 <a href="english2/P5_04_book_words_2004.JPG" data-lightbox="english2" data-title="Words for Everyday Topics (2004)">
-<img src="english2/P5_04_book_words_2004.JPG" alt="Words for Everyday Topics (2004)" width="100">
+<img src="english2/P5_04_book_words_2004.JPG" alt="Words for Everyday Topics (2004)" style="width: 100px; height: 125px;">
 </a>
 
 </div>
@@ -591,10 +591,10 @@ The Economist's Handbook
 <div class="fictione">
 <!-- Пример первых 2 книг -->
 <a href="fictione/P6_01_book_stepan_2022.jpg" data-lightbox="fictione" data-title="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)">
-<img src="fictione/P6_01_book_stepan_2022.jpg" alt="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)" width="100">
+<img src="fictione/P6_01_book_stepan_2022.jpg" alt="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)" style="width: 100px; height: 125px;">
 </a>
 <a href="fictione/P6_02_book_rus_2025.jpg" data-lightbox="fictione" data-title="The Life of Holy Rus (Historical/Spiritual Fiction)">
-<img src="fictione/P6_02_book_rus_2025.jpg" alt="The Life of Holy Rus (Historical/Spiritual Fiction)" width="100">
+<img src="fictione/P6_02_book_rus_2025.jpg" alt="The Life of Holy Rus (Historical/Spiritual Fiction)" style="width: 100px; height: 125px;">
 </a>
 
 </div>
