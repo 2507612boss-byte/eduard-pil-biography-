@@ -973,12 +973,12 @@
 <div class="kvalif">
 
 <!-- Пример первых 7 копии -->
-<a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
-<img src="kvalif/P16_01_book_kvalif_2019.jpg" alt="Методология анализа и проектирования бизнес систем (2013)" width="100">
- </a>
 <a href="kvalif/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат достижения майкрософт (2018)">
 <img src="kvalif/P16_02_book_kvalif_2019.jpg" alt="Сертификат достижения майкрософт (2018)" width="100">
 </a>
+<a href="kvalif/P16_01_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Методология анализа и проектирования бизнес систем(2013)">
+<img src="kvalif/P16_01_book_kvalif_2019.jpg" alt="Методология анализа и проектирования бизнес систем (2013)" width="100">
+ </a>
 <a href="kvalif/P16_03_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат повышения квалификации по педагогике и психологии Высшей школы (СПбГПМУ) (2013)">
 <img src="kvalif/P16_03_book_kvalif_2019.jpg" alt="Сертификат повышения квалификации по педагогике и психологии Высшей школы (СПбГПМУ) (2013)" width="100">
 </a>
