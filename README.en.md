@@ -418,7 +418,7 @@ Contents of Books on "Longevity and Nutrition"
 </a>
 
 <a href="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. VI (2024)">
-<img src="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Theory of Economic Crises. Vol. VI (2024)" wstyle="width: 100px; height: 125px;">
+<img src="BookEcon/P4_08_book_teor_econ_cris_V6_2024.jpg" alt="Theory of Economic Crises. Vol. VI (2024)" style="width: 100px; height: 125px;">
 </a>
 
 <a href="BookEcon/P4_04_book_theory_econ_cris_Vol1_2020.jpg" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2020)">
