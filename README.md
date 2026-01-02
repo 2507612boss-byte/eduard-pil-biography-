@@ -478,7 +478,8 @@
 <a href="economy/P4_11_book_theory_econ_cris_17.pdf " data-lightbox="economy" data-title="Теория экономических кризисов. (2017)">
 <img src="economy/P4_11_book_theory_econ_cris_17.pdf " alt="Теория экономических кризисов. (2017)" width="100">
 </a>
-  
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
    Тома I-VI
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_06_book_theory_econ_cris_Vol1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018)">
@@ -513,7 +514,7 @@
 <img src="economy/P4_18_book_theory_liter17.pdf" alt="Теория экономических кризисов. (2017)" width="100">
 </a>
     
-  
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   Тома I-VI
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="economy/P4_13_book_theory_liter1.pdf" data-lightbox="economy" data-title="Теория экономических кризисов. Том I (2018)">
