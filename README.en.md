@@ -359,7 +359,7 @@ Contents of Books on "Longevity and Nutrition"
 <a href="BookMed/P3_02_book_longevity_V5_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. V (2022)">
 <img src="BookMed/P3_02_book_longevity_V5_2022.pdf" alt="Longevity and Nutrition. Vol. V (2022)" width="100">
 </a>
-<a href="BookMed/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. VI (2022)">
+<a href="BookMed/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol.VI (2022)">
 <img src="BookMed/P3_02_book_longevity_V6_2022.pdf" alt="Longevity and Nutrition. Vol. VI (2022)" width="100">
 </a>
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
