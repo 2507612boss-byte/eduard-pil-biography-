@@ -264,23 +264,23 @@
 <div class="technology">
 <!-- Пример первых 4 книг -->
 <a href="technology/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
-<img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" width="100">
+<img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" le="width: 100px; height: 135px;">
 </a>
 
 <a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Обработка деталей на станках с ЧПУ и ГПС (1998)">
-<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)"  style="width: 100px; height: 125px;">
+<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)"  style="width: 100px; height: 135px;">
     
 <a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
-<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" width="100">
+<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)"le="width: 100px; height: 135px;">
 </a>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   Содержание книги по теории сложности обработки корпусных деталей и список литературы
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Содержание книги">
-<img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" width="100">
+<img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" le="width: 100px; height: 135px;">
 </a>
 <a href="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="Список литературы">
-<img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Список литературы" width="100">
+<img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Список литературы" le="width: 100px; height: 135px;">
 </a>
 
 
