@@ -1042,7 +1042,7 @@
   
 <div class="patant">
   <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
-    <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" width="100">
+    <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" style="width: 100px; height: 110px;">
   </a>
 
 </div>
