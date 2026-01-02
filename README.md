@@ -393,10 +393,9 @@
   style="width: 100px; height: 125px;">
 </a>
 
-
-
 <a href="economy/P4_09_book_teor_econ_cris_2017.jpg" data-lightbox="economy" data-title="Теория экономических кризисов (2017)">
-<img src="economy/P4_09_book_teor_econ_cris_2017.jpg" alt="Теория экономических кризисов (2017)" width="100">
+<img src="economy/P4_09_book_teor_econ_cris_2017.jpg" alt="Теория экономических кризисов (2017)"
+  style="width: 100px; height: 125px;">
 </a>
 
 
