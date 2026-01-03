@@ -185,7 +185,7 @@
 </a>
 
 <a href="images/diplomas/P1_21_diplom_kvalif_1967.jpg" data-lightbox="diplomas" data-title="Свидетельство о присвоении квалификации (1967)">
-  <img src="images/diplomas/P1_21_diplom_kvalif_1967.jpg" alt="Свидетельство о присвоении квалификации (1967)" width="100">
+  <img src="images/diplomas/P1_21_diplom_kvalif_1967.jpg" alt="Свидетельство о присвоении квалификации (1967)" style="width: 100px; height: 115px;">
 </a>
 
 <a href="images/diplomas/P1_22_diplom_school_1967.jpg" data-lightbox="diplomas" data-title="Аттестат о среднем образовании (1967)">
