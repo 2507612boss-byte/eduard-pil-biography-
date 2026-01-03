@@ -176,83 +176,83 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 </a>
 
 <a href="diplomas2/P1_21_diplom_kvalif_1967.jpg" data-lightbox="diplomas2" data-title="Certificate of Qualification Award (1967)">
-  <img src="diplomas2/P1_21_diplom_kvalif_1967.jpg" alt="Certificate of Qualification Award (1967)" width="100">
+  <img src="diplomas2/P1_21_diplom_kvalif_1967.jpg" alt="Certificate of Qualification Award (1967)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="diplomas2/P1_22_diplom_school_1967.jpg" data-lightbox="diplomas2" data-title="Secondary Education Certificate (1967)">
-  <img src="diplomas2/P1_22_diplom_school_1967.jpg" alt="Secondary Education Certificate (1967)" width="100">
+  <img src="diplomas2/P1_22_diplom_school_1967.jpg" alt="Secondary Education Certificate (1967)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="diplomas2/P1_20_diplom_forest_1993.JPG" data-lightbox="diplomas2" data-title="Certificate of the International Timber Exchange (1993)">
-  <img src="diplomas2/P1_20_diplom_forest_1993.JPG" alt="Certificate of the International Timber Exchange (1993)" width="100">
+  <img src="diplomas2/P1_20_diplom_forest_1993.JPG" alt="Certificate of the International Timber Exchange (1993)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="diplomas2/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas2" data-title="Certificate of State Foreign Language Courses (1975)">
-  <img src="diplomas2/P1_14_sertifikat_english_1975.JPG" alt="Certificate of State Foreign Language Courses (1975)" width="100">
+  <img src="diplomas2/P1_14_sertifikat_english_1975.JPG" alt="Certificate of State Foreign Language Courses (1975)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="diplomas2/P1_15_diplom_vtuza_1973.JPG" data-lightbox="diplomas2" data-title="Master’s in Hydraulic Systems and Automation (1973)">
-  <img src="diplomas2/P1_15_diplom_vtuza_1973.JPG" alt="Master’s in Hydraulic Systems and Automation (1973)" width="100">
+  <img src="diplomas2/P1_15_diplom_vtuza_1973.JPG" alt="Master’s in Hydraulic Systems and Automation (1973)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="diplomas2/P1_19_diplom_mark_1986.JPG" data-lightbox="diplomas2" data-title="Diploma of the University of Marxism–Leninism (1986)">
-  <img src="diplomas2/P1_19_diplom_mark_1986.JPG" alt="Diploma of the University of Marxism–Leninism (1986)" width="100">
+  <img src="diplomas2/P1_19_diplom_mark_1986.JPG" alt="Diploma of the University of Marxism–Leninism (1986)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="diplomas2/P1_16_diplom_kandidata_1991.JPG" data-lightbox="diplomas2" data-title="PhD in Technical Science (1991)">
-  <img src="diplomas2/P1_16_diplom_kandidata_1991.JPG" alt="PhD in Technical Science (1991)" width="100">
+  <img src="diplomas2/P1_16_diplom_kandidata_1991.JPG" alt="PhD in Technical Science (1991)" style="width: 100px; height: 45px;">
 </a>
 
 <a href="diplomas2/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas2" data-title="Associate Professor Certificate (2005)">
-  <img src="diplomas2/P1_18_diplom_docent_2005.jpg" alt="Associate Professor Certificate (2005)" width="100">
+  <img src="diplomas2/P1_18_diplom_docent_2005.jpg" alt="Associate Professor Certificate (2005)" style="width: 100px; height: 45px;">
 </a>
 
 <a href="diplomas2/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas2" data-title="Doctor of Technical Sciences (Post-PhD, 2000)">
-<img src="diplomas2/P1_01_diplom_dtn_2000.jpg" alt="Doctor of Technical Sciences (Post-PhD, 2000)" width="100">
+<img src="diplomas2/P1_01_diplom_dtn_2000.jpg" alt="Doctor of Technical Sciences (Post-PhD, 2000)" style="width: 100px; height: 45px;">
 </a>
 
 <a href="diplomas2/P1_02_diplom_prof_rae_2012.jpg" data-lightbox="diplomas2" data-title="Professor in Technical Sciences (2012)">
-<img src="diplomas2/P1_02_diplom_prof_rae_2012.jpg" alt="Professor in Technical Sciences (2012)" width="100">
+<img src="diplomas2/P1_02_diplom_prof_rae_2012.jpg" alt="Professor in Technical Sciences (2012)" style="width: 100px; height: 45px;">
 </a>
 
 <a href="diplomas2/P1_04_diplom_chlenkora_rae_2011.jpg" data-lightbox="diplomas2" data-title="Corresponding Member of the Russian Academy of Natural History (2011)">
-<img src="diplomas2/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Corresponding Member of the Russian Academy of Natural History (2011)" width="100">
+<img src="diplomas2/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Corresponding Member of the Russian Academy of Natural History (2011)" style="width: 100px; height: 45px;">
 </a>
 
 <a href="diplomas2/P1_05_diplom_akademika_rae_2016.JPG" data-lightbox="diplomas2" data-title="Academician of the Russian Academy of Natural History (2016)">
-<img src="diplomas2/P1_05_diplom_akademika_rae_2016.JPG" alt="Academician of the Russian Academy of Natural History (2016)" width="100">
+<img src="diplomas2/P1_05_diplom_akademika_rae_2016.JPG" alt="Academician of the Russian Academy of Natural History (2016)" style="width: 100px; height: 45px;">
 </a>
 
 <a href="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.JPG" data-lightbox="diplomas2" data-title="Corresponding Member of the International Academy of Sciences of Higher Education (2000)">
-<img src="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.JPG" alt="Corresponding Member of the International Academy of Sciences of Higher Education (2000)" width="100">
+<img src="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.JPG" alt="Corresponding Member of the International Academy of Sciences of Higher Education (2000)" style="width: 100px; height: 45px;">
+</a>
+
+<a href="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas2" data-title="Certificate of Full Member of the International League of Intellectuals (2021)">
+<img src="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Certificate of Full Member of the International League of Intellectuals (2021)" style="width: 100px; height: 90px;">
 </a>
 
 <a href="diplomas2/P1_06_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas2" data-title="Honored Worker of Science and Education (2011)">
-<img src="diplomas2/P1_06_diplom_zasluzh_nauki_2011.jpg" alt="Honored Worker of Science and Education (2011)" width="100">
+<img src="diplomas2/P1_06_diplom_zasluzh_nauki_2011.jpg" alt="Honored Worker of Science and Education (2011)" style="width: 100px; height: 90px;">
 </a>
 
 <a href="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas2" data-title="Diploma “Golden Chair of Russia” (2011)">
-<img src="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Diploma “Golden Chair of Russia” (2011)" width="100">
+<img src="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Diploma “Golden Chair of Russia” (2011)" style="width: 100px; height: 90px;">
 </a>
 
 <a href="diplomas2/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas2" data-title="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”">
 <img src="diplomas2/P1_17_diplom_adama_2017.jpg" alt="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”" width="100">
 </a>
 
-<a href="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas2" data-title="Certificate of Full Member of the International League of Intellectuals (2021)">
-<img src="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Certificate of Full Member of the International League of Intellectuals (2021)" width="100">
-</a>
-
 <a href="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" data-lightbox="diplomas2" data-title="World Science">
-<img src="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="World Science" width="100">
+<img src="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="World Science" style="width: 100px; height: 90px;">
 </a>
 
 <a href="diplomas2/P1_13_sertifikat_souza_2022.JPG" data-lightbox="diplomas2" data-title="International Union of Writes and Poets">
-<img src="diplomas2/P1_13_sertifikat_souza_2022.JPG" alt="International Union of Writes and Poets" width="100">
+<img src="diplomas2/P1_13_sertifikat_souza_2022.JPG" alt="International Union of Writes and Poets" style="width: 100px; height: 90px;">
 </a>
 
 <a href="diplomas2/P1_24_diplom_school_2025.jpg" data-lightbox="diplomas2" data-title="Certificate of the Free Economic Society of Russia">
-<img src="diplomas2/P1_24_diplom_school_2025.jpg" alt="Certificate of the Free Economic Society of Russiaи" width="100">
+<img src="diplomas2/P1_24_diplom_school_2025.jpg" alt="Certificate of the Free Economic Society of Russiaи" style="width: 100px; height: 35px;">
 </a>
 </div>
 
