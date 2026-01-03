@@ -209,27 +209,27 @@
 </a>
 
 <a href="images/diplomas/P1_16_diplom_kandidata_1991.jpg" data-lightbox="diplomas" data-title="Диплом кандидата технических наук">
-  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата технических наук" style="width: 100px; height: 50px;">
+  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата технических наук" style="width: 100px; height: 45px;">
 </a>
 
 <a href="images/diplomas/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas" data-title="Аттестат доцента">
-  <img src="images/diplomas/P1_18_diplom_docent_2005.jpg" alt="Аттестат доцентак" width="100">
+  <img src="images/diplomas/P1_18_diplom_docent_2005.jpg" alt="Аттестат доцента" style="width: 100px; height: 45px;">
 </a>
 
 <a href="images/diplomas/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas" data-title="доктор технических наук">
-<img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="доктор технических наук" width="100">
+<img src="images/diplomas/P1_01_diplom_dtn_2000.jpg" alt="Доктор Технических Наук" style="width: 100px; height: 45px;">
 </a>
 <a href="images/diplomas/P1_02_diplom_prof_rae_2012.JPG" data-lightbox="diplomas" data-title="Профессор РАЕ">
-<img src="images/diplomas/P1_02_diplom_prof_rae_2012.JPG" alt="Профессор РАЕ" width="100">
+<img src="images/diplomas/P1_02_diplom_prof_rae_2012.JPG" alt="Профессор РАЕ" style="width: 100px; height: 45px;">
 </a>
 <a href="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" data-lightbox="diplomas" data-title="Член-корреспондент РАЕ">
-<img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Член-корреспондент РА" width="100">
+<img src="images/diplomas/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Член-корреспондент РАЕ" style="width: 100px; height: 45px;">
 </a>
 <a href="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" data-lightbox="diplomas" data-title="Академик РАЕ">
-<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" alt="Академик РАЕ" width="100">
+<img src="images/diplomas/P1_06_diplom_akademika_rae_2016.jpg" alt="Академик РАЕ" width="100" style="width: 100px; height: 45px;">
 </a>
 <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" data-lightbox="diplomas" data-title="Международная Академия Наук Высшей Школы (МАНВШ)">
-<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="Международная Академия Наук Высшей Школы (МАНВШ)" width="100">
+<img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="Международная Академия Наук Высшей Школы (МАНВШ)" style="width: 100px; height: 45px;">
 </a>
 <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель науки РАЕ">
 <img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Заслуженный деятель науки РАЕ" width="100">
