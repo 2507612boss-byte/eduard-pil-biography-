@@ -231,8 +231,11 @@
 <a href="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" data-lightbox="diplomas" data-title="Международная Академия Наук Высшей Школы (МАНВШ)">
 <img src="images/diplomas/P1_03_diplom_chlenkora_man_vsh_2000.jpg" alt="Международная Академия Наук Высшей Школы (МАНВШ)" style="width: 100px; height: 45px;">
 </a>
+<a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов">
+<img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Лига Интеллектуалов" width="100">
+</a>
 <a href="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas" data-title="Заслуженный деятель науки РАЕ">
-<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Заслуженный деятель науки РАЕ" width="100">
+<img src="images/diplomas/P1_05_diplom_zasluzh_nauki_2011.jpg" alt="Заслуженный деятель науки РАЕ" style="width: 100px; height: 90px;">
 </a>
 <a href="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas" data-title="Золотая кафедра РАЕ">
 <img src="images/diplomas/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Золотая кафедра РАЕ" width="100">
@@ -240,9 +243,16 @@
 <a href="images/diplomas/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas" data-title="Удостоверение к медали Адама Смита">
 <img src="images/diplomas/P1_17_diplom_adama_2017.jpg" alt="Удостоверение к медали Адама Смита" width="100">
 </a>
+
+
+
 <a href="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas" data-title="Лига Интеллектуалов">
 <img src="images/diplomas/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Лига Интеллектуалов" width="100">
 </a>
+
+
+
+
 <a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg" data-lightbox="diplomas" data-title="Мировая экономика">
 <img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="Мировая экономика" width="100">
 </a>
