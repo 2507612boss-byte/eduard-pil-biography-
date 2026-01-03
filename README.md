@@ -189,27 +189,27 @@
 </a>
 
 <a href="images/diplomas/P1_22_diplom_school_1967.jpg" data-lightbox="diplomas" data-title="Аттестат о среднем образовании (1967)">
-  <img src="images/diplomas/P1_22_diplom_school_1967.jpg" alt="Аттестат о среднем образовании" width="100">
+  <img src="images/diplomas/P1_22_diplom_school_1967.jpg" alt="Аттестат о среднем образовании" style="width: 100px; height: 70px;">
 </a>
 
 <a href="images/diplomas/P1_20_diplom_forest_1993.JPG" data-lightbox="diplomas" data-title="Свидетельство международной лесной бирже (1993)">
-  <img src="images/diplomas/P1_20_diplom_forest_1993.JPG" alt="Свидетельство международной лесной бирже (1993)" width="100">
+  <img src="images/diplomas/P1_20_diplom_forest_1993.JPG" alt="Свидетельство международной лесной бирже (1993)" width="100" style="width: 100px; height: 70px;">
 </a>
 
 <a href="images/diplomas/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas" data-title="Сертификат Государственных курсов иностранных языков (1975)">
-  <img src="images/diplomas/P1_14_sertifikat_english_1975.JPG" alt="Сертификат Государственных курсов иностранных языков (1975)" width="100">
+  <img src="images/diplomas/P1_14_sertifikat_english_1975.JPG" alt="Сертификат Государственных курсов иностранных языков (1975)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="images/diplomas/P1_15_diplom_vtuza_1973.jpg" data-lightbox="diplomas" data-title="Диплом ВТУЗа">
-  <img src="images/diplomas/P1_15_diplom_vtuza_1973.jpg" alt="Диплом ВТУЗа" width="100">
+  <img src="images/diplomas/P1_15_diplom_vtuza_1973.jpg" alt="Диплом ВТУЗа" style="width: 100px; height: 70px;">
 </a>
 
 <a href="images/diplomas/P1_19_diplom_mark_1986.JPG" data-lightbox="diplomas" data-title="Диплом университета марксизма-ленинизма (1986)">
-  <img src="images/diplomas/P1_19_diplom_mark_1986.JPG" alt=Диплом университета марксизма-ленинизма (1986)" width="100">
+  <img src="images/diplomas/P1_19_diplom_mark_1986.JPG" alt="Диплом университета марксизма-ленинизма (1986)" style="width: 100px; height: 70px;">
 </a>
 
 <a href="images/diplomas/P1_16_diplom_kandidata_1991.jpg" data-lightbox="diplomas" data-title="Диплом кандидата технических наук">
-  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата технических наук" width="100">
+  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата технических наук" style="width: 100px; height: 40px;">
 </a>
 
 <a href="images/diplomas/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas" data-title="Аттестат доцента">
