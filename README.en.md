@@ -485,7 +485,8 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 <img src="BookEcon/P4_11_book_theory_econ_cris_17.pdf" alt="Theory of Economic Crises. (2017)" width="100">
 </a>
     
-    
+
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   Volumes I-VI
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
     
