@@ -209,7 +209,7 @@
 </a>
 
 <a href="images/diplomas/P1_16_diplom_kandidata_1991.jpg" data-lightbox="diplomas" data-title="Диплом кандидата технических наук">
-  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата технических наук" style="width: 100px; height: 40px;">
+  <img src="images/diplomas/P1_16_diplom_kandidata_1991.jpg" alt="Диплом кандидата технических наук" style="width: 100px; height: 50px;">
 </a>
 
 <a href="images/diplomas/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas" data-title="Аттестат доцента">
