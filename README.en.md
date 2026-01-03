@@ -240,7 +240,7 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 </a>
 
 <a href="diplomas2/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas2" data-title="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”">
-<img src="diplomas2/P1_17_diplom_adama_2017.jpg" alt="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”" width="100">
+<img src="diplomas2/P1_17_diplom_adama_2017.jpg" alt="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”" style="width: 100px; height: 90px;">
 </a>
 
 <a href="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" data-lightbox="diplomas2" data-title="World Science">
