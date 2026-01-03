@@ -815,7 +815,7 @@ The Economist's Handbook
 <img src="serpapers/P11_010_book_papers10_2017.jpg" alt="3D graphing of Veu based on X6. Bulgaria, (2020)" style="width: 100px; height: 75px;">
 </a>
 <a href="serpapers/P11_011_book_papers11_2017.jpg" data-lightbox="record" data-title="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)">
-<img src="serpapers/P11_011_book_papers11_2017.jpg" alt="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, style="width: 100px; height: 75px;">
+<img src="serpapers/P11_011_book_papers11_2017.jpg" alt="Influence of negative values ofvariables in the calculation of Vsl to find a way out of economic crisis. India, (2025)"  style="width: 100px; height: 75px;">
 </a>
 
 </div>
@@ -1028,7 +1028,7 @@ The Economist's Handbook
 <a href="kvalife/P16_06_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of advanced training in 'Information and communication technologies in educational activities (Institute for the development of further professional education)(2021)">
 <img src="kvalife/P16_06_book_kvalif_2019.jpg" alt="Certificate of advanced training in 'Information and communication technologies in educational activities (Institute for the development of further professional education) (2021)" style="width: 100px; height: 110px;">
 <a href="kvalife/P16_07_book_kvalif_2019.jpg" data-lightbox="kvalife" data-title="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)">
-<img src="kvalife/P16_07_book_kvalif_2019.jpg" alt="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)" style="width: 100px; height: 110px;">
+ <img src="kvalife/P16_07_book_kvalif_2019.jpg" alt="Certificate of Professional Development 'Organization of Transportation and Transport Management' (St. Petersburg State University of Aerospace Instrumentation) (2023)" style="width: 100px; height: 110px;">
 </a>
 
 </div>
