@@ -711,7 +711,7 @@
 </a>
   
 <a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
-<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
+<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -771,7 +771,7 @@
 <div class="serpapers">
 <!-- Пример первых 11 сертификатов -->
 <a href="serpapers/P11_05_book_papers5_2017.jpg" data-lightbox="serpapers" data-title="Theory of the economy crises. China, (2019)">
-<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" style="width: 100px; height: 90px;">
+<img src="serpapers/P11_05_book_papers5_2017.jpg" alt="Theory of the economy crises. China, (2019)" style="width: 100px; height: 80px;">
 </a>
 <a href="serpapers/P11_01_book_papers1_2017.jpg" data-lightbox="serpapers" data-title="Certificate of participation. Turkey, (2006)">
 <img src="serpapers/P11_01_book_papers1_2017.jpg" alt="Certificate of participation. Turkey, (2006)" width="100">
