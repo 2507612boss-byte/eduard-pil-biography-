@@ -251,7 +251,7 @@
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg" alt="Союз писателей и поэтов"style="width: 100px; height: 90px;">
 </a>
 <a href="images/diplomas/P1_23_diplom_school_2025.jpg" data-lightbox="diplomas" data-title="Удостоверение Вольного экономического общества России">
-<img src="images/diplomas/P1_23_diplom_school_2025.jpg" alt="Удостоверение Вольного экономического общества России" style="width: 100px; height: 30px;">
+<img src="images/diplomas/P1_23_diplom_school_2025.jpg" alt="Удостоверение Вольного экономического общества России" style="width: 100px; height: 45px;">
 </a>
 </div>
 
