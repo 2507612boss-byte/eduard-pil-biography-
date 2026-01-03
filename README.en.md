@@ -514,7 +514,18 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 "References of Books on the Theory of Economic Crises"
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-    Volumes I-VI
+   
+  <a href="BookEcon/P5_18_book_theory_liter13.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. (2013)">
+<img src="BookEcon/P5_18_book_theory_liter13.pdf" alt="Theory of Economic Crises. (2013)" width="100">
+</a>
+<a href="BookEcon/P5_18_book_theory_liter17.pdf" data-lightbox="economy" data-title="Theory of Economic Crises. (2017)">
+<img src="BookEcon/P5_18_book_theory_liter17.pdf" alt="Theory of Economic Crises. (2017)" width="100">
+</a> 
+    
+    
+    
+   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">  
+  Volumes I-VI
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_13_book_theory_liter1.pdf" data-lightbox="BookEcon" data-title="Theory of Economic Crises. Vol. I (2018)">
