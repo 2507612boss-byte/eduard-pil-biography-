@@ -923,11 +923,11 @@
 </a>
 
 <a href="bibl/P13_11_book_bibl_2012.pdf" data-lightbox="bibl" data-title="Российская национальная библиотека, Санкт-Петербург">
-<img src="bibl/P13_11_book_bibl_2012.pdf" alt="Российская национальная библиотека, Санкт-Петербург" style="width: 100px; height: 75px;">
+<img src="bibl/P13_11_book_bibl_2012.pdf" alt="Российская национальная библиотека, Санкт-Петербург" style="width: 100px; height: 100px;">
 </a>
 
 <a href="bibl/P13_09_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Омская государственная областная научная библиотека имени А.С. Пушкина">
-<img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 60px;">
+<img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 50px;">
 
 <h2 id="knigi-podarenye-uchyonym">🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</h2>
 
