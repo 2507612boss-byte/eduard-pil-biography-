@@ -922,19 +922,13 @@
 <img src="bibl/P13_12_book_bibl_2012.jpg" alt="Библиотека государственного университета аэрокосмического приборостроения, Санкт-Петербург" style="width: 100px; height: 75px;">
 </a>
 
+<a href="bibl/P13_09_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Омская государственная областная научная библиотека имени А.С. Пушкина">
+<img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 30px;">
 
-
-
-<a href="bibl/P13_11_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Российская национальная библиотека, Санкт-Петербург">
-<img src="bibl/P13_11_book_bibl_2012.jpg" alt="Российская национальная библиотека, Санкт-Петербург" style="width: 100px; height: 100px;">
+<a href="bibl/P13_11_book_bibl_2012.pdf" data-lightbox="bibl" data-title="Российская национальная библиотека, Санкт-Петербург">
+<img src="bibl/P13_11_book_bibl_2012.pdf" alt="Российская национальная библиотека, Санкт-Петербург" style="width: 100px; height: 100px;">
 </a>
 
-
-
-
-
-<a href="bibl/P13_09_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Омская государственная областная научная библиотека имени А.С. Пушкина">
-<img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 50px;">
 
 <h2 id="knigi-podarenye-uchyonym">🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</h2>
 
