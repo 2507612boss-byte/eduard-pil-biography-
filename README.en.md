@@ -869,11 +869,11 @@ The Economist's Handbook
 
 <div class="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Postcard from Fidel Castro (2012)">
-    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Postcard from Fidel Castro (2012)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Postcard from Fidel Castro (2012)" style="width: 100px; height: 100px;">
   </a>
 
   <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Postcard from Fidel Castro (2014)">
-    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Postcard from Fidel Castro (2014)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Postcard from Fidel Castro (2014)" style="width: 100px; height: 100px;">
   </a>
 </div>
 
