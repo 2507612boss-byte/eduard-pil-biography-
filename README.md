@@ -936,22 +936,22 @@
 
   <!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
-<img src="present/P15_01_book_present_2019.jpg" alt="Книга подаренная С.Ю. Глазьевым (2019)" style="width: 100px; height: 110px;">
+<img src="present/P15_01_book_present_2019.jpg" alt="Книга подаренная С.Ю. Глазьевым (2019)" style="width: 100px; height: 100px;">
  </a>
 <a href="present/P15_02_book_present_2018.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2018)">
-<img src="present/P15_02_book_present_2018.jpg" alt="Книга подаренная С.Д Бодруновым (2018)" style="width: 100px; height: 110px;">
+<img src="present/P15_02_book_present_2018.jpg" alt="Книга подаренная С.Д Бодруновым (2018)" style="width: 100px; height: 100px;">
 </a>
 <a href="present/P15_03_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Д Бодруновым (2019)">
-<img src="present/P15_03_book_present_2019.jpg" alt="Книга подаренная С.Д Бодруновым (2019)" style="width: 100px; height: 110px;">
+<img src="present/P15_03_book_present_2019.jpg" alt="Книга подаренная С.Д Бодруновым (2019)" style="width: 100px; height: 100px;">
 </a>
 <a href="present/P15_04_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)">
-<img src="present/P15_04_book_present_2019.jpg" alt="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" style="width: 100px; height: 110px;">
+<img src="present/P15_04_book_present_2019.jpg" alt="Книга подаренная В.Л. Бройдо, О.П. Ильиной (2006)" style="width: 100px; height: 100px;">
 </a>
 <a href="present/P15_05_book_present_2005.jpg" data-lightbox="present" data-title="Книга подаренная Е.В. Стельмашонок (2005)">
-<img src="present/P15_05_book_present_2005.jpg" alt="Книга подаренная Е.В. Стельмашонок (2005)" style="width: 100px; height: 110px;">
+<img src="present/P15_05_book_present_2005.jpg" alt="Книга подаренная Е.В. Стельмашонок (2005)" style="width: 100px; height: 100px;">
 </a>
-<a href="present/P15_06_book_present_2004.jpg" data-lightbox="present" data-title="Книга подаренная Ф.Ф. Павновым (2004)">
-<img src="present/P15_06_book_present_2004.jpg" alt="Книга подаренная Ф.Ф. Павновым (2004)" style="width: 100px; height: 110px;">
+<a href="present/P15_06_book_present_2004.jpg" data-lightbox="present" data-title="Книга подаренная Ф.Ф. Павловым (2004)">
+<img src="present/P15_06_book_present_2004.jpg" alt="Книга подаренная Ф.Ф. Павловым (2004)" style="width: 100px; height: 100px;">
 </a>
 </div>
 
@@ -966,13 +966,13 @@
 
 <!-- Пример первых 4 копии -->
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
-<img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" style="width: 100px; height: 70px;">
+<img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" style="width: 100px; height: 50px;">
 </a>
 <a href="nobel/P14_02_book_nobel_2020.JPG" data-lightbox="nobel" data-title="Письмо от Angus S. Deaton (2020)">
-<img src="nobel/P14_02_book_nobel_2020.JPG" alt="Письмо от Angus S. Deaton (2020)" style="width: 100px; height: 70px;">
+<img src="nobel/P14_02_book_nobel_2020.JPG" alt="Письмо от Angus S. Deaton (2020)" style="width: 100px; height: 50px;">
 </a>
 <a href="nobel/P14_03_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Письмо от Joseph E. Stiglitz (2025)">
-<img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" style="width: 100px; height: 70px;">
+<img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" style="width: 100px; height: 50px;">
 </a>
 <a href="nobel/P14_04_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)">
 <img src="nobel/P14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" style="width: 100px; height: 70px;">
