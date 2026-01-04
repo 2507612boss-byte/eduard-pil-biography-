@@ -637,19 +637,19 @@
 <!-- Пример первых 7 источников -->
 
 <a href="biography/P8_03_book_who_2012.jpg" data-lightbox="biography" data-title="Who Is Who В России (2012)">
-<img src="biography/P8_03_book_who_2012.jpg" alt="Who Is Who В России (2012))" width="100">
+<img src="biography/P8_03_book_who_2012.jpg" alt="Who Is Who В России (2012))" style="width: 100px; height: 125px;">
 </a>
  <a href="biography/P8_04_book_pgup1_2002.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)">
-<img src="biography/P8_04_book_pgup1_2002.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)" width="100">
+<img src="biography/P8_04_book_pgup1_2002.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2002)" style="width: 100px; height: 125px;">
 </a>
 <a href="biography/P8_05_book_pgup2_2009.jpg" data-lightbox="biography" data-title="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011)">
-<img src="biography/P8_05_book_pgup2_2009.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011))" width="100">
+<img src="biography/P8_05_book_pgup2_2009.jpg" alt="Доктора Технических Наук Петербургского государственного университета путей сообщения Императора Александра I (2011)" style="width: 100px; height: 125px;">
 </a>
 <a href="biography/P8_06_book_sea_2015.jpg" data-lightbox="biography" data-title="Газета ЗА КАДРЫ ВЕРФЯМ (2015)">
-<img src="biography/P8_06_book_sea_2015.jpg" alt="Газета ЗА КАДРЫ ВЕРФЯМ (2015)" width="100">
+<img src="biography/P8_06_book_sea_2015.jpg" alt="Газета ЗА КАДРЫ ВЕРФЯМ (2015)" style="width: 100px; height: 125px;">
 </a>
 <a href="biography/P8_07_book_polet_2022.jpg" data-lightbox="biography" data-title="Газета В ПОЛЁТ (2022)">
-<img src="biography/P8_07_book_polet_2022.jpg" alt="Газета В ПОЛЁТ (2022)" width="100">
+<img src="biography/P8_07_book_polet_2022.jpg" alt="Газета В ПОЛЁТ (2022)" style="width: 100px; height: 125px;">
 </a>
 
 </div>
