@@ -952,22 +952,22 @@ The Economist's Handbook
 
   <!-- Пример первых 6 копии -->
 <a href="presente/P15_01_book_present_2019.jpg" data-lightbox="presente" data-title="Book gifted by S.Yu. Glazyev (2019)">
-<img src="presente/P15_01_book_present_2019.jpg" alt="Book gifted by S.Yu. Glazyev (2019)"style="width: 100px; height: 110px;">
+<img src="presente/P15_01_book_present_2019.jpg" alt="Book gifted by S.Yu. Glazyev (2019)"style="width: 100px; height: 100px;">
  </a>
 <a href="presente/P15_02_book_present_2018.jpg" data-lightbox="presente" data-title="Book gifted by S.D. Bodrunov (2018)">
-<img src="presente/P15_02_book_present_2018.jpg" alt="Book gifted by S.D. Bodrunovм (2018)" style="width: 100px; height: 110px;">
+<img src="presente/P15_02_book_present_2018.jpg" alt="Book gifted by S.D. Bodrunovм (2018)" style="width: 100px; height: 100px;">
 </a>
 <a href="presente/P15_03_book_present_2019.jpg" data-lightbox="presente" data-title="Book gifted by S.D. Bodrunov (2019)">
-<img src="presente/P15_03_book_present_2019.jpg" alt="Book gifted by S.D. Bodrunov (2019)"style="width: 100px; height: 110px;">
+<img src="presente/P15_03_book_present_2019.jpg" alt="Book gifted by S.D. Bodrunov (2019)"style="width: 100px; height: 100px;">
 </a>
 <a href="presente/P15_04_book_present_2019.jpg" data-lightbox="presente" data-title="Book gifted by V.L. Broido and O.P. Ilyinaй (2006)">
-<img src="presente/P15_04_book_present_2019.jpg" alt="Book gifted by V.L. Broido and O.P. Ilyina (2006)" style="width: 100px; height: 110px;">
+<img src="presente/P15_04_book_present_2019.jpg" alt="Book gifted by V.L. Broido and O.P. Ilyina (2006)" style="width: 100px; height: 100px;">
 </a>
 <a href="presente/P15_05_book_present_2005.jpg" data-lightbox="presente" data-title="Book gifted by E.V. Stelmashonok (2005)">
-<img src="presente/P15_05_book_present_2005.jpg" alt="Book gifted by E.V. Stelmashonok (2005)" style="width: 100px; height: 110px;">
+<img src="presente/P15_05_book_present_2005.jpg" alt="Book gifted by E.V. Stelmashonok (2005)" style="width: 100px; height: 100px;">
 </a>
 <a href="presente/P15_06_book_present_2004.jpg" data-lightbox="presente" data-title="Book gifted by F.F. Pavlov (2004)">
-<img src="presente/P15_06_book_present_2004.jpg" alt="Book gifted by F.F. Pavlov (2004)" style="width: 100px; height: 110px;">
+<img src="presente/P15_06_book_present_2004.jpg" alt="Book gifted by F.F. Pavlov (2004)" style="width: 100px; height: 100px;">
 </a>
 </div>
 
