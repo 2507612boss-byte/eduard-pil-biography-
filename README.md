@@ -899,35 +899,35 @@
 
 <!-- Пример первых 7 копии -->
 <a href="bibl/P13_06_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Центральная городская публичная библиотека имени В.В. Маяковского">
-<img src="bibl/P13_06_book_bibl_2012.jpg" alt="Центральная городская публичная библиотека имени В.В. Маяковского" style="width: 100px; height: 110px;">
+<img src="bibl/P13_06_book_bibl_2012.jpg" alt="Центральная городская публичная библиотека имени В.В. Маяковского" style="width: 100px; height: 90px;">
 </a>
 
 <a href="bibl/P13_07_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Российской академии наук в Санкт-Петербурге">
-<img src="bibl/P13_07_book_bibl_2012.jpg" alt="Библиотека Российской академии наук в Санкт-Петербурге" style="width: 100px; height: 110px;">
+<img src="bibl/P13_07_book_bibl_2012.jpg" alt="Библиотека Российской академии наук в Санкт-Петербурге" style="width: 100px; height: 90px;">
 </a>
 
 <a href="bibl/P13_08_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Донская государственная публичная библиотека">
-<img src="bibl/P13_08_book_bibl_2012.jpg" alt="Донская государственная публичная библиотека" style="width: 100px; height: 110px;">
+<img src="bibl/P13_08_book_bibl_2012.jpg" alt="Донская государственная публичная библиотека" style="width: 100px; height: 90px;">
 </a>
 
 <a href="bibl/P13_09_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Омская государственная областная научная библиотека имени А.С. Пушкина">
-<img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 110px;">
+<img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 90px;">
 </a>
 
 <a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург">
-<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург" style="width: 100px; height: 110px;">
+<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург" style="width: 100px; height: 90px;">
 </a>
 
 <a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
-<img src="bibl/P13_10_book_bibl_2012.jpg" alt="Библиотека Петербургского государственного университета путей сообщения" style="width: 100px; height: 110px;">
+<img src="bibl/P13_10_book_bibl_2012.jpg" alt="Библиотека Петербургского государственного университета путей сообщения" style="width: 100px; height: 90px;">
 </a>
 
 <a href="bibl/P13_12_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека государственного университета аэрокосмического приборостроения, Санкт-Петербург">
-<img src="bibl/P13_12_book_bibl_2012.jpg" alt="Библиотека государственного университета аэрокосмического приборостроения, Санкт-Петербург" style="width: 100px; height: 110px;">
+<img src="bibl/P13_12_book_bibl_2012.jpg" alt="Библиотека государственного университета аэрокосмического приборостроения, Санкт-Петербург" style="width: 100px; height: 90px;">
 </a>
 
 <a href="bibl/P13_11_book_bibl_2012.pdf" data-lightbox="bibl" data-title="Российская национальная библиотека, Санкт-Петербург">
-<img src="bibl/P13_11_book_bibl_2012.pdf" alt="Российская национальная библиотека, Санкт-Петербург" style="width: 100px; height: 110px;">
+<img src="bibl/P13_11_book_bibl_2012.pdf" alt="Российская национальная библиотека, Санкт-Петербург" style="width: 100px; height: 90px;">
 </a>
 
 
