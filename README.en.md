@@ -1118,5 +1118,5 @@ The Economist's Handbook
 
 
 ---
-*This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2025.*
+*This page is a constantly updated biography of Eduard Anatolyevich Pil. Last update: 2026.*
 
