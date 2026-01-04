@@ -992,7 +992,7 @@ The Economist's Handbook
 <img src="nobele/P14_02_book_nobel_2020.JPG" alt="Letter from Angus S. Deaton (2020)" style="width: 100px; height: 50px;">
 </a>
 <a href="nobele/P14_03_book_nobel_2025.jpg" data-lightbox="nobele" data-title="Letter from Joseph E. Stiglitz (2025)">
-<img src="nobele/P14_03_book_nobel_2025.jpg" alt="Letter from Joseph E. Stiglitz (2025)" widtstyle="width: 100px; height: 50px;">
+<img src="nobele/P14_03_book_nobel_2025.jpg" alt="Letter from Joseph E. Stiglitz (2025)" style="width: 100px; height: 50px;">
 </a>
 <a href="nobele/P14_04_book_nobel_2019.jpg" data-lightbox="nobele" data-title="Screenshot of letters sent to Nobel Laureates in Economics (2025)">
 <img src="nobele/P14_04_book_nobel_2025.jpg" alt="Screenshot of letters sent to Nobel Laureates in Economics (2025)" style="width: 100px; height: 70px;">
