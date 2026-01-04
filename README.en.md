@@ -830,31 +830,31 @@ The Economist's Handbook
 
 <div class="kastroe">
   <a href="kastroe/P12_03_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Canadian authorities (2011)">
-    <img src="kastroe/P12_03_book_kastro_2017.JPG" alt="Official correspondence from Canadian authorities (2011)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_03_book_kastro_2017.JPG" alt="Official correspondence from Canadian authorities (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastroe/P12_04_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Spanish authorities (2011)">
-    <img src="kastroe/P12_04_book_kastro_2017.JPG" alt="Official correspondence from Spanish authorities (2011)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_04_book_kastro_2017.JPG" alt="Official correspondence from Spanish authorities (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastroe/P12_05_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Spanish authorities (2012)">
-    <img src="kastroe/P12_05_book_kastro_2017.JPG" alt="Official correspondence from Spanish authorities (2012)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_05_book_kastro_2017.JPG" alt="Official correspondence from Spanish authorities (2012)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastroe/P12_08_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from British authorities (2011)">
-    <img src="kastroe/P12_08_book_kastro_2017.JPG" alt="Official correspondence from British authorities (2011)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_08_book_kastro_2017.JPG" alt="Official correspondence from British authorities (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastroe/P12_09_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Germany, 2011 – Official correspondence from German authorities (2011)">
-    <img src="kastroe/P12_09_book_kastro_2017.JPG" alt=" Official correspondence from German authorities (2011)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_09_book_kastro_2017.JPG" alt=" Official correspondence from German authorities (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastroe/P12_10_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from the Vaticanа (2012)">
-    <img src="kastroe/P12_10_book_kastro_2017.JPG" alt="Official correspondence from the Vatican (2012)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_10_book_kastro_2017.JPG" alt="Official correspondence from the Vatican (2012)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastroe/P12_11_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Cuban authorities (2012)">
-    <img src="kastroe/P12_11_book_kastro_2017.JPG" alt="Official correspondence from Cuban authorities (2012)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_11_book_kastro_2017.JPG" alt="Official correspondence from Cuban authorities (2012)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastreo/P12_12_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Cuban authorities (2014)">
-    <img src="kastroe/P12_12_book_kastro_2017.JPG" alt="Official correspondence from Cuban authorities (2014)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_12_book_kastro_2017.JPG" alt="Official correspondence from Cuban authorities (2014)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastroe/P12_13_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Brazilian authorities (2014)">
-    <img src="kastroe/P12_13_book_kastro_2017.JPG" alt="Official correspondence from Brazilian authorities (2014)" style="width: 100px; height: 110px;">
+    <img src="kastroe/P12_13_book_kastro_2017.JPG" alt="Official correspondence from Brazilian authorities (2014)" style="width: 100px; height: 100px;">
   </a>
 </div>
 
