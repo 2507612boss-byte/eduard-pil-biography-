@@ -813,31 +813,31 @@
  
 <div class="kastro">
   <a href="kastro/P12_03_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Канады (2011)">
-    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_03_book_kastro_2017.jpg" alt="Письмо из Канады (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_04_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2011)">
-    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письмо из Испании (2011)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_04_book_kastro_2017.jpg" alt="Письмо из Испании (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_05_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Испании (2012)">
-    <img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_05_book_kastro_2017.jpg" alt="Письмо из Испании (2012)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_08_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Англии (2011)">
-    <img src="kastro/P12_08_book_kastro_2017.jpg" alt="Письмо из Англии (2011)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_08_book_kastro_2017.jpg" alt="Письмо из Англии (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_09_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Германии (2011)">
-    <img src="kastro/P12_09_book_kastro_2017.jpg" alt="Письмо из Германии (2011)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_09_book_kastro_2017.jpg" alt="Письмо из Германии (2011)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_10_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Ватикана (2012)">
-    <img src="kastro/P12_10_book_kastro_2017.jpg" alt="Письмо из Ватикана (2012)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_10_book_kastro_2017.jpg" alt="Письмо из Ватикана (2012)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_11_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2012)">
-    <img src="kastro/P12_11_book_kastro_2017.jpg" alt="Письмо из Кубы (2012)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_11_book_kastro_2017.jpg" alt="Письмо из Кубы (2012)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_12_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Кубы (2014)">
-    <img src="kastro/P12_12_book_kastro_2017.jpg" alt="Письмо из Кубы (2014)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_12_book_kastro_2017.jpg" alt="Письмо из Кубы (2014)" style="width: 100px; height: 100px;">
   </a>
   <a href="kastro/P12_13_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Письмо из Бразилии (2014)">
-    <img src="kastro/P12_13_book_kastro_2017.jpg" alt="Письмо из Бразилии (2014)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_13_book_kastro_2017.jpg" alt="Письмо из Бразилии (2014)" style="width: 100px; height: 100px;">
   </a>
 </div>
 
@@ -874,19 +874,19 @@
 
 <!-- Пример первых 5 копии -->
 <a href="bibl/P13_01_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Финляндии (2025)">
-<img src="bibl/P13_01_book_bibl_2025.jpg" alt="Копия экрана Национальной Библиотеки Финляндии (2025)" style="width: 100px; height: 110px;">
+<img src="bibl/P13_01_book_bibl_2025.jpg" alt="Копия экрана Национальной Библиотеки Финляндии (2025)" style="width: 100px; height: 100px;">
 </a>
 <a href="bibl/P13_02_book_bibl_2025.jpg" data-lightbox="bibl" data-title="Копия экрана Национальной Библиотеки Ческой Республики (2025)">
-<img src="bibl/P13_02_book_bibl_2025.jpg" alt="Копия экрана Национальной Библиотеки Ческой Республики (2025)" style="width: 100px; height: 110px;">
+<img src="bibl/P13_02_book_bibl_2025.jpg" alt="Копия экрана Национальной Библиотеки Ческой Республики (2025)" style="width: 100px; height: 100px;">
 </a>
 <a href="bibl/P13_03_book_bibl_2012.JPG" data-lightbox="bibl" data-title="Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)">
-<img src="bibl/P13_03_book_bibl_2012.JPG" alt="Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)" style="width: 100px; height: 110px;">
+<img src="bibl/P13_03_book_bibl_2012.JPG" alt="Письмо с благодарностью из Национальной Библиотеки Ческой РеспубликиА (2010)" style="width: 100px; height: 100px;">
 </a>
 <a href="bibl/P13_04_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью из Библиотеки Конгресса США (2012)">
-<img src="bibl/P13_04_book_bibl_2012.jpg" alt="Письмо с благодарностью из Библиотеки Конгресса США (2012)" style="width: 100px; height: 110px;">
+<img src="bibl/P13_04_book_bibl_2012.jpg" alt="Письмо с благодарностью из Библиотеки Конгресса США (2012)" style="width: 100px; height: 100px;">
 </a>
 <a href="bibl/P13_05_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Письмо с благодарностью от Президента Университета Сорбонны (2012)">
-<img src="bibl/P13_05_book_bibl_2012.jpg" alt="Письмо с благодарностью от Президента Университета Сорбонны (2012)" style="width: 100px; height: 110px;">
+<img src="bibl/P13_05_book_bibl_2012.jpg" alt="Письмо с благодарностью от Президента Университета Сорбонны (2012)" style="width: 100px; height: 100px;">
 </a>
 </div>
 
