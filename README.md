@@ -966,17 +966,16 @@
 
 <!-- Пример первых 4 копии -->
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
-<img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" style="width: 100px; height: 90px;">
+<img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" style="width: 100px; height: 70px;">
 </a>
 <a href="nobel/P14_02_book_nobel_2020.JPG" data-lightbox="nobel" data-title="Письмо от Angus S. Deaton (2020)">
-<img src="nobel/P14_02_book_nobel_2020.JPG" alt="Письмо от Angus S. Deaton (2020)" style="width: 100px; height: 90px;">
+<img src="nobel/P14_02_book_nobel_2020.JPG" alt="Письмо от Angus S. Deaton (2020)" style="width: 100px; height: 70px;">
 </a>
 <a href="nobel/P14_03_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Письмо от Joseph E. Stiglitz (2025)">
-<img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" style="width: 100px; height: 90px;">
+<img src="nobel/P14_03_book_nobel_2025.jpg" alt="Письмо от Joseph E. Stiglitz (2025)" style="width: 100px; height: 70px;">
 </a>
-
 <a href="nobel/P14_04_book_nobel_2025.jpg" data-lightbox="nobel" data-title="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)">
-<img src="nobel/P14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" style="width: 100px; height: 90px;">
+<img src="nobel/P14_04_book_nobel_2025.jpg" alt="Копия экрана отосланных писем нобелевским лауреатам по экономике (2025)" style="width: 100px; height: 70px;">
 </a>
 
 </div>
