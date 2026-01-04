@@ -853,11 +853,11 @@
 
 <div class="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 1 (2012)">
-    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_01_book_kastro_2017.jpg" alt="Открытка 1 (2012)" style="width: 100px; height: 100px;">
   </a>
 
   <a href="kastro/P12_02_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 2 (2014)">
-    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка 2 (2014)" style="width: 100px; height: 110px;">
+    <img src="kastro/P12_02_book_kastro_2017.jpg" alt="Открытка 2 (2014)" style="width: 100px; height: 100px;">
   </a>
 </div>
 
@@ -928,7 +928,6 @@
 
 <a href="bibl/P13_09_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Омская государственная областная научная библиотека имени А.С. Пушкина">
 <img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 60px;">
-</a>
 
 <h2 id="knigi-podarenye-uchyonym">🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</h2>
 
