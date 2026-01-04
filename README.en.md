@@ -929,7 +929,7 @@ The Economist's Handbook
 </a>
 
 <a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Presidential Library named after B.N. Yeltsin. St. Petersburg">
-<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Presidential Library named after B.N. Yeltsin. St. Petersburg" wistyle="width: 100px; height: 75px;">
+<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Presidential Library named after B.N. Yeltsin. St. Petersburg" style="width: 100px; height: 75px;">
 </a>
 
 <a href="biblee/P13_09_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Omsk State Regional Scientific Library named after A.S. Pushkin">
