@@ -654,19 +654,18 @@ The Economist's Handbook
 <!-- Пример первых 7 источников -->
 
 <a href="biographye/P8_03_book_who_2012.JPG" data-lightbox="biographye" data-title="Who is Who in Russia (2012)">
-<img src="biographye/P8_03_book_who_2012.JPG" alt="Who is Who in Russia (2012)" width="100">
+<img src="biographye/P8_03_book_who_2012.JPG" alt="Who is Who in Russia (2012)" style="width: 100px; height: 115px;">
 </a>
  <a href="biographye/P8_04_book_pgup1_2002.JPG" data-lightbox="biographye" data-title="Doctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2002)">
-<img src="biographye/P8_04_book_pgup1_2002.JPG" alt="Doctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2002)" width="100">
+<img src="biographye/P8_04_book_pgup1_2002.JPG" alt="Doctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2002)" style="width: 100px; height: 115px;">
 </a>
 <a href="biographye/P8_05_book_pgup2_2009.JPG" data-lightbox="biographye" data-title="Doctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2011)">
-<img src="biographye/P8_05_book_pgup2_2009.JPG" alt="ДDoctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2011)" width="100">
-</a>
+<img src="biographye/P8_05_book_pgup2_2009.JPG" alt="ДDoctor of Technical Sciences, Emperor Alexander I St. Petersburg State Transport University (2011)" style="width: 100px; height: 115px;">
 <a href="biographye/P8_06_book_sea_2015.JPG" data-lightbox="biographye" data-title="Newspaper Za Kadry Verfiam, SPbGMTU, No. 10 (2545), October (2015)">
-<img src="biographye/P8_06_book_sea_2015.JPG" alt="Newspaper Za Kadry Verfiam, SPbGMTU, No. 10 (2545), October (2015)" width="100">
+<img src="biographye/P8_06_book_sea_2015.JPG" alt="Newspaper Za Kadry Verfiam, SPbGMTU, No. 10 (2545), October (2015)" style="width: 100px; height: 115px;">
 </a>
 <a href="biographye/P8_07_book_polet_2022.JPG" data-lightbox="biographye" data-title="Newspaper V Polet, SUAI, No. 8 (139), 18 November (2022)">
-<img src="biographye/P8_07_book_polet_2022.JPG" alt="Newspaper V Polet, SUAI, No. 8 (139), 18 November (2022)" width="100">
+<img src="biographye/P8_07_book_polet_2022.JPG" alt="Newspaper V Polet, SUAI, No. 8 (139), 18 November (2022)" style="width: 100px; height: 115px;">
 </a>
 
 </div>
