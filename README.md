@@ -649,7 +649,7 @@
 <img src="biography/P8_06_book_sea_2015.jpg" alt="Газета ЗА КАДРЫ ВЕРФЯМ (2015)" style="width: 100px; height: 115px;">
 </a>
 <a href="biography/P8_07_book_polet_2022.jpg" data-lightbox="biography" data-title="Газета В ПОЛЁТ (2022)">
-<img src="biography/P8_07_book_polet_2022.jpg" alt="Газета В ПОЛЁТ (2022)" style="width: 100px; height: 125px;">
+<img src="biography/P8_07_book_polet_2022.jpg" alt="Газета В ПОЛЁТ (2022)" style="width: 100px; height: 115px;">
 </a>
 
 </div>
