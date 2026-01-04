@@ -888,19 +888,19 @@ The Economist's Handbook
 
 <!-- Пример первых 5 копии -->
 <a href="biblee/P13_01_book_bibl_2025.jpg" data-lightbox="biblee" data-title="Helsinki University Library, Finland">
-<img src="biblee/P13_01_book_bibl_2025.jpg" alt="Helsinki University Library, Finland" width="100">
+<img src="biblee/P13_01_book_bibl_2025.jpg" alt="Helsinki University Library, Finland" style="width: 100px; height: 100px;">
 </a>
 <a href="biblee/P13_02_book_bibl_2025.jpg" data-lightbox="biblee" data-title="National Library of the Czech Republic)">
-<img src="biblee/P13_02_book_bibl_2025.jpg" alt="National Library of the Czech Republic" width="100">
+<img src="biblee/P13_02_book_bibl_2025.jpg" alt="National Library of the Czech Republic" style="width: 100px; height: 100px;">
 </a>
 <a href="biblee/P13_03_book_bibl_2012.JPG" data-lightbox="biblee" data-title="Letter from the National Library of the Czech Republic (2010)">
-<img src="biblee/P13_03_book_bibl_2012.JPG" alt="Letter from the National Library of the Czech Republic (2010)" width="100">
+<img src="biblee/P13_03_book_bibl_2012.JPG" alt="Letter from the National Library of the Czech Republic (2010)" style="width: 100px; height: 100px;">
 </a>
 <a href="biblee/P13_04_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Letter from the Library of Congress, USA (2012)">
-<img src="biblee/P13_04_book_bibl_2012.jpg" alt="Letter from the Library of Congress, USA (2012)" width="100">
+<img src="biblee/P13_04_book_bibl_2012.jpg" alt="Letter from the Library of Congress, USA (2012)" style="width: 100px; height: 100px;">
 </a>
 <a href="biblee/P13_05_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Letter from the President of the University of Sorbonne, France (2012)">
-<img src="biblee/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" width="100">
+<img src="biblee/P13_05_book_bibl_2012.jpg" alt="Letter from the President of the University of Sorbonne, France (2012)" style="width: 100px; height: 100px;">
 </a>
 
 
@@ -911,29 +911,31 @@ The Economist's Handbook
 <div class="biblee">
   
 <a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
-<img src="biblee/P13_06_book_bibl_2012.jpg" alt=Central City Public Library named after V.V. Mayakovsky, St. Petersburg" width="100">
+<img src="biblee/P13_06_book_bibl_2012.jpg" alt=Central City Public Library named after V.V. Mayakovsky, St. Petersburg" style="width: 100px; height: 75px;">
 </a>
 <a href="biblee/P13_07_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Library of the Russian Academy of Sciences, St. Petersburg">
-<img src="biblee/P13_07_book_bibl_2012.jpg" alt=Library of the Russian Academy of Sciences, St. Petersburg" width="100">
+<img src="biblee/P13_07_book_bibl_2012.jpg" alt=Library of the Russian Academy of Sciences, St. Petersburg" style="width: 100px; height: 75px;">
 </a>
 <a href="biblee/P13_08_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Don State Public Library">
-<img src="biblee/P13_08_book_bibl_2012.jpg" alt="Don State Public Library" width="100">
-</a>
-<a href="biblee/P13_09_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Omsk State Regional Scientific Library named after A.S. Pushkin">
-<img src="biblee/P13_09_book_bibl_2012.jpg" alt=Omsk State Regional Scientific Library named after A.S. Pushkin" width="100">
+<img src="biblee/P13_08_book_bibl_2012.jpg" alt="Don State Public Library" style="width: 100px; height: 75px;">
 </a>
 
-<a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Presidential Library named after B.N. Yeltsin. St. Petersburg">
-<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Presidential Library named after B.N. Yeltsin. St. Petersburg" width="100">
+<a href="biblee/P13_10_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Library of the St. Petersburg State Transport University">
+<img src="biblee/P13_10_book_bibl_2012.jpg" alt="Library of the St. Petersburg State Transport University" style="width: 100px; height: 75px;">
 </a>
 
 <a href="bibl/P13_12_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Library of Saint Petersburg State University of Aerospace Instrumentation, St. Petersburg">
-<img src="bibl/P13_12_book_bibl_2012.jpg" alt="Library of Saint Petersburg State University of Aerospace Instrumentation, St. Petersburg" width="100">
+<img src="bibl/P13_12_book_bibl_2012.jpg" alt="Library of Saint Petersburg State University of Aerospace Instrumentation, St. Petersburg" style="width: 100px; height: 75px;">
 </a>
-  
-<a href="biblee/P13_10_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Library of the St. Petersburg State Transport University">
-<img src="biblee/P13_10_book_bibl_2012.jpg" alt="Library of the St. Petersburg State Transport University" width="100">
+
+<a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Presidential Library named after B.N. Yeltsin. St. Petersburg">
+<img src="bibl/P13_13_book_bibl_2012.jpg" alt="Presidential Library named after B.N. Yeltsin. St. Petersburg" wistyle="width: 100px; height: 75px;">
 </a>
+
+<a href="biblee/P13_09_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Omsk State Regional Scientific Library named after A.S. Pushkin">
+<img src="biblee/P13_09_book_bibl_2012.jpg" alt=Omsk State Regional Scientific Library named after A.S. Pushkin" style="width: 100px; height: 30px;">
+</a>
+
 
 <a href="biblee/P13_11_book_bibl_2012.pdf" data-lightbox="biblee" data-title="Russian National Library, St. Petersburg">
 <img src="biblee/P13_11_book_bibl_2012.pdf" alt="Russian National Library, St. Petersburg" width="100">
@@ -984,16 +986,16 @@ The Economist's Handbook
 
 <!-- Пример первых 4 копии -->
 <a href="nobele/P14_01_book_nobel_2017.jpg" data-lightbox="nobele" data-title="Letter from Jean Tirole (2017)">
-<img src="nobele/P14_01_book_nobel_2017.jpg" alt="Letter from Jean Tirole (2017)" width="100">
+<img src="nobele/P14_01_book_nobel_2017.jpg" alt="Letter from Jean Tirole (2017)" style="width: 100px; height: 50px;">
 </a>
 <a href="nobele/P14_02_book_nobel_2020.JPG" data-lightbox="nobele" data-title="Letter from Angus S. Deaton (2020)">
-<img src="nobele/P14_02_book_nobel_2020.JPG" alt="Letter from Angus S. Deaton (2020)" width="100">
+<img src="nobele/P14_02_book_nobel_2020.JPG" alt="Letter from Angus S. Deaton (2020)" style="width: 100px; height: 50px;">
 </a>
 <a href="nobele/P14_03_book_nobel_2025.jpg" data-lightbox="nobele" data-title="Letter from Joseph E. Stiglitz (2025)">
-<img src="nobele/P14_03_book_nobel_2025.jpg" alt="Letter from Joseph E. Stiglitz (2025)" width="100">
+<img src="nobele/P14_03_book_nobel_2025.jpg" alt="Letter from Joseph E. Stiglitz (2025)" widtstyle="width: 100px; height: 50px;">
 </a>
 <a href="nobele/P14_04_book_nobel_2019.jpg" data-lightbox="nobele" data-title="Screenshot of letters sent to Nobel Laureates in Economics (2025)">
-<img src="nobele/P14_04_book_nobel_2025.jpg" alt="Screenshot of letters sent to Nobel Laureates in Economics (2025)" width="100">
+<img src="nobele/P14_04_book_nobel_2025.jpg" alt="Screenshot of letters sent to Nobel Laureates in Economics (2025)" style="width: 100px; height: 70px;">
 </a>
 
 </div>
