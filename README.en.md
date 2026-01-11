@@ -1100,13 +1100,27 @@ The Economist's Handbook
 
 
 
-<h2>🎓👥 My Univirsity Classmates (1967-1973)</h2>
-<h4>To view the entire fellow students from University, click on the small icon below and scroll to the end of the downloaded page.</h4>
+<h2>🎓👥 Friends from VTUZ studies, 1967–1973 </h2>
+ <h4>My Univirsity Classmates (1967-1973)<h4>
+
+<h4>To view all provided files in PDF format, click the small icon below and scroll to the end of the loaded page. If the book content is lengthy, click the "MORE PAGES" button at the bottom to read everything.</h4>
 <div class="friends">
 <!-- Пример первых 1 копии -->
 <a href="friends/P23_02_book_friends_2025.pdf" data-lightbox="friends" data-title="My Univirsity Classmates (1967-1973)">
 <img src="friends/P23_02_book_friends_2025.pdf" alt="My Univirsity Classmates (1967-1973)" width="100">
  </a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Reunions after Graduation from VTUZ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="friends/P23_04_book_friends_2025.pdf" data-lightbox="friends" data-title="Reunions after Graduation from VTUZ">
+<img src="friends/P23_04_book_friends_2025.pdf" alt="Reunions after Graduation from VTUZ" width="100">
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Military field training 1973
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="friends/P23_06_book_friends_2025.pdf" data-lightbox="friends" data-title="Military field training 1973">
+<img src="friends/P23_06_book_friends_2025.pdf" alt="Military field training 1973" width="100">
   
 </div>
 
