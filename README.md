@@ -1086,7 +1086,7 @@
 
 
 
-<h2>🎓👥 УЧЕБНЫЕ ГОДЫ ВО ВТУЗЕ</h2>
+<h2>🎓👥 Учебные годы во ВТУЗЕ</h2>
 
 <h4>Друзья по учёбе во ВТУЗе с 1967 по 1973 годы</h4>
 
@@ -1101,11 +1101,15 @@
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
  </a>
 
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Встречи после окончания ВТУЗа
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="friends/P23_03_book_friends_2025.pdf" data-lightbox="friends" data-title="Встречи после окончания ВТУЗа">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Встречи после окончания ВТУЗа" width="100">
 
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Военные сборы 1973
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
  <a href="friends/P23_05_book_friends_2025.pdf" data-lightbox="friends" data-title="Военные сборы 1973">
 <img src="friends/P23_05_book_friends_2025.pdf" alt="Военные сборы 1973" width="100">
  
