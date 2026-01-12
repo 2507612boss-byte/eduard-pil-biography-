@@ -53,8 +53,8 @@ In addition, he developed the following mathematical models:
 * mathematical model of complex body parts;
 * mathematical model of workpieces produced by casting;
 * mathematical model of the English language.
-* 
-The calculations made in the development of the theory of economic crises made it possible to identify such values of variables that can bring the country's economy out of crisis even with an increase in GDP or leave it at the pre-crisis level. The mathematical model of a corporation allows programmers to develop automation programs for corporate operations. The theory of complexity in machining complex body parts can be used in standardization operations at machine-building enterprises. Thanks to this theory, an optimal tool setup was developed for MC enabling the machining of any complex part without changing the cutting tool. The proposed mathematical model of the English language can be used both for developing machine translation of texts and for their voicing.
+
+  The calculations made in the development of the theory of economic crises made it possible to identify such values of variables that can bring the country's economy out of crisis even with an increase in GDP or leave it at the pre-crisis level. The mathematical model of a corporation allows programmers to develop automation programs for corporate operations. The theory of complexity in machining complex body parts can be used in standardization operations at machine-building enterprises. Thanks to this theory, an optimal tool setup was developed for MC enabling the machining of any complex part without changing the cutting tool. The proposed mathematical model of the English language can be used both for developing machine translation of texts and for their voicing.
 
 * These honorary titles are recognized in Russian academic circles. 
 * Note: *These titles are part of his academic career in Russia and may not correspond to international standards. For verification, contact the RANH.*
