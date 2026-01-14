@@ -250,6 +250,11 @@
 <a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg" data-lightbox="diplomas" data-title="Союз писателей и поэтов">
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg" alt="Союз писателей и поэтов"style="width: 100px; height: 90px;">
 </a>
+
+<a href="images/diplomas/P1_24_diplom_writer_2025.jpg" data-lightbox="diplomas" data-title="Международный Паспорт Писателя">
+<img src="images/diplomas/" alt="Международный Паспорт Писателя" style="width: 100px; height: 35px;">
+</a>
+
 <a href="images/diplomas/P1_23_diplom_school_2025.jpg" data-lightbox="diplomas" data-title="Удостоверение Вольного экономического общества России">
 <img src="images/diplomas/P1_23_diplom_school_2025.jpg" alt="Удостоверение Вольного экономического общества России" style="width: 100px; height: 35px;">
 </a>
