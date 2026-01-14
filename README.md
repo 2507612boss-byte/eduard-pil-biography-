@@ -252,7 +252,7 @@
 </a>
 
 <a href="images/diplomas/P1_24_diplom_writer_2025.jpg" data-lightbox="diplomas" data-title="Международный Паспорт Писателя">
-<img src="images/diplomas/" alt="Международный Паспорт Писателя" style="width: 100px; height: 35px;">
+<img src="images/diplomas/P1_24_diplom_writer_2025.jpg" alt="Международный Паспорт Писателя" style="width: 100px; height: 35px;">
 </a>
 
 <a href="images/diplomas/P1_23_diplom_school_2025.jpg" data-lightbox="diplomas" data-title="Удостоверение Вольного экономического общества России">
