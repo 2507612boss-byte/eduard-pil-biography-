@@ -251,6 +251,10 @@ After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow
 <img src="diplomas2/P1_13_sertifikat_souza_2022.JPG" alt="International Union of Writes and Poets" style="width: 100px; height: 90px;">
 </a>
 
+<a href="diplomas2/P1_24_diplom_writer_2025.jpg" data-lightbox="diplomas2" data-title="International Writer's Passport">
+<img src="diplomas2/P1_24_diplom_writer_2025.jpg" alt="International Writer's Passport" style="width: 100px; height: 35px;">
+
+
 <a href="diplomas2/P1_24_diplom_school_2025.jpg" data-lightbox="diplomas2" data-title="Certificate of the Free Economic Society of Russia">
 <img src="diplomas2/P1_24_diplom_school_2025.jpg" alt="Certificate of the Free Economic Society of Russiaи" style="width: 100px; height: 35px;">
 </a>
