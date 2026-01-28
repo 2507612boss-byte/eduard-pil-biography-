@@ -1048,7 +1048,6 @@
 
   
 <h2>🌱 Патент</h2>
-  
 <div class="patant">
   <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
     <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" style="width: 100px; height: 110px;">
@@ -1060,10 +1059,12 @@
 </html>
 
 <h2>🎓👥 Работа в университетах, техникумах и колледжах</h2>
-<div class="diplomas">
+<div class="univer">
+  
+УНИВЕРСИТЕТЫ
 
-<a href="diplomas/P17_01_book_tree_2025.pdf" data-lightbox="tree" data-title="Генеалогическое древо отца">
-<img src="diplomas/P17_01_book_tree_2025.pdf" alt="Генеалогическое древо отца" width="100">
+<a href="univer/P1_univer_2026.pdf" data-lightbox="tree" data-title="Работа в Университетах">
+<img src="univer/P1_univer_2026.pdf" alt="Работа в Университетах" width="100">
  </a>
 </div>
 
