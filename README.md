@@ -258,6 +258,10 @@
 <a href="images/diplomas/P1_23_diplom_school_2025.jpg" data-lightbox="diplomas" data-title="Удостоверение Вольного экономического общества России">
 <img src="images/diplomas/P1_23_diplom_school_2025.jpg" alt="Удостоверение Вольного экономического общества России" style="width: 100px; height: 35px;">
 </a>
+
+<a href="images/diplomas/P1_25_diplom_zavkafedroy_2025.jpg" data-lightbox="diplomas" data-title="Табличка заведующего кафедрой в ПГУПСе">
+<img src="images/diplomas/P1_25_diplom_zavkafedroy_2025.jpg" alt="Табличка заведующего кафедрой в ПГУПСе" style="width: 100px; height: 70px;">
+</a>
 </div>
 
 
