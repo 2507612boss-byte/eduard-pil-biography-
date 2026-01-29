@@ -1067,6 +1067,10 @@
 <a href="univer/P1_univer_2026.pdf" data-lightbox="tree" data-title="Работа в Университетах">
 <img src="univer/P1_univer_2026.pdf" alt="Работа в Университетах" width="100">
  </a>
+ 
+ <a href="univer/P1_colledge_2026.pdf" data-lightbox="tree" data-title="Работа в техникумах и колледжах">
+<img src="univer/P1_colledge_2026.pdf" alt="Работа в техникумах и колледжах" width="100">
+ </a>
 </div>
 
 </body>
