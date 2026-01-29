@@ -1068,8 +1068,11 @@
 <img src="univer/P1_univer_2026.pdf" alt="Работа в Университетах" width="100">
  </a>
  
+ <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Техникумы и колледжи — места моей педагогической деятельности
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
  <a href="univer/P1_colledge_2026.pdf" data-lightbox="tree" data-title="Работа в техникумах и колледжах">
-<img src="univer/P1_colledge_2026.pdf" alt="Работа в техникумах и колледжах" width="100">
+ <img src="univer/P1_colledge_2026.pdf" alt="Работа в техникумах и колледжах" width="100">
  </a>
 </div>
 
