@@ -339,7 +339,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 <h2>Contents of Books on Medical</h2>
 
-📌 *Hint:* <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
+📌 *Hint:* The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for readin
 Contents of the book "Your Health from A to Z"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Your Health from A to Z (2010)">
@@ -444,7 +444,7 @@ Contents of Books on "Longevity and Nutrition"
 
 <h2>Contents and References of Books on Economics</h2>
 
-📌 *Hint:* <h4>The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.</h4>
+📌 *Hint:* The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading.
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Contents and References of the book "Theoretical and Statistical Trajectories of Economic and Population Development Across Countries and Their Projection":
@@ -635,7 +635,7 @@ The Economist's Handbook
 
 <h2>📝 Articles on English Language Theory</h2>
 
-📌 *Hint:* <h4>The book contents are presented in PDF files.To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
+📌 *Hint:* The book contents are presented in PDF files.To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
 <div class="fictione">
 <!-- Пример первых 2 статьи -->
@@ -703,7 +703,7 @@ The Economist's Handbook
 
 <h2>📰 Articles from Journals and Conferences</h2>
 
-📌 *Hint:* <h4>The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.</h4>
+📌 *Hint:* The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
 <div class=papers"">
 <!-- Пример первых 13 статьи -->
