@@ -120,9 +120,9 @@ Developed a formalized theory of the English language using graph theory.
 ## Worldwide Fame: Presentations on 5 Continents
 E.A. Pil's monographs were presented at the world's largest book exhibitions, fairs, and salons testifying to the international recognition of his works:
 *   **Europe:** London (UK), Frankfurt am Main (Germany), Paris (France), Barcelona, Madrid (Spain), Vienna (Austria), Prague (Czech Republic).
-*   **Asia:** Beijing (China), Hong Kong (China), Astana (Kazakhstan), Istanbul (Turkey), New Delhi (India).
+*   **Asia:** Beijing (China), Hong Kong (China), New Delhi (India), Istanbul (Turkey), Astana (Kazakhstan).
 *   **America:** New York (USA).
-*   **Australia:** Acknowledged with official letters of gratitude.
+  
 
 ## Records and Unique Achievements
 *   In 2016, he was officially entered into the Russian Book of Records in two categories:
