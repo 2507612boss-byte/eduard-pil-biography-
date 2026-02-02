@@ -313,7 +313,7 @@
 <img src="Medical/P3_01_book_health_2010.jpg" alt="Ваше здоровье от А до Я (2010)"  style="width: 100px; height: 140px;">
 </a>
 <a href="Medical/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том I (2022)">
-<img src="Medical/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание. Том I (2022)" style="width: 100px">
+<img src="Medical/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание. Том I (2022)" width: 100">
 </a>
 <a href="Medical/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том II (2022)">
 <img src="Medical/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание. Том II (2022)" width="100">
