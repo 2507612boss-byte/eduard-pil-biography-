@@ -1057,7 +1057,7 @@
 <h2> ✈️ Путешествия</h2>
 За рубежом 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-📌 *Подсказка:* (Здесь файл представлен на 14 страницах, так что не забывайте наживать кнопку MORE PAGES)
+📌 *Подсказка:* (Здесь файл представлен на 14 страницах, так что не забывайте наживать кнопку More Pages)
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <div class="travel">
   <a href="travel/P1_travel_rus_2026.pdf" data-lightbox="patent" data-title="За рубежом ">
