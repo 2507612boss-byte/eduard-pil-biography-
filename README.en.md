@@ -154,6 +154,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
   <li>📜 Certificates of Advanced Training</li>
   <li>🗣️ Student Testimonials</li>
   <li>🌱 Patent</li>
+  <li>✈️🌍 Travelling<li>
   <li>🎓👥 Teaching at Universities, Technical and Vocational Colleges
   <li>🎓👥 Study at the VTUZ (1967-1973)</li> 
   <li>🌳 Father’s Genealogical Tree</li>
@@ -1069,6 +1070,26 @@ The Economist's Handbook
 
 </body>
 </html>
+
+<h2> ✈️🌍 Travelling</h2>
+Abroad 
+
+📌 *Hint:* There are 14 pages in this file, so don’t forget to click the MORE PAGES button.
+ 
+<div class="travel">
+  <a href="travel/P2_travel_engl_2026.pdf" data-lightbox="patent" data-title="Abroad">
+    <img travel/P2_travel_engl_2026.pdf" alt="Abroad" width="100">
+  </a>
+
+</div>
+</body>
+</html>
+
+
+
+
+
+
 
 
 <h2>🎓👥 Teaching at Universities, Technical and Vocational Colleges</h2>
