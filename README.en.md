@@ -254,11 +254,16 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 
 <a href="diplomas2/P1_24_diplom_writer_2025.jpg" data-lightbox="diplomas2" data-title="International Writer's Passport">
 <img src="diplomas2/P1_24_diplom_writer_2025.jpg" alt="International Writer's Passport" style="width: 100px; height: 35px;">
-
+</a>
 
 <a href="diplomas2/P1_24_diplom_school_2025.jpg" data-lightbox="diplomas2" data-title="Certificate of the Free Economic Society of Russia">
 <img src="diplomas2/P1_24_diplom_school_2025.jpg" alt="Certificate of the Free Economic Society of Russiaи" style="width: 100px; height: 35px;">
 </a>
+
+<a href="images/diplomas/P1_26_diplom_zavkafedroy_2025.jpg" data-lightbox="diplomas" data-title="Office door nameplate of the Head of Department at PGUPS">
+<img src="images/diplomas/P1_26_diplom_zavkafedroy_2025.jpg" alt="Office door nameplate of the Head of Department at PGUPS" style="width: 100px; height: 70px;">
+</a>
+</div>
 </div>
 
 </body>
