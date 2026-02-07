@@ -560,6 +560,7 @@
 <img src="economy/P4_12_book_theory_handbook.pdf" alt=Содержание (2025)" width="100">
 </a>
 
+📌 *Подсказка:* Этот файл представлен на 14 страницах, так что не забывайте наживать кнопку MORE PAGES.
 <a href="economy/P4_19_book_theory_handbook.pdf" data-lightbox="economy" data-title="Список литературы (2025)">
 <img src="economy/P4_19_book_theory_handbook.pdf" alt="Список литературы" width="100">
 </a>
