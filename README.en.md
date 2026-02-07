@@ -475,7 +475,7 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-  "GDP and Population in Selected Countries from 1960 to 2006 and Their Projection Through 2030":
+"GDP and Population in Selected Countries from 1960 to 2006 and Their Projection Through 2030":
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_22_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents">
 <img src="BookEcon/P4_22_book_theory_predict.pdf" alt="Contents" width="100">
@@ -580,7 +580,9 @@ The Economist's Handbook
 <a href="BookEcon/P4_12_book_theory_handbook.pdf" data-lightbox="economy" data-title="Contents">
 <img src="BookEcon/P4_12_book_theory_handbook.pdf" alt="Contents" width="100">
 </a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 📌 *Hint:* There are 14 pages in this file, so don’t forget to click the MORE PAGES button.
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookEcon/P4_19_book_theory_handbook.pdf" data-lightbox="economy" data-title="References">
 <img src="BookEcon/P4_19_book_theory_handbook.pdf" alt="References" width="100">
 </a>
