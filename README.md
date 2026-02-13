@@ -141,9 +141,10 @@
 # 📚 СОДЕРЖАНИЕ
 <ol>
   <li>🏆 Галерея дипломов</li>
+  <li>💰 Книги по экономике</li>
+  <li>🩺 Книги по медицине</li>
   <li>💻 Книги по технологии</li>
   <li>🩺 Книги по медицине</li>
-  <li>💰 Книги по экономике</li>
   <li>📚 Книги по английскому языку</li>
   <li>📖 Художественная литература</li>
   <li>📝 Статьи по теории английского языка</li>
@@ -270,117 +271,8 @@
 </html>
 
 
-<h2>💻 Книги по технологии</h2>
-
-<div class="technology">
-<!-- Пример первых 4 книг -->
-<a href="technology/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
-<img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" style="width: 100px; height: 135px;">
-</a>
-
-<a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Обработка деталей на станках с ЧПУ и ГПС (1998)">
-<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)"  style="width: 100px; height: 135px;">
- </a>   
-<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
-<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" style="width: 100px; height: 135px;">
-</a>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-  Содержание книги по теории сложности обработки корпусных деталей и список литературы
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Содержание книги">
-<img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" style="width: 100px; height: 135px;">
-</a>
-<a href="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="Список литературы">
-<img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Список литературы" style="width: 100px; height: 135px;">
-</a>
 
 
- <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
-<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" style="width: 100px; height: 135px;">
-</a>
-
-</div>
-
-</body>
-</html>
-
-
-<h2>🩺 Книги по медицине</h2>
-
-<div class="Medical">
-<!-- Пример первых 2 книг -->
-<a href="Medical/P3_01_book_health_2010.jpg" data-lightbox="Medical" data-title="Ваше здоровье от А до Я (2010)">
-<img src="Medical/P3_01_book_health_2010.jpg" alt="Ваше здоровье от А до Я (2010)"  style="width: 100px; height: 140px;">
-</a>
-<a href="Medical/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том I (2022)">
-<img src="Medical/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание. Том I (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том II (2022)">
-<img src="Medical/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание. Том II (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том III (2022)">
-<img src="Medical/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание. Том III (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том IV (2022)">
-<img src="Medical/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание. Том IV (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том V (2022)">
-<img src="Medical/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание. Том V (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том VI (2022)">
-<img src="Medical/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание. Том VI (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение. Том VII (2024)">
-<img src="Medical/P3_02_book_longevity_V7_2022.jpg" alt="Курение. Том VII (2024)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V8_2022.jpg" data-lightbox="Medical" data-title="Курение. Том VIII (2024)">
-<img src="Medical/P3_02_book_longevity_V8_2022.jpg" alt="Курение. Том VIII (2024)" width="100">
-</a>
-
-<h2>Содержание книг</h2>
-
-📌 *Подсказка:* Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз.
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание книги "Ваше Здоровье от А до Я"
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="Medical/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Ваше Здоровье от А до Я (2010)">
-<img src="Medical/P3_01_book_health_2010.pdf" alt="Ваше Здоровье от А до Я (2010)" width="100">
-</a>
-  
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Содержание книг "Долголетие и Питание" и других книг из этой серии.
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="Medical/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том I (2022)">
-<img src="Medical/P3_02_book_longevity_V1_2022.pdf" alt="Долголетие и питание. Том I (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том II (2022)">
-<img src="Medical/P3_02_book_longevity_V2_2022.pdf" alt="Долголетие и питание. Том II (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том III (2022)">
-<img src="Medical/P3_02_book_longevity_V3_2022.pdf" alt="Долголетие и питание. Том III (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V4_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том IV (2022)">
-<img src="Medical/P3_02_book_longevity_V4_2022.pdf" alt="Долголетие и питание. Том IV (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V5_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том V (2022)">
-<img src="Medical/P3_02_book_longevity_V5_2022.pdf" alt="Долголетие и питание. Том V (2022)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том VI (2022)">
-<img src="Medical/P3_02_book_longevity_V6_2022.pdf" alt="Долголетие и питание. Том VI (2022)" width="100">
-</a>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="Medical/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Курение. Том VII (2024)">
-<img src="Medical/P3_02_book_longevity_V7_2022.pdf" alt="Курение. Том VII (2024)" width="100">
-</a>
-<a href="Medical/P3_02_book_longevity_V8_2022.pdf" data-lightbox="Medical" data-title="Алкоголизм. Том VIII (2024)">
-<img src="Medical/P3_02_book_longevity_V8_2022.pdf" alt="Алкоголизм. Том VIII (2024)" width="100">
-</a>
-
-</div>
-
-</body>
-</html>
 
 
 
@@ -566,6 +458,126 @@
 
 </body>
 </html>
+
+
+
+
+<h2>🩺 Книги по медицине</h2>
+
+<div class="Medical">
+<!-- Пример первых 2 книг -->
+<a href="Medical/P3_01_book_health_2010.jpg" data-lightbox="Medical" data-title="Ваше здоровье от А до Я (2010)">
+<img src="Medical/P3_01_book_health_2010.jpg" alt="Ваше здоровье от А до Я (2010)"  style="width: 100px; height: 140px;">
+</a>
+<a href="Medical/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том I (2022)">
+<img src="Medical/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание. Том I (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том II (2022)">
+<img src="Medical/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание. Том II (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том III (2022)">
+<img src="Medical/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание. Том III (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том IV (2022)">
+<img src="Medical/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание. Том IV (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том V (2022)">
+<img src="Medical/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание. Том V (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание. Том VI (2022)">
+<img src="Medical/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание. Том VI (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение. Том VII (2024)">
+<img src="Medical/P3_02_book_longevity_V7_2022.jpg" alt="Курение. Том VII (2024)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V8_2022.jpg" data-lightbox="Medical" data-title="Курение. Том VIII (2024)">
+<img src="Medical/P3_02_book_longevity_V8_2022.jpg" alt="Курение. Том VIII (2024)" width="100">
+</a>
+
+<h2>Содержание книг</h2>
+
+📌 *Подсказка:* Содержания книг представлены в PDF файлах. Для загрузки надо выбрать и нажать ниже маленькую иконку с выбранным томом книги и прокрутить его до конца чтения вниз.
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Содержание книги "Ваше Здоровье от А до Я"
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="Medical/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Ваше Здоровье от А до Я (2010)">
+<img src="Medical/P3_01_book_health_2010.pdf" alt="Ваше Здоровье от А до Я (2010)" width="100">
+</a>
+  
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Содержание книг "Долголетие и Питание" и других книг из этой серии.
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="Medical/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том I (2022)">
+<img src="Medical/P3_02_book_longevity_V1_2022.pdf" alt="Долголетие и питание. Том I (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том II (2022)">
+<img src="Medical/P3_02_book_longevity_V2_2022.pdf" alt="Долголетие и питание. Том II (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том III (2022)">
+<img src="Medical/P3_02_book_longevity_V3_2022.pdf" alt="Долголетие и питание. Том III (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V4_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том IV (2022)">
+<img src="Medical/P3_02_book_longevity_V4_2022.pdf" alt="Долголетие и питание. Том IV (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V5_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том V (2022)">
+<img src="Medical/P3_02_book_longevity_V5_2022.pdf" alt="Долголетие и питание. Том V (2022)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Долголетие и питание. Том VI (2022)">
+<img src="Medical/P3_02_book_longevity_V6_2022.pdf" alt="Долголетие и питание. Том VI (2022)" width="100">
+</a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="Medical/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Курение. Том VII (2024)">
+<img src="Medical/P3_02_book_longevity_V7_2022.pdf" alt="Курение. Том VII (2024)" width="100">
+</a>
+<a href="Medical/P3_02_book_longevity_V8_2022.pdf" data-lightbox="Medical" data-title="Алкоголизм. Том VIII (2024)">
+<img src="Medical/P3_02_book_longevity_V8_2022.pdf" alt="Алкоголизм. Том VIII (2024)" width="100">
+</a>
+
+</div>
+
+</body>
+</html>
+
+
+
+<h2>💻 Книги по технологии</h2>
+
+<div class="technology">
+<!-- Пример первых 4 книг -->
+<a href="technology/P2_01_book_sapr_1993.JPG" data-lightbox="technology" data-title="САПР (1993)">
+<img src="technology/P2_01_book_sapr_1993.JPG" alt="САПР (1993)" style="width: 100px; height: 135px;">
+</a>
+
+<a href="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Обработка деталей на станках с ЧПУ и ГПС (1998)">
+<img src="technology/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Обработка деталей на станках с ЧПУ и ГПС (1998)"  style="width: 100px; height: 135px;">
+ </a>   
+<a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
+<img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" style="width: 100px; height: 135px;">
+</a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+  Содержание книги по теории сложности обработки корпусных деталей и список литературы
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Содержание книги">
+<img src="technology/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Содержание книги" style="width: 100px; height: 135px;">
+</a>
+<a href="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="Список литературы">
+<img src="technology/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="Список литературы" style="width: 100px; height: 135px;">
+</a>
+
+
+ <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
+<img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" style="width: 100px; height: 135px;">
+</a>
+
+</div>
+
+</body>
+</html>
+
+
+
+
 
 
 
