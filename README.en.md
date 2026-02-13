@@ -135,9 +135,9 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 📚 CONTENTS
 <ol style="display: flex; flex-wrap: wrap; gap: 10px; padding: 0; list-style-position: inside;">
   <li>🏆 Gallery of Diplomas</li>
-  <li>💻 Books on Technology</li>
-  <li>🩺 Books on Medicine</li>
   <li>💰 Books on Economics</li>
+  <li>🩺 Books on Medicine</li>
+  <li>💻 Books on Technology</li>
   <li>📚 Books on the English Language</li>
   <li>📖 Fiction</li>
   <li>📝 Articles on the Theory of the English Language</li>
@@ -270,122 +270,6 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 </html>
 
 
-
-<h2>💻 Books on Technology</h2>
-
-<div class="technologyeng">
-<!-- Пример первых 4 книг -->
-<a href="technologyeng/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="CAD/CAM (1993)">
-<img src="technologyeng/P2_01_book_sapr_1993.jpg" alt="CAD/CAM (1993)" style="width: 100px; height: 135px;">
-</a>
-<a href="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Processing of Parts on CNC and FMS Machines (1998)">
-<img src="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Processing of Parts on CNC and FMS Machines (1998)" style="width: 100px; height: 135px;">
-</a>
-<a href="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="The Book on the Theory of Casing Part Machining Complexity (2003)">
-<img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="The Book on the Theory of Casing Part Machining Complexity (2003)" style="width: 100px; height: 135px;">
-</a>
-
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents and References of the Book on the Theory of Casing Part Machining Complexity
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-
-<a href="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Contents">
-<img src="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Contents" width="100">
-</a>
-
-<a href="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="References">
-<img src="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="References" width="100">
-</a>
-
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
-<a href="technologyeng/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
-<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" width="100">
-</a>
-
-</div>
-
-</body>
-</html>
-
-
-
-
-
-<h2>🩺 Books on Medicine</h2>
-<div class="BookMed">
-<!-- Пример первых 2 книг -->
-<a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
-<img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" style="width: 100px; height: 140px;">
-</a>
-
-<a href="BookMed/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание I (2022)">
-<img src="BookMed/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание I (2022)" style="width: 100px; height: 140px;">
-</a>
-<a href="BookMed/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание II (2022)">
-<img src="BookMed/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание II (2022)" style="width: 100px; height: 140px;">
-</a>
-<a href="BookMed/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание III (2022)">
-<img src="BookMed/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание III (2022)" style="width: 100px; height: 140px;">
-</a>
-<a href="BookMed/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание IV (2022)">
-<img src="BookMed/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание IV (2022)" style="width: 100px; height: 140px;">
-</a>
-<a href="BookMed/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание V (2022)">
-<img src="BookMed/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание V (2022)" style="width: 100px; height: 140px;">
-</a>
-<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание VI (2022)">
-<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание VI (2022)" style="width: 100px; height: 140px;">
-</a>
-<a href="BookMed/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение (2024)">
-<img src="BookMed/P3_02_book_longevity_V7_2022.jpg" alt="Курение (2024)" style="width: 100px; height: 140px;">
-</a>
-<a href="BookMed/P3_02_book_longevity_V8_2022.jpg" data-lightbox="Medical" data-title="Алкоголизм (2024)">
-<img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" style="width: 100px; height: 140px;">
-</a>
-
-<h2>Contents of Books on Medical</h2>
-
-📌 *Hint:* The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for readin
-Contents of the book "Your Health from A to Z"
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="BookMed/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Your Health from A to Z (2010)">
-<img src="BookMed/P3_01_book_health_2010.pdf" alt="Your Health from A to Z (2010)" width="100">
-</a>
-
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Contents of Books on "Longevity and Nutrition"
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. I (2022)">
-<img src="BookMed/P3_02_book_longevity_V1_2022.pdf" alt="Longevity and Nutrition. Vol. I (2022)" width="100">
-</a>
-<a href="BookMed/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. II (2022)">
-<img src="BookMed/P3_02_book_longevity_V2_2022.pdf" alt="Longevity and Nutrition. Vol. II (2022)" width="100">
-</a>
-<a href="BookMed/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. III (2022)">
-<img src="BookMed/P3_02_book_longevity_V3_2022.pdf" alt="Longevity and Nutrition. Vol. III (2022)" width="100">
-</a>
-<a href="BookMed/P3_02_book_longevity_V4_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. IV (2022)">
-<img src="BookMed/P3_02_book_longevity_V4_2022.pdf" alt="Longevity and Nutrition. Vol. IV (2022)" width="100">
-</a>
-<a href="BookMed/P3_02_book_longevity_V5_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. V (2022)">
-<img src="BookMed/P3_02_book_longevity_V5_2022.pdf" alt="Longevity and Nutrition. Vol. V (2022)" width="100">
-</a>
-<a href="BookMed/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol.VI (2022)">
-<img src="BookMed/P3_02_book_longevity_V6_2022.pdf" alt="Longevity and Nutrition. Vol. VI (2022)" width="100">
-</a>
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="BookMed/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Smoking. Vol. VII (2024)">
-<img src="BookMed/P3_02_book_longevity_V7_2022.pdf" alt="Smoking. Vol. VII (2024)" width="100">
-</a>
-<a href="BookMed/P3_02_book_longevity_V8_2022.pdf" data-lightbox="Medical" data-title="Alcoholism. Vol. VIII (2024)">
-<img src="BookMed/P3_02_book_longevity_V8_2022.pdf" alt="Alcoholism. Vol. VIII (2024)" width="100">
-</a>
-
-
-</div>
-
-</body>
-</html>
 
 
 
@@ -589,6 +473,127 @@ The Economist's Handbook
 
 </body>
 </html>
+
+
+
+
+<h2>🩺 Books on Medicine</h2>
+<div class="BookMed">
+<!-- Пример первых 2 книг -->
+<a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
+<img src="BookMed/P3_01_book_health_2010.jpg" alt="Your Health from A to Z (Health Encyclopedia) (2010)" style="width: 100px; height: 140px;">
+</a>
+
+<a href="BookMed/P3_02_book_longevity_V1_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание I (2022)">
+<img src="BookMed/P3_02_book_longevity_V1_2022.jpg" alt="Долголетие и питание I (2022)" style="width: 100px; height: 140px;">
+</a>
+<a href="BookMed/P3_02_book_longevity_V2_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание II (2022)">
+<img src="BookMed/P3_02_book_longevity_V2_2022.jpg" alt="Долголетие и питание II (2022)" style="width: 100px; height: 140px;">
+</a>
+<a href="BookMed/P3_02_book_longevity_V3_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание III (2022)">
+<img src="BookMed/P3_02_book_longevity_V3_2022.jpg" alt="Долголетие и питание III (2022)" style="width: 100px; height: 140px;">
+</a>
+<a href="BookMed/P3_02_book_longevity_V4_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание IV (2022)">
+<img src="BookMed/P3_02_book_longevity_V4_2022.jpg" alt="Долголетие и питание IV (2022)" style="width: 100px; height: 140px;">
+</a>
+<a href="BookMed/P3_02_book_longevity_V5_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание V (2022)">
+<img src="BookMed/P3_02_book_longevity_V5_2022.jpg" alt="Долголетие и питание V (2022)" style="width: 100px; height: 140px;">
+</a>
+<a href="BookMed/P3_02_book_longevity_V6_2022.jpg" data-lightbox="Medical" data-title="Долголетие и питание VI (2022)">
+<img src="BookMed/P3_02_book_longevity_V6_2022.jpg" alt="Долголетие и питание VI (2022)" style="width: 100px; height: 140px;">
+</a>
+<a href="BookMed/P3_02_book_longevity_V7_2022.jpg" data-lightbox="Medical" data-title="Курение (2024)">
+<img src="BookMed/P3_02_book_longevity_V7_2022.jpg" alt="Курение (2024)" style="width: 100px; height: 140px;">
+</a>
+<a href="BookMed/P3_02_book_longevity_V8_2022.jpg" data-lightbox="Medical" data-title="Алкоголизм (2024)">
+<img src="BookMed/P3_02_book_longevity_V8_2022.jpg" alt="Алкоголизм (2024)" style="width: 100px; height: 140px;">
+</a>
+
+<h2>Contents of Books on Medical</h2>
+
+📌 *Hint:* The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for readin
+Contents of the book "Your Health from A to Z"
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="BookMed/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Your Health from A to Z (2010)">
+<img src="BookMed/P3_01_book_health_2010.pdf" alt="Your Health from A to Z (2010)" width="100">
+</a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Contents of Books on "Longevity and Nutrition"
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="BookMed/P3_02_book_longevity_V1_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. I (2022)">
+<img src="BookMed/P3_02_book_longevity_V1_2022.pdf" alt="Longevity and Nutrition. Vol. I (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V2_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. II (2022)">
+<img src="BookMed/P3_02_book_longevity_V2_2022.pdf" alt="Longevity and Nutrition. Vol. II (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V3_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. III (2022)">
+<img src="BookMed/P3_02_book_longevity_V3_2022.pdf" alt="Longevity and Nutrition. Vol. III (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V4_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. IV (2022)">
+<img src="BookMed/P3_02_book_longevity_V4_2022.pdf" alt="Longevity and Nutrition. Vol. IV (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V5_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol. V (2022)">
+<img src="BookMed/P3_02_book_longevity_V5_2022.pdf" alt="Longevity and Nutrition. Vol. V (2022)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V6_2022.pdf" data-lightbox="Medical" data-title="Longevity and Nutrition. Vol.VI (2022)">
+<img src="BookMed/P3_02_book_longevity_V6_2022.pdf" alt="Longevity and Nutrition. Vol. VI (2022)" width="100">
+</a>
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="BookMed/P3_02_book_longevity_V7_2022.pdf" data-lightbox="Medical" data-title="Smoking. Vol. VII (2024)">
+<img src="BookMed/P3_02_book_longevity_V7_2022.pdf" alt="Smoking. Vol. VII (2024)" width="100">
+</a>
+<a href="BookMed/P3_02_book_longevity_V8_2022.pdf" data-lightbox="Medical" data-title="Alcoholism. Vol. VIII (2024)">
+<img src="BookMed/P3_02_book_longevity_V8_2022.pdf" alt="Alcoholism. Vol. VIII (2024)" width="100">
+</a>
+
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+<h2>💻 Books on Technology</h2>
+
+<div class="technologyeng">
+<!-- Пример первых 4 книг -->
+<a href="technologyeng/P2_01_book_sapr_1993.jpg" data-lightbox="technology" data-title="CAD/CAM (1993)">
+<img src="technologyeng/P2_01_book_sapr_1993.jpg" alt="CAD/CAM (1993)" style="width: 100px; height: 135px;">
+</a>
+<a href="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" data-lightbox="technology" data-title="Processing of Parts on CNC and FMS Machines (1998)">
+<img src="technologyeng/P2_02_book_obrab_detals_CNC_FMC_1998.JPG" alt="Processing of Parts on CNC and FMS Machines (1998)" style="width: 100px; height: 135px;">
+</a>
+<a href="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="The Book on the Theory of Casing Part Machining Complexity (2003)">
+<img src="technologyeng/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="The Book on the Theory of Casing Part Machining Complexity (2003)" style="width: 100px; height: 135px;">
+</a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+Contents and References of the Book on the Theory of Casing Part Machining Complexity
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+
+<a href="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" data-lightbox="technology" data-title="Contents">
+<img src="technologyeng/P2_04_book_theory_obrab_korp_soder_2003.pdf" alt="Contents" width="100">
+</a>
+
+<a href="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="References">
+<img src="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="References" width="100">
+</a>
+
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="technologyeng/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
+<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" width="100">
+</a>
+
+</div>
+
+</body>
+</html>
+
+
 
 
 
