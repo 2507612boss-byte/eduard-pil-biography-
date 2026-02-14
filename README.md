@@ -553,8 +553,7 @@
 <a href="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" data-lightbox="technology" data-title="Теория обработки корпусных деталей (2003)">
 <img src="technology/P2_03_book_theory_obrab_korp_detals_2003.jpg" alt="Теория обработки корпусных деталей (2003)" style="width: 100px; height: 135px;">
 </a>
- <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
+ <a href="technology/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="Автомобили (2009)">
 <img src="technology/P2_04_book_CARS_2009.jpg" alt="Автомобили (2009)" style="width: 100px; height: 135px;">
 </a>
    
