@@ -644,21 +644,17 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 
 
+<h2>🏅 Book of Records of Russia</h2>
 
+<div class="gallery">
+  <!-- Пример первых 2 рекордов -->
+  <a href="recorde/P9_01_book_record1_2017.jpg" data-lightbox="recorde" data-title="Record for Publishing 13 Scientific Articles in a Single Collection Without Co-Authors (2017)">
+    <img src="recorde/P9_01_book_record1_2017.jpg" alt="Record for Publishing 13 Scientific Articles in a Single Collection Without Co-Authors (2017)" width="100">
+  </a>
 
-<h2>📝 Articles on English Language Theory</h2>
-
-📌 *Hint:* The book contents are presented in PDF files.To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
-
-<div class="fictione">
-<!-- Пример первых 2 статьи -->
-<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
-</a>
-<a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
-<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
-</a>
-
+  <a href="recorde/P9_02_book_record2_2017.JPG" data-lightbox="recorde" data-title="Record for Publishing 87 Scientific Articles in a Single Calendar Year Without Co-Authors (2017)">
+    <img src="recorde/P9_02_book_record2_2017.JPG" alt="Record for Publishing 87 Scientific Articles in a Single Calendar Year Without Co-Authors (2017)" width="100">
+  </a>
 </div>
 
 </body>
@@ -695,17 +691,20 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 
 
-<h2>🏅 Book of Records of Russia</h2>
 
-<div class="gallery">
-  <!-- Пример первых 2 рекордов -->
-  <a href="recorde/P9_01_book_record1_2017.jpg" data-lightbox="recorde" data-title="Record for Publishing 13 Scientific Articles in a Single Collection Without Co-Authors (2017)">
-    <img src="recorde/P9_01_book_record1_2017.jpg" alt="Record for Publishing 13 Scientific Articles in a Single Collection Without Co-Authors (2017)" width="100">
-  </a>
+<h2>📝 Articles on English Language Theory</h2>
 
-  <a href="recorde/P9_02_book_record2_2017.JPG" data-lightbox="recorde" data-title="Record for Publishing 87 Scientific Articles in a Single Calendar Year Without Co-Authors (2017)">
-    <img src="recorde/P9_02_book_record2_2017.JPG" alt="Record for Publishing 87 Scientific Articles in a Single Calendar Year Without Co-Authors (2017)" width="100">
-  </a>
+📌 *Hint:* The book contents are presented in PDF files.To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
+
+<div class="fictione">
+<!-- Пример первых 2 статьи -->
+<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
+<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
+</a>
+<a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
+<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
+</a>
+
 </div>
 
 </body>
@@ -1056,6 +1055,17 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 </html>
 
 
+<h2>🌱 Patent</h2>
+  
+<div class="patante">
+  <a href="patente/P19_01_book_patent_2023.jpg" data-lightbox="patente" data-title="Vibrodynamic Head (1994)">
+    <img src="patente/P19_01_book_patent_2023.jpg" alt="Vibrodynamic Head (1994)" style="width: 100px; height: 110px;">
+  </a>
+
+</div>
+
+</body>
+</html>
 
   
 <h2>🗣️ Student Testimonials</h2>
@@ -1069,37 +1079,6 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 </body>
 </html>
-
-
-<h2>🌱 Patent</h2>
-  
-<div class="patante">
-  <a href="patente/P19_01_book_patent_2023.jpg" data-lightbox="patente" data-title="Vibrodynamic Head (1994)">
-    <img src="patente/P19_01_book_patent_2023.jpg" alt="Vibrodynamic Head (1994)" style="width: 100px; height: 110px;">
-  </a>
-
-</div>
-
-</body>
-</html>
-
-<h2> ✈️🌍 Travelling</h2>
-Abroad 
-
-📌 *Hint:* There are 14 pages in this file, so don’t forget to click the MORE PAGES button.
- 
-<div class="travel">
-  <a href="travel/P2_travel_engl_2026.pdf" data-lightbox="patent" data-title="Abroad">
-    <img travel/P2_travel_engl_2026.pdf" alt="Abroad" width="100">
-  </a>
-
-</div>
-</body>
-</html>
-
-
-
-
 
 
 
@@ -1125,9 +1104,26 @@ Technical and Vocational Colleges — Sites of My Teaching Career
 
 
 
+<h2> ✈️🌍 Travelling</h2>
+Abroad 
+
+📌 *Hint:* There are 14 pages in this file, so don’t forget to click the MORE PAGES button.
+ 
+<div class="travel">
+  <a href="travel/P2_travel_engl_2026.pdf" data-lightbox="patent" data-title="Abroad">
+    <img travel/P2_travel_engl_2026.pdf" alt="Abroad" width="100">
+  </a>
+
+</div>
+</body>
+</html>
+
+
+
+
   
 
-<h2>🎓👥 Friends from VTUZ studies, 1967–1973 </h2>
+<h2>🎓👥 Studies at a polytechnic university, 1967–1973 </h2>
  <h4>My Univirsity Classmates (1967-1973)<h4>
 
 <h4>To view all provided files in PDF format, click the small icon below and scroll to the end of the loaded page. If the book content is lengthy, click the "MORE PAGES" button at the bottom to read everything.</h4>
@@ -1138,13 +1134,13 @@ Technical and Vocational Colleges — Sites of My Teaching Career
  </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Reunions after Graduation from VTUZ
+Alumni reunions
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="friends/P23_04_book_friends_2025.pdf" data-lightbox="friends" data-title="Reunions after Graduation from VTUZ">
 <img src="friends/P23_04_book_friends_2025.pdf" alt="Reunions after Graduation from VTUZ" width="100">
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Military field training 1973
+Military training camp, summer 1973
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="friends/P23_06_book_friends_2025.pdf" data-lightbox="friends" data-title="Military field training 1973">
 <img src="friends/P23_06_book_friends_2025.pdf" alt="Military field training 1973" width="100">
