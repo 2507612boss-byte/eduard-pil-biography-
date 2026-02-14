@@ -146,9 +146,9 @@
   <li>💻 Книги по технологии</li>
   <li>📚 Книги по английскому языку</li>
   <li>📖 Художественная литература</li>
-  <li>📝 Статьи по теории английского языка</li>
   <li>👤 Биография</li>
   <li>🏅 Книга рекордов России</li>
+  <li>📝 Статьи по теории английского языка</li 
   <li>📰 Статьи из журналов и конференций</li>
   <li>🎓 Сертификаты выступлений на конференциях</li>
   <li>✉️ Письма от монархов и политиков</li>
@@ -624,26 +624,6 @@
 
 
 
-<h2>📝 Статьи по теории английского языка</h2>
-
-📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
-
-<div class=english"">
-<!-- Пример первых 2 статьи -->
-<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
-</a>
-<a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
-<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
-</a>
-
-</div>
-
-</body>
-</html>
-
-
-
 
 
 <h2>👤 Биография</h2>
@@ -690,6 +670,27 @@
 
 </body>
 </html>
+
+
+
+<h2>📝 Статьи по теории английского языка</h2>
+
+📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
+
+<div class=english"">
+<!-- Пример первых 2 статьи -->
+<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
+<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
+</a>
+<a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
+<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
+</a>
+
+</div>
+
+</body>
+</html>
+
 
 
 
