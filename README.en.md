@@ -575,7 +575,7 @@ Contents of Books on "Longevity and Nutrition"
 </a>
 
 <a href="technologyeng/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
-<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" width="100">
+<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" style="width: 100px; height: 135px;">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -588,10 +588,6 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 <a href="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" data-lightbox="technology" data-title="References">
 <img src="technologyeng/P2_05_book_theory_obrab_korp_lit_2003.pdf" alt="References" width="100">
-</a>
-
-<a href="technologyeng/P2_04_book_CARS_2009.jpg" data-lightbox="technology" data-title="CARS (2009)">
-<img src="technologyeng/P2_04_book_CARS_2009.jpg" alt="CARS (2009)" width="100">
 </a>
 
 </div>
