@@ -11,9 +11,10 @@
 
 
 **Eduard Anatolyevich Pil** (born 1950) — Soviet and Russian encyclopedic scientist, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural History (RANH).  
-Author of **42 books** (including 1 on automobiles, 1 work of fiction, 4 technical, 8 English-language, 10 medical, and 18 economic), **27 textbooks**, and more than **1,660 scientific works** in mechanical engineering, economics, linguistics, medicine, and fiction.  
+Author of **42 books** (including 17 economic, 10 medical, 8 English-language, 4 technical, 2 work of fiction and 1 on automobiles), **27 textbooks**, and more than **1,660 scientific works** in mechanical engineering, economics, linguistics, medicine, and fiction.  
 Holder of numerous Russian and international awards, Honored Scientist and Educator of RAE (2011), and **Russian Book of Records laureate (2016)** for scientific productivity.  
 His monographs have received top honors at major international book exhibitions and fairs.
+
 
 ---
 
@@ -135,30 +136,32 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 📚 CONTENTS
 <ol style="display: flex; flex-wrap: wrap; gap: 10px; padding: 0; list-style-position: inside;">
   <li>🏆 Gallery of Diplomas</li>
-  <li>💰 Books on Economics</li>
-  <li>🩺 Books on Medicine</li>
-  <li>💻 Books on Technology</li>
-  <li>📚 Books on the English Language</li>
-  <li>📖 Fiction</li>
-  <li>📝 Articles on the Theory of the English Language</li>
-  <li>👤 Biography</li>
-  <li>🏅 Book of Records of Russia</li>
-  <li>📰 Articles from Journals and Conferences</li>
-  <li>🎓 Certificates of Conference Presentations</li>
-  <li>✉️ Letters from Monarchs and Politicians</li>
-  <li>✉️ Postcards from Fidel Castro</li>
-  <li>📦 Books Donated to Foreign Libraries
-  <li>📦 Books Donated to Russian Libraries</li>
-  <li>🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </li>
-  <li>🏆 Letters from Nobel Laureates in Economics</li>
-  <li>📜 Certificates of Advanced Training</li>
-  <li>🗣️ Student Testimonials</li>
-  <li>🌱 Patent</li>
-  <li>✈️🌍 Travelling</li>
-  <li>🎓👥 Teaching at Universities, Technical and Vocational Colleges</li>
-  <li>🎓👥 Study at the VTUZ (1967-1973)</li> 
-  <li>🌳 Father’s Genealogical Tree</li>
-  <li>🌿 Mother’s Genealogical Tree</li>
+<li>💰 Books on Economics</li>
+<li>🩺 Books on Medicine</li>
+<li>💻 Books on Technology</li>
+<li>📚 Books on the English Language</li>
+<li>📖 Fiction</li>
+<li>🏅 Book of Records of Russia</li>
+<li>👤 Biography</li>
+<li>📝 Articles on the Theory of the English Language</li>
+<li>📰 Articles from Journals and Conferences</li>
+<li>🎓 Certificates of Conference Presentations</li>
+<li>✉️ Letters from Monarchs and Politicians</li>
+<li>✉️ Postcards from Fidel Castro</li>
+<li>📦 Books Donated to Foreign Libraries
+<li>📦 Books Donated to Russian Libraries</li>
+<li>🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </li>
+<li>🏆 Letters from Nobel Laureates in Economics</li>
+<li>📜 Certificates of Advanced Training</li>
+li>🌱 Patent</li>
+<li>🗣️ Student Testimonials</li>
+<<li>🎓👥 Teaching at Universities, Technical and Vocational Colleges</li>
+<li>✈️🌍 Travelling</li>
+<li>🎓👥 Study at the VTUZ (1967-1973)</li> 
+<li>🌳 Father’s Genealogical Tree</li>
+<li>🌿 Mother’s Genealogical Tree</li>
+
+
    </ol>
   
  
