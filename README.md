@@ -1084,9 +1084,9 @@
 </html>
 
 
-<h2>🎓👥 Учебные годы во ВТУЗЕ</h2>
+<h2>🎓👥 Учебные годы во ВТУЗЕ с 1967 по 1973 годы</h2>
 
-<h4>Друзья по учёбе во ВТУЗе с 1967 по 1973 годы</h4>
+<h4>Друзья по учёбе во ВТУЗе</h4>
 
 📌 *Подсказка:* Чтобы просмотреть все представленные файлы в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.
 Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
@@ -1105,7 +1105,7 @@
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Встречи после окончания ВТУЗа" width="100">
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Военные сборы 1973
+Военные сборы, лето 1973
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
  <a href="friends/P23_05_book_friends_2025.pdf" data-lightbox="friends" data-title="Военные сборы 1973">
 <img src="friends/P23_05_book_friends_2025.pdf" alt="Военные сборы 1973" width="100">
