@@ -158,11 +158,11 @@
   <li>🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</li>
   <li>🏆 Письма от нобелевских лауреатов по экономике</li>
   <li>📜 Сертификаты повышения квалификации</li>
+  <li>🌱 Патент</li>  
   <li>🗣️ Отзывы студентов</li>
-  <li>🌱 Патент</li>
-  <li>✈️🌍 Путешествия</li>
   <li>🎓👥 Работа в университетах, техникумах и колледжах</li>
   <li>🎓👥 Учёба во ВТУЗе с 1967 по 1973 годы</li>
+  <li>✈️🌍 Путешествия</li>
   <li>🌳 Генеалогическое древо отца</li>
   <li>🌿 Генеалогическое древо матери</li>
  </ol>
@@ -1034,6 +1034,17 @@
 
 
 
+<h2>🌱 Патент</h2>
+<div class="patant">
+  <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
+    <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" style="width: 100px; height: 110px;">
+  </a>
+
+</div>
+
+</body>
+</html>
+
   
 <h2>🗣️ Отзывы студентов</h2>
   
@@ -1047,36 +1058,6 @@
 </body>
 </html>
 
-
-
-  
-<h2>🌱 Патент</h2>
-<div class="patant">
-  <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
-    <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" style="width: 100px; height: 110px;">
-  </a>
-
-</div>
-
-</body>
-</html>
-
-
-
-<h2> ✈️🌍 Путешествия</h2>
-За рубежом 
-
-📌 *Подсказка:* Этот файл представлен на 14 страницах, так что не забывайте наживать кнопку MORE PAGES.
- 
-<div class="travel">
-  <a href="travel/P1_travel_rus_2026.pdf" data-lightbox="patent" data-title="За рубежом ">
-    <img travel/P1_travel_rus_2026.pdf" alt="За рубежом" width="100">
-  </a>
-
-</div>
-
-</body>
-</html>
 
 
 
@@ -1134,6 +1115,28 @@
 
 </body>
 </html>
+
+
+
+
+
+<h2> ✈️🌍 Путешествия</h2>
+За рубежом 
+
+📌 *Подсказка:* Этот файл представлен на 14 страницах, так что не забывайте наживать кнопку MORE PAGES.
+ 
+<div class="travel">
+  <a href="travel/P1_travel_rus_2026.pdf" data-lightbox="patent" data-title="За рубежом ">
+    <img travel/P1_travel_rus_2026.pdf" alt="За рубежом" width="100">
+  </a>
+
+</div>
+
+</body>
+</html>
+
+
+
 
 <h2>🌳 Генеалогическое древо отца</h2>
 
