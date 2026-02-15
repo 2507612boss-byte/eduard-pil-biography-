@@ -73,7 +73,6 @@ His monographs have earned **global recognition**:
 - **Two Gold Medals** for other economic studies:
   - *“Theoretical and Statistical Variants of Economic and Population Development of the World’s Countries”* (LIBER Barcelona, Spain, 2018)  
   - *“Analysis of GDP and Population from 1960 to 2006 and Forecast up to 2030”* (Hong Kong Book Fair, 2019)
-- Gold Medal *“For Innovative Work in Higher Education”* (RAE, 2025)
 
 ---
 
@@ -143,6 +142,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 <li>📖 Fiction</li>
 <li>🏅 Book of Records of Russia</li>
 <li>👤 Biography</li>
+<li>🆔 ORCID</li>
 <li>📝 Articles on the Theory of the English Language</li>
 <li>📰 Articles from Journals and Conferences</li>
 <li>🎓 Certificates of Conference Presentations</li>
@@ -688,8 +688,8 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 </html>
 
 
-
-
+<h2>🆔 ORCID</h2>
+My profile in the ORCID researcher identification system: https://orcid.org/0009-0009-7002-217X
 
 
 <h2>📝 Articles on English Language Theory</h2>
