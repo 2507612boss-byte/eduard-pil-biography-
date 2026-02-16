@@ -1115,8 +1115,8 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <h4>Военные сборы, лето 1973<h4>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
- <a href="friends/P23_05_book_friends_2025.pdf" data-lightbox="friends" data-title="Военные сборы 1973">
-<img src="friends/P23_05_book_friends_2025.pdf" alt="Военные сборы 1973" width="100">
+ <a href="friends/P23_05_book_friends_2025.pdf" data-lightbox="friends" data-title="Военные сборы, лето 1973">
+<img src="friends/P23_05_book_friends_2025.pdf" alt="Военные сборы, лето 1973" width="100">
  
 
 </div>
