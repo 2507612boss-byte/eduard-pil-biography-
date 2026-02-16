@@ -691,6 +691,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 <h2>9. 🆔 ORCID</h2>
 
 *ORCID (Open Researcher and Contributor ID)*
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 My profile in the ORCID researcher identification system: https://orcid.org/0009-0009-7002-217X
 
 
