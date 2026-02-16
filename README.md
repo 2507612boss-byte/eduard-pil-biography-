@@ -1106,13 +1106,13 @@
  </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Встречи после окончания ВТУЗа
+<h4>Встречи после окончания ВТУЗа<h4>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="friends/P23_03_book_friends_2025.pdf" data-lightbox="friends" data-title="Встречи после окончания ВТУЗа">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Встречи после окончания ВТУЗа" width="100">
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-Военные сборы, лето 1973
+<h4>Военные сборы, лето 1973<h4>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
  <a href="friends/P23_05_book_friends_2025.pdf" data-lightbox="friends" data-title="Военные сборы 1973">
 <img src="friends/P23_05_book_friends_2025.pdf" alt="Военные сборы 1973" width="100">
@@ -1127,7 +1127,7 @@
 
 
 
-<h2> ✈️🌍 Путешествия</h2>
+<h2>24. ✈️🌍 Путешествия</h2>
 За рубежом 
 
 📌 *Подсказка:* Этот файл представлен на 14 страницах, так что не забывайте наживать кнопку MORE PAGES.
@@ -1145,7 +1145,7 @@
 
 
 
-<h2>🌳 Генеалогическое древо отца</h2>
+<h2>25. 🌳 Генеалогическое древо отца</h2>
 
 📌 *Подсказка:* Чтобы просмотреть всё древо отца в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.
 
@@ -1162,7 +1162,7 @@
 
 
 
-<h2>🌿 Генеалогическое древо матери</h2>
+<h2>26. 🌿 Генеалогическое древо матери</h2>
 
 📌 *Подсказка:* Чтобы просмотреть всё древо матери в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.
 
