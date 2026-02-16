@@ -157,7 +157,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 <li>📜 Certificates of Advanced Training</li>
 <li>🌱 Patent</li>
 <li>🗣️ Student Testimonials</li>
-<li>🎓👥 Teaching at Universities, Technical and Vocational Colleges</li>
+<li>🎓👥 Teaching at Universities, Technical Schools and Colleges</li>
 <li>✈️🌍 Travelling</li>
 <li>🎓👥 Studies at a polytechnic university, 1967–1973</li> 
 <li>🌳 Father’s Genealogical Tree</li>
@@ -168,7 +168,6 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 
 
 📌 *Hint:* After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow in the upper left corner of the page.
-
 
 <h2>1. 🏆 Gallery of Diplomas</h2>
 
@@ -1086,7 +1085,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>22. 🎓👥 Teaching at Universities, Technical and Vocational Colleges</h2>
+<h2>22. 🎓👥 Teaching at Universities, Technical Schools and Colleges</h2>
 <div class="univer">
   
 My Universities — where I had the honour to serve as a professor both in my primary position and as a part-time faculty member, and where I was fortunate to find friends for life
