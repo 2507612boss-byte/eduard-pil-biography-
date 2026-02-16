@@ -32,6 +32,8 @@ In 1999, he defended his doctoral dissertation *“Improving the Productivity of
 
 Since 2000, he has taught at major universities in Saint Petersburg — including the Emperor Alexander I St. Petersburg State Transport University and the State Polar Academy — expanding his interests into economics and linguistics.
 
+Throughout his teaching career, Eduard Anatolyevich Pil has worked at 12 universities, 4 technical schools, and 2 colleges in Saint Petersburg. The complete list of educational institutions is available in the section «Work at Universities, Technical Schools and Colleges».
+
 ---
 
 ## 🏅 Global Recognition: Awards and Honors
@@ -168,7 +170,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 📌 *Hint:* After opening a thumbnail, to return to the gallery, click the ⬅️ Back arrow in the upper left corner of the page.
 
 
-<h2>🏆 Gallery of Diplomas</h2>
+<h2>1. 🏆 Gallery of Diplomas</h2>
 
 <div class="diplomas2">
 <!-- Пример первых 19 дипломов -->
@@ -275,7 +277,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 
 
 
-<h2>💰 Books on Economics</h2>
+<h2>2. 💰 Books on Economics</h2>
 
 <div class="BookEcon">
 <!-- Пример первых 5 книг -->
@@ -478,7 +480,7 @@ The Economist's Handbook
 
 
 
-<h2>🩺 Books on Medicine</h2>
+<h2>3. 🩺 Books on Medicine</h2>
 <div class="BookMed">
 <!-- Пример первых 2 книг -->
 <a href="BookMed/P3_01_book_health_2010.jpg" data-lightbox="BookMed" data-title="Your Health from A to Z (Health Encyclopedia) (2010)">
@@ -558,7 +560,7 @@ Contents of Books on "Longevity and Nutrition"
 
 
 
-<h2>💻 Books on Technology</h2>
+<h2>4. 💻 Books on Technology</h2>
 
 <div class="technologyeng">
 <!-- Пример первых 4 книг -->
@@ -598,7 +600,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 
 
-<h2>📚 Books on the English Language</h2>
+<h2>5. 📚 Books on the English Language</h2>
 
 <div class="english">
 <!-- Пример первых 4 книг -->
@@ -624,7 +626,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 
 
-<h2>📖 Fiction</h2>
+<h2>6. 📖 Fiction</h2>
 
 <div class="fictione">
 <!-- Пример первых 2 книг -->
@@ -642,7 +644,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 
 
-<h2>🏅 Book of Records of Russia</h2>
+<h2>7. 🏅 Book of Records of Russia</h2>
 
 <div class="gallery">
   <!-- Пример первых 2 рекордов -->
@@ -660,7 +662,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 
 
-<h2>👤 Biography</h2>
+<h2>8. 👤 Biography</h2>
 
 <div class="biographye">
 <!-- Пример первых 7 источников -->
@@ -686,11 +688,13 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 </html>
 
 
-<h2>🆔 ORCID</h2>
+<h2>9. 🆔 ORCID</h2>
+
+*ORCID (Open Researcher and Contributor ID)*
 My profile in the ORCID researcher identification system: https://orcid.org/0009-0009-7002-217X
 
 
-<h2>📝 Articles on English Language Theory</h2>
+<h2>10. 📝 Articles on English Language Theory</h2>
 
 📌 *Hint:* The book contents are presented in PDF files.To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
@@ -711,7 +715,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>📰 Articles from Journals and Conferences</h2>
+<h2>11. 📰 Articles from Journals and Conferences</h2>
 
 📌 *Hint:* The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
@@ -796,7 +800,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>🎓 Certificates of Conference Presentations</h2>
+<h2>12. 🎓 Certificates of Conference Presentations</h2>
 <h4>Only 10 out of 493 certificates available to the author are presented here.</h4>
 
 <div class="serpapers">
@@ -841,7 +845,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>✉️ Letters from Monarchs and Political Figures</h2>
+<h2>13. ✉️ Letters from Monarchs and Political Figures</h2>
 
 <div class="kastroe">
   <a href="kastroe/P12_03_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Canadian authorities (2011)">
@@ -880,7 +884,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>✉️ Postcards from Fidel Castro</h2>
+<h2>14. ✉️ Postcards from Fidel Castro</h2>
 
 <div class="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Postcard from Fidel Castro (2012)">
@@ -898,7 +902,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>📦 Books Donated to Foreign Libraries</h2>
+<h2>15. 📦 Books Donated to Foreign Libraries</h2>
 <div class="biblee">
 
 <!-- Пример первых 5 копии -->
@@ -922,7 +926,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>📦 Books Donated to Russian Libraries</h2>
+<h2>16. 📦 Books Donated to Russian Libraries</h2>
 <div class="biblee">
   
 <a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
@@ -963,7 +967,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
- <h2 id="knigi-podarenye-uchyonym">🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </h2>
+ <h2>17. 🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </h2>
 
 <div class="presente">
 
@@ -996,7 +1000,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>🏆 Letters from Nobel Laureates in Economics</h2>
+<h2>18. 🏆 Letters from Nobel Laureates in Economics</h2>
 <div class="nobele">
 
 <!-- Пример первых 4 копии -->
@@ -1021,7 +1025,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>📜 Certificate of Advanced Training</h2>
+<h2>19. 📜 Certificate of Advanced Training</h2>
 
 <div class="kvalife">
 
@@ -1053,7 +1057,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 </html>
 
 
-<h2>🌱 Patent</h2>
+<h2>20. 🌱 Patent</h2>
   
 <div class="patante">
   <a href="patente/P19_01_book_patent_2023.jpg" data-lightbox="patente" data-title="Vibrodynamic Head (1994)">
@@ -1066,7 +1070,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 </html>
 
   
-<h2>🗣️ Student Testimonials</h2>
+<h2>21. 🗣️ Student Testimonials</h2>
   
 <div class="diplomnik2">
   <a href="diplomnik2/P18_01_book_stud_2023.JPGG" data-lightbox="diplomnik2" data-title="Student Testimonial (2023)">
@@ -1081,7 +1085,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>🎓👥 Teaching at Universities, Technical and Vocational Colleges</h2>
+<h2>22. 🎓👥 Teaching at Universities, Technical and Vocational Colleges</h2>
 <div class="univer">
   
 My Universities — where I had the honour to serve as a professor both in my primary position and as a part-time faculty member, and where I was fortunate to find friends for life
@@ -1102,7 +1106,7 @@ Technical and Vocational Colleges — Sites of My Teaching Career
 
 
 
-<h2> ✈️🌍 Travelling</h2>
+<h2>23.  ✈️🌍 Travelling</h2>
 Abroad 
 
 📌 *Hint:* There are 14 pages in this file, so don’t forget to click the MORE PAGES button.
@@ -1121,7 +1125,7 @@ Abroad
 
   
 
-<h2>🎓👥 Studies at a polytechnic university, 1967–1973 </h2>
+<h2>24. 🎓👥 Studies at a polytechnic university, 1967–1973 </h2>
  <h4>My Univirsity Classmates (1967-1973)<h4>
 
 <h4>To view all provided files in PDF format, click the small icon below and scroll to the end of the loaded page. If the book content is lengthy, click the "MORE PAGES" button at the bottom to read everything.</h4>
@@ -1148,7 +1152,7 @@ Military training camp, summer 1973
 </body>
 </html>
 
-<h2>🌳 Father's family tree</h2>
+<h2>25. 🌳 Father's family tree</h2>
 <h4>To view the entire father's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <divc lass="treee">
@@ -1162,7 +1166,7 @@ Military training camp, summer 1973
 
 
 
-<h2>🌿 Mother's family tree</h2>
+<h2>26. 🌿 Mother's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <div class="treee">
