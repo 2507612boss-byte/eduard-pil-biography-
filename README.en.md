@@ -1099,8 +1099,8 @@ My Universities — where I had the honour to serve as a professor both in my pr
  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Technical and Vocational Colleges — Sites of My Teaching Career
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
- <a href="univer/P2_colledge_2026.pdf" data-lightbox="tree" data-title="Teaching at Technical and Vocational Colleges">
- <img src="univer/P2_colledge_2026.pdf" alt="Teaching at Technical and Vocational Colleges" width="100">
+ <a href="univer/P2_colledge_2026.pdf" data-lightbox="tree" data-title="Teaching at Technical Schools and Colleges">
+ <img src="univer/P2_colledge_2026.pdf" alt="Teaching at Technical Schools and Colleges" width="100">
  </a>
 </div>
 
