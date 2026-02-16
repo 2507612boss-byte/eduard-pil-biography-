@@ -673,6 +673,7 @@
 <h2> 9. 🆔 ORCID</h2>
 
 *ORCID (Open Researcher and Contributor ID) — «Открытый идентификатор исследователя и участника») — незапатентованный буквенно-цифровой код, который однозначно идентифицирует научных авторов*
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Мой профиль в системе идентификации исследователей ORCID: https://orcid.org/0009-0009-7002-217X
 
 
