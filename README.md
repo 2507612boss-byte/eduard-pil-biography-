@@ -716,11 +716,11 @@
   
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
-<img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
+<img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company(UAE, 2015)">
 </a><br>
 
 <a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Theory of the financial crises (UAE, 2015)">
-<img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
+<img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Theory of the financial crises  (UAE, 2015)">
 </a><br>
 
 <a href="papers/P10_016_book_UAE-3_2015.pdf" data-lightbox="papers" data-title="Theoretical variants of evolution of economy and population changes (UAE, 2015)">
