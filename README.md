@@ -715,7 +715,6 @@
 <div class=papers"">
   
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
-<div class=papers"">
 
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title=" Theory of the financial crises (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
@@ -732,7 +731,6 @@
 <a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 </a>
-
  
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГИИ
@@ -760,14 +758,12 @@
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (Finland, 2017" width="100">
 </a>
 
-
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)">
 <img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)" width="100">
 </a>
 
 СТАТЬИ ОПУБЛИКОВАННЫЕ В НОРВЕГИИ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)">
 <img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)" width="100">
 </a>
@@ -791,8 +787,7 @@
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (China, 2019)" width="100">
 </a>
 
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)">
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"><a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)" width="100">
 </a>
 
