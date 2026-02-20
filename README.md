@@ -250,6 +250,11 @@
 <a href="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg" data-lightbox="diplomas" data-title="Мировая экономика">
 <img src="images/diplomas/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="Мировая экономика" style="width: 100px; height: 90px;">
 </a>
+
+<a href="images/diplomas/P1_26_diplom_UAE_2016" data-lightbox="diplomas" data-title="За активную исследовательскую деятельность и весомый вклад в развитие современной науки">
+<img src="images/diplomas/P1_26_diplom_UAE_2016" alt="За активную исследовательскую деятельность и весомый вклад в развитие современной наукиая экономика" style="width: 100px; height: 90px;">
+</a>
+
 <a href="images/diplomas/P1_13_sertifikat_souza_2022.jpg" data-lightbox="diplomas" data-title="Союз писателей и поэтов">
 <img src="images/diplomas/P1_13_sertifikat_souza_2022.jpg" alt="Союз писателей и поэтов"style="width: 100px; height: 90px;">
 </a>
