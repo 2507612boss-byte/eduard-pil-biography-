@@ -715,8 +715,10 @@
 <div class=papers"">
   
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
- <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="The mathematic model of the English language (UAE, 2015)">
-<img src="papers/P10_016_book_UAE-1_2015.pdf" alt="The mathematic model of the English language (UAE, 2015)">
+<div class=papers"">
+
+<a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title=" Theory of the financial crises (UAE, 2015)">
+<img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
 </a>
 
 <a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
@@ -730,6 +732,7 @@
 <a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 </a>
+
  
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГИИ
