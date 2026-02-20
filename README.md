@@ -732,7 +732,7 @@
 </a><br>
  
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГИИ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
 </a>
