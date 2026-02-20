@@ -720,6 +720,7 @@
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
 </a>
 
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
 </a>
@@ -749,11 +750,11 @@
 </a>
 
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ФИНЛЯНДИИ
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (Finland, 2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (Finland, 2017)" width="100">
 </a>
 
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (Finland, 2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (Finland, 2017" width="100">
 </a>
@@ -764,6 +765,7 @@
 </a>
 
 СТАТЬИ ОПУБЛИКОВАННЫЕ В НОРВЕГИИ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)">
 <img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)" width="100">
 </a>
@@ -783,6 +785,7 @@
 </a>
 
 СТАТЬИ ОПУБЛИКОВАННЫЕ В КИТАЕ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (China, 2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (China, 2019)" width="100">
 </a>
