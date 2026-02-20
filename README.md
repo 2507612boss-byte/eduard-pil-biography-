@@ -791,18 +791,17 @@
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)" width="100">
 </a>
 
-СТАТЬИ ОПУБЛИКОВАННЫЕ В АНГЛИИ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
-<img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
-</a>
-
-СТАТЬИ ОПУБЛИКОВАННЫЕ В АВСТРИИ
+СТАТЬЯ ОПУБЛИКОВАННЫЕ В АВСТРИИ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
 </a>
 
+СТАТЬЯ ОПУБЛИКОВАННЫЕ В АНГЛИИ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
+<img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
+</a>
 
 СТАТЬИ ОПУБЛИКОВАННЫЕ В РОССИИ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
