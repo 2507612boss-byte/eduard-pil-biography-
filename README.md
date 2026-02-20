@@ -712,10 +712,10 @@
 
 📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 
-СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
 <div class=papers"">
-<!-- Пример первых 13 статьи -->
-<a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="The mathematic model of the English language (UAE, 2015)">
+  
+СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
+ <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="The mathematic model of the English language (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="The mathematic model of the English language (UAE, 2015)">
 </a>
 
