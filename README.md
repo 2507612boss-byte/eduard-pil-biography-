@@ -719,7 +719,6 @@
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
 </a>
 
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
 </a>
