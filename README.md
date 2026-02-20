@@ -940,30 +940,23 @@
 <a href="bibl/P13_06_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Центральная городская публичная библиотека имени В.В. Маяковского">
 <img src="bibl/P13_06_book_bibl_2012.jpg" alt="Центральная городская публичная библиотека имени В.В. Маяковского" style="width: 100px; height: 75px;">
 </a>
-
 <a href="bibl/P13_07_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Российской академии наук в Санкт-Петербурге">
 <img src="bibl/P13_07_book_bibl_2012.jpg" alt="Библиотека Российской академии наук в Санкт-Петербурге" style="width: 100px; height: 75px;">
 </a>
-
 <a href="bibl/P13_08_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Донская государственная публичная библиотека">
 <img src="bibl/P13_08_book_bibl_2012.jpg" alt="Донская государственная публичная библиотека" style="width: 100px; height: 75px;">
 </a>
-
 <a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург">
 <img src="bibl/P13_13_book_bibl_2012.jpg" alt="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург" style="width: 100px; height: 75px;">
 </a>
-
-<a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
+a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
 <img src="bibl/P13_10_book_bibl_2012.jpg" alt="Библиотека Петербургского государственного университета путей сообщения" style="width: 100px; height: 75px;">
 </a>
-
 <a href="bibl/P13_12_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека государственного университета аэрокосмического приборостроения, Санкт-Петербург">
 <img src="bibl/P13_12_book_bibl_2012.jpg" alt="Библиотека государственного университета аэрокосмического приборостроения, Санкт-Петербург" style="width: 100px; height: 75px;">
 </a>
-
 <a href="bibl/P13_09_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Омская государственная областная научная библиотека имени А.С. Пушкина">
 <img src="bibl/P13_09_book_bibl_2012.jpg" alt="Омская государственная областная научная библиотека имени А.С. Пушкина" style="width: 100px; height: 30px;">
-
 <a href="bibl/P13_11_book_bibl_2012.pdf" data-lightbox="bibl" data-title="Российская национальная библиотека, Санкт-Петербург">
 <img src="bibl/P13_11_book_bibl_2012.pdf" alt="Российская национальная библиотека, Санкт-Петербург" style="width: 100px; height: 100px;">
 </a>
@@ -972,8 +965,6 @@
 <h2>17. 🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</h2>
 
 <div class="present">
-
-  <!-- Пример первых 6 копии -->
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
 <img src="present/P15_01_book_present_2019.jpg" alt="Книга подаренная С.Ю. Глазьевым (2019)" style="width: 100px; height: 100px;">
  </a>
@@ -1003,7 +994,6 @@
 <h2>18. 18.	🏆 Письма от нобелевских лауреатов по экономике</h2>
 <div class="nobel">
 
-<!-- Пример первых 4 копии -->
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
 <img src="nobel/P14_01_book_nobel_2017.jpg" alt="Письмо от Jean Tirole (2017)" style="width: 100px; height: 50px;">
 </a>
@@ -1028,8 +1018,6 @@
  <h2>19. 📜 Сертификаты повышения квалификации</h2>
 
 <div class="kvalif">
-
-<!-- Пример первых 7 копии -->
 <a href="kvalif/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат достижения майкрософт (2018)">
 <img src="kvalif/P16_02_book_kvalif_2019.jpg" alt="Сертификат достижения майкрософт (2018)" style="width: 100px; height: 110px;">
 </a>
@@ -1091,14 +1079,11 @@
 <div class="univer">
   
 МОИ УНИВЕРСИТЕТЫ — ГДЕ МНЕ ДОВЕЛОСЬ РАБОТАТЬ ПРОФЕССОРОМ, КАК ПО ОСНОВНОМУ МЕСТУ РАБОТЫ, ТАК И ПО СОВМЕСТИТЕЛЬСТВУ, И ГДЕ МНЕ ПОСЧАСТЛИВИЛОСЬ НАЙТИ ДРУЗЕЙ НА ВСЮ ЖИЗНЬ
-
 📌 *Подсказка:* Здесь чтобы просмотреть все университеты, где я работал, надо нажать внизу кнопку MORE PAGES, так как они представлены на 8 страницах.
-
 <a href="univer/P1_univer_2026.pdf" data-lightbox="tree" data-title="Работа в Университетах">
 <img src="univer/P1_univer_2026.pdf" alt="Работа в Университетах" width="100">
  </a>
- 
- <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 Техникумы и колледжи — места моей педагогической деятельности
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
  <a href="univer/P1_colledge_2026.pdf" data-lightbox="tree" data-title="Работа в техникумах и колледжах">
@@ -1123,7 +1108,7 @@
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
  </a>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<h4>Встречи после окончания ВТУЗа<h4>
+    <div style="font-weight: bold; text-align: center;">Встречи после окончания ВТУЗа</div>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="friends/P23_03_book_friends_2025.pdf" data-lightbox="friends" data-title="Встречи после окончания ВТУЗа">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Встречи после окончания ВТУЗа" width="100">
