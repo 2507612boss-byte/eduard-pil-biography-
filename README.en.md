@@ -250,6 +250,11 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 <img src="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="World Science" style="width: 100px; height: 90px;">
 </a>
 
+<a href="diplomas2/P1_26_diplom_UAE_2016.jpg" data-lightbox="diplomas" data-title="For active research activities and significant contribution to the development of modern science">
+<img src="diplomas2/P1_26_diplom_UAE_2016.jpg" alt="For active research activities and significant contribution to the development of modern science" style="width: 100px; height: 90px;">
+</a>
+
+
 <a href="diplomas2/P1_13_sertifikat_souza_2022.JPG" data-lightbox="diplomas2" data-title="International Union of Writes and Poets">
 <img src="diplomas2/P1_13_sertifikat_souza_2022.JPG" alt="International Union of Writes and Poets" style="width: 100px; height: 90px;">
 </a>
