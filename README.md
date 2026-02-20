@@ -708,19 +708,18 @@
 
 
 
-<h2>11. 📰 Статьи из журналов и конференций</h2>
+<h2>11. 📰 Статьи опубликованные в зарубежных журналах и конференциях</h2>
 
 📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 
 <div class=papers"">
   
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
-
-<a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title=" Theory of the financial crises (UAE, 2015)">
+<a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
 </a><br>
 
-<a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
+<a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Theory of the financial crises (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
 </a><br>
 
@@ -792,17 +791,6 @@
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)" width="100">
 </a>
 
-СТАТЬИ ОПУБЛИКОВАННЫЕ В РОССИИ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
-<img src="papersP10_015_book_paper15_2019.pdf" alt="Математическая модель корпорации (2006)" width="100">
-</a>
-
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Математическая модель плоских корпусных деталей используемых в САПР (Russia, 1991)">
-<img src="papers/P10_016_book_paper16_2019.pdff" alt="Математическая модель плоских корпусных деталей используемых в САПР (Russia, 1991)" width="100">
-</a>
-
 СТАТЬИ ОПУБЛИКОВАННЫЕ В АНГЛИИ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
@@ -813,6 +801,18 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
+</a>
+
+
+СТАТЬИ ОПУБЛИКОВАННЫЕ В РОССИИ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
+<img src="papersP10_015_book_paper15_2019.pdf" alt="Математическая модель корпорации (2006)" width="100">
+</a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Математическая модель плоских корпусных деталей используемых в САПР (Russia, 1991)">
+<img src="papers/P10_016_book_paper16_2019.pdff" alt="Математическая модель плоских корпусных деталей используемых в САПР (Russia, 1991)" width="100">
 </a>
 
 
