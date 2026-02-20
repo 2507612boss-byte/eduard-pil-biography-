@@ -715,6 +715,7 @@
 <div class=papers"">
   
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
+
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title=" Theory of the financial crises (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
 </a>
