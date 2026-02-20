@@ -732,66 +732,66 @@
 </a>
 
   
-<a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
+<a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (Finland, 2017)">
+<img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (Finland, 2017)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (2017)">
-<img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (2017)" width="100">
+<a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
+<img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
-<img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
+<a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (Finland, 2017)">
+<img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (Finland, 2017" width="100">
 </a>
 
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017)">
-<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017)" width="100">
+<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (c2017)">
+<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (2018)">
-<img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (2018)" width="100">
+<a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)">
+<img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)" width="100">
 </a>
   
-<a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
-<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)" width="100">
+<a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)">
+<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (2018)">
-<img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (2018)" width="100">
+<a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (Denmark, 2018)">
+<img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (Denmark, 2018)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)">
-<img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (2019)" width="100">
+<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
+<img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
 </a>
-<a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (2019)">
-<img src="papers/P10_09_book_paper9_2019.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (2019)" width="100">
-</a>
-
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (2019)">
-<img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (2019)" width="100">
-</a>
-<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (2021)">
-<img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (2021)" width="100">
-</a>
-<a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
-<img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (2019)" width="100">
+<a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)">
+<img src="papers/P10_09_book_paper9_2019.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
-<img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
+<a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (Finlsnd, 2019)">
+<img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (Finlsnd, 2019)" width="100">
+</a>
+<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)">
+<img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)" width="100">
+</a>
+<a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (Chaina, 2019)">
+<img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (Chaina, 2019)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (1991)">
-<img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (1991)" width="100">
+<a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (Chaina, 2019)">
+<img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (Chaina, 2019)" width="100">
+</a>
+
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
+<img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -800,8 +800,8 @@
 </a>
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Математическая модель плоских корпусных деталей используемых в САПР (1991)">
-<img src="papers/P10_016_book_paper16_2019.pdff" alt="Математическая модель плоских корпусных деталей используемых в САПР (1991)" width="100">
+<a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Математическая модель плоских корпусных деталей используемых в САПР (Russia, 1991)">
+<img src="papers/P10_016_book_paper16_2019.pdff" alt="Математическая модель плоских корпусных деталей используемых в САПР (Russia, 1991)" width="100">
 </a>
 </div>
 
