@@ -714,33 +714,27 @@
 
 <div class=papers"">
   
-СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
+<br>СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company(UAE, 2015)">
 </a><br>
-
 <a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Theory of the financial crises (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Theory of the financial crises  (UAE, 2015)">
 </a><br>
-
 <a href="papers/P10_016_book_UAE-3_2015.pdf" data-lightbox="papers" data-title="Theoretical variants of evolution of economy and population changes (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-3_2015.pdf" alt="Theoretical variants of evolution of economy and population changes (UAE, 2015)">
 </a><br>
-
 <a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 </a><br>
  
-СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГИИ
-
+<br>СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГИИ
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
 </a>
-
 <a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)">
 <img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)" width="100">
 </a>
-
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
 <img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
