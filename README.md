@@ -1080,7 +1080,6 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
   
 МОИ УНИВЕРСИТЕТЫ — ГДЕ МНЕ ДОВЕЛОСЬ РАБОТАТЬ ПРОФЕССОРОМ, КАК ПО ОСНОВНОМУ МЕСТУ РАБОТЫ, ТАК И ПО СОВМЕСТИТЕЛЬСТВУ, И ГДЕ МНЕ ПОСЧАСТЛИВИЛОСЬ НАЙТИ ДРУЗЕЙ НА ВСЮ ЖИЗНЬ
 📌 *Подсказка:* Здесь чтобы просмотреть все университеты, где я работал, надо нажать внизу кнопку MORE PAGES, так как они представлены на 8 страницах.
-<br>
 <a href="univer/P1_univer_2026.pdf" data-lightbox="tree" data-title="Работа в Университетах">
   <img src="univer/P1_univer_2026.pdf" alt="Работа в Университетах" width="100">
 </a>
@@ -1105,7 +1104,6 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 Если содержание книги длинное, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всё.
 
 <div class="friends">
-<!-- Пример первых 1 копии -->
 <a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
  </a>
@@ -1120,9 +1118,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
  <a href="friends/P23_05_book_friends_2025.pdf" data-lightbox="friends" data-title="Военные сборы, лето 1973">
 <img src="friends/P23_05_book_friends_2025.pdf" alt="Военные сборы, лето 1973" width="100">
  
-
 </div>
-
 </body>
 </html>
 
