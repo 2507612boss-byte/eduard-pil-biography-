@@ -730,9 +730,8 @@
 <a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 </a>
-
-
-
+ 
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГИИ
   <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
