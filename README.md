@@ -1113,7 +1113,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 <a href="friends/P23_03_book_friends_2025.pdf" data-lightbox="friends" data-title="Встречи после окончания ВТУЗа">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Встречи после окончания ВТУЗа" width="100">
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<h4>Военные сборы, лето 1973<h4>
+    <div style="font-weight: bold; text-align: center;">Военные сборы, лето 1973</div>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
  <a href="friends/P23_05_book_friends_2025.pdf" data-lightbox="friends" data-title="Военные сборы, лето 1973">
 <img src="friends/P23_05_book_friends_2025.pdf" alt="Военные сборы, лето 1973" width="100">
