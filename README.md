@@ -710,10 +710,9 @@
 
 <h2>11. 📰 Статьи опубликованные в зарубежных журналах и конференциях</h2>
 
-📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 
+📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 <div class=papers"">
-  
 <br>СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company(UAE, 2015)">
