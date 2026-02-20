@@ -715,7 +715,6 @@
 <div class=papers"">
   
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
-
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title=" Theory of the financial crises (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt=" Theory of the financial crises (UAE, 2015)">
 </a>
@@ -733,9 +732,8 @@
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 </a>
  
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГИИ
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
 </a>
@@ -750,7 +748,7 @@
 </a>
 
 СТАТЬИ ОПУБЛИКОВАННЫЕ В ФИНЛЯНДИИ
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (Finland, 2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (Finland, 2017)" width="100">
 </a>
