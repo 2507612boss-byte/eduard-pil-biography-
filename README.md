@@ -1122,13 +1122,11 @@
 <a href="friends/P23_01_book_friends_2025.pdf" data-lightbox="friends" data-title="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Друзья по учёбе во ВТУЗе с 1967 по 1973 годы" width="100">
  </a>
-
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <h4>Встречи после окончания ВТУЗа<h4>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="friends/P23_03_book_friends_2025.pdf" data-lightbox="friends" data-title="Встречи после окончания ВТУЗа">
 <img src="friends/P23_01_book_friends_2025.pdf" alt="Встречи после окончания ВТУЗа" width="100">
-
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <h4>Военные сборы, лето 1973<h4>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
