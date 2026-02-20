@@ -1084,7 +1084,6 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 <a href="univer/P1_univer_2026.pdf" data-lightbox="tree" data-title="Работа в Университетах">
   <img src="univer/P1_univer_2026.pdf" alt="Работа в Университетах" width="100">
 </a>
-
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <div style="font-weight: bold; text-align: center;">Техникумы и колледжи — места моей педагогической деятельности</div>
     <a href="univer/P1_colledge_2026.pdf" data-lightbox="tree" data-title="Работа в техникумах и колледжах">
