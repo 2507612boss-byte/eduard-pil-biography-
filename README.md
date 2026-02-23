@@ -792,6 +792,15 @@
 <a href="papers/P1_13_book_IND-1ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (India, 2023)">
 <img src="papers/P1_13_book_IND-1ENG.pdf" alt="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (India, 2023) width="100">
 </a>
+ <br>КИТАЕЙ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (ENG) (China, 2019)">
+<img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (ENG) (China, 2019)" width="100">
+</a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"><a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)">
+<img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)" width="100">
+</a>
+
 
   
 <br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
@@ -834,17 +843,6 @@
 <a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
 <img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
 </a>
-
-  <br>КИТАЕЙ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (China, 2019)">
-<img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (China, 2019)" width="100">
-</a>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"><a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)">
-<img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)" width="100">
-</a>
-
-
 
 
 
