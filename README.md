@@ -688,6 +688,8 @@
 
 <h2>10. 📰 Статьи опубликованные в зарубежом и в России</h2>
 📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
+
+*Аббревиатура (ENG) означает, что статья написана на английском языке.* 
 <div class=papers"">
  <br>АВСТРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -729,7 +731,7 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_12_book_BRUS-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ2sul (Belgium, 2024)">
 <img src="papers/P1_12_book_BRUS-1.pdf" alt="Область существования ΔХ2sul (Belgium, 2024)">
-</a><br>
+</a>
 <br>БОЛГАРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_15_book_1BULG-GDB_USA.pdf" data-lightbox="papers" data-title="Валовфй внутренний продукт США (Bulgary, 2024)">
@@ -789,7 +791,11 @@
 <a href="papers/P1_10_book_DAN-4.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-4.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)" width="100">
 </a>
-
+</a> <br>ИНДИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_13_book_IND-1ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (India, 2023)">
+<img src="papers/P1_13_book_IND-1ENG.pdf" alt="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (India, 2023) width="100">
+</a>
 
   
 <br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
