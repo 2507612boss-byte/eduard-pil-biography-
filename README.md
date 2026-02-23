@@ -726,6 +726,7 @@
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
 </a>
 <br>БЕЛЬГИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_12_book_BRUS-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ2sul (Belgium, 2024)">
 <img src="papers/P1_12_book_BRUS-1.pdf" alt="Область существования ΔХ2sul (Belgium, 2024)">
 </a><br>
