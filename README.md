@@ -759,6 +759,22 @@
 <a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
 <img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
 </a><br>
+<div style="font-weight: bold; text-align: center;">ВЕНГРИИЯ</div>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
+<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
+</a>
+<a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)">
+<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)" width="100">
+</a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
+<img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
+ГЕРМАНИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (Germany, 2022)">
+<img src="papers/P1_11_book_GER-1ENG.pdf" alt="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (Germany, 2022)" width="100">
+</a>
 <br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
@@ -772,18 +788,7 @@
 <a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 </a><br>
-<div style="font-weight: bold; text-align: center;">ВЕНГРИИЯ</div>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
-<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
-</a>
-<a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)">
-<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)" width="100">
-</a>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
-<img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
-</a>
+
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (Finland, 2017)">
