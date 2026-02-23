@@ -741,8 +741,6 @@
 <a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
 <img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
 </a>
-
-  
  <br>ДАНИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (Denmark, 2018)">
