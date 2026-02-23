@@ -772,6 +772,24 @@
 <img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
 </a>
 <div style="font-weight: bold; text-align: center;">АНГЛИЯ</div>
+<a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)">
+<img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variablr (England, 2022)">
+<img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variablr (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (England, 2022)">
+<img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-5ENG.pdf" data-lightbox="papers" data-title="The influence of the X4 variable on 3D graphics for Veu (England, 2022)">
+<img src="papers/P1_4_book_ANGL-5ENG.pdf" alt="The influence of the X4 variable on 3D graphics for Veu (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-6ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)">
+<img src="papers/P1_4_book_ANGL-6ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)">
+<img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)" width="100">
+</a
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
 </a>
