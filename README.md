@@ -581,10 +581,6 @@
 
 
 
-
-
-
-
 <h2>5. 📚 Книги по английскому языку</h2>
 
 <div class=english"">
@@ -691,7 +687,7 @@
 
 *Аббревиатура (ENG) означает, что статья написана на английском языке.* 
 <div class=papers"">
- <br>АВСТРИЯ
+АВСТРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_8_book_AVST-4.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
 <img src="papersP1_8_book_AVST-4.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
