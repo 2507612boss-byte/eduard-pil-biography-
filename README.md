@@ -730,7 +730,35 @@
 <a href="papers/P1_12_book_BRUS-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ2sul (Belgium, 2024)">
 <img src="papers/P1_12_book_BRUS-1.pdf" alt="Область существования ΔХ2sul (Belgium, 2024)">
 </a><br>
-
+<br>БОЛГАРИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_15_book_1BULG-GDB_USA.pdf" data-lightbox="papers" data-title="Валовфй внутренний продукт США (Bulgary, 2024)">
+<img src="papers/P1_15_book_1BULG-GDB_USA.pdf" alt="Область существования ΔХ2sul (Belgium, 2024)">
+</a><br>
+<a href="papers/P1_15_book_2BULG-INF_USA.pdf" data-lightbox="papers" data-title="Инфляция и дефляция (Bulgary, 2024)">
+<img src="papers/P1_15_book_2BULG-INF_USA.pdf" alt="Инфляция и дефляция (Bulgary, 2024)">
+</a><br>
+<a href="papers/P1_15_book_3BULG-INF_RU.pdf" data-lightbox="papers" data-title="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgary, 2024)">
+<img src="papers/P1_15_book_3BULG-INF_RU.pdf" alt="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgary, 2024) (Bulgary, 2024)">
+</a><br>
+<a href="papers/P1_15_book_4BULG-BANK_RU.pdf" data-lightbox="papers" data-title="Анализ банков России с 1993 по 2024 годы (Bulgary, 2024)">
+<img src="papers/P1_15_book_4BULG-BANK_RU.pdf" alt="Анализ банков России с 1993 по 2024 годы (Bulgary, 2024)">
+</a><br>
+<a href="papers/P1_15_book_5BULG-3D_ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel negative value of variable (Bulgary, 2024)">
+<img src="papers/P1_15_book_5BULG-3D_ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel negative value of variable (Bulgary, 2024)">
+</a><br>
+<a href="papers/P1_15_book_6BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
+<img src="papers/P1_15_book_6BULG-3D_ENG.pdf" alt="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
+</a><br>
+<a href="papers/P1_15_book_7BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (Bulgary, 2024)">
+<img src="papers/P1_15_book_7BULG-3D_ENG.pdf" alt="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (Bulgary, 2024)">
+</a><br>
+<a href="papers/P1_15_book_8BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (Bulgary, 2024)">
+<img src="papers/P1_15_book_8BULG-3D_ENG.pdf" alt="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (Bulgary, 2024)">
+</a><br>
+<a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
+<img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
+</a><br>
 <br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
