@@ -686,32 +686,11 @@
 
 
 
-<h2>10. 📝 Статьи по теории английского языка</h2>
 
-📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
-
-<div class=english"">
-<!-- Пример первых 2 статьи -->
-<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
-</a>
-<a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
-<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
-</a>
-
-</div>
-
-</body>
-</html>
-
-
-
-
-
-<h2>11. 📰 Статьи опубликованные в зарубежных журналах и конференциях</h2>
+<h2>10. 📰 Статьи опубликованные в зарубежом и в России</h2>
 📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 <div class=papers"">
-<br>СТАТЬИ ОПУБЛИКОВАННЫЕ В ОБЪЕДИНЕННЫХ АРАБСКИХ ЭМИРАТАХ (ОАЭ)
+<br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company(UAE, 2015)">
 </a><br>
@@ -724,7 +703,7 @@
 <a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (UAE, 2022)">
 </a><br>
-<div style="font-weight: bold; text-align: center;">СТАТЬИ ОПУБЛИКОВАННЫЕ В ВЕНГРИИ</div>
+<div style="font-weight: bold; text-align: center;">ВЕНГРИИЯ</div>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
 <img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
@@ -736,7 +715,7 @@
 <a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
 <img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
 </a>
-<br>СТАТЬИ ОПУБЛИКОВАННЫЕ В ФИНЛЯНДИИ
+<br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (Finland, 2017)">
 <img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (Finland, 2017)" width="100">
@@ -744,11 +723,14 @@
 <a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (Finland, 2017)">
 <img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (Finland, 2017" width="100">
 </a>
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)">
 <img src="papers/P10_010_book_paper10_2019.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)" width="100">
 </a>
- <br>СТАТЬИ ОПУБЛИКОВАННЫЕ В НОРВЕГИИ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+  <a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ3Sul (Finland, 2018)">
+<img src="papers/P1_1_book_FIN-1.pdf" alt="Область существования ΔХ3Sul (Finland, 2018)" width="100">
+</a>  
+ <br>НОРВЕГИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)">
 <img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)" width="100">
@@ -756,7 +738,12 @@
 <a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)">
 <img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)" width="100">
 </a>
- <br>СТАТЬИ ОПУБЛИКОВАННЫЕ В ДАНИИ
+<a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
+<img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
+</a>
+
+  
+ <br>ДАНИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (Denmark, 2018)">
 <img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (Denmark, 2018)" width="100">
@@ -764,7 +751,7 @@
 <a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)">
 <img src="papers/P10_09_book_paper9_2019.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)" width="100">
 </a>
- <br>СТАТЬИ ОПУБЛИКОВАННЫЕ В КИТАЕ
+ <br>КИТАЕЙ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (China, 2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (China, 2019)" width="100">
@@ -772,16 +759,16 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"><a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)" width="100">
 </a>
- <br>СТАТЬЯ ОПУБЛИКОВАННЫЕ В АВСТРИИ
+ <br>АВСТРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
 <img src="papers/P10_02_book_paper2_2017.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
 </a>
-  <div style="font-weight: bold; text-align: center;">СТАТЬЯ ОПУБЛИКОВАННЫЕ В АНГЛИИ</div>
+  <div style="font-weight: bold; text-align: center;">АНГЛИЯ</div>
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
 </a>
- <br>СТАТЬИ ОПУБЛИКОВАННЫЕ В РОССИИ
+ <br>РОССИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
 <img src="papersP10_015_book_paper15_2019.pdf" alt="Математическая модель корпорации (2006)" width="100">
@@ -804,7 +791,7 @@
 
 
 
-<h2>12. 🎓 Сертификаты выступлений на конференциях</h2>
+<h2>11. 🎓 Сертификаты выступлений на конференциях</h2>
 
 <h4>Здесь представлены только 10 сертификатов из 493, которые имеются в наличии у автора.</h4>
 
@@ -847,7 +834,7 @@
 </html>
 
 
-<h2>13. 👑 Письма от монархов и политиков</h2>
+<h2>12. 👑 Письма от монархов и политиков</h2>
 <div class="gallery">
  
 <div class="kastro">
@@ -888,7 +875,7 @@
 
 
   
-<h2>14. ✉️ Открытки от Фиделя Кастро</h2>
+<h2>13. ✉️ Открытки от Фиделя Кастро</h2>
 
 <div class="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Открытка 1 (2012)">
@@ -908,7 +895,7 @@
 
 
 
-<h2>15. 📦 Книги подаренные зарубежным библиотекам</h2>
+<h2>14. 📦 Книги подаренные зарубежным библиотекам</h2>
 <div class="bibl">
 
 <!-- Пример первых 5 копии -->
@@ -933,7 +920,7 @@
 
 
 
-<h2>16. 📦 Книги подаренные российским библиотекам</h2>
+<h2>15. 📦 Книги подаренные российским библиотекам</h2>
 <div class="bibl">
 
 <!-- Пример первых 7 копии -->
@@ -962,7 +949,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 </a>
 
 
-<h2>17. 🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</h2>
+<h2>16. 🎁 Книги подаренные Эдуарду Анатольевичу известными учёными</h2>
 
 <div class="present">
 <a href="present/P15_01_book_present_2019.jpg" data-lightbox="present" data-title="Книга подаренная С.Ю. Глазьевым (2019)">
@@ -991,7 +978,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 
 
 
-<h2>18. 18.	🏆 Письма от нобелевских лауреатов по экономике</h2>
+<h2>17. 18.	🏆 Письма от нобелевских лауреатов по экономике</h2>
 <div class="nobel">
 
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
@@ -1015,7 +1002,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 
 
 
- <h2>19. 📜 Сертификаты повышения квалификации</h2>
+ <h2>18. 📜 Сертификаты повышения квалификации</h2>
 
 <div class="kvalif">
 <a href="kvalif/P16_02_book_kvalif_2019.jpg" data-lightbox="kvalif" data-title="Сертификат достижения майкрософт (2018)">
@@ -1047,7 +1034,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 
 
 
-<h2>20. 🌱 Патент</h2>
+<h2>19. 🌱 Патент</h2>
 <div class="patant">
   <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
     <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" style="width: 100px; height: 110px;">
@@ -1059,7 +1046,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 </html>
 
   
-<h2>21. 🗣️ Отзывы студентов</h2>
+<h2>20. 🗣️ Отзывы студентов</h2>
   
 <div class="diplomnik">
   <a href="diplomnik/P18_01_book_stud_2023.JPG" data-lightbox="diplomnik" data-title="Отзывы студентов (2023)">
@@ -1075,7 +1062,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 
 
 
-<h2>22. 🎓👥 Работа в университетах, техникумах и колледжах</h2>
+<h2>21. 🎓👥 Работа в университетах, техникумах и колледжах</h2>
 <div class="univer">
   
 МОИ УНИВЕРСИТЕТЫ — ГДЕ МНЕ ДОВЕЛОСЬ РАБОТАТЬ ПРОФЕССОРОМ, КАК ПО ОСНОВНОМУ МЕСТУ РАБОТЫ, ТАК И ПО СОВМЕСТИТЕЛЬСТВУ, И ГДЕ МНЕ ПОСЧАСТЛИВИЛОСЬ НАЙТИ ДРУЗЕЙ НА ВСЮ ЖИЗНЬ
@@ -1097,7 +1084,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 </html>
 
 
-<h2>23. 🎓👥 Учеба во ВТУЗЕ с 1967 по 1973 год</h2>
+<h2>22. 🎓👥 Учеба во ВТУЗЕ с 1967 по 1973 год</h2>
 
 <h4>Друзья по учёбе во ВТУЗе</h4>
 
@@ -1127,7 +1114,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 
 
 
-<h2>24. ✈️🌍 Путешествия</h2>
+<h2>23. ✈️🌍 Путешествия</h2>
 За рубежом 
 
 📌 *Подсказка:* Этот файл представлен на 14 страницах, так что не забывайте наживать кнопку MORE PAGES.
@@ -1145,7 +1132,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 
 
 
-<h2>25. 🌳 Генеалогическое древо отца</h2>
+<h2>24. 🌳 Генеалогическое древо отца</h2>
 
 📌 *Подсказка:* Чтобы просмотреть всё древо отца в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.
 
@@ -1162,7 +1149,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 
 
 
-<h2>26. 🌿 Генеалогическое древо матери</h2>
+<h2>25. 🌿 Генеалогическое древо матери</h2>
 
 📌 *Подсказка:* Чтобы просмотреть всё древо матери в формате PDF надо нажать на маленькую иконку ниже и прокрутить загруженную страницу до конца.
 
