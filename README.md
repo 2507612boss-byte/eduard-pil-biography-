@@ -762,14 +762,14 @@
 <a href="papers/P1_8_book_AVST-4.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
 <img src="papersP1_8_book_AVST-4.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
 </a>
-<a href="papers/P1_8_book_AVST-1.pdf" data-lightbox="papers" data-title="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)">
-<img src="papersP1_8_book_AVST-1.pdf" alt="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)" width="100">
+<a href="papers/P1_5_book_AVST-1.pdf" data-lightbox="papers" data-title="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)">
+<img src="papersP1_5_book_AVST-1.pdf" alt="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)" width="100">
 </a>
-<a href="papers/P1_8_book_AVST-3.pdf" data-lightbox="papers" data-title="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)">
-<img src="papersP1_8_book_AVST-3.pdf" alt="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)" width="100">
+<a href="papers/P1_7_book_AVST-3.pdf" data-lightbox="papers" data-title="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)">
+<img src="papersP1_7_book_AVST-3.pdf" alt="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)" width="100">
 </a>
-<a href="papers/P1_8_book_AVST-2.pdf" data-lightbox="papers" data-title="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)">
-<img src="papersP1_8_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
+<a href="papers/P1_6_book_AVST-2.pdf" data-lightbox="papers" data-title="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)">
+<img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
 </a>
 <div style="font-weight: bold; text-align: center;">АНГЛИЯ</div>
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
