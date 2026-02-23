@@ -776,6 +776,7 @@
 <a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (Germany, 2022)">
 <img src="papers/P1_11_book_GER-1ENG.pdf" alt="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (Germany, 2022)" width="100">
 </a> <br>ДАНИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Использование 3D графиков Х1 для параметра Ssl (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-1.pdf" alt="Использование 3D графиков Х1 для параметра Ssl (Denmark, 2019)" width="100">
 </a>
@@ -831,15 +832,8 @@
 <a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
 <img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
 </a>
- <br>ДАНИЯ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (Denmark, 2018)">
-<img src="papers/P10_07_book_paper7_2018.pdf" alt="Анализ 3D области переменной X4su (Denmark, 2018)" width="100">
-</a>
-<a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)">
-<img src="papers/P10_09_book_paper9_2019.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)" width="100">
-</a>
- <br>КИТАЕЙ
+
+  <br>КИТАЕЙ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (China, 2019)">
 <img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (China, 2019)" width="100">
