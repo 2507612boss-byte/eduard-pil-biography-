@@ -775,7 +775,22 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (Germany, 2022)">
 <img src="papers/P1_11_book_GER-1ENG.pdf" alt="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (Germany, 2022)" width="100">
+</a> <br>ДАНИЯ
+<a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Использование 3D графиков Х1 для параметра Ssl (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-1.pdf" alt="Использование 3D графиков Х1 для параметра Ssl (Denmark, 2019)" width="100">
 </a>
+<a href="papers/P1_10_book_DAN-2.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для анализа Х3 и Ssl (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-2.pdf" alt="Построение 3D-графиков для анализа Х3 и Ssl (Denmark, 2019)" width="100">
+</a>
+<a href="papers/P1_10_book_DAN-3.pdf" data-lightbox="papers" data-title="Анализ 3D области переменной X4su (Denmark, 2018)">
+<img src="papers/P1_10_book_DAN-3.pdf" alt="Анализ 3D области переменной X4su (Denmark, 2018)" width="100">
+</a>
+<a href="papers/P1_10_book_DAN-4.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-4.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)" width="100">
+</a>
+
+
+  
 <br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
