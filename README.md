@@ -689,9 +689,50 @@
 <h2>10. 📰 Статьи опубликованные в зарубежом и в России</h2>
 📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 <div class=papers"">
+ <br>АВСТРИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_8_book_AVST-4.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
+<img src="papersP1_8_book_AVST-4.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
+</a>
+<a href="papers/P1_5_book_AVST-1.pdf" data-lightbox="papers" data-title="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)">
+<img src="papersP1_5_book_AVST-1.pdf" alt="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)" width="100">
+</a>
+<a href="papers/P1_7_book_AVST-3.pdf" data-lightbox="papers" data-title="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)">
+<img src="papersP1_7_book_AVST-3.pdf" alt="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)" width="100">
+</a>
+<a href="papers/P1_6_book_AVST-2.pdf" data-lightbox="papers" data-title="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)">
+<img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
+</a>
+<div style="font-weight: bold; text-align: center;">АНГЛИЯ</div>
+<a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)">
+<img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variablr (England, 2022)">
+<img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variablr (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (England, 2022)">
+<img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-5ENG.pdf" data-lightbox="papers" data-title="The influence of the X4 variable on 3D graphics for Veu (England, 2022)">
+<img src="papers/P1_4_book_ANGL-5ENG.pdf" alt="The influence of the X4 variable on 3D graphics for Veu (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-6ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)">
+<img src="papers/P1_4_book_ANGL-6ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)">
+<img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)" width="100">
+</a
+<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
+<img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
+</a>
+<br>БЕЛЬГИЯ
+<a href="papers/P1_12_book_BRUS-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ2sul (Belgium, 2024)">
+<img src="papers/P1_12_book_BRUS-1.pdf" alt="Область существования ΔХ2sul (Belgium, 2024)">
+</a><br>
+
 <br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (UAE, 2015)">
-<img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company(UAE, 2015)">
+<img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company (UAE, 2015)">
 </a><br>
 <a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Theory of the financial crises (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Theory of the financial crises  (UAE, 2015)">
@@ -756,42 +797,13 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"><a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)">
 <img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (China, 2019)" width="100">
 </a>
- <br>АВСТРИЯ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P1_8_book_AVST-4.pdf" data-lightbox="papers" data-title="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)">
-<img src="papersP1_8_book_AVST-4.pdf" alt="Расчет ВВП при отрицательном значении одной переменной (Austria, 2017)" width="100">
-</a>
-<a href="papers/P1_5_book_AVST-1.pdf" data-lightbox="papers" data-title="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)">
-<img src="papersP1_5_book_AVST-1.pdf" alt="Расчет переменной Х4 и её влияние на ВВП (Austria, 2020)" width="100">
-</a>
-<a href="papers/P1_7_book_AVST-3.pdf" data-lightbox="papers" data-title="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)">
-<img src="papersP1_7_book_AVST-3.pdf" alt="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)" width="100">
-</a>
-<a href="papers/P1_6_book_AVST-2.pdf" data-lightbox="papers" data-title="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)">
-<img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
-</a>
-<div style="font-weight: bold; text-align: center;">АНГЛИЯ</div>
-<a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)">
-<img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)" width="100">
-</a
-<a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variablr (England, 2022)">
-<img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variablr (England, 2022)" width="100">
-</a
-<a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (England, 2022)">
-<img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (England, 2022)" width="100">
-</a
-<a href="papers/P1_4_book_ANGL-5ENG.pdf" data-lightbox="papers" data-title="The influence of the X4 variable on 3D graphics for Veu (England, 2022)">
-<img src="papers/P1_4_book_ANGL-5ENG.pdf" alt="The influence of the X4 variable on 3D graphics for Veu (England, 2022)" width="100">
-</a
-<a href="papers/P1_4_book_ANGL-6ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)">
-<img src="papers/P1_4_book_ANGL-6ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)" width="100">
-</a
-<a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)">
-<img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)" width="100">
-</a
-<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
-<img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
-</a>
+
+
+
+
+
+  
+  
  <br>РОССИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
