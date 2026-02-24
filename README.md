@@ -680,9 +680,7 @@
 
 
 
-
-
-<h2>10. 📰 Статьи опубликованные в зарубежом и в России</h2>
+<h2>10. 📰 Статьи, опубликованные в зарубежных журналах, конференциях и в России</h2>
 📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 
 *Аббревиатура (ENG) означает, что статья написана на английском языке.* 
@@ -769,6 +767,7 @@
 <a href="papers/P1_10_book_VENG-3ENG.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
 <img src="papers/P1_10_book_VENG-3ENG.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
 </a>  
+<br>ГЕРМАНИЯ  
 <div style="font-weight: bold; text-align: center;">ГЕРМАНИЯ</div>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)">
