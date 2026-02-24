@@ -825,8 +825,9 @@
 </a><br>
 <a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (ENG) (UAE, 2022)">
 <img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (ENG) (UAE, 2022)">
-</a><br>
+</a>
 <br>ПОЛЬША
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="papers/P1_16_book_1POL-BANKR_USA.pdf" data-lightbox="papers" data-title="Банкротство банков США (Poland, 2024)">
 <img src="papers/P1_16_book_1POL-BANKR_USA.pdf" alt="Банкротство банков США (Poland, 2024)">
 </a><br>
