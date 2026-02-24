@@ -700,6 +700,7 @@
 <img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
 </a>
 <br>АНГЛИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)">
 <img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)" width="100">
 </a
