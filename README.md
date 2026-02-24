@@ -754,7 +754,7 @@
 </a><br>
 <a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
 <img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
-</a><br>
+</a>
 <br>ВЕНГРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_10_book_VENG-1ENG.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (ENG) (Hungary, 2017)">
