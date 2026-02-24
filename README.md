@@ -680,7 +680,7 @@
 
 
 
-<h2>10. 📰 Статьи, опубликованные в зарубежных журналах и на конференциях, а также в России</h2>
+<h2>10. 📰 В этом разделе представлены некоторые статьи, которые были опубликованы в зарубежных журналах и на конференциях, а также в России</h2>
 📌 *Подсказка:* Статьи в PDF файлах. Для загрузки надо нажать ниже маленькую иконку с названием статьи. Если статья длинная, то надо нажать внизу кнопку MORE PAGES, чтобы прочитать всю.
 
 *Аббревиатура (ENG) означает, что статья написана на английском языке.* 
@@ -696,28 +696,28 @@
 <a href="papers/P1_7_book_AVST-3.pdf" data-lightbox="papers" data-title="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)">
 <img src="papersP1_7_book_AVST-3.pdf" alt="Влияние переменной Х4 на расчет параметра ΔVeul (Austria, 2020)" width="100">
 </a>
-<a href="papers/P1_6_book_AVST-2.pdf" data-lightbox="papers" data-title="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)">
-<img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
+<a href="papers/P1_6_book_AVST-2.pdf" data-lightbox="papers" data-title="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчете переменной Х4el (Austria, 2021)">
+<img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчете переменной Х4el (Austria, 2021)" width="100">
 </a>
 <br>АНГЛИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)">
-<img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)" width="100">
+<a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (ENG) (England, 2020)">
+<img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (ENG)(England, 2020)" width="100">
 </a
-<a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variablr (England, 2022)">
-<img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variablr (England, 2022)" width="100">
+<a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)">
+<img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variable (ENG)(England, 2022)" width="100">
 </a
-<a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (England, 2022)">
-<img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (England, 2022)" width="100">
+<a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)">
+<img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)" width="100">
 </a
-<a href="papers/P1_4_book_ANGL-5ENG.pdf" data-lightbox="papers" data-title="The influence of the X4 variable on 3D graphics for Veu (England, 2022)">
-<img src="papers/P1_4_book_ANGL-5ENG.pdf" alt="The influence of the X4 variable on 3D graphics for Veu (England, 2022)" width="100">
+<a href="papers/P1_4_book_ANGL-5ENG.pdf" data-lightbox="papers" data-title="The influence of the X4 variable on 3D graphics for Veu (ENG) (England, 2022)">
+<img src="papers/P1_4_book_ANGL-5ENG.pdf" alt="The influence of the X4 variable on 3D graphics for Veu (ENG) (England, 2022)" width="100">
 </a
-<a href="papers/P1_4_book_ANGL-6ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)">
-<img src="papers/P1_4_book_ANGL-6ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (England, 2024)" width="100">
+<a href="papers/P1_4_book_ANGL-6ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (ENG) (England, 2024)">
+<img src="papers/P1_4_book_ANGL-6ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (ENG) (England, 2024)" width="100">
 </a
-<a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)">
-<img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (England, 2024)" width="100">
+<a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)">
+<img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)" width="100">
 </a
 <a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
 <img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
@@ -729,32 +729,32 @@
 </a>
 <br>БОЛГАРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P1_15_book_1BULG-GDB_USA.pdf" data-lightbox="papers" data-title="Валовфй внутренний продукт США (Bulgary, 2024)">
-<img src="papers/P1_15_book_1BULG-GDB_USA.pdf" alt="Область существования ΔХ2sul (Belgium, 2024)">
+<a href="papers/P1_15_book_1BULG-GDB_USA.pdf" data-lightbox="papers" data-title="Валовый внутренний продукт США (Bulgaria, 2024)">
+<img src="papers/P1_15_book_1BULG-GDB_USA.pdf" alt="Валовый внутренний продукт США (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_2BULG-INF_USA.pdf" data-lightbox="papers" data-title="Инфляция и дефляция (Bulgary, 2024)">
-<img src="papers/P1_15_book_2BULG-INF_USA.pdf" alt="Инфляция и дефляция (Bulgary, 2024)">
+<a href="papers/P1_15_book_2BULG-INF_USA.pdf" data-lightbox="papers" data-title="Инфляция и дефляция (Bulgaria, 2024)">
+<img src="papers/P1_15_book_2BULG-INF_USA.pdf" alt="Инфляция и дефляция (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_3BULG-INF_RU.pdf" data-lightbox="papers" data-title="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgary, 2024)">
-<img src="papers/P1_15_book_3BULG-INF_RU.pdf" alt="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgary, 2024) (Bulgary, 2024)">
+<a href="papers/P1_15_book_3BULG-INF_RU.pdf" data-lightbox="papers" data-title="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgaria, 2024)">
+<img src="papers/P1_15_book_3BULG-INF_RU.pdf" alt="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgary, 2024) (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_4BULG-BANK_RU.pdf" data-lightbox="papers" data-title="Анализ банков России с 1993 по 2024 годы (Bulgary, 2024)">
-<img src="papers/P1_15_book_4BULG-BANK_RU.pdf" alt="Анализ банков России с 1993 по 2024 годы (Bulgary, 2024)">
+<a href="papers/P1_15_book_4BULG-BANK_RU.pdf" data-lightbox="papers" data-title="Анализ банков России с 1993 по 2024 годы (Bulgaria, 2024)">
+<img src="papers/P1_15_book_4BULG-BANK_RU.pdf" alt="Анализ банков России с 1993 по 2024 годы (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_5BULG-3D_ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel negative value of variable (Bulgary, 2024)">
-<img src="papers/P1_15_book_5BULG-3D_ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel negative value of variable (Bulgary, 2024)">
+<a href="papers/P1_15_book_5BULG-3D_ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel negative value of variable (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_5BULG-3D_ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel negative value of variable (ENG) (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_6BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
-<img src="papers/P1_15_book_6BULG-3D_ENG.pdf" alt="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
+<a href="papers/P1_15_book_6BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_6BULG-3D_ENG.pdf" alt="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_7BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (Bulgary, 2024)">
-<img src="papers/P1_15_book_7BULG-3D_ENG.pdf" alt="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (Bulgary, 2024)">
+<a href="papers/P1_15_book_7BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_7BULG-3D_ENG.pdf" alt="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (ENG)(Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_8BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (Bulgary, 2024)">
-<img src="papers/P1_15_book_8BULG-3D_ENG.pdf" alt="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (Bulgary, 2024)">
+<a href="papers/P1_15_book_8BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_8BULG-3D_ENG.pdf" alt="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (ENG) (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
-<img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
+<a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
 </a>
 <br>ВЕНГРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
