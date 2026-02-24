@@ -863,8 +863,14 @@
 <a href="papers/P1_1_book_FIN-4.pdf" ata-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)">  
 <img src="papers/P1_1_book_FIN-4.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)" width="100">
 </a>
-
-
+<br>ФРАНЦИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_8_book_FR-1.pdf" data-lightbox="papers" data-title="Построение 2D-графиков для Veu используя переменную Х6 (France, 2020)">
+<img src="papers/P1_8_book_FR-1.pdf" alt="Построение 2D-графиков для Veu используя переменную Х6 (France, 2020)" width="100">
+</a>  
+<a href="papers/P1_8_book_FR-2.pdf" data-lightbox="papers" data-title="Анализ построенных 3D-графиков для пареметра Veu (France, 2020)">
+<img src="papers/P1_8_book_FR-2.pdf" alt="Анализ построенных 3D-графиков для пареметра Veu (France, 2020)" width="100">
+</a>  
 </div>
 
 </body>
