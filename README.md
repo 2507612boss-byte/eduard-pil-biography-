@@ -802,6 +802,7 @@
 <img src="papers/P10_012_book_CHINA_2ENG.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)" width="100">
 </a>
  <br>НОРВЕГИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
 <img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
 </a>
