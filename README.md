@@ -699,7 +699,7 @@
 <a href="papers/P1_6_book_AVST-2.pdf" data-lightbox="papers" data-title="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)">
 <img src="papersP1_6_book_AVST-2.pdf" alt="Варианты выхода из экономического кризиса используя анализ 3D-графиков Vel при расчетет переменной Х4el (Austria, 2021)" width="100">
 </a>
-<div style="font-weight: bold; text-align: center;">АНГЛИЯ</div>
+<br>АНГЛИЯ
 <a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)">
 <img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (England, 2020)" width="100">
 </a
@@ -755,7 +755,7 @@
 <a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
 <img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (Bulgary, 2024)">
 </a><br>
-<div style="font-weight: bold; text-align: center;">ВЕНГРИЯ</div>
+<br>ВЕНГРИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_10_book_VENG-1ENG.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (ENG) (Hungary, 2017)">
 <img src="papers/P1_10_book_VENG-1ENG.pdf" alt="Theory of the financial crises. Part III (ENG) (Hungary, 2017)" width="100">
@@ -768,11 +768,11 @@
 <img src="papers/P1_10_book_VENG-3ENG.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
 </a>  
 <br>ГЕРМАНИЯ  
-<div style="font-weight: bold; text-align: center;">ГЕРМАНИЯ</div>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)">
 <img src="papers/P1_11_book_GER-1ENG.pdf" alt="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)" width="100">
-</a> <br>ДАНИЯ
+</a> 
+<br>ДАНИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Использование 3D графиков Х1 для параметра Ssl (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-1.pdf" alt="Использование 3D графиков Х1 для параметра Ssl (Denmark, 2019)" width="100">
@@ -786,12 +786,12 @@
 <a href="papers/P1_10_book_DAN-4.pdf" data-lightbox="papers" data-title="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-4.pdf" alt="Расчет значений X1eu и построение 3D-графиков для Veu (Denmark, 2019)" width="100">
 </a>
-</a> <br>ИНДИЯ
+<br>ИНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_13_book_IND-1ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (India, 2023)">
 <img src="papers/P1_13_book_IND-1ENG.pdf" alt="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (India, 2023) width="100">
 </a>
- <br>КИТАЕЙ
+<br>КИТАЕЙ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_012_book_CHINA_1ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises (ENG) (China, 2019)">
 <img src="papers/P10_012_book_CHINA_1ENG.pdf" alt="Theory of the economic crises (ENG) (China, 2019)" width="100">
@@ -800,7 +800,7 @@
 <a href="papers/P10_012_book_CHINA_2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)">
 <img src="papers/P10_012_book_CHINA_2ENG.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)" width="100">
 </a>
- <br>НОРВЕГИЯ
+<br>НОРВЕГИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
 <img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
