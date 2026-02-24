@@ -765,8 +765,8 @@
 <img src="papers/P1_10_book_VENG-2ENG.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (ENG) (Hungary, 2018)" width="100">
 </a>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P1_10_book_VENG-3ENG.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
-<img src="papers/P1_10_book_VENG-3ENG.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
+<a href="papers/P1_10_book_VENG-3.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
+<img src="papers/P1_10_book_VENG-3.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
 </a>  
 <br>ГЕРМАНИЯ  
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
