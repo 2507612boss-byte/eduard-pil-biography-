@@ -850,8 +850,7 @@
 </a>
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-  <a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ3Sul (Finland, 2018)">
+<a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ3Sul (Finland, 2018)">
 <img src="papers/P1_1_book_FIN-1.pdf" alt="Область существования ΔХ3Sul (Finland, 2018)" width="100">
 </a>  
 <a href="papers/P1_1_book_FIN-2ENG.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (ENG) (Finland, 2017)">
@@ -879,13 +878,13 @@
 <a href="papers/P1_14_book_PRAGA-2.pdf" data-lightbox="papers" data-title="Анализ населения США (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-2.pdf" alt="Анализ населения США (Czech, 2024)" width="100">
 </a>  
-<a href="papers/P1_14_book_PRAGA-3.pdf" data-lightbox="papers" data-title="Инфляция в СССР и в России (Czech, 2024)">
+<br><a href="papers/P1_14_book_PRAGA-3.pdf" data-lightbox="papers" data-title="Инфляция в СССР и в России (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-3.pdf" alt="Инфляция в СССР и в России (Czech, 2024)" width="100">
 </a>  
 <a href="papers/P1_14_book_PRAGA-4.pdf" data-lightbox="papers" data-title="ВВП СССР и в России (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-4.pdf" alt="ВВП СССР и в России (Czech, 2024)" width="100">
 </a>  
-<a href="papers/P1_14_book_PRAGA-5.pdf" data-lightbox="papers" data-title="Население России (Czech, 2024)">
+<br><a href="papers/P1_14_book_PRAGA-5.pdf" data-lightbox="papers" data-title="Население России (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-5.pdf" alt="Население России (Czech, 2024)" width="100">
 </a>  
   <a href="papers/P1_14_book_PRAGA-6.pdf" data-lightbox="papers" data-title="Рождаемость, бракосочетание и разводы в России (Czech, 2024)">
