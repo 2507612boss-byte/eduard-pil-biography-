@@ -881,13 +881,13 @@
 <br><a href="papers/P1_14_book_PRAGA-3.pdf" data-lightbox="papers" data-title="Инфляция в СССР и в России (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-3.pdf" alt="Инфляция в СССР и в России (Czech, 2024)" width="100">
 </a>  
-<a href="papers/P1_14_book_PRAGA-4.pdf" data-lightbox="papers" data-title="ВВП СССР и в России (Czech, 2024)">
+<br><a href="papers/P1_14_book_PRAGA-4.pdf" data-lightbox="papers" data-title="ВВП СССР и в России (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-4.pdf" alt="ВВП СССР и в России (Czech, 2024)" width="100">
 </a>  
 <br><a href="papers/P1_14_book_PRAGA-5.pdf" data-lightbox="papers" data-title="Население России (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-5.pdf" alt="Население России (Czech, 2024)" width="100">
 </a>  
-  <a href="papers/P1_14_book_PRAGA-6.pdf" data-lightbox="papers" data-title="Рождаемость, бракосочетание и разводы в России (Czech, 2024)">
+<br><a href="papers/P1_14_book_PRAGA-6.pdf" data-lightbox="papers" data-title="Рождаемость, бракосочетание и разводы в России (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-6.pdf" alt="Рождаемость, бракосочетание и разводы в России (Czech, 2024)" width="100">
 </a>  
 </div>
