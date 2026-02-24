@@ -871,6 +871,26 @@
 <a href="papers/P1_9_book_FR-2.pdf" data-lightbox="papers" data-title="Анализ построенных 3D-графиков для пареметра Veu (France, 2020)">
 <img src="papers/P1_9_book_FR-2.pdf" alt="Анализ построенных 3D-графиков для пареметра Veu (France, 2020)" width="100">
 </a>  
+<br>ЧЕХИЯ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_14_book_PRAGA-1ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-1ENG.pdf" alt="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)" width="100">
+</a>  
+<a href="papers/P1_14_book_PRAGA-2.pdf" data-lightbox="papers" data-title="Анализ населения США (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-2.pdf" alt="Анализ населения США (Czech, 2024)" width="100">
+</a>  
+<a href="papers/P1_14_book_PRAGA-3.pdf" data-lightbox="papers" data-title="Инфляция в СССР и в России (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-3.pdf" alt="Инфляция в СССР и в России (Czech, 2024)" width="100">
+</a>  
+<a href="papers/P1_14_book_PRAGA-4.pdf" data-lightbox="papers" data-title="ВВП СССР и в России (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-4.pdf" alt="ВВП СССР и в России (Czech, 2024)" width="100">
+</a>  
+<a href="papers/P1_14_book_PRAGA-5.pdf" data-lightbox="papers" data-title="Население России (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-5.pdf" alt="Население России (Czech, 2024)" width="100">
+</a>  
+  <a href="papers/P1_14_book_PRAGA-6.pdf" data-lightbox="papers" data-title="Рождаемость, бракосочетание и разводы в России (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-6.pdf" alt="Рождаемость, бракосочетание и разводы в России (Czech, 2024)" width="100">
+</a>  
 </div>
 
 </body>
