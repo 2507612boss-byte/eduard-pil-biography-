@@ -801,6 +801,21 @@
 <a href="papers/P10_012_book_CHINA_2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)">
 <img src="papers/P10_012_book_CHINA_2ENG.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)" width="100">
 </a>
+ <br>НОРВЕГИЯ
+<a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
+<img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
+</a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_2_book_NOR-2.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)">
+<img src="papers/P1_2_book_NOR-2.pdf" alt="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)" width="100">
+</a>
+<a href="papers/P1_2_book_NOR-3.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)">
+<img src="papers/P1_2_book_NOR-3.pdf" alt="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)" width="100">
+</a>
+
+
+
+
 
 
   
@@ -833,19 +848,6 @@
   <a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ3Sul (Finland, 2018)">
 <img src="papers/P1_1_book_FIN-1.pdf" alt="Область существования ΔХ3Sul (Finland, 2018)" width="100">
 </a>  
- <br>НОРВЕГИЯ
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)">
-<img src="papers/P10_05_book_paper5_2018.pdf" alt="Расчет значений переменной Х3 и ВВП страны (Norway, 2018)" width="100">
-</a>
-<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)">
-<img src="papers/P10_011_book_paper11_2021.pdf" alt="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)" width="100">
-</a>
-<a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)">
-<img src="papers/P1_2_book_NOR-1.pdf" alt="Расчет области существования ВВП ΔVeul используя переменную Х4 (Norway, 2020)" width="100">
-</a>
-
-
 
   
   
