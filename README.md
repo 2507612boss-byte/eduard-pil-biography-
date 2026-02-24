@@ -839,18 +839,15 @@
 </a><br>
 <a href="papers/P1_16_book_3POL-BANR_USA.pdf" data-lightbox="papers" data-title="Государственный долг США (Poland, 2024)">
 <img src="papers/P1_16_book_3POL-BANR_USA.pdf" alt="Государственный долг США (Poland, 2024)">
-</a><br>
+</a>
 <br>РОССИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_1_RUS1_MODEL.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
 <img src="papers/P10_1_RUS1_MODEL.pdf" alt="Математическая модель корпорации (2006)" width="100">
-</a>
+</a><br>
 <a href="papers/P10_1_RUS1_wayout.pdf" data-lightbox="papers" data-title="Экономический кризис и пути выхода из него (2016)">
 <img src="papers/P10_1_RUS1_wayout.pdf" alt="Экономический кризис и пути выхода из него (2016)" width="100">
 </a>
-
-
-
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (Finland, 2017)">
