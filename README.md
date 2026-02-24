@@ -759,15 +759,15 @@
 </a><br>
 <div style="font-weight: bold; text-align: center;">ВЕНГРИЯ</div>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (Hungary, 2017)">
-<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (Hungary, 2017)" width="100">
+<a href="papers/P1_10_book_VENG-1ENG.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (ENG) (Hungary, 2017)">
+<img src="papers/P1_10_book_VENG-1ENG.pdf" alt="Theory of the financial crises. Part III (ENG) (Hungary, 2017)" width="100">
 </a>
-<a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)">
-<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (Hungary, 2018)" width="100">
+<a href="papers/P1_10_book_VENG-2ENG.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (ENG) (Hungary, 2018)">
+<img src="papers/P1_10_book_VENG-2ENG.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (ENG) (Hungary, 2018)" width="100">
 </a>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
-<img src="papers/P10_08_book_paper8_2019.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
+<a href="papers/P1_10_book_VENG-3ENG.pdf" data-lightbox="papers" data-title="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)">
+<img src="papers/P1_10_book_VENG-3ENG.pdf" alt="Построение 3D-графиков для параметра Veu используя переменную Х1 (Hungary, 2019)" width="100">
 </a>  
 <div style="font-weight: bold; text-align: center;">ГЕРМАНИЯ</div>
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
