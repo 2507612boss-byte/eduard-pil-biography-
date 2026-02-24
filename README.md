@@ -794,10 +794,11 @@
 </a>
  <br>КИТАЕЙ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href=P10_012_book_CHINA_1ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises (ENG) (China, 2019)">
+<a href="papers/P10_012_book_CHINA_1ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises (ENG) (China, 2019)">
 <img src="papers/P10_012_book_CHINA_1ENG.pdf" alt="Theory of the economic crises (ENG) (China, 2019)" width="100">
 </a>
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"><a href="papers/P10_012_book_CHINA_2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)">
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_012_book_CHINA_2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)">
 <img src="papers/P10_012_book_CHINA_2ENG.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)" width="100">
 </a>
 
