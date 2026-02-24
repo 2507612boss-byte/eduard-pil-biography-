@@ -845,8 +845,8 @@
 <a href="papers/P10_1_RUS1_MODEL.pdf" data-lightbox="papers" data-title="Математическая модель корпорации (2006)">
 <img src="papers/P10_1_RUS1_MODEL.pdf" alt="Математическая модель корпорации (2006)" width="100">
 </a>
-<a href="papers/P10_1_ RUS1_wayout.pdf" data-lightbox="papers" data-title="Экономический кризис и пути выхода из него (2016)">
-<img src="papers/P10_1_ RUS1_wayout.pdf" alt="Экономический кризис и пути выхода из него (2016)" width="100">
+<a href="papers/P10_1_RUS1_wayout.pdf" data-lightbox="papers" data-title="Экономический кризис и пути выхода из него (2016)">
+<img src="papers/P10_1_RUS1_wayout.pdf" alt="Экономический кризис и пути выхода из него (2016)" width="100">
 </a>
 
 
