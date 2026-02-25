@@ -719,8 +719,8 @@
 <a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)">
 <img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)" width="100">
 </a
-<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (England, 1991)">
-<img src="papers/P10_014_book_paper14_2019.pdf" alt="Оптимальная инструментальная наладка (England, 1991)" width="100">
+<a href="papers/P10_1_ANG_CNC-ENG.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (ENG) (England, 1991)">
+<img src="papers/P10_1_ANG_CNC-ENG.pdf" alt="Оптимальная инструментальная наладка (ENG) (England, 1991)" width="100">
 </a>
 <br>БЕЛЬГИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
