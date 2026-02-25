@@ -704,6 +704,7 @@ AUSTRIA
 <a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)">
 <img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)" width="100">
 </a>
+  <br>
 <a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)">
 <img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)" width="100">
 </a>
