@@ -1047,7 +1047,7 @@
 <a href="bibl/P13_13_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург">
 <img src="bibl/P13_13_book_bibl_2012.jpg" alt="Президентская библиотека им. Б.Н. Ельцина, Санкт-Петербург" style="width: 100px; height: 75px;">
 </a>
-a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
+<a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека Петербургского государственного университета путей сообщения">
 <img src="bibl/P13_10_book_bibl_2012.jpg" alt="Библиотека Петербургского государственного университета путей сообщения" style="width: 100px; height: 75px;">
 </a>
 <a href="bibl/P13_12_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Библиотека государственного университета аэрокосмического приборостроения, Санкт-Петербург">
