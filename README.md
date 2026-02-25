@@ -1180,6 +1180,7 @@ a href="bibl/P13_10_book_bibl_2012.jpg" data-lightbox="bibl" data-title="Биб�
 <div class="univer">
   
 МОИ УНИВЕРСИТЕТЫ — ГДЕ МНЕ ДОВЕЛОСЬ РАБОТАТЬ ПРОФЕССОРОМ, КАК ПО ОСНОВНОМУ МЕСТУ РАБОТЫ, ТАК И ПО СОВМЕСТИТЕЛЬСТВУ, И ГДЕ МНЕ ПОСЧАСТЛИВИЛОСЬ НАЙТИ ДРУЗЕЙ НА ВСЮ ЖИЗНЬ
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 📌 *Подсказка:* Здесь чтобы просмотреть все университеты, где я работал, надо нажать внизу кнопку MORE PAGES, так как они представлены на 8 страницах.
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="univer/P1_univer_2026.pdf" data-lightbox="tree" data-title="Работа в Университетах">
