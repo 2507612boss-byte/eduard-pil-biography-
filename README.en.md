@@ -685,6 +685,7 @@ AUSTRIA
 <a href="papers/P1_8_book_AVST-4.pdf" data-lightbox="papers" data-title="GDP Calculation with a Negative Value of a Single Variable (Austria, 2017)">
 <img src="papersP1_8_book_AVST-4.pdf" alt="GDP Calculation with a Negative Value of a Single Variable (Austria, 2017)" width="100">
 </a>
+<br>
 <a href="papers/P1_5_book_AVST-1.pdf" data-lightbox="papers" data-title="Calculation of Variable X4 and Its Impact on GDP (Austria, 2020)">
 <img src="papersP1_5_book_AVST-1.pdf" alt="Calculation of Variable X4 and Its Impact on GDP (Austria, 2020)" width="100">
 </a>
