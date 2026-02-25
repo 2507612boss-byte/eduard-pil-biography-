@@ -675,87 +675,221 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 My profile in the ORCID researcher identification system: https://orcid.org/0009-0009-7002-217X
 
 
-<h2>10. 📰 Articles from Journals and Conferences</h2>
-
+<h2>10. 📰 This section presents selected articles published in international journals and conference proceedings, as well as in Russian academic publications. </h2>
 📌 *Hint:* The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
+* The abbreviation (ENG) indicates that the article is written in English. * 
 <div class=papers"">
-<!-- Пример первых 13 статьи -->
-<a href="papers/P10_01_book_paper1_2017.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (2017)">
-<img src="papers/P10_01_book_paper1_2017.pdf" alt="Rate of currency exchange impact onto country GDP (2017)" width="100">
-</a>
-
+AUSTRIA
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_02_book_paper2_2017.pdf" data-lightbox="papers" data-title="GDP Calculation with a Negative Value of a Single Variable (2017)">
-<img src="papers/P10_02_book_paper2_2017.pdf" alt="GDP Calculation with a Negative Value of a Single Variable (2017)" width="100">
+<a href="papers/P1_8_book_AVST-4.pdf" data-lightbox="papers" data-title="GDP Calculation with a Negative Value of a Single Variable (Austria, 2017)">
+<img src="papersP1_8_book_AVST-4.pdf" alt="GDP Calculation with a Negative Value of a Single Variable (Austria, 2017)" width="100">
 </a>
-
-  <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
-<a href="papers/P10_03_book_paper3_2017.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (2017)">
-<img src="papers/P10_03_book_paper3_2017.pdf" alt="Theory of the economic crises. Part II (2017" width="100">
+<a href="papers/P1_5_book_AVST-1.pdf" data-lightbox="papers" data-title="Calculation of Variable X4 and Its Impact on GDP (Austria, 2020)">
+<img src="papersP1_5_book_AVST-1.pdf" alt="Calculation of Variable X4 and Its Impact on GDP (Austria, 2020)" width="100">
 </a>
-
+<a href="papers/P1_7_book_AVST-3.pdf" data-lightbox="papers" data-title="Impact of Variable X4 on the Calculation of Parameter ΔVeul (Austria, 2020)">
+<img src="papersP1_7_book_AVST-3.pdf" alt="Impact of Variable X₄ on the Calculation of Parameter ΔVeul (Austria, 2020)" width="100">
+</a>
+<a href="papers/P1_6_book_AVST-2.pdf" data-lightbox="papers" data-title="The Ways Out of Economic Crisis Through 3D Graph Analysis of Vel in the Calculation of Variable Х4el (Austria, 2021)">
+<img src="papersP1_6_book_AVST-2.pdf" alt="The Ways Out of Economic Crisis Through 3D Graph Analysis of Vel in the Calculation of Variable Х4el (Austria, 2021)" width="100">
+</a>
+<br>ENGLAND
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_04_book_paper4_2017.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (2017">
-<img src="papers/P10_04_book_paper4_2017.pdf" alt="Theory of the financial crises. Part III (2017" width="100">
+<a href="papers/P1_4_book_ANGL-2ENG.pdf" data-lightbox="papers" data-title="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (ENG) (England, 2020)">
+<img src="papers/P1_4_book_ANGL-2ENG.pdf" alt="Calculation and plotting 3D figures of variable X4Su for parameter Ssu (ENG) (England, 2020)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)">
+<img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)">
+<img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-5ENG.pdf" data-lightbox="papers" data-title="The influence of the X4 variable on 3D graphics for Veu (ENG) (England, 2022)">
+<img src="papers/P1_4_book_ANGL-5ENG.pdf" alt="The influence of the X4 variable on 3D graphics for Veu (ENG) (England, 2022)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-6ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (ENG) (England, 2024)">
+<img src="papers/P1_4_book_ANGL-6ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (ENG) (England, 2024)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)">
+<img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)" width="100">
+</a
+<a href="papers/P10_1_RUS1_CNC-ENG.pdf" data-lightbox="papers" data-title="Optimal tool setting for a machining centre (ENG) (England, 1991)">
+<img src="papers/P10_1_RUS1_CNC-ENG.pdf" alt=" Optimal tool setting for a machining centre (ENG) (England, 1991) " width="100">
 </a>
-
+<br>BELGIUM
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_05_book_paper5_2018.pdf" data-lightbox="papers" data-title="Calculation of the Variable X3 and the Country's GDP (2018)">
-<img src="papers/P10_05_book_paper5_2018.pdf" alt="Calculation of the Variable X3 and the Country's GDP (2018)" width="100">
+<a href="papers/P1_12_book_BRUS-1.pdf" data-lightbox="papers" data-title="Domain of Existence of ΔХ2sul (Belgium, 2024)">
+<img src="papers/P1_12_book_BRUS-1.pdf" alt=" Domain of Existence of ΔХ2sul (Belgium, 2024)">
 </a>
-<a href="papers/P10_06_book_paper6_2016.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (2018)">
-<img src="papers/P10_06_book_paper6_2016.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (2018" width="100">
-</a>
-<a href="papers/P10_07_book_paper7_2018.pdf" data-lightbox="papers" data-title="Analysis of the 3D Domain of the Variable X4su (2018)">
-<img src="papers/P10_07_book_paper7_2018.pdf" alt="Analysis of the 3D Domain of the Variable X4su (2018)" width="100">
-</a>
-
+<br>BULGARIA
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_08_book_paper8_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)">
-<img src="papers/P10_08_book_paper8_2019.pdf" alt="Plotting of 3D Graphs for the Veu Parameter Using the Variable X1 (2019)" width="100">
+<a href="papers/P1_15_book_1BULG-GDB_USA.pdf" data-lightbox="papers" data-title="Gross Domestic Product of the United States (Bulgaria, 2024)">
+<img src="papers/P1_15_book_1BULG-GDB_USA.pdf" alt="Gross Domestic Product of the United States (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_2BULG-INF_USA.pdf" data-lightbox="papers" data-title="Inflation and Deflation (Bulgaria, 2024)">
+<img src="papers/P1_15_book_2BULG-INF_USA.pdf" alt="Inflation and Deflation (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_3BULG-INF_RU.pdf" data-lightbox="papers" data-title="Inflationary Processes in the Soviet Union During the Era of Stagnation and Perestroika (Bulgaria, 2024)">
+<img src="papers/P1_15_book_3BULG-INF_RU.pdf" alt="Inflationary Processes in the Soviet Union During the Era of Stagnation and Perestroika (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_4BULG-BANK_RU.pdf" data-lightbox="papers" data-title="Analysis of the Russian Banking Sector, 1993–2024 (Bulgaria, 2024)">
+<img src="papers/P1_15_book_4BULG-BANK_RU.pdf" alt="Analysis of the Russian Banking Sector, 1993–2024 (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_5BULG-3D_ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel negative value of variable (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_5BULG-3D_ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel negative value of variable (ENG) (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_6BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_6BULG-3D_ENG.pdf" alt="How negative values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_7BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_7BULG-3D_ENG.pdf" alt="Calculation of X5 and plotting of 3D graphs for Vel with negative values of variables (ENG) (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_8BULG-3D_ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_8BULG-3D_ENG.pdf" alt="Analysis of 3D Vel graphs using the X5 variable and with negative values of other variables (ENG) (Bulgaria, 2024)">
+</a><br>
+<a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
+<img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
 </a>
-  
-<a href="papers/P10_09_book_paper9_2019.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)">
-<img src="papers/P10_09_book_paper9_2019.pdf" alt="Calculation of X1eu Values and Plotting of 3D Graphs for Veu (2019)" width="100">
-</a>
-
+<br>HUNGARY
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_010_book_paper10_2019.pdf" data-lightbox="papers" data-title="Plotting of 3D Graphs for Veu Using X2 Values (2019)">
-<img src="papers/P10_010_book_paper10_2019.pdf" alt="Plotting of 3D Graphs for Veu Using X2 Values (2019)" width="100">
+<a href="papers/P1_10_book_VENG-1ENG.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (ENG) (Hungary, 2017)">
+<img src="papers/P1_10_book_VENG-1ENG.pdf" alt="Theory of the financial crises. Part III (ENG) (Hungary, 2017)" width="100">
 </a>
-  
-<a href="papers/P10_011_book_paper11_2021.pdf" data-lightbox="papers" data-title="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)">
-<img src="papers/P10_011_book_paper11_2021.pdf" alt="Ways to Overcome the Economic Crisis Based on the Analysis of Plotted 3D Graphs for Veu Using the Variable X5eu (2021)" width="100">
+<a href="papers/P1_10_book_VENG-2ENG.pdf" data-lightbox="papers" data-title="The impact exerted by six variables onto GDP calculation through the variable X1 (ENG) (Hungary, 2018)">
+<img src="papers/P1_10_book_VENG-2ENG.pdf" alt="The impact exerted by six variables onto GDP calculation through the variable X1 (ENG) (Hungary, 2018)" width="100">
 </a>
-<a href="papers/P10_012_book_paper12_2019.pdf" data-lightbox="papers" data-title="Theory of the economic crises (2019)">
-<img src="papers/P10_012_book_paper12_2019.pdf" alt="Theory of the economic crises (2019)" width="100">
-</a>
-
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_013_book_paper13_2019.pdf" data-lightbox="papers" data-title="Analysis of 3D praphs of existence of the variable X3sul (2019)">
-<img src="papers/P10_013_book_paper13_2019.pdf" alt="Analysis of 3D praphs of existence of the variable X3sul (2019)" width="100">
-</a>
-
+<a href="papers/P1_10_book_VENG-3.pdf" data-lightbox="papers" data-title="Plotting 3D Graphs for Parameter Veu Using Variable Х1 (Hungary, 2019)">
+<img src="papers/P1_10_book_VENG-3.pdf" alt="Plotting 3D Graphs for Parameter Veu Using Variable Х1 (Hungary, 2019)" width="100">
+</a>  
+<br>GERMANY  
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_014_book_paper14_2019.pdf" data-lightbox="papers" data-title="Optimal Tool Setup (1991)">
-<img src="papers/P10_014_book_paper14_2019.pdf" alt="Optimal Tool Setup (1991)" width="100">
-</a>
-
+<a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)">
+<img src="papers/P1_11_book_GER-1ENG.pdf" alt="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)" width="100">
+</a> 
+<br>DENMARK
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_015_book_paper15_2019.pdf" data-lightbox="papers" data-title="Mathematical Model of a Corporation (2006)">
-<img src="papersP10_015_book_paper15_2019.pdf" alt="Mathematical Model of a Corporation (2006)" width="100">
+<a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-1.pdf" alt="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)" width="100">
 </a>
-
+<a href="papers/P1_10_book_DAN-2.pdf" data-lightbox="papers" data-title="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-2.pdf" alt="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)" width="100">
+</a>
+<a href="papers/P1_10_book_DAN-3.pdf" data-lightbox="papers" data-title="Analysis of the 3D Region of Variable X4su (Denmark, 2018)">
+<img src="papers/P1_10_book_DAN-3.pdf" alt=" Analysis of the 3D Region of Variable X4su (Denmark, 2018)" width="100">
+</a>
+<a href="papers/P1_10_book_DAN-4.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-4.pdf" alt="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)" width="100">
+</a>
+<br>INDIA
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P10_016_book_paper16_2019.pdf" data-lightbox="papers" data-title="Mathematical Model of Flat Casing Parts Used in CAD (1991)">
-<img src="papers/P10_016_book_paper16_2019.pdff" alt="Mathematical Model of Flat Casing Parts Used in CAD (1991)" width="100">
+<a href="papers/P1_13_book_IND-1ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (ENG) (India, 2023)">
+<img src="papers/P1_13_book_IND-1ENG.pdf" alt="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (ENG) (India, 2023) width="100">
 </a>
-
+<br>CHINA
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_012_book_CHINA_1ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises (ENG) (China, 2019)">
+<img src="papers/P10_012_book_CHINA_1ENG.pdf" alt="Theory of the economic crises (ENG) (China, 2019)" width="100">
+</a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_012_book_CHINA_2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)">
+<img src="papers/P10_012_book_CHINA_2ENG.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)" width="100">
+</a>
+<br>NORWAY
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Calculation of the GDP Existence Region for ΔVeul Using Variable X4 (Norway, 2020)">
+<img src="papers/P1_2_book_NOR-1.pdf" alt=" Calculation of the GDP Existence Region for ΔVeul Using Variable X4 (Norway, 2020)" width="100">
+</a>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_2_book_NOR-2.pdf" data-lightbox="papers" data-title="Calculation of Variable X3 and Country GDP Values (Norway, 2018)">
+<img src="papers/P1_2_book_NOR-2.pdf" alt="Calculation of Variable X3 and Country GDP Values (Norway, 2018)" width="100">
+</a>
+<a href="papers/P1_2_book_NOR-3.pdf" data-lightbox="papers" data-title=The Ways Out of Economic Crisis Based on Analysis of Plotted 3D Graphs of Veu Using Variable X5eu (Norway, 2021)">
+<img src="papers/P1_2_book_NOR-3.pdf" alt="The Ways Out of Economic Crisis Based on Analysis of Plotted 3D Graphs of Veu Using Variable X5eu (Norway, 2021)" width="100">
+</a>
+<br> UNITED ARAB EMIRATES (UAE)
+<a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (ENG) (UAE, 2015)">
+<img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company (ENG) (UAE, 2015)">
+</a><br>
+<a href="papers/P10_016_book_UAE-2_2015.pdf" data-lightbox="papers" data-title="Theory of the financial crises (ENG) (UAE, 2015)">
+<img src="papers/P10_016_book_UAE-2_2015.pdf" alt="Theory of the financial crises (ENG) (UAE, 2015)">
+</a><br>
+<a href="papers/P10_016_book_UAE-3_2015.pdf" data-lightbox="papers" data-title="Theoretical variants of evolution of economy and population changes (ENG) (UAE, 2015)">
+<img src="papers/P10_016_book_UAE-3_2015.pdf" alt="Theoretical variants of evolution of economy and population changes (ENG) (UAE, 2015)">
+</a><br>
+<a href="papers/P10_016_book_UAE-4_2022.pdf" data-lightbox="papers" data-title="Variants of macroeconomics development after being affected by internal and external forces (ENG) (UAE, 2022)">
+<img src="papers/P10_016_book_UAE-4_2022.pdf" alt="Variants of macroeconomics development after being affected by internal and external forces (ENG) (UAE, 2022)">
+</a>
+<br>POLAND
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="papers/P1_16_book_1POL-BANKR_USA.pdf" data-lightbox="papers" data-title="U.S. Bank Failures (Poland, 2024)">
+<img src="papers/P1_16_book_1POL-BANKR_USA.pdf" alt="U.S. Bank Failures (Poland, 2024)">
+</a><br>
+<a href="papers/P1_16_book_2POL-GOLD.pdf" data-lightbox="papers" data-title="Gold Reserves of Countries (Poland, 2024)">
+<img src="papers/P1_16_book_2POL-GOLD.pdf" alt="Gold Reserves of Countries (Poland, 2024)">
+</a><br>
+<a href="papers/P1_16_book_3POL-BANR_USA.pdf" data-lightbox="papers" data-title="Analysis of the U.S. Banking Sector and GDP, 2000–2023 (Poland, 2024)">
+<img src="papers/P1_16_book_3POL-BANR_USA.pdf" alt="Analysis of the U.S. Banking Sector and GDP, 2000–2023 (Poland, 2024)">
+</a><br>
+<a href="papers/P1_16_book_3POL-BANR_USA.pdf" data-lightbox="papers" data-title="U.S. Government Debt (Poland, 2024)">
+<img src="papers/P1_16_book_3POL-BANR_USA.pdf" alt="U.S. Government Debt (Poland, 2024)">
+</a>
+<br>RUSSIA
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P10_1_RUS1_MODEL.pdf" data-lightbox="papers" data-title="Mathematical Model of a Corporation (Russia, 2006)">
+<img src="papers/P10_1_RUS1_MODEL.pdf" alt="Mathematical Model of a Corporation (Russia, 2006)" width="100">
+</a><br>
+<a href="papers/P10_1_RUS1_wayout.pdf" data-lightbox="papers" data-title="Economic Crisis and the Ways Out of It (Russia, 2016)">
+<img src="papers/P10_1_RUS1_wayout.pdf" alt="Economic Crisis and the Ways Out of It (Russia, 2016)" width="100">
+</a>
+<br>FINLAND
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Existence Region of ΔX3Sul (Finland, 2018)">
+<img src="papers/P1_1_book_FIN-1.pdf" alt="Existence Region of ΔX3Sul (Finland, 2018)" width="100">
+</a>  
+<a href="papers/P1_1_book_FIN-2ENG.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (ENG) (Finland, 2017)">
+<img src="papers/P1_1_book_FIN-2ENG.pdf" alt="Rate of currency exchange impact onto country GDP (ENG) (Finland, 2017)" width="100">
+</a>
+<a href="papers/P1_1_book_FIN-3ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (ENG) (Finland, 2017)">
+<img src="papers/P1_1_book_FIN-3ENG.pdf" alt="Theory of the economic crises. Part II (ENG) (Finland, 2017)" width="100">
+</a>
+<a href="papers/P1_1_book_FIN-4.pdf" ata-lightbox="papers" data-title="Plotting 3D Graphs for Veu Using Values of X2 (Finland, 2019)">  
+<img src="papers/P1_1_book_FIN-4.pdf" alt="Plotting 3D Graphs for Veu Using Values of X2 (Finland, 2019)" width="100">
+</a>
+<br>FRANCE
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_8_book_FR-1.pdf" data-lightbox="papers" data-title="Plotting 2D Graphs for Veu Using Variable X6 (France, 2020)">
+<img src="papers/P1_8_book_FR-1.pdf" alt="Plotting 2D Graphs for Veu Using Variable X6 (France, 2020)" width="100">
+</a>  
+<a href="papers/P1_9_book_FR-2.pdf" data-lightbox="papers" data-title="Analysis of Plotted 3D Graphs for Parameter Veu (France, 2020)">
+<img src="papers/P1_9_book_FR-2.pdf" alt="Analysis of Plotted 3D Graphs for Parameter Veu (France, 2020)" width="100">
+</a>  
+<br>CZECH
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_14_book_PRAGA-1ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-1ENG.pdf" alt="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)" width="100">
+</a>  
+<a href="papers/P1_14_book_PRAGA-2.pdf" data-lightbox="papers" data-title="Analysis of the U.S. Population (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-2.pdf" alt="Analysis of the U.S. Population (Czech, 2024)" width="100">
+</a>  
+<br><a href="papers/P1_14_book_PRAGA-3.pdf" data-lightbox="papers" data-title="Inflation in the Soviet Union and Russia (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-3.pdf" alt="Inflation in the Soviet Union and Russia (Czech, 2024)" width="100">
+</a>  
+<br><a href="papers/P1_14_book_PRAGA-4.pdf" data-lightbox="papers" data-title="GDP of the Soviet Union and Russia (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-4.pdf" alt="GDP of the Soviet Union and Russia (Czech, 2024)" width="100">
+</a>  
+<br><a href="papers/P1_14_book_PRAGA-5.pdf" data-lightbox="papers" data-title="The population of Russia (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-5.pdf" alt="The population of Russia (Czech, 2024)" width="100">
+</a>  
+<br><a href="papers/P1_14_book_PRAGA-6.pdf" data-lightbox="papers" data-title="Fertility, marriage and divorce in Russia (Czech, 2024)">
+<img src="papers/P1_14_book_PRAGA-6.pdf" alt="Fertility, marriage and divorce in Russia (Czech, 2024)" width="100">
+</a>  
 </div>
 
 </body>
 </html>
+
 
 
 
