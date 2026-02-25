@@ -704,7 +704,7 @@ AUSTRIA
 <a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)">
 <img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)" width="100">
 </a
- <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<br>
 <a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)">
 <img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)" width="100">
 </a
@@ -863,6 +863,7 @@ AUSTRIA
 <a href="papers/P1_1_book_FIN-3ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (ENG) (Finland, 2017)">
 <img src="papers/P1_1_book_FIN-3ENG.pdf" alt="Theory of the economic crises. Part II (ENG) (Finland, 2017)" width="100">
 </a>
+   <br>
 <a href="papers/P1_1_book_FIN-4.pdf" ata-lightbox="papers" data-title="Plotting 3D Graphs for Veu Using Values of X2 (Finland, 2019)">  
 <img src="papers/P1_1_book_FIN-4.pdf" alt="Plotting 3D Graphs for Veu Using Values of X2 (Finland, 2019)" width="100">
 </a>
