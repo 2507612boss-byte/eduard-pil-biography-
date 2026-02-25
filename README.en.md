@@ -689,6 +689,7 @@ AUSTRIA
 <a href="papers/P1_5_book_AVST-1.pdf" data-lightbox="papers" data-title="Calculation of Variable X4 and Its Impact on GDP (Austria, 2020)">
 <img src="papersP1_5_book_AVST-1.pdf" alt="Calculation of Variable X4 and Its Impact on GDP (Austria, 2020)" width="100">
 </a>
+  <br>
 <a href="papers/P1_7_book_AVST-3.pdf" data-lightbox="papers" data-title="Impact of Variable X4 on the Calculation of Parameter ΔVeul (Austria, 2020)">
 <img src="papersP1_7_book_AVST-3.pdf" alt="Impact of Variable X₄ on the Calculation of Parameter ΔVeul (Austria, 2020)" width="100">
 </a>
@@ -703,6 +704,7 @@ AUSTRIA
 <a href="papers/P1_4_book_ANGL-3ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)">
 <img src="papers/P1_4_book_ANGL-3ENG.pdf" alt="Analysis of 3D Veu using the X4 variable (ENG) (England, 2022)" width="100">
 </a
+  <br>
 <a href="papers/P1_4_book_ANGL-4ENG.pdf" data-lightbox="papers" data-title="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)">
 <img src="papers/P1_4_book_ANGL-4ENG.pdf" alt="Calculation of X4 plotting 3D graphs for Veu (ENG) (England, 2022)" width="100">
 </a
@@ -757,12 +759,14 @@ AUSTRIA
 <a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-1.pdf" alt="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)" width="100">
 </a>
+  <br>
 <a href="papers/P1_10_book_DAN-2.pdf" data-lightbox="papers" data-title="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-2.pdf" alt="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)" width="100">
 </a>
 <a href="papers/P1_10_book_DAN-3.pdf" data-lightbox="papers" data-title="Analysis of the 3D Region of Variable X4su (Denmark, 2018)">
 <img src="papers/P1_10_book_DAN-3.pdf" alt=" Analysis of the 3D Region of Variable X4su (Denmark, 2018)" width="100">
 </a>
+  <br>
 <a href="papers/P1_10_book_DAN-4.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-4.pdf" alt="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)" width="100">
 </a>
@@ -810,6 +814,7 @@ AUSTRIA
 <img src="papers/P1_2_book_NOR-3.pdf" alt="The Ways Out of Economic Crisis Based on Analysis of Plotted 3D Graphs of Veu Using Variable X5eu (Norway, 2021)" width="100">
 </a>
 <br> UNITED ARAB EMIRATES (UAE)
+  <br>
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (ENG) (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company (ENG) (UAE, 2015)">
 </a><br>
@@ -849,12 +854,14 @@ AUSTRIA
 <a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Existence Region of ΔX3Sul (Finland, 2018)">
 <img src="papers/P1_1_book_FIN-1.pdf" alt="Existence Region of ΔX3Sul (Finland, 2018)" width="100">
 </a>  
+  <br>
 <a href="papers/P1_1_book_FIN-2ENG.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (ENG) (Finland, 2017)">
 <img src="papers/P1_1_book_FIN-2ENG.pdf" alt="Rate of currency exchange impact onto country GDP (ENG) (Finland, 2017)" width="100">
 </a>
 <a href="papers/P1_1_book_FIN-3ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (ENG) (Finland, 2017)">
 <img src="papers/P1_1_book_FIN-3ENG.pdf" alt="Theory of the economic crises. Part II (ENG) (Finland, 2017)" width="100">
 </a>
+  <br>
 <a href="papers/P1_1_book_FIN-4.pdf" ata-lightbox="papers" data-title="Plotting 3D Graphs for Veu Using Values of X2 (Finland, 2019)">  
 <img src="papers/P1_1_book_FIN-4.pdf" alt="Plotting 3D Graphs for Veu Using Values of X2 (Finland, 2019)" width="100">
 </a>
@@ -871,6 +878,7 @@ AUSTRIA
 <a href="papers/P1_14_book_PRAGA-1ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-1ENG.pdf" alt="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)" width="100">
 </a>  
+  <br>
 <a href="papers/P1_14_book_PRAGA-2.pdf" data-lightbox="papers" data-title="Analysis of the U.S. Population (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-2.pdf" alt="Analysis of the U.S. Population (Czech, 2024)" width="100">
 </a>  
