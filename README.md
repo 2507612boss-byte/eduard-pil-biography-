@@ -735,8 +735,8 @@
 <a href="papers/P1_15_book_2BULG-INF_USA.pdf" data-lightbox="papers" data-title="Инфляция и дефляция (Bulgaria, 2024)">
 <img src="papers/P1_15_book_2BULG-INF_USA.pdf" alt="Инфляция и дефляция (Bulgaria, 2024)">
 </a><br>
-<a href="papers/P1_15_book_3BULG-INF_RU.pdf" data-lightbox="papers" data-title="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgaria, 2024)">
-<img src="papers/P1_15_book_3BULG-INF_RU.pdf" alt="Инфляционные процессы в СССР, в годы 'застоя' и'перестройки' (Bulgary, 2024) (Bulgaria, 2024)">
+<a href="papers/P1_15_book_3BULG-INF_RU.pdf" data-lightbox="papers" data-title="Инфляционные процессы в СССР, в годы 'застоя' и 'перестройки' (Bulgaria, 2024)">
+<img src="papers/P1_15_book_3BULG-INF_RU.pdf" alt="Инфляционные процессы в СССР, в годы 'застоя' и 'перестройки' (Bulgary, 2024) (Bulgaria, 2024)">
 </a><br>
 <a href="papers/P1_15_book_4BULG-BANK_RU.pdf" data-lightbox="papers" data-title="Анализ банков России с 1993 по 2024 годы (Bulgaria, 2024)">
 <img src="papers/P1_15_book_4BULG-BANK_RU.pdf" alt="Анализ банков России с 1993 по 2024 годы (Bulgaria, 2024)">
