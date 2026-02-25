@@ -761,9 +761,7 @@ AUSTRIA
 <br><a href="papers/P1_14_book_PRAGA-6.pdf" data-lightbox="papers" data-title="Fertility, marriage and divorce in Russia (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-6.pdf" alt="Fertility, marriage and divorce in Russia (Czech, 2024)" width="100">
 </a>  
-
 <br>DENMARK
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)">
 <img src="papers/P1_10_book_DAN-1.pdf" alt="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)" width="100">
 </a>
@@ -803,9 +801,7 @@ AUSTRIA
 <a href="papers/P10_1_RUS1_CNC-ENG.pdf" data-lightbox="papers" data-title="Optimal tool setting for a machining centre (ENG) (England, 1991)">
 <img src="papers/P10_1_RUS1_CNC-ENG.pdf" alt=" Optimal tool setting for a machining centre (ENG) (England, 1991) " width="100">
 </a>
-
 <br>FINLAND
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Existence Region of ΔX3Sul (Finland, 2018)">
 <img src="papers/P1_1_book_FIN-1.pdf" alt="Existence Region of ΔX3Sul (Finland, 2018)" width="100">
 </a>  
@@ -830,15 +826,11 @@ AUSTRIA
 <a href="papers/P1_9_book_FR-2.pdf" data-lightbox="papers" data-title="Analysis of Plotted 3D Graphs for Parameter Veu (France, 2020)">
 <img src="papers/P1_9_book_FR-2.pdf" alt="Analysis of Plotted 3D Graphs for Parameter Veu (France, 2020)" width="100">
 </a>  
-
 <br>GERMANY  
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)">
 <img src="papers/P1_11_book_GER-1ENG.pdf" alt="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)" width="100">
 </a> 
-
 <br>HUNGARY
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_10_book_VENG-1ENG.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (ENG) (Hungary, 2017)">
 <img src="papers/P1_10_book_VENG-1ENG.pdf" alt="Theory of the financial crises. Part III (ENG) (Hungary, 2017)" width="100">
 </a>
@@ -854,7 +846,6 @@ AUSTRIA
 <a href="papers/P1_13_book_IND-1ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (ENG) (India, 2023)">
 <img src="papers/P1_13_book_IND-1ENG.pdf" alt="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (ENG) (India, 2023) width="100">
 </a>
-
 <br>NORWAY
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_2_book_NOR-1.pdf" data-lightbox="papers" data-title="Calculation of the GDP Existence Region for ΔVeul Using Variable X4 (Norway, 2020)">
