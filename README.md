@@ -848,9 +848,6 @@
 <a href="papers/P10_1_RUS1_wayout.pdf" data-lightbox="papers" data-title="Экономический кризис и пути выхода из него (2016)">
 <img src="papers/P10_1_RUS1_wayout.pdf" alt="Экономический кризис и пути выхода из него (2016)" width="100">
 </a>
-<a href="papers/P10_1_RUS1_CNC-ENG.pdf" data-lightbox="papers" data-title="Optimal tool setting for a machining centre (ENG) (England, 1991)">
-<img src="papers/P10_1_RUS1_CNC-ENG.pdf" alt="Optimal tool setting for a machining centre (ENG) (England, 1991)" width="100">
-</a>  
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ3Sul (Finland, 2018)">
