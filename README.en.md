@@ -145,7 +145,6 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 <li>🏅 Book of Records of Russia</li>
 <li>👤 Biography</li>
 <li>🆔 ORCID</li>
-<li>📝 Articles on the Theory of the English Language</li>
 <li>📰 Articles from Journals and Conferences</li>
 <li>🎓 Certificates of Conference Presentations</li>
 <li>✉️ Letters from Monarchs and Politicians</li>
@@ -177,88 +176,66 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 <a href="diplomas2/P1_00_moi_knigi_2025.jpg" data-lightbox="diplomas2" data-title="My BOOKS">
   <img src="diplomas2/P1_00_moi_knigi_2025.jpg" alt="My BOOKS" width="100">
 </a>
-
 <a href="diplomas2/P1_21_diplom_kvalif_1967.jpg" data-lightbox="diplomas2" data-title="Certificate of Qualification Award (1967)">
   <img src="diplomas2/P1_21_diplom_kvalif_1967.jpg" alt="Certificate of Qualification Award (1967)" style="width: 100px; height: 70px;">
 </a>
-
 <a href="diplomas2/P1_22_diplom_school_1967.jpg" data-lightbox="diplomas2" data-title="Secondary Education Certificate (1967)">
   <img src="diplomas2/P1_22_diplom_school_1967.jpg" alt="Secondary Education Certificate (1967)" style="width: 100px; height: 70px;">
 </a>
-
 <a href="diplomas2/P1_20_diplom_forest_1993.JPG" data-lightbox="diplomas2" data-title="Certificate of the International Timber Exchange (1993)">
   <img src="diplomas2/P1_20_diplom_forest_1993.JPG" alt="Certificate of the International Timber Exchange (1993)" style="width: 100px; height: 70px;">
 </a>
-
 <a href="diplomas2/P1_14_sertifikat_english_1975.JPG" data-lightbox="diplomas2" data-title="Certificate of State Foreign Language Courses (1975)">
   <img src="diplomas2/P1_14_sertifikat_english_1975.JPG" alt="Certificate of State Foreign Language Courses (1975)" style="width: 100px; height: 70px;">
 </a>
-
 <a href="diplomas2/P1_15_diplom_vtuza_1973.JPG" data-lightbox="diplomas2" data-title="Master’s in Hydraulic Systems and Automation (1973)">
   <img src="diplomas2/P1_15_diplom_vtuza_1973.JPG" alt="Master’s in Hydraulic Systems and Automation (1973)" style="width: 100px; height: 70px;">
 </a>
-
 <a href="diplomas2/P1_19_diplom_mark_1986.JPG" data-lightbox="diplomas2" data-title="Diploma of the University of Marxism–Leninism (1986)">
   <img src="diplomas2/P1_19_diplom_mark_1986.JPG" alt="Diploma of the University of Marxism–Leninism (1986)" style="width: 100px; height: 70px;">
 </a>
-
 <a href="diplomas2/P1_16_diplom_kandidata_1991.JPG" data-lightbox="diplomas2" data-title="PhD in Technical Science (1991)">
   <img src="diplomas2/P1_16_diplom_kandidata_1991.JPG" alt="PhD in Technical Science (1991)" style="width: 100px; height: 45px;">
 </a>
-
 <a href="diplomas2/P1_18_diplom_docent_2005.jpg" data-lightbox="diplomas2" data-title="Associate Professor Certificate (2005)">
   <img src="diplomas2/P1_18_diplom_docent_2005.jpg" alt="Associate Professor Certificate (2005)" style="width: 100px; height: 45px;">
 </a>
-
 <a href="diplomas2/P1_01_diplom_dtn_2000.jpg" data-lightbox="diplomas2" data-title="Doctor of Technical Sciences (Post-PhD, 2000)">
 <img src="diplomas2/P1_01_diplom_dtn_2000.jpg" alt="Doctor of Technical Sciences (Post-PhD, 2000)" style="width: 100px; height: 45px;">
 </a>
-
 <a href="diplomas2/P1_02_diplom_prof_rae_2012.jpg" data-lightbox="diplomas2" data-title="Professor in Technical Sciences (2012)">
 <img src="diplomas2/P1_02_diplom_prof_rae_2012.jpg" alt="Professor in Technical Sciences (2012)" style="width: 100px; height: 45px;">
 </a>
-
 <a href="diplomas2/P1_04_diplom_chlenkora_rae_2011.jpg" data-lightbox="diplomas2" data-title="Corresponding Member of the Russian Academy of Natural History (2011)">
 <img src="diplomas2/P1_04_diplom_chlenkora_rae_2011.jpg" alt="Corresponding Member of the Russian Academy of Natural History (2011)" style="width: 100px; height: 45px;">
 </a>
-
 <a href="diplomas2/P1_05_diplom_akademika_rae_2016.JPG" data-lightbox="diplomas2" data-title="Academician of the Russian Academy of Natural History (2016)">
 <img src="diplomas2/P1_05_diplom_akademika_rae_2016.JPG" alt="Academician of the Russian Academy of Natural History (2016)" style="width: 100px; height: 45px;">
 </a>
-
 <a href="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.JPG" data-lightbox="diplomas2" data-title="Corresponding Member of the International Academy of Sciences of Higher Education (2000)">
 <img src="diplomas2/P1_03_diplom_chlenkora_man_vsh_2000.JPG" alt="Corresponding Member of the International Academy of Sciences of Higher Education (2000)" style="width: 100px; height: 45px;">
 </a>
-
 <a href="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" data-lightbox="diplomas2" data-title="Certificate of Full Member of the International League of Intellectuals (2021)">
 <img src="diplomas2/P1_11_sertifikat_ligi_intellektualov_2021.jpg" alt="Certificate of Full Member of the International League of Intellectuals (2021)" style="width: 100px; height: 90px;">
 </a>
-
 <a href="diplomas2/P1_06_diplom_zasluzh_nauki_2011.jpg" data-lightbox="diplomas2" data-title="Honored Worker of Science and Education (2011)">
 <img src="diplomas2/P1_06_diplom_zasluzh_nauki_2011.jpg" alt="Honored Worker of Science and Education (2011)" style="width: 100px; height: 90px;">
 </a>
-
 <a href="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" data-lightbox="diplomas2" data-title="Diploma “Golden Chair of Russia” (2011)">
 <img src="diplomas2/P1_07_diplom_zolotaya_kafedra_rossii_2011.jpg" alt="Diploma “Golden Chair of Russia” (2011)" style="width: 100px; height: 90px;">
 </a>
-
 <a href="diplomas2/P1_17_diplom_adama_2017.jpg" data-lightbox="diplomas2" data-title="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”">
 <img src="diplomas2/P1_17_diplom_adama_2017.jpg" alt="Certificate for the Medal “European Scientific and Industrial Consortium – Adam Smith”" style="width: 100px; height: 90px;">
 </a>
-
 <a href="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" data-lightbox="diplomas2" data-title="World Science">
 <img src="diplomas2/P1_12_diplom_mir_econ_nauki_2016.jpg" alt="World Science" style="width: 100px; height: 90px;">
 </a>
-
 <a href="diplomas2/P1_26_diplom_UAE_2016.jpg" data-lightbox="diplomas" data-title="For active research activities and significant contribution to the development of modern science">
 <img src="diplomas2/P1_26_diplom_UAE_2016.jpg" alt="For active research activities and significant contribution to the development of modern science" style="width: 100px; height: 90px;">
 </a>
-
-
 <a href="diplomas2/P1_13_sertifikat_souza_2022.JPG" data-lightbox="diplomas2" data-title="International Union of Writes and Poets">
 <img src="diplomas2/P1_13_sertifikat_souza_2022.JPG" alt="International Union of Writes and Poets" style="width: 100px; height: 90px;">
 </a>
-
 <a href="diplomas2/P1_24_diplom_writer_2025.jpg" data-lightbox="diplomas2" data-title="International Writer's Passport">
 <img src="diplomas2/P1_24_diplom_writer_2025.jpg" alt="International Writer's Passport" style="width: 100px; height: 35px;">
 </a>
@@ -266,7 +243,6 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 <a href="diplomas2/P1_24_diplom_school_2025.jpg" data-lightbox="diplomas2" data-title="Certificate of the Free Economic Society of Russia">
 <img src="diplomas2/P1_24_diplom_school_2025.jpg" alt="Certificate of the Free Economic Society of Russiaи" style="width: 100px; height: 35px;">
 </a>
-
 <a href="diplomas2/P1_26_diplom_zavkafedroy_2025.jpg" data-lightbox="diplomas" data-title="Office door nameplate of the Head of Department at PGUPS">
 <img src="diplomas2/P1_26_diplom_zavkafedroy_2025.jpg" alt="Office door nameplate of the Head of Department at PGUPS" style="width: 100px; height: 70px;">
 </a>
@@ -699,28 +675,7 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 My profile in the ORCID researcher identification system: https://orcid.org/0009-0009-7002-217X
 
 
-<h2>10. 📝 Articles on English Language Theory</h2>
-
-📌 *Hint:* The book contents are presented in PDF files.To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
-
-<div class="fictione">
-<!-- Пример первых 2 статьи -->
-<a href="theory/P7_01_book_english1_2016.pdf" data-lightbox="theory" data-title="Теория Английского Языка (2016)">
-<img src="theory/P7_01_book_english1_2016.pdf" alt="Теория Английского Языка (2016)" width="100">
-</a>
-<a href="theory/P7_02_book_english2_2018.pdf" data-lightbox="theory" data-title="Theory of the English Language (2018)">
-<img src="theory/P7_02_book_english2_2018.pdf" alt="Theory of the English Language (2018)" width="100">
-</a>
-
-</div>
-
-</body>
-</html>
-
-
-
-
-<h2>11. 📰 Articles from Journals and Conferences</h2>
+<h2>10. 📰 Articles from Journals and Conferences</h2>
 
 📌 *Hint:* The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
@@ -805,7 +760,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>12. 🎓 Certificates of Conference Presentations</h2>
+<h2>11. 🎓 Certificates of Conference Presentations</h2>
 <h4>Only 10 out of 493 certificates available to the author are presented here.</h4>
 
 <div class="serpapers">
@@ -850,7 +805,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>13. ✉️ Letters from Monarchs and Political Figures</h2>
+<h2>12. ✉️ Letters from Monarchs and Political Figures</h2>
 
 <div class="kastroe">
   <a href="kastroe/P12_03_book_kastro_2017.JPG" data-lightbox="kastroe" data-title="Official correspondence from Canadian authorities (2011)">
@@ -889,7 +844,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>14. ✉️ Postcards from Fidel Castro</h2>
+<h2>13. ✉️ Postcards from Fidel Castro</h2>
 
 <div class="gallery">
   <a href="kastro/P12_01_book_kastro_2017.jpg" data-lightbox="kastro" data-title="Postcard from Fidel Castro (2012)">
@@ -907,7 +862,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>15. 📦 Books Donated to Foreign Libraries</h2>
+<h2>14. 📦 Books Donated to Foreign Libraries</h2>
 <div class="biblee">
 
 <!-- Пример первых 5 копии -->
@@ -931,7 +886,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>16. 📦 Books Donated to Russian Libraries</h2>
+<h2>15. 📦 Books Donated to Russian Libraries</h2>
 <div class="biblee">
   
 <a href="biblee/P13_06_book_bibl_2012.jpg" data-lightbox="biblee" data-title="Central City Public Library named after V.V. Mayakovsky, St. Petersburg">
@@ -972,7 +927,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
- <h2>17. 🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </h2>
+ <h2>16. 🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </h2>
 
 <div class="presente">
 
@@ -1005,7 +960,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>18. 🏆 Letters from Nobel Laureates in Economics</h2>
+<h2>17. 🏆 Letters from Nobel Laureates in Economics</h2>
 <div class="nobele">
 
 <!-- Пример первых 4 копии -->
@@ -1030,7 +985,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>19. 📜 Certificate of Advanced Training</h2>
+<h2>18. 📜 Certificate of Advanced Training</h2>
 
 <div class="kvalife">
 
@@ -1062,7 +1017,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 </html>
 
 
-<h2>20. 🌱 Patent</h2>
+<h2>19. 🌱 Patent</h2>
   
 <div class="patante">
   <a href="patente/P19_01_book_patent_2023.jpg" data-lightbox="patente" data-title="Vibrodynamic Head (1994)">
@@ -1090,7 +1045,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 
-<h2>22. 🎓👥 Teaching at Universities, Technical Schools and Colleges</h2>
+<h2>21. 🎓👥 Teaching at Universities, Technical Schools and Colleges</h2>
 <div class="univer">
   
 My Universities — where I had the honour to serve as a professor both in my primary position and as a part-time faculty member, and where I was fortunate to find friends for life
@@ -1111,7 +1066,7 @@ Technical and Vocational Colleges — Sites of My Teaching Career
 
 
 
-<h2>23.  ✈️🌍 Travelling</h2>
+<h2>22.  ✈️🌍 Travelling</h2>
 Abroad 
 
 📌 *Hint:* There are 14 pages in this file, so don’t forget to click the MORE PAGES button.
@@ -1130,7 +1085,7 @@ Abroad
 
   
 
-<h2>24. 🎓👥 Studies at a polytechnic university, 1967–1973 </h2>
+<h2>23. 🎓👥 Studies at a polytechnic university, 1967–1973 </h2>
  <h4>My Univirsity Classmates (1967-1973)<h4>
 
 <h4>To view all provided files in PDF format, click the small icon below and scroll to the end of the loaded page. If the book content is lengthy, click the "MORE PAGES" button at the bottom to read everything.</h4>
@@ -1157,7 +1112,7 @@ Military training camp, summer 1973
 </body>
 </html>
 
-<h2>25. 🌳 Father's family tree</h2>
+<h2>24. 🌳 Father's family tree</h2>
 <h4>To view the entire father's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <divc lass="treee">
@@ -1171,7 +1126,7 @@ Military training camp, summer 1973
 
 
 
-<h2>26. 🌿 Mother's family tree</h2>
+<h2>25. 🌿 Mother's family tree</h2>
 <h4>To view the entire mother's tree, click on the small icon below and scroll to the end of the downloaded page.</h4>
 
 <div class="treee">
