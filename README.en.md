@@ -676,10 +676,9 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 <h2>10. 📰 This section presents selected articles published in international journals and conference proceedings, as well as in Russian academic publications. </h2>
-
 📌 *Hint:* The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
-* The abbreviation (ENG) indicates that the article is written in English. * 
+*The abbreviation (ENG) indicates that the article is written in English.* 
 <div class=papers"">
 AUSTRIA
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
@@ -752,6 +751,20 @@ AUSTRIA
 <a href="papers/P1_15_book_9BULG-3D_ENG.pdf" data-lightbox="papers" data-title="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
 <img src="papers/P1_15_book_9BULG-3D_ENG.pdf" alt="How negative values of variables effect X5 calculations and the plotting of 3D graphs Vel (ENG) (Bulgaria, 2024)">
 </a>
+<br>DENMARK
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-1.pdf" alt="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)" width="100">
+</a>
+<a href="papers/P1_10_book_DAN-2.pdf" data-lightbox="papers" data-title="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-2.pdf" alt="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)" width="100">
+</a>
+<a href="papers/P1_10_book_DAN-3.pdf" data-lightbox="papers" data-title="Analysis of the 3D Region of Variable X4su (Denmark, 2018)">
+<img src="papers/P1_10_book_DAN-3.pdf" alt=" Analysis of the 3D Region of Variable X4su (Denmark, 2018)" width="100">
+</a>
+<a href="papers/P1_10_book_DAN-4.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)">
+<img src="papers/P1_10_book_DAN-4.pdf" alt="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)" width="100">
+</a>
 <br>HUNGARY
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_10_book_VENG-1ENG.pdf" data-lightbox="papers" data-title="Theory of the financial crises. Part III (ENG) (Hungary, 2017)">
@@ -769,20 +782,6 @@ AUSTRIA
 <a href="papers/P1_11_book_GER-1ENG.pdf" data-lightbox="papers" data-title="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)">
 <img src="papers/P1_11_book_GER-1ENG.pdf" alt="Plotting 3D graphs of the variable X6 affacting the economic shell of Veu (ENG) (Germany, 2022)" width="100">
 </a> 
-<br>DENMARK
-<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P1_10_book_DAN-1.pdf" data-lightbox="papers" data-title="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)">
-<img src="papers/P1_10_book_DAN-1.pdf" alt="Using 3D Graphs of Variable X₁ to Analyze Parameter Ssl (Denmark, 2019)" width="100">
-</a>
-<a href="papers/P1_10_book_DAN-2.pdf" data-lightbox="papers" data-title="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)">
-<img src="papers/P1_10_book_DAN-2.pdf" alt="Plotting 3D Graphs for Analysis of X₃ and Ssl (Denmark, 2019)" width="100">
-</a>
-<a href="papers/P1_10_book_DAN-3.pdf" data-lightbox="papers" data-title="Analysis of the 3D Region of Variable X4su (Denmark, 2018)">
-<img src="papers/P1_10_book_DAN-3.pdf" alt=" Analysis of the 3D Region of Variable X4su (Denmark, 2018)" width="100">
-</a>
-<a href="papers/P1_10_book_DAN-4.pdf" data-lightbox="papers" data-title="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)">
-<img src="papers/P1_10_book_DAN-4.pdf" alt="Calculation of X1eu Values and Plotting 3D Graphs for Veu (Denmark, 2019)" width="100">
-</a>
 <br>INDIA
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_13_book_IND-1ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (ENG) (India, 2023)">
@@ -890,6 +889,7 @@ AUSTRIA
 
 </body>
 </html>
+
 
 
 
