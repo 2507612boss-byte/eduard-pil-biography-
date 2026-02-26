@@ -677,6 +677,7 @@ My profile in the ORCID researcher identification system: https://orcid.org/0009
 
 
 <h2>10. 📰 This section presents selected articles published in international journals and conference proceedings, as well as in Russian academic publications. </h2>
+
 📌 *Hint:* The articles are provided in PDF format. To access an article, click the small icon labeled with its title below. For extended articles, click the MORE PAGES button at the bottom to view the complete text.
 
 *The abbreviation (ENG) indicates that the article is written in English.* 
