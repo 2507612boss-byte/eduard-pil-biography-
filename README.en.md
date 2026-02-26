@@ -100,14 +100,14 @@ Eduard A. Pil is the author of **over 1,660 publications**, including **42 books
 
 
 ### Fundamental Monograph Cycles
-**1. Cycle *"Theory of Economic Crisess"* (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs.
+**1. Cycle *"Theory of Economic Crisess"* (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs, salons, and exhibitions.
 
 **2. Works in the Field of Mechanical and Instrument Engineering**
 *   Pil E.A. *Technological Support of CAD/CAM for Housing Parts.* — St. Petersburg: ITMO, 1993. — 195 p.
 *   Pil E.A. *Theory of Complexity of Machining Housing Parts and Its Application in Machine and Instrument Engineering.* — St. Petersburg: REMO &Co., 2003. — 211 p.
 
 **3. Works on Applied Linguistics**
-Developed a formalized theory of the English language using graph theory.
+Developed a formalized theory of the English language based on structural analysis of linguistic relationships.
 *   Pil E.A. *English Letters and Calling.* — St. Petersburg: REMO & Co., 2000.
 *   Pil E.A., Pil M.E. *Idioms, Slang, Antonyms and Synonyms In One Book.* —  St. Petersburg: РЕМО & Co., 2001.
 *   Pil E.A. *Words for Everyday Topics.* —  St. Petersburg: РЕМО & Co., 2010.  
@@ -128,8 +128,8 @@ E.A. Pil's monographs were presented at the world's largest book exhibitions, fa
 
 ## Records and Unique Achievements
 *   In 2016, he was officially entered into the Russian Book of Records in two categories:
-    *   *Publication of 87 scientific articles in one calendar year without co-authors.*
-    *  *Publication of 13 scientific articles in a single collection without co-authors.*
+    * *Publication of 87 scientific articles in one calendar year without co-authors.*
+    * *Publication of 13 scientific articles in a single collection without co-authors.*
 
 Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college and university with a degree in computer networks, as well as from the Russian Presidential Academy of National Economy and Public Administration (RANEPA) with a degree in law. In 2019, his grandson, Stepan, was born, who demonstrated a talent for drawing.
     <script src="script.js"></script>
