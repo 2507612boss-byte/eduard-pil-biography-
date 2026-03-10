@@ -10,7 +10,7 @@
 # Eduard Anatolyevich Pil
 
 
-**Eduard Anatolyevich Pil** (born 1950) — Soviet and Russian encyclopedic scientist, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural Sciences (RANS).  
+**Eduard Anatolyevich Pil** (born 1950) — Soviet and Russian encyclopedic scientist, Doctor of Technical Sciences, Professor, and Academician of the Russian Academy of Natural Sciences (RAE).  
 Author of **42 books** (including 17 economic, 10 medical, 8 English-language, 4 technical, 2 work of fiction and 1 on automobiles), **27 textbooks**, and more than **1,660 scientific works** in mechanical engineering, economics, linguistics, medicine, and fiction.  
 Holder of numerous Russian and international awards, Honored Scientist and Educator of RAE (2011), and **Russian Book of Records laureate (2016)** for scientific productivity.  
 His monographs have received top honors at major international book exhibitions and fairs.
