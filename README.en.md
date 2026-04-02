@@ -800,6 +800,9 @@ AUSTRIA
 <a href="papers/P1_4_book_ANGL-7ENG.pdf" data-lightbox="papers" data-title="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)">
 <img src="papers/P1_4_book_ANGL-7ENG.pdf" alt="How negotive values of variables effect X4 calculations and the plotting of 3D graphs Vel (ENG) (England, 2024)" width="100">
 </a>
+<a href="papers/P1_4_book_ANGL-1ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vel graphs with negative values of variables with calculation of X4 (ENG) (England, 2024)">
+<img src="papers/P1_4_book_ANGL-1ENG.pdf" alt="Analysis of 3D Vel graphs with negative values of variables with calculation of X4 (ENG) (England, 2024)" width="100">
+</a
 <a href="papers/P10_1_RUS1_CNC-ENG.pdf" data-lightbox="papers" data-title="Optimal tool setting for a machining centre (ENG) (England, 1991)">
 <img src="papers/P10_1_RUS1_CNC-ENG.pdf" alt=" Optimal tool setting for a machining centre (ENG) (England, 1991) " width="100">
 </a>
