@@ -720,8 +720,8 @@
 <a href="papers/P1_4_book_ANGL-10ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vsl graphs with negative values of variables (ENG) (England, 2023)">
 <img src="papers/P1_4_book_ANGL-10ENG.pdf" alt="Analysis of 3D Vsl graphs with negative values of variables (ENG) (England, 2023)" width="100">
 </a
-<a href="papers/P1_4_book_ANGL-11ENG.pdf" data-lightbox="papers" data-title="Calculation Vsl when con-structing 3D graphs with negative values of variables (ENG) (England, 2023)">
-<img src="papers/P1_4_book_ANGL-11ENG.pdf" alt="Calculation Vsl when con-structing 3D graphs with negative values of variables (ENG) (England, 2023)" width="100">
+<a href="papers/P1_4_book_ANGL-11ENG.pdf" data-lightbox="papers" data-title="Calculation Vsl when constructing 3D graphs with negative values of variables (ENG) (England, 2023)">
+<img src="papers/P1_4_book_ANGL-11ENG.pdf" alt="Calculation Vsl when constructing 3D graphs with negative values of variables (ENG) (England, 2023)" width="100">
 </a
 <a href="papers/P1_4_book_ANGL-12ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables on the construction of Vsl 3D graphs (ENG) (England, 2023)">
 <img src="papers/P1_4_book_ANGL-12ENG.pdf" alt="The influence of negative values of variables on the construction of Vsl 3D graphs (ENG) (England, 2023)" width="100">
