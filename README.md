@@ -891,9 +891,6 @@
 <a href="papers/P1_14_book_PRAGA-1ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-1ENG.pdf" alt="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)" width="100">
 </a>  
-<a href="papers/P1_14_book_PRAGA-2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negative values of variables with calculation of X6 (ENG) (Czech, 2023)">
-<img src="papers/P1_14_book_PRAGA-2ENG.pdf" alt="Analysis of 3D Veu graphs with negative values of variables with calculation of X6(ENG) (Czech, 2023)" width="100">
-</a>  
 <a href="papers/P1_14_book_PRAGA-2.pdf" data-lightbox="papers" data-title="Анализ населения США (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-2.pdf" alt="Анализ населения США (Czech, 2024)" width="100">
 </a>  
