@@ -714,6 +714,22 @@
 <a href="papers/P1_4_book_ANGL-5ENG.pdf" data-lightbox="papers" data-title="The influence of the X4 variable on 3D graphics for Veu (ENG) (England, 2022)">
 <img src="papers/P1_4_book_ANGL-5ENG.pdf" alt="The influence of the X4 variable on 3D graphics for Veu (ENG) (England, 2022)" width="100">
 </a
+
+
+  
+<a href="papers/P1_4_book_ANGL-9ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables on the construction of 3D Vsl graphs (ENG) (England, 2023)">
+<img src="papers/P1_4_book_ANGL-9ENG.pdf" alt="The influence of negative values of variables on the construction of 3D Vsl graphs (ENG) (England, 2023)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-10ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vsl graphs with negative values of variables (ENG) (England, 2023)">
+<img src="papers/P1_4_book_ANGL-10ENG.pdf" alt="Analysis of 3D Vsl graphs with negative values of variables (ENG) (England, 2023)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-11ENG.pdf" data-lightbox="papers" data-title="Calculation Vsl when con-structing 3D graphs with negative values of variables (ENG) (England, 2023)">
+<img src="papers/P1_4_book_ANGL-11ENG.pdf" alt="Calculation Vsl when con-structing 3D graphs with negative values of variables (ENG) (England, 2023)" width="100">
+</a
+<a href="papers/P1_4_book_ANGL-12ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables on the construction of Vsl 3D graphs (ENG) (England, 2023)">
+<img src="papers/P1_4_book_ANGL-12ENG.pdf" alt="The influence of negative values of variables on the construction of Vsl 3D graphs (ENG) (England, 2023)" width="100">
+</a
+  
 <a href="papers/P1_4_book_ANGL-6ENG.pdf" data-lightbox="papers" data-title="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (ENG) (England, 2024)">
 <img src="papers/P1_4_book_ANGL-6ENG.pdf" alt="The effect of the variable X4 on 3D graphs for Vel with negative values of variables (ENG) (England, 2024)" width="100">
 </a
@@ -723,10 +739,13 @@
 <a href="papers/P1_4_book_ANGL-1ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Vel graphs with negative values of variables with calculation of X4 (ENG) (England, 2024)">
 <img src="papers/P1_4_book_ANGL-1ENG.pdf" alt="Analysis of 3D Vel graphs with negative values of variables with calculation of X4 (ENG) (England, 2024)" width="100">
 </a
+
+
  
 <a href="papers/P10_1_ANG_CNC-ENG.pdf" data-lightbox="papers" data-title="Оптимальная инструментальная наладка (ENG) (England, 1991)">
 <img src="papers/P10_1_ANG_CNC-ENG.pdf" alt="Оптимальная инструментальная наладка (ENG) (England, 1991)" width="100">
 </a>
+
 <br>БЕЛЬГИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_12_book_BRUS-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ2sul (Belgium, 2024)">
@@ -877,9 +896,19 @@
 </a>  
 <br>ЧЕХИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+<a href="papers/P1_14_book_PRAGA-2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negative values of variables with calculation of X6 (ENG) (Czech, 2023)">
+<img src="papers/P1_14_book_PRAGA-2ENG.pdf" alt="Analysis of 3D Veu graphs with negative values of variables with calculation of X6(ENG) (Czech, 2023)" width="100">
+</a>  
 <a href="papers/P1_14_book_PRAGA-1ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-1ENG.pdf" alt="Analysis of 3D Veu graphs with negatives values of variables with calculation of X6 (ENG) (Czech, 2024)" width="100">
 </a>  
+
+<a href="papers/P1_14_book_PRAGA-2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D Veu graphs with negative values of variables with calculation of X6 (ENG) (Czech, 2023)">
+<img src="papers/P1_14_book_PRAGA-2ENG.pdf" alt="Analysis of 3D Veu graphs with negative values of variables with calculation of X6(ENG) (Czech, 2023)" width="100">
+</a>  
+
+
+  
 <a href="papers/P1_14_book_PRAGA-2.pdf" data-lightbox="papers" data-title="Анализ населения США (Czech, 2024)">
 <img src="papers/P1_14_book_PRAGA-2.pdf" alt="Анализ населения США (Czech, 2024)" width="100">
 </a>  
