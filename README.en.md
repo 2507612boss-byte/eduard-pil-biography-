@@ -38,7 +38,7 @@ Throughout his teaching career, Eduard Anatolyevich Pil has worked at 12 univers
 
 ## 🏅 Global Recognition: Awards and Honors
 
-### Achievements from the Russian Academy of Natural Sciences (RANS)
+### Achievements from the Russian Academy of Natural Sciences (RANH)
 Eduard Anatolyevich was awarded various diplomas of the RANH for his significant contribution to the development of theories such as:
 
 **Theory:**
