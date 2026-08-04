@@ -1186,11 +1186,10 @@ AUSTRIA
 </body>
 </html>
 
-<h2>19. 📜 Intellectual Property</h2>
+<h2>19. 💼 Intellectual Property</h2>
 
 🌱 Patent</h2>
-  
-<div class="patante">
+  <div class="patante">
   <a href="patente/P19_01_book_patent_2023.jpg" data-lightbox="patente" data-title="Vibrodynamic Head (1994)">
     <img src="patente/P19_01_book_patent_2023.jpg" alt="Vibrodynamic Head (1994)" style="width: 100px; height: 110px;">
   </a>
