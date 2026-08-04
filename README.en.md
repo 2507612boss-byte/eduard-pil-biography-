@@ -1186,7 +1186,7 @@ AUSTRIA
 </body>
 </html>
 
-<h2>19. 🌱 Intellectual Property</h2>
+<h2>19. 📜 Intellectual Property</h2>
 
 🌱 Patent</h2>
   
