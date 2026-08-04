@@ -1163,10 +1163,18 @@
 
 
 
-<h2>19. 🌱 Патент</h2>
+<h2>19. 💼Интеллектуальная собственность</h2>
+  
+  🌱 Патент</h2>
 <div class="patant">
   <a href="patent/P19_01_book_patent_2023.jpg" data-lightbox="patent" data-title="Патент (1994)">
     <img src="patent/P19_01_book_patent_2023.jpg" alt="Патент (1994)" style="width: 100px; height: 110px;">
+  </a>
+
+🏷️Товарный Знак</h2>
+<div class="znak-ru">
+  <a href="patent/P20_znak_RU_2026.jpg" data-lightbox="patent" data-title="Товарный Знак (2026)">
+    <img src="patent/P20_znak_RU_2026.jpg" alt="Товарный Знак (2026)" style="width: 100px; height: 110px;">
   </a>
 
 </div>
