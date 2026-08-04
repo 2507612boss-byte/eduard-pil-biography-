@@ -154,7 +154,9 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 <li>🎁 Books Donated to Eduard Anatolyevich by Renowned Scientists </li>
 <li>🏆 Letters from Nobel Laureates in Economics</li>
 <li>📜 Certificates of Advanced Training</li>
-<li>🌱 Patent</li>
+<li>💼 Intellectual Property<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 Patent<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🏷️ Trademark</li>
 <li>🗣️ Student Testimonials</li>
 <li>🎓👥 Teaching at Universities, Technical Schools and Colleges</li>
 <li>✈️🌍 Travelling</li>
