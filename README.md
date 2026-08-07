@@ -810,7 +810,7 @@
 <a href="papers/P1_13_book_IND-1ENG.pdf" data-lightbox="papers" data-title="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (ENG) (India, 2023)">
 <img src="papers/P1_13_book_IND-1ENG.pdf" alt="The influence of negative values of variables in the calculation Vsl to find a way out ot the economic crisis (ENG) (India, 2023) width="100">
 </a>
-<br>КИТАЕЙ
+<br>КИТАЙ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P10_012_book_CHINA_1ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises (ENG) (China, 2019)">
 <img src="papers/P10_012_book_CHINA_1ENG.pdf" alt="Theory of the economic crises (ENG) (China, 2019)" width="100">
