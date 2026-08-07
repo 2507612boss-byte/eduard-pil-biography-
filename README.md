@@ -868,15 +868,15 @@
 </a>
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-<a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ3Sul (Finland, 2018)">
-<img src="papers/P1_1_book_FIN-1.pdf" alt="Область существования ΔХ3Sul (Finland, 2018)" width="100">
-</a>  
 <a href="papers/P1_1_book_FIN-2ENG.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (ENG) (Finland, 2017)">
 <img src="papers/P1_1_book_FIN-2ENG.pdf" alt="Rate of currency exchange impact onto country GDP (ENG) (Finland, 2017)" width="100">
 </a>
 <a href="papers/P1_1_book_FIN-3ENG.pdf" data-lightbox="papers" data-title="Theory of the economic crises. Part II (ENG) (Finland, 2017)">
 <img src="papers/P1_1_book_FIN-3ENG.pdf" alt="Theory of the economic crises. Part II (ENG) (Finland, 2017)" width="100">
 </a>
+<a href="papers/P1_1_book_FIN-1.pdf" data-lightbox="papers" data-title="Область существования ΔХ3Sul (Finland, 2018)">
+<img src="papers/P1_1_book_FIN-1.pdf" alt="Область существования ΔХ3Sul (Finland, 2018)" width="100">
+</a>  
 <a href="papers/P1_1_book_FIN-4.pdf" ata-lightbox="papers" data-title="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)">  
 <img src="papers/P1_1_book_FIN-4.pdf" alt="Построение 3D-графиков для Veu используя значения Х2 (Finland, 2019)" width="100">
 </a>
