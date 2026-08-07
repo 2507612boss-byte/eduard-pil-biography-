@@ -831,7 +831,7 @@
 <a href="papers/P1_2_book_NOR-3.pdf" data-lightbox="papers" data-title="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)">
 <img src="papers/P1_2_book_NOR-3.pdf" alt="Пути выхода из экономического кризиса на основе анализа построенных 3D-графиков Veu используя переменную X5eu (Norway, 2021)" width="100">
 </a>
-<br>ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
+<br>ОБЪЕДИНЁННЫЕ АРАБСКИЕ ЭМИРАТЫ (ОАЭ)
 <a href="papers/P10_016_book_UAE-1_2015.pdf" data-lightbox="papers" data-title="Financial, material and information flows of the company (ENG) (UAE, 2015)">
 <img src="papers/P10_016_book_UAE-1_2015.pdf" alt="Financial, material and information flows of the company (ENG) (UAE, 2015)">
 </a><br>
