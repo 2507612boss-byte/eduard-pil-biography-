@@ -1108,7 +1108,7 @@
 
 
 
-<h2>17. 18.	🏆 Письма от нобелевских лауреатов по экономике</h2>
+<h2>17.🏆 Письма от нобелевских лауреатов по экономике</h2>
 <div class="nobel">
 
 <a href="nobel/P14_01_book_nobel_2017.jpg" data-lightbox="nobel" data-title="Письмо от Jean Tirole (2017)">
