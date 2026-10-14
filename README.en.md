@@ -96,7 +96,7 @@ He received personal postcards from Fidel Castro (2012, 2014) and official lette
 
 ## 📚 Scientific Legacy
 
-Eduard A. Pil is the author of **over 1,660 publications**, including **42 books** and **27 textbooks**, with **1,474 works published independently** — a record of exceptional productivity in modern science. Of the 42 books written by the author, only 4 were published in collaboration.
+Eduard A. Pil is the author of **about 1,670 publications**, including **42 books** and **27 textbooks**, with **1,481 works published independently** — a record of exceptional productivity in modern science. Of the 42 books written by the author, only 4 were published in collaboration.
 
 
 ### Fundamental Monograph Cycles
