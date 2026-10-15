@@ -159,8 +159,9 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 &nbsp;&nbsp;&nbsp;&nbsp;🏷️ Trademark</li>
 <li>🗣️ Student Testimonials</li>
 <li>🎓👥 Teaching at Universities, Technical Schools and Colleges</li>
-<li>✈️🌍 Travelling</li>
 <li>🎓👥 Studies at a polytechnic university, 1967–1973</li> 
+<li>✈️🌍 Travelling</li>
+<li>🛡️ Family Crests</li>
 <li>🌳 Father’s Genealogical Tree</li>
 <li>🌿 Mother’s Genealogical Tree</li>
 </ol>
