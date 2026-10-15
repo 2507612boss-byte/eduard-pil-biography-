@@ -1286,8 +1286,7 @@ Abroad
 
 
 
-<h2>24. 🛡️🌳 FAMILY CRESTS AND FAMILY TREES </h2>
-<h2> 🛡️ Family Crests </h2>
+<h2>24. 🛡️ Family Crests </h2>
 
 <div class="GERB">
 <a href="GERB/P18_02_book_tree_2026.pdf" data-lightbox="tree" data-title="Family Crests">
