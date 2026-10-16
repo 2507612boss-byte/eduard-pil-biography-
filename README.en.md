@@ -44,7 +44,7 @@ Eduard Anatolyevich was awarded various diplomas of the RANH for his significant
 **Theory:**
 
 * the theory of economic crises;
-* the theory of complexity in machining complex body parts on Machining Center (MC). There are no analogous works on this topic in the world.
+* the theory of complexity in machining complex body parts on Machining Center (MC). There are no analogous works on these topics in the world.
 
 In addition, he developed the following mathematical models:
 
