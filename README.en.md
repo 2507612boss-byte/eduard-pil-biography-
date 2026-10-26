@@ -17,6 +17,17 @@ His monographs have received top honors at major international book exhibitions 
 
 ---
 
+## 🏅 Global Recognition: Awards and Honors
+### Highest Academic Titles and State Awards
+*   Doctor of Technical Sciences (1999)
+*   Professor (2012)
+*   Corresponding Member of the International Academy of Sciences of Higher Education (2000)
+*   Corresponding Member of the Russian Academy of Natural History (RANH, 2011)
+*   Honored Scientist and Educator of RANH (2011)
+*   Full Member (Academician) of the Russian Academy of Natural History (RANH, 2016)
+
+---
+
 ## 🧭 Biography: The Path of an Encyclopedic Scholar
 
 Eduard Anatolyevich Pil was born in 1950 into a family of railway workers. His father, Anatoly Konstantinovich Pil, was a train engineer, as were his grandfather, Konstantin Pavlovich Pil, and his great-grandfather, Pavel Karlovich Pil, who all worked on the October Railway (until 1923 known as the Nikolaev Railway). His mother, Vera Fedorovna Grigorieva, worked as the chief accountant at the clinic of the Leningrad–Warsaw branch of the October Railway.
