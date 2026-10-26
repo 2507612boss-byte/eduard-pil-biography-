@@ -623,8 +623,8 @@ Contents and References of the Book on the Theory of Casing Part Machining Compl
 
 <div class="fictione">
 <!-- Пример первых 2 книг -->
-<a href="fictione/P6_01_book_stepan_2022.jpg" data-lightbox="fictione" data-title="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)">
-<img src="fictione/P6_01_book_stepan_2022.jpg" alt="One Day in the Life of a Little Peterburg Crucian, Stepashka (Children’s Literature)" style="width: 100px; height: 125px;">
+<a href="fictione/P6_01_book_stepan_2022.jpg" data-lightbox="fictione" data-title="One Day in the Life of a Little Petersburg Crucian Stepashka (Children’s Literature)">
+<img src="fictione/P6_01_book_stepan_2022.jpg" alt="One Day in the Life of a Little Petersburg Crucian Stepashka (Children’s Literature)" style="width: 100px; height: 125px;">
 </a>
 <a href="fictione/P6_02_book_rus_2025.jpg" data-lightbox="fictione" data-title="The Life of Holy Rus (Historical/Spiritual Fiction)">
 <img src="fictione/P6_02_book_rus_2025.jpg" alt="The Life of Holy Rus (Historical/Spiritual Fiction)" style="width: 100px; height: 125px;">
