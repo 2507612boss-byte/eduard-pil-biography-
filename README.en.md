@@ -360,8 +360,8 @@ Contents and References of the book "Theoretical and Statistical Trajectories of
 <a href="BookEcon/P4_22_book_theory_predict.pdf" data-lightbox="economy" data-title="Contents">
 <img src="BookEcon/P4_22_book_theory_predict.pdf" alt="Contents" width="100">
 </a>
-<a href="BookEcon/P4_23_book_theory_predict.pdf" data-lightbox="economy" data-title="Bibliography">
-<img src="BookEcon/P4_23_book_theory_predict.pdf" alt="Reference" width="100">
+<a href="BookEcon/P4_23_book_theory_predict.pdf" data-lightbox="economy" data-title="References">
+<img src="BookEcon/P4_23_book_theory_predict.pdf" alt="References" width="100">
 </a>
 
 
