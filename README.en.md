@@ -3,7 +3,7 @@
     <img src="eduard-pil-photo.jpg" alt="Portrait of Eduard Anatolievich Pil" width="400" style="border: 2px solid #ccc; border-radius: 8px;">
   </a>
   <br>
-  <em>Eduard Pil — encyclopedic scientist, Academician of the Russian Academy Natural History, Doctor of Technical Sciences, Professor</em>
+  <em>Eduard Pil — encyclopedic scientist, Academician of the Russian Academy of Natural History, Doctor of Technical Sciences, Professor</em>
 </div>
 
 
@@ -106,7 +106,7 @@ He received personal postcards from Fidel Castro (2012, 2014) and official lette
 
 ## 📚 Scientific Legacy
 
-Eduard A. Pil is the author of **about 1,670 publications**, including **42 books** and **27 textbooks**, with **1,481 works published independently** — a record of exceptional productivity in modern science. Of the 42 books written by the author, only 4 were published in collaboration.
+Eduard A. Pil is the author of **1,670 publications**, including **42 books** and **27 textbooks**, with **1,481 works published independently** — a record of exceptional productivity in modern science. Of the 42 books written by the author, only 4 were published in collaboration.
 
 
 ### Fundamental Monograph Cycles
@@ -126,7 +126,7 @@ Developed a formalized theory of the English language based on structural analys
 **4. Popular Science and Literary Works**
 *   Pil E.A. *"Your Health from A to Z (Health Encyclopedia)".* — St. Petersburg, 2010.
 *   Pil E.A. *"Longevity and Nutrition" (in 8 volumes).* — St. Petersburg, 2022.
-*   Pil E.A. *"One Day in the Life of a Little Peterburg Crucian, Stepashka".* — St. Petersburg, 2022.
+*   Pil E.A. *"One Day in the Life of a Little Peterburg Crucian Stepashka".* — St. Petersburg, 2022.
 *   Pil E.A. *"The Life of Holy Rus'".* — St. Petersburg: NITs ART, 2025.
 
 ## Worldwide Fame: Presentations on 5 Continents
