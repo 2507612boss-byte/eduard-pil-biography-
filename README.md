@@ -114,7 +114,7 @@
 Разработал формализованную теорию английского языка на основе структурного анализа лингвистических связей.
 *   Пиль Э.А. *English Letters and Calling.* — СПб.: РЕМО & Co., 2000.
 *   Пиль Э.А. Пиль М.Э. *Idioms, Slang, Antonyms and Synonyms In One Book.* — СПб.: РЕМО & Co., 2001.
-*   Пиль Э.А. *Words for Everyday Topics.* — СПб.: РЕМО & Co., 2010.
+*   Пиль Э.А. *Words for Everyday Topics.* — СПб.: РЕМЕ & Co., 2010.
 *   Pil E.A. Theory of the English Language // Open science 2.0. — USA, 2018.
 
 **4. Научно-популярные и художественные произведения**
