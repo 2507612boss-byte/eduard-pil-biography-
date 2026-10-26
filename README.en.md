@@ -113,8 +113,8 @@ Eduard A. Pil is the author of **about 1,670 publications**, including **42 book
 **1. Cycle *"Theory of Economic Crises"* (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs, salons, and exhibitions.
 
 **2. Works in the Field of Mechanical and Instrument Engineering**
-*   Pil E.A. *Technological Support of CAD/CAM for Housing Parts.* — St. Petersburg: ITMO, 1993. — 195 p.
-*   Pil E.A. *Theory of Complexity of Machining Housing Parts and Its Application in Machine and Instrument Engineering.* — St. Petersburg: REMO &Co., 2003. — 211 p.
+*   Pil E.A. *Technological Support of CAD/CAM for Casing Parts.* — St. Petersburg: ITMO, 1993. — 195 p.
+*   Pil E.A. *Theory of Complexity of Machining Casing Parts and Its Application in Machine and Instrument Engineering.* — St. Petersburg: REMO &Co., 2003. — 211 p.
 
 **3. Works on Applied Linguistics**
 Developed a formalized theory of the English language based on structural analysis of linguistic relationships.
