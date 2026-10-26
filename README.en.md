@@ -496,7 +496,7 @@ The Economist's Handbook
 
 <h2>Contents of Books on Medical</h2>
 
-📌 *Hint:* The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for readin
+📌 *Hint:* The book contents are presented in PDF files. To download, select and click on the small icon of the desired volume below, then scroll to the end for reading
 Contents of the book "Your Health from A to Z"
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="BookMed/P3_01_book_health_2010.pdf" data-lightbox="Medical" data-title="Your Health from A to Z (2010)">
