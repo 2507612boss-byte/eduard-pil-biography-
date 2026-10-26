@@ -20,10 +20,10 @@ His monographs have received top honors at major international book exhibitions 
 ## 🏅 Global Recognition: Awards and Honors
 ### Highest Academic Titles and State Awards
 *   Doctor of Technical Sciences (1999)
-*   Professor (2012)
 *   Corresponding Member of the International Academy of Sciences of Higher Education (2000)
 *   Corresponding Member of the Russian Academy of Natural History (RANH, 2011)
 *   Honored Scientist and Educator of RANH (2011)
+*   Professor (2012)
 *   Full Member (Academician) of the Russian Academy of Natural History (RANH, 2016)
 
 ---
