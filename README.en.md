@@ -23,7 +23,7 @@ His monographs have received top honors at major international book exhibitions 
 *   Corresponding Member of the International Academy of Sciences of Higher Education (2000)
 *   Corresponding Member of the Russian Academy of Natural History (RANH, 2011)
 *   Honored Scientist and Educator of RANH (2011)
-*   Professor (2012)
+*   Professor (RANH, 2012)
 *   Full Member (Academician) of the Russian Academy of Natural History (RANH, 2016)
 
 ---
@@ -146,7 +146,7 @@ Eduard Anatolyevich's son, Mikhail, was born in 1990. He graduated from college 
 
 📚 CONTENTS
 <ol style="display: flex; flex-wrap: wrap; gap: 10px; padding: 0; list-style-position: inside;">
-  <li>🏆 Gallery of Diplomas</li>
+<li>🏆 Gallery of Diplomas</li>
 <li>💰 Books on Economics</li>
 <li>🩺 Books on Medicine</li>
 <li>💻 Books on Technology</li>
