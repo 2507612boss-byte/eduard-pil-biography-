@@ -99,7 +99,7 @@ Eduard A. Pil is the author of **about 1,670 publications**, including **42 book
 
 
 ### Fundamental Monograph Cycles
-**1. Cycle *"Theory of Economic Crisess"* (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs, salons, and exhibitions.
+**1. Cycle *"Theory of Economic Crises"* (6 volumes, 3,268 pages). A fundamental work presenting a complete development of the author's mathematical model for forecasting and analyzing economic crises. The cycle was awarded 5 gold medals at leading international book fairs, salons, and exhibitions.
 
 **2. Works in the Field of Mechanical and Instrument Engineering**
 *   Pil E.A. *Technological Support of CAD/CAM for Housing Parts.* — St. Petersburg: ITMO, 1993. — 195 p.
@@ -115,7 +115,7 @@ Developed a formalized theory of the English language based on structural analys
 **4. Popular Science and Literary Works**
 *   Pil E.A. *"Your Health from A to Z (Health Encyclopedia)".* — St. Petersburg, 2010.
 *   Pil E.A. *"Longevity and Nutrition" (in 8 volumes).* — St. Petersburg, 2022.
-*   Pil E.A. *"One Day in the Life of a Little Peterburg Crucian, Stepashkap".* — St. Petersburg, 2022.
+*   Pil E.A. *"One Day in the Life of a Little Peterburg Crucian, Stepashka".* — St. Petersburg, 2022.
 *   Pil E.A. *"The Life of Holy Rus'".* — St. Petersburg: NITs ART, 2025.
 
 ## Worldwide Fame: Presentations on 5 Continents
