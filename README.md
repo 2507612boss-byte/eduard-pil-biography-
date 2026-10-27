@@ -1,8 +1,9 @@
 <div align="right">
   <sup>View this page in: </sup>
   <strong>Русский</strong> |
-  <a href="README.en.md">English</a>
+  <a href="https://github.com/2507612boss-byte/eduard-pil-biography-/blob/main/README.en.md" target="_blank">English</a>
 </div>
+
 
 <br>
 
