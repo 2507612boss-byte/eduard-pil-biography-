@@ -867,13 +867,15 @@
 <a href="papers/P10_1_RUS1_wayout.pdf" data-lightbox="papers" data-title="Экономический кризис и пути выхода из него (2016)">
 <img src="papers/P10_1_RUS1_wayout.pdf" alt="Экономический кризис и пути выхода из него (2016)" width="100">
 </a>
-
 <br>СТРАНЫ ПЕРСИДСКОГО ЗАЛИВА 2026
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="ZALIV/P1_016_PERS-1ENG.pdf" data-lightbox="papers" data-title="Overall analysis of a country’s economic situation (ENG) (Bulgary)">
 <img src="ZALIV/P1_016_PERS-1ENG.pdf" alt="Overall analysis of a country’s economic situation (ENG) (Bulgary)">
 </a><br>
-
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-2ENG.pdf" data-lightbox="papers" data-title="Demographic Analysis of the GCC Countries: Dynamics, Structure and Economic Implications (2000–2026) (ENG) (Приднепровский научный вестник)">
+<img src="ZALIV/P1_016_PERS-2ENG.pdf" alt="Demographic Analysis of the GCC Countries: Dynamics, Structure and Economic Implications (2000–2026) (ENG) (Приднепровский научный вестник)">
+</a><br>
 
 
 
