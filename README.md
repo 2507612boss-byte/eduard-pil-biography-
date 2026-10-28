@@ -902,7 +902,7 @@
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="ZALIV/P1_016_PERS-9ENG.pdf" data-lightbox="papers" data-title="The Dot-com Bubble and Its Consequences for the Gulf Countries (ENG) (Praha)">
 <img src="ZALIV/P1_016_PERS-9ENG.pdf" alt="The Dot-com Bubble and Its Consequences for the Gulf Countries (ENG) (Praha)">
-</a><br>
+</a>
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_1_book_FIN-2ENG.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (ENG) (Finland, 2017)">
