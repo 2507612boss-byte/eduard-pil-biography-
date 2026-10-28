@@ -867,6 +867,22 @@
 <a href="papers/P10_1_RUS1_wayout.pdf" data-lightbox="papers" data-title="Экономический кризис и пути выхода из него (2016)">
 <img src="papers/P10_1_RUS1_wayout.pdf" alt="Экономический кризис и пути выхода из него (2016)" width="100">
 </a>
+
+<br>СТРАНЫ ПЕРСИДСКОГО ЗАЛИВА 2026
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-1ENG.pdf" data-lightbox="papers" data-title="Overall analysis of a country’s economic situation (ENG) (Bulgary)">
+<img src="ZALIV/P1_016_PERS-1ENG.pdf" alt="Overall analysis of a country’s economic situation (ENG) (Bulgary)">
+</a><br>
+
+
+
+
+
+
+
+
+
+  
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_1_book_FIN-2ENG.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (ENG) (Finland, 2017)">
