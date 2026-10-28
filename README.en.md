@@ -754,7 +754,6 @@ AUSTRIA
 <a href="papers/P10_012_book_CHINA_2ENG.pdf" data-lightbox="papers" data-title="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)">
 <img src="papers/P10_012_book_CHINA_2ENG.pdf" alt="Analysis of 3D graphs of existence of the variable X3sul (ENG) (China, 2019)" width="100">
 </a>
-
 <br> Countries of the Persian Gulf 2026
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="ZALIV/P1_016_PERS-1ENG.pdf" data-lightbox="papers" data-title="Overall analysis of a country’s economic situation (ENG) (Bulgary)">
@@ -968,15 +967,6 @@ AUSTRIA
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
 <h2>11. 🎓 Certificates of Conference Presentations</h2>
 <h4>Only 10 out of 493 certificates available to the author are presented here.</h4>
 
