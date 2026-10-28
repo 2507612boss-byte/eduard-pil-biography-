@@ -1279,7 +1279,7 @@ Technical and Vocational Colleges — Sites of My Teaching Career
   
 
 <h2>22. 🎓👥 Studies at a polytechnic university, 1967–1973 </h2>
- <h4>My Univirsity Classmates (1967-1973)<h4>
+ <h4>My University Classmates (1967-1973)<h4>
 
 <h4>To view all provided files in PDF format, click the small icon below and scroll to the end of the loaded page. If the book content is lengthy, click the "MORE PAGES" button at the bottom to read everything.</h4>
 <div class="friends">
