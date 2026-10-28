@@ -872,19 +872,39 @@
 <a href="ZALIV/P1_016_PERS-1ENG.pdf" data-lightbox="papers" data-title="Overall analysis of a country’s economic situation (ENG) (Bulgary)">
 <img src="ZALIV/P1_016_PERS-1ENG.pdf" alt="Overall analysis of a country’s economic situation (ENG) (Bulgary)">
 </a><br>
+
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
 <a href="ZALIV/P1_016_PERS-2ENG.pdf" data-lightbox="papers" data-title="Demographic Analysis of the GCC Countries: Dynamics, Structure and Economic Implications (2000–2026) (ENG) (Приднепровский научный вестник)">
 <img src="ZALIV/P1_016_PERS-2ENG.pdf" alt="Demographic Analysis of the GCC Countries: Dynamics, Structure and Economic Implications (2000–2026) (ENG) (Приднепровский научный вестник)">
 </a><br>
-
-
-
-
-
-
-
-
-  
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-4ENG.pdf" data-lightbox="papers" data-title="Analytical Review: Banking Systems of the Gulf Cooperation Council Countries and Their Differences from European Banks (ENG) (Приднепровский научный вестник)">
+<img src="ZALIV/P1_016_PERS-4ENG.pdf" alt="Analytical Review: Banking Systems of the Gulf Cooperation Council Countries and Their Differences from European Banks (ENG) (Приднепровский научный вестник)">
+</a><br>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-3ENG.pdf" data-lightbox="papers" data-title="Methodology for forecasting population in GCC countries (2025-2030) (ENG) (Bulgary)">
+<img src="ZALIV/P1_016_PERS-3ENG.pdf" alt="Methodology for forecasting population in GCC countries (2025-2030) (ENG) (Bulgary)">
+</a><br>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-5ENG.pdf" data-lightbox="papers" data-title="Analysis of GDP by purchasing power parity for the Persian gulf countries from 2000 to 2025 (ENG) (Praha)">
+<img src="ZALIV/P1_016_PERS-5ENG.pdf" alt="Analysis of GDP by purchasing power parity for the Persian gulf countries from 2000 to 2025 (ENG) (Praha)">
+</a><br>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-6ENG.pdf" data-lightbox="papers" data-title="Analysis of M2 money supply dynamics in GCC countries for 2000-2025 (ENG) (Praha)">
+<img src="ZALIV/P1_016_PERS-6ENG.pdf" alt="Analysis of M2 money supply dynamics in GCC countries for 2000-2025 (ENG) (Praha)">
+</a><br>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-7ENG.pdf" data-lightbox="papers" data-title="Analysis of Nominal GDP of the Gulf States from 2000 to 2025 (ENG) (Poland)">
+<img src="ZALIV/P1_016_PERS-7ENG.pdf" alt="Analysis of Nominal GDP of the Gulf States from 2000 to 2025 (ENG) (Poland)">
+</a><br>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-8ENG.pdf" data-lightbox="papers" data-title="Analysis of Real GDP of the GCC Countries from 2000 to 2025 (ENG) (Poland)">
+<img src="ZALIV/P1_016_PERS-8ENG.pdf" alt="Analysis of Real GDP of the GCC Countries from 2000 to 2025 (ENG) (Poland)">
+</a><br>
+<div style="display: flex; flex-direction: column; gap: 20px; align-items: center;"> 
+<a href="ZALIV/P1_016_PERS-9ENG.pdf" data-lightbox="papers" data-title="The Dot-com Bubble and Its Consequences for the Gulf Countries (ENG) (Praha)">
+<img src="ZALIV/P1_016_PERS-9ENG.pdf" alt="The Dot-com Bubble and Its Consequences for the Gulf Countries (ENG) (Praha)">
+</a><br>
 <br>ФИНЛЯНДИЯ
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
 <a href="papers/P1_1_book_FIN-2ENG.pdf" data-lightbox="papers" data-title="Rate of currency exchange impact onto country's GDP (ENG) (Finland, 2017)">
