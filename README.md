@@ -1312,7 +1312,7 @@
 
 <div class="GERB">
 <!-- Пример первых 1 копии -->
-<a href="GERB/P18_01_book_tree_2026.pdf" data-lightbox="tree" data-title="Семейные Гербы">
+<a href="GERB/P18_01_book_tree_2026.pdf" data-lightbox="tree" data-title="Семейные Вензеля и Гербы">
 <img src="GERB/P18_01_book_tree_2026.pdf" alt="Семейные Гербы" width="100">
  </a>
 </div>
